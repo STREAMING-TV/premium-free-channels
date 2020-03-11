@@ -13,3 +13,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeebusiness/index.
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="ZOOM" tvg-name="ZOOM" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png"group-title="Music",ZOOM
 http://livecdnh1.tvanywhere.ae/hls/zoom/01.m3u8
+#EXTINF:-1 tvg-id="B4U_Music" tvg-name="B4U Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png"group-title="Music",B4U Music
