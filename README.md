@@ -22,3 +22,4 @@ http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="Zing" tvg-name="Zing" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png"group-title="Music",Zing
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zingusa/index.m3u8
 #EXTINF:-1 tvg-id="Zing" tvg-name="Zing" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png"group-title="Music",Zing
+http://livecdnh1.tvanywhere.ae/hls/zing/02.m3u8
