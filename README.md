@@ -7,3 +7,4 @@ http://210.210.155.66/h/h29/02.m3u8
 https://m-c15-j2apps.s.llnwi.net/hls/0284.DDNorthEast.in.m3u8
 #EXTINF:-1 tvg-id="CVR_English" tvg-name="CVR English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_English.png"group-title="News",CVR English
 https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
+#EXTINF:-1 tvg-id="Zee_Business" tvg-name="Zee Business" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png"group-title="Business News",Zee Business
