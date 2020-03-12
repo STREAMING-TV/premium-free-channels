@@ -38,3 +38,4 @@ https://m-c20-j2apps.s.llnwi.net/hls/0087.TimesNow.in.m3u8
 #EXTINF:-1 tvg-id="Zee_TV_HD" tvg-name="Zee TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"group-title="Entertainment",Zee TV HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 #EXTINF:-1 tvg-id="Zee_TV_HD USA" tvg-name="Zee TV HD USA" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"group-title="Entertainment",Zee TV HD USA
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ztvhdusa/index.m3u8
