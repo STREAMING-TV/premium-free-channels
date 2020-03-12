@@ -44,3 +44,4 @@ https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="Zee_TV (APAC)" tvg-name="Zee TV (APAC)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"group-title="ENTERTAINMENT",Zee TV (APAC)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/apacsea/index.m3u8
 #EXTINF:-1 tvg-id="Zee_TV (UK)" tvg-name="Zee TV (UK)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"group-title="ENTERTAINMENT",Zee TV (UK)
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvsduk/index.m3u8
