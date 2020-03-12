@@ -1,4 +1,4 @@
-#EXTM3U TV
+Cg#EXTM3U TV
 #EXTINF:-1,tvg-id="Channel_News_Asia_International" tvg-name="Channel News Asia (International)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png"group-title="News",Channel News Asia International
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="Channel_News_Asia_International" tvg-name="Channel News Asia International" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png"group-title="News",Channel News Asia International
@@ -33,3 +33,4 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?fluxustv.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/NcgtFek.png" group-title="",GAZI TV
 http://telelivetv.webredirect.org:8081/globeworld2020/gazitv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psZPO9A.png" group-title="INDIA",Times Now
