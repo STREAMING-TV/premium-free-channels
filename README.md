@@ -49,3 +49,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvsduk/index.m3
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/canadahd/index.m3u8
 #EXTINF:-1 tvg-id="Zee_TV (USA)" tvg-name="Zee TV (USA)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"group-title="ENTERTAINMENT",Zee TV (USA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ztvsdusa/index.m3u8
+#EXTINF:-1 tvg-id="Zee_TV (IN)" tvg-name="Zee TV (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"group-title="ENTERTAINMENT",Zee TV (IN)
