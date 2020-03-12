@@ -56,3 +56,4 @@ http://45.120.188.76:8080/0.ts
 #EXTINF:-1 tvg-id="And_TV_HD (IN)" tvg-name="And TV HD (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png"group-title="ENTERTAINMENT",And TV HD (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 #EXTINF:-1 tvg-id="And_TV_HD (USA)" tvg-name="And TV HD (USA)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png"group-title="ENTERTAINMENT",And TV HD (USA)
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhdusa/index.m3u8
