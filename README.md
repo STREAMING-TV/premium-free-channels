@@ -34,3 +34,4 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/NcgtFek.png" group-title="",GAZI TV
 http://telelivetv.webredirect.org:8081/globeworld2020/gazitv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/psZPO9A.png" group-title="INDIA",Times Now
+https://m-c20-j2apps.s.llnwi.net/hls/0087.TimesNow.in.m3u8
