@@ -85,3 +85,4 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecafesd/index.m3u8
 #EXTINF:-1 tvg-id="& PRIVE HD (IN)" tvg-name="& PRIVE HD (IN)" tvg-logo="http://bestmediainfo.com/wp-content/uploads/2017/09/andPrive-HD_6.jpg"group-title="MOVIES",& PRIVE HD (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
+#EXTINF:-1 tvg-id="& FLIX (IN)" tvg-name="& FLIX (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/%26flix.jpg/revision/latest?cb=20180624153833"group-title="MOVIES",& FLIX (IN)
