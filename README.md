@@ -43,7 +43,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ztvhdusa/index.m3u
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="Zee_TV (APAC)" tvg-name="Zee TV (APAC)" tvg-logo="https://i.pinimg.com/originals/4a/d3/62/4ad362abea44922e6b7221856f774d3d.jpg" group-title="ENTERTAINMENT",Zee TV (APAC)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/apacsea/index.m3u8
-#EXTINF:-1 tvg-id="Zee_TV (UK)" tvg-name="Zee TV (UK)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"group-title="ENTERTAINMENT",Zee TV (UK)
+#EXTINF:-1 tvg-id="Zee_TV (UK)" tvg-name="Zee TV (UK)" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/12/ZEE_TV_new_logo1_3.jpg&w=620&h=350&zc=1&q=100" group-title="ENTERTAINMENT",Zee TV (UK)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvsduk/index.m3u8
 #EXTINF:-1 tvg-id="Zee_TV (CANADA)" tvg-name="Zee TV (CANADA)" tvg-logo="http://shaw.tmsimg.com/assets/s79632_ll_h3_ac.png"group-title="ENTERTAINMENT",Zee TV (CANADA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/canadahd/index.m3u8
