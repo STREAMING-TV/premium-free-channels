@@ -84,3 +84,4 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576
 #EXTINF:-1 tvg-id="ZEE CAFE (IN)" tvg-name="ZEE CAFE (IN)" tvg-logo="https://www.adgully.com/img/800/202001/zee-cafe-logo.png.jpg"group-title="ENTERTAINMENT",ZEE CAFE (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecafesd/index.m3u8
 #EXTINF:-1 tvg-id="& PRIVE HD (IN)" tvg-name="& PRIVE HD (IN)" tvg-logo="http://bestmediainfo.com/wp-content/uploads/2017/09/andPrive-HD_6.jpg"group-title="MOVIES",& PRIVE HD (IN)
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
