@@ -65,3 +65,4 @@ https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:-1 tvg-id="STAR WORLD (IN)" tvg-name="STAR WORLD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1a/Star_World.svg/revision/latest/scale-to-width-down/340?cb=20100511072544" group-title="ENTERTAINMENT",STAR WORLD (IN)
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
+#EXTINF:-1 tvg-id="AXN (MAL)" tvg-name="AXN (MAL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png"group-title="ENTERTAINMENT",AXN (MAL)
