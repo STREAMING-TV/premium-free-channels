@@ -29,7 +29,7 @@ http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
 #EXTINF:-1 tvg-id="Star Movies (ME)" tvg-name="Star Movies (ME)"  tvg-logo="https://i.imgur.com/DQ1RfUa.png" group-title="MOVIES",Star Movies (ME)
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Star World (ME)" tvg-name="Star World (ME)"  tvg-logo="https://www.satlogo.com/hires/ss/star_world_hk_hd.png"group-title="ENTERTAINMENT",Star World (ME)
+#EXTINF:-1 tvg-id="Star World (ME)" tvg-name="Star World (ME)"  tvg-logo="https://content.osn.com/bob/745x419/STW.jpg" group-title="ENTERTAINMENT",Star World (ME)
 http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="GAZI TV (BD)" tvg-name="GAZI TV (BD)"  tvg-logo="https://i.imgur.com/NcgtFek.png" group-title="SPORTS",GAZI TV (BD)
 http://telelivetv.webredirect.org:8081/globeworld2020/gazitv/chunks.m3u8
