@@ -87,4 +87,5 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecafesd/index.m3
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-id="& FLIX (IN)" tvg-name="& FLIX (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/%26flix.jpg/revision/latest?cb=20180624153833"group-title="MOVIES",& FLIX (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflix/index.m3u8
-#EXTINF:-1 tvg-id="& PICTURES HD (IN)" tvg-name="& PICTURES HD (IN)" tvg-logo="http://i.imgur.com/NUoaFjr.jpg"group-title="MOVIES",& PICTURES (IN)
+#EXTINF:-1 tvg-id="& PICTURES HD (IN)" tvg-name="& PICTURES HD (IN)" tvg-logo="http://i.imgur.com/NUoaFjr.jpg"group-title="MOVIES",& PICTURES HD (IN)
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
