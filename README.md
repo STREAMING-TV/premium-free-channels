@@ -70,3 +70,4 @@ http://av.xemtivinet.net:8080/hls/axn/index.m3u8
 #EXTINF:-1 tvg-id="AXN (MAL)" tvg-name="AXN (MAL)" tvg-logo="http://nileonweekends.com/wp-content/uploads/2019/02/AXN-featured-image-1140x660.png"group-title="ENTERTAINMENT",AXN (MAL)
 http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1 tvg-id="ID (USA)" tvg-name="ID (USA)" tvg-logo="https://pmcvariety.files.wordpress.com/2014/07/investigation-discovery-logo.jpg?w=1000"group-title="ENTERTAINMENT",ID (USA)
+http://84.22.33.254/unicast.id/index.m3u8
