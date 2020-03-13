@@ -73,3 +73,4 @@ http://210.210.155.66/h/h141/01.m3u8
 http://84.22.33.254/unicast.id/index.m3u8
 #EXTINF:-1 tvg-id="TLC (USA)" tvg-name="TLC (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png"group-title="LIFESTYLE",TLC (USA)
 http://84.22.33.254/unicast.tlc/index.m3u8
+#EXTINF:-1 tvg-id="ZEE SMILE (USA)" tvg-name="ZEE SMILE (USA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/Zee_Smile_2017.jpg/revision/latest?cb=20180909134637"group-title="ENTERTAINMENT",ZEE SMILE (USA)
