@@ -59,7 +59,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhdusa/index.m3u8
 #EXTINF:-1 tvg-id="And_TV (IN)" tvg-name="And TV (IN)" tvg-logo="http://www.plexflix.to/plexflix.to/picons/Indian/AND%20TV%20%28Indian%29.png"group-title="ENTERTAINMENT",And TV (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvsd/index.m3u8
-#EXTINF:-1 tvg-id="Star_Bharat_(ME)" tvg-name="Star Bharat (ME)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png"group-title="ENTERTAINMENT",Star Bharat (ME)
+#EXTINF:-1 tvg-id="Star_Bharat_(ME)" tvg-name="Star Bharat (ME)" tvg-logo="https://cdn.bollywoodmdb.com/resource/image1/5996c34a3cd72_star-bharat-the-new-version-of-life-ok-gets-its-logo-and-anthem.jpg"group-title="ENTERTAINMENT",Star Bharat (ME)
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:-1 tvg-id="Star_Plus_(APAC)" tvg-name="Star Plus (APAC)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png"group-title="ENTERTAINMENT",Star Plus (APAC)
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
