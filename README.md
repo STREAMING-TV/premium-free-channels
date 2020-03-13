@@ -71,3 +71,4 @@ http://av.xemtivinet.net:8080/hls/axn/index.m3u8
 http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1 tvg-id="ID (USA)" tvg-name="ID (USA)" tvg-logo="https://pmcvariety.files.wordpress.com/2014/07/investigation-discovery-logo.jpg?w=1000"group-title="ENTERTAINMENT",ID (USA)
 http://84.22.33.254/unicast.id/index.m3u8
+#EXTINF:-1 tvg-id="TLC (USA)" tvg-name="TLC (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png"group-title="LIFESTYLE",TLC (USA)
