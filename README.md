@@ -68,3 +68,4 @@ https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 #EXTINF:-1 tvg-id="AXN (MAL)" tvg-name="AXN (MAL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png"group-title="ENTERTAINMENT",AXN (MAL)
 http://av.xemtivinet.net:8080/hls/axn/index.m3u8
 #EXTINF:-1 tvg-id="AXN (MAL)" tvg-name="AXN (MAL)" tvg-logo=" #EXTINF:-1 tvg-id="AXN (MAL)" tvg-name="AXN (MAL)" tvg-logo="http://nileonweekends.com/wp-content/uploads/2019/02/AXN-featured-image-1140x660.png"group-title="ENTERTAINMENT",AXN (MAL)
+http://210.210.155.66/h/h141/01.m3u8
