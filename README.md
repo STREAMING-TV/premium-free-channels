@@ -63,3 +63,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvsd/index.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:-1 tvg-id="Star_Plus_(APAC)" tvg-name="Star Plus (APAC)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png"group-title="ENTERTAINMENT",Star Plus (APAC)
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+#EXTINF:-1 tvg-id="STAR WORLD (IN)" tvg-name="STAR WORLD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1a/Star_World.svg/revision/latest/scale-to-width-down/340?cb=20100511072544" group-title="ENTERTAINMENT",STAR WORLD (IN)
