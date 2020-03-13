@@ -62,3 +62,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvsd/index.m3u8
 #EXTINF:-1 tvg-id="Star_Bharat_(ME)" tvg-name="Star Bharat (ME)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png"group-title="ENTERTAINMENT",Star Bharat (ME)
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:-1 tvg-id="Star_Plus_(APAC)" tvg-name="Star Plus (APAC)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png"group-title="ENTERTAINMENT",Star Plus (APAC)
+https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
