@@ -79,5 +79,5 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/smileusa/index.m3u
 http://103.111.120.46/hls/Colors.m3u8
 #EXTINF:-1 tvg-id="COLORS HD (IN)" tvg-name="COLORS HD (IN)" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/COLORS-HD.jpg"group-title="ENTERTAINMENT",COLORS HD (IN)
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="AL JAZEERA (USA)" tvg-name="AL JAZEERA (USA)" tv-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg"group-title="NEWS",AL JAZEERA (USA)
+#EXTINF:-1 tvg-id="AL JAZEERA (USA)" tvg-name="AL JAZEERA (USA)" tv-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png"group-title="NEWS",AL JAZEERA (USA)
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
