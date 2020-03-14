@@ -119,3 +119,4 @@ http://live.redtraffic.xyz/pornstar.m3u8
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="BIZARRE TV (INT)" tvg-name="BIZARRE TV (INT)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-YtMlPB27DNAhQXuEGF_X8h_fuxBRXbQTtsfJCjvgsqrfZbB7&s"group-title="ADULT CHANNELS",BIZARRE TV (INT)
 http://84.22.33.254/unicast.bizarre/index.m3u8
+#EXTINF:-1 tvg-id="EROXXXHD (INT)" tvg-name="EROXXXHD (INT)" tvg-logo="http://4.bp.blogspot.com/-4vAe6e0L9LA/VOhoM4kQuCI/AAAAAAAAAQc/rzqKOKn2W7M/s1600/eroxxx_hd_tv_channel_live.png"group-title="ADULT CHANNELS",EROXXXHD (INT)
