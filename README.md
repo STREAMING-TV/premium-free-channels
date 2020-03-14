@@ -5,11 +5,11 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://210.210.155.66/h/h29/02.m3u8
 #EXTINF:-1 tvg-id="DD13_Guwahati_NE (IN)" tvg-name="DD13 Guwahati NE (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD13_Guwahati_NE.png"group-title="ENTERTAINMENT",DD13 Guwahati NE (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0284.DDNorthEast.in.m3u8
-#EXTINF:-1 tvg-id="CVR_English (IN)" tvg-name="CVR English (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_English.png"group-title="NEWS",CVR English (IN)
+#EXTINF:-1 tvg-id="CVR_English (IN)" tvg-name="CVR English (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_English.png"group-title="NEWS & BUSINESS",CVR English (IN)
 https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
-#EXTINF:-1 tvg-id="Zee_Business (IN)" tvg-name="Zee Business (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png"group-title="NEWS",Zee Business (IN)
+#EXTINF:-1 tvg-id="Zee_Business (IN)" tvg-name="Zee Business (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png"group-title="NEWS & BUSINESS",Zee Business (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeebusiness/index.m3u8
-#EXTINF:-1 tvg-id="News_18_Assam (IN)" tvg-name="News 18 Assam (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png"group-title="NEWS",News 18 Assam (IN)
+#EXTINF:-1 tvg-id="News_18_Assam (IN)" tvg-name="News 18 Assam (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png"group-title="NEWS & BUSINESS",News 18 Assam (IN)
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="ZOOM (IN)" tvg-name="ZOOM (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png"group-title="MUSIC",ZOOM (IN)
 http://livecdnh1.tvanywhere.ae/hls/zoom/01.m3u8
@@ -55,7 +55,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvsd/index.m3u8
 http://45.120.188.76:8080/0.ts
 #EXTINF:-1 tvg-id="And_TV_HD (IN)" tvg-name="And TV HD (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png"group-title="ENTERTAINMENT",And TV HD (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
-#EXTINF:-1 tvg-id="And_TV_HD (USA)" tvg-name="And TV HD (USA)" tvg-logo="https://i.pinimg.com/originals/42/0c/fa/420cfa62cb7893056442c1697cfa2636.jpg"group-title="ENTERTAINMENT",And TV HD (USA)
+#EXTINF:-1 tvg-id="And_TV_HD (USA)" tvg-name="And TV HD (USA)" tvg-logo="https://i.pinimg.com/originals/42/0c/fa/420cfa62cb7893056442c1697cfa2636.jpg"group-title="ENTERTAINMENT & BOLLYWOOD",And TV HD (USA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhdusa/index.m3u8
 #EXTINF:-1 tvg-id="And_TV (IN)" tvg-name="And TV (IN)" tvg-logo="http://www.plexflix.to/plexflix.to/picons/Indian/AND%20TV%20%28Indian%29.png"group-title="ENTERTAINMENT",And TV (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvsd/index.m3u8
@@ -69,7 +69,7 @@ https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 http://av.xemtivinet.net:8080/hls/axn/index.m3u8
 #EXTINF:-1 tvg-id="AXN (MAL)" tvg-name="AXN (MAL)" tvg-logo="http://nileonweekends.com/wp-content/uploads/2019/02/AXN-featured-image-1140x660.png"group-title="ENTERTAINMENT",AXN (MAL)
 http://210.210.155.66/h/h141/01.m3u8
-#EXTINF:-1 tvg-id="ID (USA)" tvg-name="ID (USA)" tvg-logo="https://pmcvariety.files.wordpress.com/2014/07/investigation-discovery-logo.jpg?w=1000"group-title="ENTERTAINMENT",ID (USA)
+#EXTINF:-1 tvg-id="ID (USA)" tvg-name="ID (USA)" tvg-logo="https://pmcvariety.files.wordpress.com/2014/07/investigation-discovery-logo.jpg?w=1000"group-title="INFORMATION ",ID (USA)
 http://84.22.33.254/unicast.id/index.m3u8
 #EXTINF:-1 tvg-id="TLC (USA)" tvg-name="TLC (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png"group-title="LIFESTYLE",TLC (USA)
 http://84.22.33.254/unicast.tlc/index.m3u8
