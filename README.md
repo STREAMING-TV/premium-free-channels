@@ -95,3 +95,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/action/index.m3u8
 #EXTINF:-1 tvg-id="ZEE CINEMA (USA)" tvg-name="ZEE CINEMA (USA)" tvg-logo="https://www.pngitem.com/pimgs/m/8-80870_zee-cinema-channel-logo-hd-png-download.png"group-title="MOVIES",ZEE CINEMA (USA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemausa/index.m3u8
+#EXTINF:-1 tvg-id="ZEE CINEMA (UK)" tvg-name="ZEE CINEMA (UK)" tvg-logo="https://i.ytimg.com/vi/aaOFu83Xkf4/maxresdefault.jpg"group-title="MOVIES",ZEE CINEMA (UK)
