@@ -116,3 +116,4 @@ http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="PORNSTAR (INT)" tvg-name="PORNSTAR (INT)" tvg-logo="http://cdn.shopify.com/s/files/1/1691/4145/products/CT000004564-PAR-ZOOM_800x.jpg?v=1571714607"group-title="ADULT CHANNELS",PORNSTAR (INT)
 http://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1 tvg-id="BSX24 (INT)" tvg-name="BSX24 (INT)" tvg-logo="https://s3.amazonaws.com/ctm-tm/003594141.JPG"group-title="ADULT CHANNELS",BSX24 (INT)
+http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
