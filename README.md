@@ -89,3 +89,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflix/index.m3u8
 #EXTINF:-1 tvg-id="& PICTURES HD (IN)" tvg-name="& PICTURES HD (IN)" tvg-logo="http://i.imgur.com/NUoaFjr.jpg"group-title="MOVIES",& PICTURES HD (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
+#EXTINF:-1 tvg-id="ZEE CINEMA HD (IN)" tvg-name="ZEE CINEMA HD (IN)" tvg-logo="https://realvubd.com/wp-content/uploads/2016/04/Zee-Cinema-HD-2-1024x452.png"group-title="MOVIES",ZEE CINEMA HD (IN)
