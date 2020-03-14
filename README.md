@@ -75,7 +75,7 @@ http://84.22.33.254/unicast.id/index.m3u8
 http://84.22.33.254/unicast.tlc/index.m3u8
 #EXTINF:-1 tvg-id="ZEE SMILE (USA)" tvg-name="ZEE SMILE (USA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/Zee_Smile_2017.jpg/revision/latest?cb=20180909134637"group-title="ENTERTAINMENT",ZEE SMILE (USA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/smileusa/index.m3u8
-#EXTINF:-1 tvg-id="COLORS TV (APAC)" tvg-name="COLORS TV (APAC)" tvg-logo="https://1.bp.blogspot.com/-k_7Q3iBXdq4/XMz9AiyQ1AI/AAAAAAAALfI/rWe0_58kKYUbes6vYmul3V9BYyyHZUh6gCLcBGAs/s1600/colors31.jpg"group-title="ENTERTAINMENT",COLORS TV (APAC)
+#EXTINF:-1 tvg-id="COLORS TV (APAC)" tvg-name="COLORS TV (APAC)" tvg-logo="https://www.tellyupdates.com/wp-content/uploads/2020/01/colors.jpg"group-title="ENTERTAINMENT",COLORS TV (APAC)
 http://103.111.120.46/hls/Colors.m3u8
 #EXTINF:-1 tvg-id="COLORS HD (IN)" tvg-name="COLORS HD (IN)" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/COLORS-HD.jpg"group-title="ENTERTAINMENT",COLORS HD (IN)
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
