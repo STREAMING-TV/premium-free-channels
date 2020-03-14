@@ -92,3 +92,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3
 #EXTINF:-1 tvg-id="ZEE CINEMA HD (IN)" tvg-name="ZEE CINEMA HD (IN)" tvg-logo="https://realvubd.com/wp-content/uploads/2016/04/Zee-Cinema-HD-2-1024x452.png"group-title="MOVIES",ZEE CINEMA HD (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8
 #EXTINF:-1 tvg-id="ZEE ACTION (IN)" tvg-name="ZEE ACTION (IN)" tvg-logo="https://www.adgully.com/img/800/201909/jby7kv1wjoonygtffhu5.png.jpg"group-title="MOVIES",ZEE ACTION (IN)
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/action/index.m3u8
