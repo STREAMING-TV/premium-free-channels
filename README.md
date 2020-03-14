@@ -109,3 +109,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecinemame/index.
 http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/playlist.m3u8
 #EXTINF:-1 tvg-id="HUSTLER HD (INT)" tvg-name="HUSTLER HD (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png"group-title="ADULT CHANNELS",HUSTLER HD (INT)
 http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hwVv4Mb5yarbaGHAIfET&uid=491
+#EXTINF:-1 tvg-id="BRUNETTE (INT)" tvg-name="BRUNETTE (INT)" tvg-logo="http://brunette.berlin/wp-content/uploads/2016/09/logo-dark.png"group-title="ADULT CHANNELS",BRUNETTE (INT)
