@@ -63,13 +63,13 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvsd/index.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:-1 tvg-id="Star_Plus_(APAC)" tvg-name="Star Plus (APAC)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2018/05/Star-Plus-New-Logo-edit-2-2.jpg"group-title="ENTERTAINMENT CHANNELS",Star Plus (APAC)
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
-#EXTINF:-1 tvg-id="STAR WORLD (IN)" tvg-name="STAR WORLD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1a/Star_World.svg/revision/latest/scale-to-width-down/340?cb=20100511072544" group-title="ENTERTAINMENT CHANNELS",STAR WORLD (IN)
+#EXTINF:-1 tvg-id="STAR WORLD (IN)" tvg-name="STAR WORLD (IN)" tvg-logo="http://file.wikipediam.org/wikipedia/en/thumb/9/90/STAR_World.svg/1200px-STAR_World.svg.png"group-title="ENTERTAINMENT CHANNELS",STAR WORLD (IN)
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 #EXTINF:-1 tvg-id="AXN (MAL)" tvg-name="AXN (MAL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png"group-title="ENTERTAINMENT CHANNELS",AXN (MAL)
 http://av.xemtivinet.net:8080/hls/axn/index.m3u8
 #EXTINF:-1 tvg-id="AXN (MAL)" tvg-name="AXN (MAL)" tvg-logo="http://nileonweekends.com/wp-content/uploads/2019/02/AXN-featured-image-1140x660.png"group-title="ENTERTAINMENT CHANNELS",AXN (MAL)
 http://210.210.155.66/h/h141/01.m3u8
-#EXTINF:-1 tvg-id="ID (USA)" tvg-name="ID (USA)" tvg-logo="https://pmcvariety.files.wordpress.com/2014/07/investigation-discovery-logo.jpg?w=1000"group-title="INFORMATION CHANNELS ",ID (USA)
+#EXTINF:-1 tvg-id="ID (USA)" tvg-name="ID (USA)" tvg-logo="http://2.bp.blogspot.com/-g7kclnMAZPA/T3ClVDJR-vI/AAAAAAAAEsA/goncQjp63AI/s500/Investigation+Discovery+logo+2012.jpg"group-title="INFORMATION CHANNELS ",ID (USA)
 http://84.22.33.254/unicast.id/index.m3u8
 #EXTINF:-1 tvg-id="TLC (USA)" tvg-name="TLC (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png"group-title="LIFESTYLE CHANNELS",TLC (USA)
 http://84.22.33.254/unicast.tlc/index.m3u8
