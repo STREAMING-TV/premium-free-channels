@@ -104,3 +104,4 @@ http://62.203.143.51:9981/play/PlayyTV
 #EXTINF:-1 tvg-id="CARTOON NATWORK (IN)" tvg-name="CARTOON NATWORK (IN)" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_black.png"group-title="KIDS CHANNELS",CARTOON NATWORK (IN)
 http://stream.tapmad.com:1935/pitvlive2/cartoon_240p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ZEE CINEMA (ME/APAC)" tvg-name="ZEE CINEMA (ME/APAC)" tvg-logo="https://2.bp.blogspot.com/-7rUCU4bCNs4/XEIQXf6AWiI/AAAAAAAAAHA/M7XWXAVbUmEbFo47kvhPq3aceIXAgu3ywCLcBGAs/s1600/ZeeCinema.jpg"group-title="MOVIES CHANNELS",ZEE CINEMA (ME/APAC)
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecinemame/index.m3u8
