@@ -112,3 +112,4 @@ http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hw
 #EXTINF:-1 tvg-id="BRUNETTE (INT)" tvg-name="BRUNETTE (INT)" tvg-logo="http://brunette.berlin/wp-content/uploads/2016/09/logo-dark.png"group-title="ADULT CHANNELS",BRUNETTE (INT)
 http://cdn.adultiptv.net/brunette.m3u8
 #EXTINF:-1 tvg-id="GAY (INT)" tvg-name="GAY (INT)" tvg-logo="https://logodix.com/logo/1774845.png"group-title="ADULT CHANNELS",GAY (INT)
+http://cdn.adultiptv.net/gay.m3u8
