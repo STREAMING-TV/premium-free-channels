@@ -117,3 +117,4 @@ http://cdn.adultiptv.net/gay.m3u8
 http://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1 tvg-id="BSX24 (INT)" tvg-name="BSX24 (INT)" tvg-logo="https://s3.amazonaws.com/ctm-tm/003594141.JPG"group-title="ADULT CHANNELS",BSX24 (INT)
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="BIZARRE TV (INT)" tvg-name="BIZARRE TV (INT)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-YtMlPB27DNAhQXuEGF_X8h_fuxBRXbQTtsfJCjvgsqrfZbB7&s"group-title="ADULT CHANNELS",BIZARRE TV (INT)
