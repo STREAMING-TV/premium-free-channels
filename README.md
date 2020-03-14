@@ -51,7 +51,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/canadahd/index.m3u
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ztvsdusa/index.m3u8
 #EXTINF:-1 tvg-id="Zee_TV (IN)" tvg-name="Zee TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT",Zee TV (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvsd/index.m3u8
-#EXTINF:-1 tvg-id="And_TV_HD (IN)" tvg-name="And TV HD (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png"group-title="ENTERTAINMENT",And TV HD (IN)
+#EXTINF:-1 tvg-id="And_TV_HD (IN)" tvg-name="And TV HD (IN)" tvg-logo="https://soudippediaxp.files.wordpress.com/2018/03/unnamed-186609511.png?w=300"group-title="ENTERTAINMENT",And TV HD (IN)
 http://45.120.188.76:8080/0.ts
 #EXTINF:-1 tvg-id="And_TV_HD (IN)" tvg-name="And TV HD (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png"group-title="ENTERTAINMENT",And TV HD (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
