@@ -35,7 +35,7 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?fluxustv.m3u8
 http://telelivetv.webredirect.org:8081/globeworld2020/gazitv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/psZPO9A.png" group-title="NEWS",Times Now (IN)
 https://m-c20-j2apps.s.llnwi.net/hls/0087.TimesNow.in.m3u8
-#EXTINF:-1 tvg-id="Zee_TV_HD (IN)" tvg-name="Zee TV HD (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"group-title="ENTERTAINMENT",Zee TV HD (IN)
+#EXTINF:-1 tvg-id="Zee_TV_HD (IN)" tvg-name="Zee TV HD (IN)" tvg-logo="https://i.ytimg.com/vi/1afZq9TFqwc/maxresdefault.jpg"group-title="ENTERTAINMENT",Zee TV HD (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 #EXTINF:-1 tvg-id="Zee_TV_HD (USA)" tvg-name="Zee TV HD (USA)" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928290210341062_zee-tv-hd.png"group-title="ENTERTAINMENT",Zee TV HD (USA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ztvhdusa/index.m3u8
