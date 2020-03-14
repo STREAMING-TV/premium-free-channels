@@ -43,7 +43,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ztvhdusa/index.m3u
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="Zee_TV (APAC)" tvg-name="Zee TV (APAC)" tvg-logo="https://i.pinimg.com/originals/4a/d3/62/4ad362abea44922e6b7221856f774d3d.jpg" group-title="ENTERTAINMENT CHANNELS",Zee TV (APAC)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/apacsea/index.m3u8
-#EXTINF:-1 tvg-id="Zee_TV (UK)" tvg-name="Zee TV (UK)" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/12/ZEE_TV_new_logo1_3.jpg&w=620&h=350&zc=1&q=100" group-title="ENTERTAINMENT CHANNELS",Zee TV (UK)
+#EXTINF:-1 tvg-id="Zee_TV (UK)" tvg-name="Zee TV (UK)" tvg-logo="https://www.exchange4media.com/news-photo/1508122527_OJuLfs_zee.jpg"group-title="ENTERTAINMENT CHANNELS",Zee TV (UK)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvsduk/index.m3u8
 #EXTINF:-1 tvg-id="Zee_TV (CANADA)" tvg-name="Zee TV (CANADA)" tvg-logo="http://shaw.tmsimg.com/assets/s79632_ll_h3_ac.png"group-title="ENTERTAINMENT CHANNELS",Zee TV (CANADA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/canadahd/index.m3u8
@@ -53,7 +53,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ztvsdusa/index.m3u
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvsd/index.m3u8
 #EXTINF:-1 tvg-id="And_TV_HD (IN)" tvg-name="And TV HD (IN)" tvg-logo="https://soudippediaxp.files.wordpress.com/2018/03/unnamed-186609511.png?w=300"group-title="ENTERTAINMENT CHANNELS",And TV HD (IN)
 http://45.120.188.76:8080/0.ts
-#EXTINF:-1 tvg-id="And_TV_HD (IN)" tvg-name="And TV HD (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png"group-title="ENTERTAINMENT CHANNELS",And TV HD (IN)
+#EXTINF:-1 tvg-id="And_TV_HD (IN)" tvg-name="And TV HD (IN)" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png"group-title="ENTERTAINMENT CHANNELS",And TV HD (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 #EXTINF:-1 tvg-id="And_TV_HD (USA)" tvg-name="And TV HD (USA)" tvg-logo="https://i.pinimg.com/originals/42/0c/fa/420cfa62cb7893056442c1697cfa2636.jpg"group-title="ENTERTAINMENT CHANNELS",And TV HD (USA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhdusa/index.m3u8
@@ -73,7 +73,7 @@ http://210.210.155.66/h/h141/01.m3u8
 http://84.22.33.254/unicast.id/index.m3u8
 #EXTINF:-1 tvg-id="TLC (USA)" tvg-name="TLC (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png"group-title="LIFESTYLE CHANNELS",TLC (USA)
 http://84.22.33.254/unicast.tlc/index.m3u8
-#EXTINF:-1 tvg-id="ZEE SMILE (USA)" tvg-name="ZEE SMILE (USA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/Zee_Smile_2017.jpg/revision/latest?cb=20180909134637"group-title="ENTERTAINMENT CHANNELS",ZEE SMILE (USA)
+#EXTINF:-1 tvg-id="ZEE SMILE (USA)" tvg-name="ZEE SMILE (USA)" tvg-logo="https://uploads.tapatalk-cdn.com/20171016/c21a81ee430978be31e22ae5c286c47d.jpg"group-title="ENTERTAINMENT CHANNELS",ZEE SMILE (USA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/smileusa/index.m3u8
 #EXTINF:-1 tvg-id="COLORS TV (APAC)" tvg-name="COLORS TV (APAC)" tvg-logo="https://www.tellyupdates.com/wp-content/uploads/2020/01/colors.jpg"group-title="ENTERTAINMENT CHANNELS",COLORS TV (APAC)
 http://103.111.120.46/hls/Colors.m3u8
