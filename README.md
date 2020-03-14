@@ -1,7 +1,7 @@
 #EXTM3U TV
-#EXTINF:-1,tvg-id="Channel_News_Asia_International" tvg-name="Channel News Asia International" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png"group-title="NEWS",Channel News Asia International
+#EXTINF:-1,tvg-id="Channel_News_Asia (INT)" tvg-name="Channel News Asia (INT)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png"group-title="NEWS",Channel News Asia (INT)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="Channel_News_Asia_International" tvg-name="Channel News Asia International" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png"group-title="NEWS",Channel News Asia International
+#EXTINF:-1 tvg-id="Channel_News_Asia_International" tvg-name="Channel News Asia International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png"group-title="NEWS",Channel News Asia International
 http://210.210.155.66/h/h29/02.m3u8
 #EXTINF:-1 tvg-id="DD13_Guwahati_NE (IN)" tvg-name="DD13 Guwahati NE (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD13_Guwahati_NE.png"group-title="ENTERTAINMENT",DD13 Guwahati NE (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0284.DDNorthEast.in.m3u8
