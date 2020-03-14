@@ -106,3 +106,4 @@ http://stream.tapmad.com:1935/pitvlive2/cartoon_240p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ZEE CINEMA (ME/APAC)" tvg-name="ZEE CINEMA (ME/APAC)" tvg-logo="https://2.bp.blogspot.com/-7rUCU4bCNs4/XEIQXf6AWiI/AAAAAAAAAHA/M7XWXAVbUmEbFo47kvhPq3aceIXAgu3ywCLcBGAs/s1600/ZeeCinema.jpg"group-title="MOVIES CHANNELS",ZEE CINEMA (ME/APAC)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecinemame/index.m3u8
 #EXTINF:-1 tvg-id="PASSIONXXX (INT)" tvg-name="PASSIONXXX (INT)" tvg-logo="http://i.imgur.com/6Nr8Bqk.png"group-title="ADULT CHANNELS",PASSIONXXX (INT)
+http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/playlist.m3u8
