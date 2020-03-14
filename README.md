@@ -61,7 +61,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhdusa/index.m
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvsd/index.m3u8
 #EXTINF:-1 tvg-id="Star_Bharat_(ME)" tvg-name="Star Bharat (ME)" tvg-logo="https://i.pinimg.com/originals/fd/6c/90/fd6c905df657f7719843f76275915442.jpg"group-title="ENTERTAINMENT",Star Bharat (ME)
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:-1 tvg-id="Star_Plus_(APAC)" tvg-name="Star Plus (APAC)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png"group-title="ENTERTAINMENT",Star Plus (APAC)
+#EXTINF:-1 tvg-id="Star_Plus_(APAC)" tvg-name="Star Plus (APAC)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2018/05/Star-Plus-New-Logo-edit-2-2.jpg"group-title="ENTERTAINMENT",Star Plus (APAC)
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:-1 tvg-id="STAR WORLD (IN)" tvg-name="STAR WORLD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1a/Star_World.svg/revision/latest/scale-to-width-down/340?cb=20100511072544" group-title="ENTERTAINMENT",STAR WORLD (IN)
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
@@ -97,3 +97,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/action/index.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemausa/index.m3u8
 #EXTINF:-1 tvg-id="ZEE CINEMA (UK)" tvg-name="ZEE CINEMA (UK)" tvg-logo="https://i.ytimg.com/vi/aaOFu83Xkf4/maxresdefault.jpg"group-title="MOVIES",ZEE CINEMA (UK)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemauk/index.m3u8
+#EXTINF:-1 tvg-id="STAR PLUS HD (IN)" tvg-name="STAR PLUS HD (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1164132839710838784/LHQ31mtM_400x400.jpg"group-title="ENTERTAINMENT",STAR PLUS HD (IN)
