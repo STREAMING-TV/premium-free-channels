@@ -98,3 +98,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemausa/index.m3
 #EXTINF:-1 tvg-id="ZEE CINEMA (UK)" tvg-name="ZEE CINEMA (UK)" tvg-logo="https://i.ytimg.com/vi/aaOFu83Xkf4/maxresdefault.jpg"group-title="MOVIES",ZEE CINEMA (UK)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemauk/index.m3u8
 #EXTINF:-1 tvg-id="STAR PLUS HD (IN)" tvg-name="STAR PLUS HD (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1164132839710838784/LHQ31mtM_400x400.jpg"group-title="ENTERTAINMENT",STAR PLUS HD (IN)
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
