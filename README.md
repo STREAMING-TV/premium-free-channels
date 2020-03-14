@@ -114,3 +114,4 @@ http://cdn.adultiptv.net/brunette.m3u8
 #EXTINF:-1 tvg-id="GAY (INT)" tvg-name="GAY (INT)" tvg-logo="https://logodix.com/logo/1774845.png"group-title="ADULT CHANNELS",GAY (INT)
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="PORNSTAR (INT)" tvg-name="PORNSTAR (INT)" tvg-logo="http://cdn.shopify.com/s/files/1/1691/4145/products/CT000004564-PAR-ZOOM_800x.jpg?v=1571714607"group-title="ADULT CHANNELS",PORNSTAR (INT)
+http://live.redtraffic.xyz/pornstar.m3u8
