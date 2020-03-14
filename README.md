@@ -113,11 +113,11 @@ http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hw
 http://cdn.adultiptv.net/brunette.m3u8
 #EXTINF:-1 tvg-id="GAY (INT)" tvg-name="GAY (INT)" tvg-logo="https://logodix.com/logo/1774845.png"group-title="ADULT CHANNELS",GAY (INT)
 http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 tvg-id="PORNSTAR (INT)" tvg-name="PORNSTAR (INT)" tvg-logo="http://cdn.shopify.com/s/files/1/1691/4145/products/CT000004564-PAR-ZOOM_800x.jpg?v=1571714607"group-title="ADULT CHANNELS",PORNSTAR (INT)
+#EXTINF:-1 tvg-id="PORNSTAR (INT)" tvg-name="PORNSTAR (INT)" tvg-logo="http://cdn.shopify.com/s/files/1/1691/4145/products/CT000004567-PAR-ZOOM_800x.jpg?v=1571714644"group-title="ADULT CHANNELS",PORNSTAR (INT)
 http://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1 tvg-id="BSX24 (INT)" tvg-name="BSX24 (INT)" tvg-logo="https://s3.amazonaws.com/ctm-tm/003594141.JPG"group-title="ADULT CHANNELS",BSX24 (INT)
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="BIZARRE TV (INT)" tvg-name="BIZARRE TV (INT)" tvg-logo="https://www.google.co.in/search?client=ucweb-b-bookmark&biw=424&bih=678&tbm=isch&sa=1&q=xBizarre+lyngsat+logo&oq=xBizarre+lyngsat+logo&aqs=mobile-gws-lite..#"group-title="ADULT CHANNELS",BIZARRE TV (INT)
+#EXTINF:-1 tvg-id="BIZARRE TV (INT)" tvg-name="BIZARRE TV (INT)" tvg-logo="https://www.feefo.com/api/merchant-image/bizarre-logo.jpg"group-title="ADULT CHANNELS",BIZARRE TV (INT)
 http://84.22.33.254/unicast.bizarre/index.m3u8
 #EXTINF:-1 tvg-id="EROXXXHD (INT)" tvg-name="EROXXXHD (INT)" tvg-logo="http://4.bp.blogspot.com/-4vAe6e0L9LA/VOhoM4kQuCI/AAAAAAAAAQc/rzqKOKn2W7M/s1600/eroxxx_hd_tv_channel_live.png"group-title="ADULT CHANNELS",EROXXXHD (INT)
 http://84.22.33.254/unicast.eroxhd/index.m3u8
