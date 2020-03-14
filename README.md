@@ -111,3 +111,4 @@ http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/playlist.
 http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hwVv4Mb5yarbaGHAIfET&uid=491
 #EXTINF:-1 tvg-id="BRUNETTE (INT)" tvg-name="BRUNETTE (INT)" tvg-logo="http://brunette.berlin/wp-content/uploads/2016/09/logo-dark.png"group-title="ADULT CHANNELS",BRUNETTE (INT)
 http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="GAY (INT)" tvg-name="GAY (INT)" tvg-logo="https://logodix.com/logo/1774845.png"group-title="ADULT CHANNELS",GAY (INT)
