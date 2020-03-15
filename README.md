@@ -153,3 +153,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/world/index.m3u8
 http://185.59.223.82:8080/vh1/mpegts
 #EXTINF:-1 tvg-id="MTV (USA)" tvg-name="MTV (USA)" tvg-logo="https://media.graytvinc.com/images/810*455/MTV-logo_720.jpg"group-title="YOUTH CHANNELS",MTV (USA)
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-id="9XO (IN)" tvg-name="9XO (IN)" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/04/9XO_logo_5.jpg&w=620&h=350&zc=1&q=100"group-title="MUSIC CHANNELS",9XO (IN)
