@@ -167,4 +167,4 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NDTV24X7 (IN)" tvg-name="NDTV24X7 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/800px-NDTV_247.svg.png"group-title="NEWS CHANNELS",NDTV24X7 (IN)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 tvg-id="CGTN (UK)" tvg-name="CGTN (UK)" tvg-logo="https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"group-title="NEWS CHANNELS",CGTN (UK)
+#EXTINF:-1 tvg-id="CGTN (UK)" tvg-name="CGTN (UK)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cgtn.png"group-title="NEWS CHANNELS",CGTN (UK)
