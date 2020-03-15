@@ -132,3 +132,4 @@ http://163.172.209.107:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="BBC WORLD NEWS (INT)" tvg-name="BBC WORLD NEWS (INT)" tvg-logo="https://logovtor.com/wp-content/uploads/2019/12/bbc-world-news-logo-vector.png"group-title="NEWS CHANNELS",BBC WORLD NEWS (INT)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/bbcworldnews/index.m3u8
 #EXTINF:-1 tvg-id="WION (IN)" tvg-name="WION (INT)" tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2018/04/25/675807-wion-1.jpg"group-title="NEWS CHANNELS",WION (INT)
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/wion/index.m3u8
