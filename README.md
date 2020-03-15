@@ -130,3 +130,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/live/amlst:showbox
 #EXTINF:-1 tvg-id="HUSTLER TV (INT)" tvg-name="HUSTLER TV (INT)" tvg-logo="http://www.mscnoticiaslatam.com/wp-content/uploads/2014/03/HustlerTV-logo.jpg"group-title="ADULT CHANNELS",HUSTLER TV (INT)
 http://163.172.209.107:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="BBC WORLD NEWS (IN)" tvg-name="BBC WORLD NEWS (IN)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bbc-world-news-logo-png-transparent.png"group-title="NEWS CHANNELS",BBC WORLD NEWS (IN)
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/bbcworldnews/index.m3u8
