@@ -19,9 +19,9 @@ http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="Sony_Mix (IN)" tvg-name="Sony Mix (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Mix.png"group-title="MUSIC CHANNELS",Sony Mix (IN)
 http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="Zing (IN)" tvg-name="Zing (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png"group-title="MUSIC CHANNELS",Zing (IN)
+#EXTINF:-1 tvg-id="Zing (IN)" tvg-name="Zing (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png"group-title="YOUTH CHANNELS",Zing (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zingusa/index.m3u8
-#EXTINF:-1 tvg-id="Zing (IN)" tvg-name="Zing (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY_400x400.jpg"group-title="MUSIC CHANNELS",Zing (IN)
+#EXTINF:-1 tvg-id="Zing (IN)" tvg-name="Zing (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY_400x400.jpg"group-title="YOUTH CHANNELS",Zing (IN)
 http://livecdnh1.tvanywhere.ae/hls/zing/02.m3u8
 #EXTINF:-1 tvg-id="B4U Plus (ME)" tvg-name="B4U Plus (ME)"  tvg-logo="https://i.imgur.com/KnpCnyh.png" group-title="ENTERTAINMENT CHANNELS",B4U Plus (ME)
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
