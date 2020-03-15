@@ -158,3 +158,4 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
 #EXTINF:-1 tvg-id="CARTOON NETWORK (USA)" tvg-name="CARTOON NETWORK (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png"group-title="KIDS CHANNELS",CARTOON NETWORK (USA)
 http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="BABY FIRST (USA)" tvg-name="BABY FIRST (USA)" tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png"group-title="KIDS CHANNELS",BABY FIRST (USA)
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
