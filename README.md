@@ -165,3 +165,4 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BBC NEWS (INT)" tvg-name="BBC NEWS (INT)" tvg-logo="https://i.pinimg.com/originals/01/c7/27/01c727838c16fcfd65dd28516686110f.png"group-title="NEWS CHANNELS",BBC NEWS (INT)
 https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NDTV24X7 (IN)" tvg-name="NDTV24X7 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/800px-NDTV_247.svg.png"group-title="NEWS CHANNELS",NDTV24X7 (IN)
