@@ -149,3 +149,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/theqyou/index.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddbharati/index.m3u8
 #EXTINF:-1 tvg-id="ZEE WORLD (SA)" tvg-name="ZEE WORLD (SA)" tvg-logo="https://uploads.tapatalk-cdn.com/20180221/7e136e8cba7a1e518565a9c8af3d2f74.jpg"group-title="ENTERTAINMENT CHANNELS",ZEE WORLD (SA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/world/index.m3u8
+#EXTINF:-1 tvg-id="Zing (IN)" tvg-name="Zing (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png"group-title="YOUTH CHANNELS",Zing (IN)
