@@ -134,3 +134,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/bbcworldnews/index
 #EXTINF:-1 tvg-id="WION (IN)" tvg-name="WION (INT)" tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2018/04/25/675807-wion-1.jpg"group-title="NEWS CHANNELS",WION (INT)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/wion/index.m3u8
 #EXTINF:-1 tvg-id="LIVING FOODZ (IN)" tvg-name="LIVING FOODZ (IN)" tvg-logo="http://www.bestmediainfo.com/wp-content/uploads/2015/09/Living-Foodz-logo.jpg"group-title="LIFESTYLE CHANNELS",LIVING FOODZ (IN)
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/livingfoodz/index.m3u8
