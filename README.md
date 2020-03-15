@@ -151,3 +151,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddbharati/index.m3
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/world/index.m3u8
 #EXTINF:-1 tvg-id="VH1 (USA)" tvg-name="VH1 (USA)" tvg-logo="https://vignette.wikia.nocookie.net/scream/images/3/3f/VH1_Logo.png/revision/latest?cb=20190625014409"group-title="YOUTH CHANNELS",VH1 (IN)
 http://185.59.223.82:8080/vh1/mpegts
+#EXTINF:-1 tvg-id="MTV (USA)" tvg-name="MTV (USA)" tvg-logo="https://media.graytvinc.com/images/810*455/MTV-logo_720.jpg"group-title="YOUTH CHANNELS",MTV (USA)
