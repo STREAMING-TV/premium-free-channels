@@ -129,5 +129,5 @@ http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v3a1/mono.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/live/amlst:showbox_,b180,b320,b640,b860,b1400,.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HUSTLER TV (INT)" tvg-name="HUSTLER TV (INT)" tvg-logo="http://www.mscnoticiaslatam.com/wp-content/uploads/2014/03/HustlerTV-logo.jpg"group-title="ADULT CHANNELS",HUSTLER TV (INT)
 http://163.172.209.107:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="BBC WORLD NEWS (IN)" tvg-name="BBC WORLD NEWS (IN)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bbc-world-news-logo-png-transparent.png"group-title="NEWS CHANNELS",BBC WORLD NEWS (IN)
+#EXTINF:-1 tvg-id="BBC WORLD NEWS (IN)" tvg-name="BBC WORLD NEWS (IN)" tvg-logo="https://logovtor.com/wp-content/uploads/2019/12/bbc-world-news-logo-vector.png"group-title="NEWS CHANNELS",BBC WORLD NEWS (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/bbcworldnews/index.m3u8
