@@ -179,3 +179,4 @@ http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_400.m3u8
 #EXTINF:-1 tvg-id="SPORTS MAX (ME)" tvg-name="SPORTS MAX (ME)" tvg-logo="https://www.nationnews.com/IMG/865/77865/sportsmax-logo2402-450x303.gif"group-title="SPORTS CHANNELS",SPORTS MAX (ME)
 https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
+#EXTINF:-1 tvg-id="HISTORY2 (ME)" tvg-name="HISTORY2 (ME)" tvg-logo="http://3.bp.blogspot.com/-RzXst6jpzBw/Toi5hYDW9AI/AAAAAAAACPA/jFKuVx6JcaQ/s500/History+2+logo+2011.png"group-title="INFORMATION CHANNELS",HISTORY2 (ME)
