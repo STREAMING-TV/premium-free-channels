@@ -126,3 +126,4 @@ http://188.35.9.5:10007/stolen/246r/parasite.install
 #EXTINF:-1 tvg-id="HUSTLER TV (INT)" tvg-name="HUSTLER TV (INT)" tvg-logo="http://www.mscnoticiaslatam.com/wp-content/uploads/2014/03/HustlerTV-logo.jpg"group-title="ADULT CHANNELS",HUSTLER TV (INT)
 #EXTINF:-1 tvg-id="ZEE LIVING (USA)" tvg-name="ZEE LIVING (USA)" tvg-logo="https://www.zeeinternational.co.in/wp-content/uploads/2018/02/Zee-Living.png"group-title="LIFESTYLE CHANNELS",ZEE LIVING (USA)
 http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="SHOW BOX (IN)" tvg-name="SHOW BOX (IN)" tvg-logo="https://www.inkspell.co.in/wp-content/uploads/2019/06/show_BOX-logo-Epic-Channel-1.png"group-title="MUSIC CHANNELS",SHOW BOX (IN)
