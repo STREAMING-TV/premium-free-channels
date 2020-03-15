@@ -140,3 +140,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/etc/index.m3u8
 #EXTINF:-1 tvg-id="9X JALWA (IN)" tvg-name="9X JALWA (IN)" tvg-logo="https://www.exchange4media.com/news-photo/1530525962_xUFdBo_9X-Jalwa.jpg"group-title="MUSIC CHANNELS",9X JALWA (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/9xjalwa/index.m3u8
 #EXTINF:-1 tvg-id="ZEE NEWS (IN)" tvg-name="ZEE NEWS (IN)" tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/01/04/773839-zee-news-logo.jpg"group-title="NEWS CHANNELS",ZEE NEWS (IN)
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeenews/index.m3u8
