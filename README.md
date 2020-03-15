@@ -159,3 +159,4 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
 http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="BABY FIRST (USA)" tvg-name="BABY FIRST (USA)" tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png"group-title="KIDS CHANNELS",BABY FIRST (USA)
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 tvg-id="BOOMERANG (ME)" tvg-name="BOOMERANG (ME)" tvg-logo="https://r.dcs.redcdn.pl/http/o2/redefine/redb/th/thc9s15j2225tvtv1ure9i3tyonjvzxa.jpg"group-title="KIDS CHANNELS",BOOMERANG (ME)
