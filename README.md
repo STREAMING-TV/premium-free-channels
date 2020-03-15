@@ -109,7 +109,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecinemame/index.
 http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/playlist.m3u8
 #EXTINF:-1 tvg-id="HUSTLER HD (INT)" tvg-name="HUSTLER HD (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png"group-title="ADULT CHANNELS",HUSTLER HD (INT)
 http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hwVv4Mb5yarbaGHAIfET&uid=491
-#EXTINF:-1 tvg-id="BRUNETTE (INT)" tvg-name="BRUNETTE (INT)" tvg-logo="http://brunette.berlin/wp-content/uploads/2016/09/logo-dark.png"group-title="ADULT CHANNELS",BRUNETTE (INT)
+#EXTINF:-1 tvg-id="BRUNETTE (INT)" tvg-name="BRUNETTE (INT)" tvg-logo="https://logopond.com/logos/ec8a8b37d6ec9a21b315921ab8f2f207.png"group-title="ADULT CHANNELS",BRUNETTE (INT)
 http://cdn.adultiptv.net/brunette.m3u8
 #EXTINF:-1 tvg-id="GAY (INT)" tvg-name="GAY (INT)" tvg-logo="https://logodix.com/logo/1774845.png"group-title="ADULT CHANNELS",GAY (INT)
 http://cdn.adultiptv.net/gay.m3u8
@@ -141,7 +141,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/etc/index.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/9xjalwa/index.m3u8
 #EXTINF:-1 tvg-id="ZEE NEWS (IN)" tvg-name="ZEE NEWS (IN)" tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/01/04/773839-zee-news-logo.jpg"group-title="NEWS CHANNELS",ZEE NEWS (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeenews/index.m3u8
-#EXTINF:-1 tvg-id="9XM (IN)" tvg-name="9XM (IN)" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png"group-title="MUSIC CHANNELS",9XM (IN)
+#EXTINF:-1 tvg-id="9XM (IN)" tvg-name="9XM (IN)" tvg-logo="https://cdn.clipart.email/47528cb00781591f081afb045e0f3981_funmania_1600-929.jpeg"group-title="MUSIC CHANNELS",9XM (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/9xm/index.m3u8
 #EXTINF:-1 tvg-id="THE Q INDIA (IN)" tvg-name="THE Q INDIA (IN)" tvg-logo="https://www.rapidtvnews.com/images/2019/Aug_2019/The_Q_India_logo_-_7_August_2019.png"group-title="YOUTH CHANNELS",THE Q INDIA (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/theqyou/index.m3u8
