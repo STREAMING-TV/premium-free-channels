@@ -175,3 +175,4 @@ https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="DD NEWS (IN)" tvg-name="DD NEWS (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/DD_News_Logo_2015.jpg"group-title="NEWS CHANNELS",DD NEWS (IN)
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1 tvg-id="DSPORT (IN)" tvg-name="DSPORT (IN)" tvg-logo="https://glaws.in/wp-content/uploads/2018/01/DSport.jpg"group-title="SPORTS CHANNELS",DSPORT (IN)
