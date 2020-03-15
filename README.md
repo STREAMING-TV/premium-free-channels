@@ -51,7 +51,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/canadahd/index.m3u
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ztvsdusa/index.m3u8
 #EXTINF:-1 tvg-id="Zee_TV (IN)" tvg-name="Zee TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT CHANNELS",Zee TV (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvsd/index.m3u8
-#EXTINF:-1 tvg-id="And_TV_HD (IN)" tvg-name="And TV HD (IN)" tvg-logo="https://soudippediaxp.files.wordpress.com/2018/03/unnamed-186609511.png?w=300"group-title="ENTERTAINMENT CHANNELS",And TV HD (IN)
+#EXTINF:-1 tvg-id="And_TV_HD (IN)" tvg-name="And TV HD (IN)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/TV-HD-1-2.jpg"group-title="ENTERTAINMENT CHANNELS",And TV HD (IN)
 http://45.120.188.76:8080/0.ts
 #EXTINF:-1 tvg-id="And_TV_HD (IN)" tvg-name="And TV HD (IN)" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png"group-title="ENTERTAINMENT CHANNELS",And TV HD (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
@@ -85,7 +85,7 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecafesd/index.m3u8
 #EXTINF:-1 tvg-id="& PRIVE HD (IN)" tvg-name="& PRIVE HD (IN)" tvg-logo="http://bestmediainfo.com/wp-content/uploads/2017/09/andPrive-HD_6.jpg"group-title="MOVIES CHANNELS",& PRIVE HD (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
-#EXTINF:-1 tvg-id="& FLIX (IN)" tvg-name="& FLIX (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/%26flix.jpg/revision/latest?cb=20180624153833"group-title="MOVIES CHANNELS",& FLIX (IN)
+#EXTINF:-1 tvg-id="& FLIX (IN)" tvg-name="& FLIX (IN)" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/06/06/flix.jpg"group-title="MOVIES CHANNELS",& FLIX (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflix/index.m3u8
 #EXTINF:-1 tvg-id="& PICTURES HD (IN)" tvg-name="& PICTURES HD (IN)" tvg-logo="http://i.imgur.com/NUoaFjr.jpg"group-title="MOVIES CHANNELS",& PICTURES HD (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
