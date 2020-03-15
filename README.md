@@ -171,3 +171,4 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="NDTV INDIA (IN)" tvg-name="NDTV INDIA (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png"group-title="NEWS CHANNELS",NDTV INDIA (IN)
 https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8
+#EXTINF:-1 tvg-id="NHK WORLD (JP)" tvg-name="NHK WORLD (JP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/800px-NHK_World.svg.png"group-title="NEWS CHANNELS",NHK WORLD (JP)
