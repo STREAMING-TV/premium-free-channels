@@ -137,4 +137,5 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/wion/index.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/livingfoodz/index.m3u8
 #EXTINF:-1 tvg-id="ZEE ETC (IN)" tvg-name="ZEE ETC (IN)" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_etc_bollywood.png"group-title="MUSIC CHANNELS",ZEE ETC (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/etc/index.m3u8
-#EXTINF:-1 tvg-id="9X JALWAA (IN)" tvg-name="9X JALWAA (IN)" tvg-logo="https://www.exchange4media.com/news-photo/1530525962_xUFdBo_9X-Jalwa.jpg"group-title="MUSIC CHANNELS",9X JALWAA (IN)
+#EXTINF:-1 tvg-id="9X JALWA (IN)" tvg-name="9X JALWA (IN)" tvg-logo="https://www.exchange4media.com/news-photo/1530525962_xUFdBo_9X-Jalwa.jpg"group-title="MUSIC CHANNELS",9X JALWA (IN)
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/9xjalwa/index.m3u8
