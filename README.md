@@ -123,3 +123,4 @@ http://84.22.33.254/unicast.bizarre/index.m3u8
 http://84.22.33.254/unicast.eroxhd/index.m3u8
 #EXTINF:-1 tvg-id="SUPER ONE HD (INT)" tvg-name="SUPER ONE HD (INT)" tvg-logo="https://mar-vik.si/uploads/logotipi/SUPERONE.png"group-title="ADULT CHANNELS",SUPER ONE HD (INT)
 http://188.35.9.5:10007/stolen/246r/parasite.install
+#EXTINF:-1 tvg-id="HUSTLER TV (INT)" tvg-name="HUSTLER TV (INT)" tvg-logo="http://www.mscnoticiaslatam.com/wp-content/uploads/2014/03/HustlerTV-logo.jpg"group-title="ADULT CHANNELS",HUSTLER TV (INT)
