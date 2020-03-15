@@ -144,3 +144,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeenews/index.m3u8
 #EXTINF:-1 tvg-id="9XM (IN)" tvg-name="9XM (IN)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/9xm-logo-png-1.png"group-title="MUSIC CHANNELS",9XM (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/9xm/index.m3u8
 #EXTINF:-1 tvg-id="THE Q INDIA (IN)" tvg-name="THE Q INDIA (IN)" tvg-logo="https://www.rapidtvnews.com/images/2019/Aug_2019/The_Q_India_logo_-_7_August_2019.png"group-title="YOUTH CHANNELS",THE Q INDIA (IN)
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/theqyou/index.m3u8
