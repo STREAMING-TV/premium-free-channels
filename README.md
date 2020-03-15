@@ -145,3 +145,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeenews/index.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/9xm/index.m3u8
 #EXTINF:-1 tvg-id="THE Q INDIA (IN)" tvg-name="THE Q INDIA (IN)" tvg-logo="https://www.rapidtvnews.com/images/2019/Aug_2019/The_Q_India_logo_-_7_August_2019.png"group-title="YOUTH CHANNELS",THE Q INDIA (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/theqyou/index.m3u8
+#EXTINF:-1 tvg-id="DD BHARATI (IN)" tvg-name="DD BHARATI (IN)" tvg-logo="https://i.ytimg.com/vi/IV9Wtd7EsZM/maxresdefault.jpg"group-title="ENTERTAINMENT CHANNELS",DD BHARATI (IN)
