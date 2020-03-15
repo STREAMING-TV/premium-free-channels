@@ -177,3 +177,4 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1 tvg-id="DSPORT (IN)" tvg-name="DSPORT (IN)" tvg-logo="https://glaws.in/wp-content/uploads/2018/01/DSport.jpg"group-title="SPORTS CHANNELS",DSPORT (IN)
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_400.m3u8
+#EXTINF:-1 tvg-id="SPORTS MAX (ME)" tvg-name="SPORTS MAX (ME)" tvg-logo="https://www.nationnews.com/IMG/865/77865/sportsmax-logo2402-450x303.gif"group-title="SPORTS CHANNELS",SPORTS MAX (ME)
