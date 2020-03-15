@@ -156,3 +156,4 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-id="9XO (IN)" tvg-name="9XO (IN)" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/04/9XO_logo_5.jpg&w=620&h=350&zc=1&q=100"group-title="MUSIC CHANNELS",9XO (IN)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
 #EXTINF:-1 tvg-id="CARTOON NETWORK (USA)" tvg-name="CARTOON NETWORK (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png"group-title="KIDS CHANNELS",CARTOON NETWORK (USA)
+http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
