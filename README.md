@@ -141,10 +141,11 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/etc/index.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/9xjalwa/index.m3u8
 #EXTINF:-1 tvg-id="ZEE NEWS (IN)" tvg-name="ZEE NEWS (IN)" tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/01/04/773839-zee-news-logo.jpg"group-title="NEWS CHANNELS",ZEE NEWS (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeenews/index.m3u8
-#EXTINF:-1 tvg-id="9XM (IN)" tvg-name="9XM (IN)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/9xm-logo-png-1.png"group-title="MUSIC CHANNELS",9XM (IN)
+#EXTINF:-1 tvg-id="9XM (IN)" tvg-name="9XM (IN)" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png"group-title="MUSIC CHANNELS",9XM (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/9xm/index.m3u8
 #EXTINF:-1 tvg-id="THE Q INDIA (IN)" tvg-name="THE Q INDIA (IN)" tvg-logo="https://www.rapidtvnews.com/images/2019/Aug_2019/The_Q_India_logo_-_7_August_2019.png"group-title="YOUTH CHANNELS",THE Q INDIA (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/theqyou/index.m3u8
 #EXTINF:-1 tvg-id="DD BHARATI (IN)" tvg-name="DD BHARATI (IN)" tvg-logo="https://i.ytimg.com/vi/IV9Wtd7EsZM/maxresdefault.jpg"group-title="ENTERTAINMENT CHANNELS",DD BHARATI (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddbharati/index.m3u8
 #EXTINF:-1 tvg-id="ZEE WORLD (SA)" tvg-name="ZEE WORLD (SA)" tvg-logo="https://uploads.tapatalk-cdn.com/20180221/7e136e8cba7a1e518565a9c8af3d2f74.jpg"group-title="ENTERTAINMENT CHANNELS",ZEE WORLD (SA)
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/world/index.m3u8
