@@ -136,3 +136,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/wion/index.m3u8
 #EXTINF:-1 tvg-id="LIVING FOODZ (IN)" tvg-name="LIVING FOODZ (IN)" tvg-logo="http://www.bestmediainfo.com/wp-content/uploads/2015/09/Living-Foodz-logo.jpg"group-title="LIFESTYLE CHANNELS",LIVING FOODZ (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/livingfoodz/index.m3u8
 #EXTINF:-1 tvg-id="ZEE ETC (IN)" tvg-name="ZEE ETC (IN)" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_etc_bollywood.png"group-title="MUSIC CHANNELS",ZEE ETC (IN)
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/etc/index.m3u8
