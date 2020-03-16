@@ -181,9 +181,9 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_400.m3u8
 https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
 #EXTINF:-1 tvg-id="HISTORY2 (ME)" tvg-name="HISTORY2 (ME)" tvg-logo="http://3.bp.blogspot.com/-RzXst6jpzBw/Toi5hYDW9AI/AAAAAAAACPA/jFKuVx6JcaQ/s500/History+2+logo+2011.png"group-title="INFORMATION CHANNELS",HISTORY2 (ME)
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
-#EXTINF:-1 tvg-id="NAT GEO PEOPLE (ME)" tvg-name="NAT GEO PEOPLE (ME)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3QZtGY9hXmE0f_Ihl0uLbpLxzOFh8wW80XirZGtlQWaOMkFg&s"group-title="INFORMATION CHANNELS",NAT GEO PEOPLE (ME)
+#EXTINF:-1 tvg-id="NAT GEO PEOPLE (ME)" tvg-name="NAT GEO PEOPLE (ME)" tvg-logo="https://neulioneuosn-a.akamaihd.net/u/osn/wavo/thumbs/channels/NAT-GEO-PEOPLE.png"group-title="INFORMATION CHANNELS",NAT GEO PEOPLE (ME)
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
-#EXTINF:-1 tvg-id="NAT GEO WILD (IN)" tvg-name="NAT GEO WILD (IN)" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/nat-geo-wild-logo-featured.jpg?w=621&h=383&crop=1"group-title="INFORMATION CHANNELS",NAT GEO WILD (IN)
+#EXTINF:-1 tvg-id="NAT GEO WILD (IN)" tvg-name="NAT GEO WILD (IN)" tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/03/logo_ngw.png"group-title="INFORMATION CHANNELS",NAT GEO WILD (IN)
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
-#EXTINF:-1 tvg-id="FOOD FOOD (IN)" tvg-name="FOOD FOOD (IN)" tvg-logo="https://yt3.ggpht.com/a/AGF-l79qsad0vuE_epPHJw2ydA0cJZlkzgz2f78sUA=s900-c-k-c0xffffffff-no-rj-mo"group-title="LIFESTYLE CHANNELS",FOOD FOOD (IN)
+#EXTINF:-1 tvg-id="FOOD FOOD (IN)" tvg-name="FOOD FOOD (IN)" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/07/11/food.jpg?itok=_yxj8tUm"group-title="LIFESTYLE CHANNELS",FOOD FOOD (IN)
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
