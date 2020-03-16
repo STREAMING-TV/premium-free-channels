@@ -153,7 +153,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/world/index.m3u8
 http://185.59.223.82:8080/vh1/mpegts
 #EXTINF:-1 tvg-id="MTV (USA)" tvg-name="MTV (USA)" tvg-logo="https://media.graytvinc.com/images/810*455/MTV-logo_720.jpg"group-title="YOUTH CHANNELS",MTV (USA)
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 tvg-id="9XO (IN)" tvg-name="9XO (IN)" tvg-logo="http://www.radioandmusic.com/sites/www.radioandmusic.com/files/images/biz/2015/12/08/Untitled-3.jpg"group-title="MUSIC CHANNELS",9XO (IN)
+#EXTINF:-1 tvg-id="9XO (IN)" tvg-name="9XO (IN)" tvg-logo="https://www.adgully.com/img/800/50287_9xo.jpg"group-title="MUSIC CHANNELS",9XO (IN)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
 #EXTINF:-1 tvg-id="CARTOON NETWORK (USA)" tvg-name="CARTOON NETWORK (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png"group-title="KIDS CHANNELS",CARTOON NETWORK (USA)
 http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
