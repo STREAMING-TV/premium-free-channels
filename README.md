@@ -183,7 +183,7 @@ https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:-1 tvg-id="NAT GEO PEOPLE (ME)" tvg-name="NAT GEO PEOPLE (ME)" tvg-logo="https://neulioneuosn-a.akamaihd.net/u/osn/wavo/thumbs/channels/NAT-GEO-PEOPLE.png"group-title="INFORMATION CHANNELS",NAT GEO PEOPLE (ME)
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
-#EXTINF:-1 tvg-id="NAT GEO WILD (IN)" tvg-name="NAT GEO WILD (IN)" tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/03/logo_ngw.png"group-title="INFORMATION CHANNELS",NAT GEO WILD (IN)
+#EXTINF:-1 tvg-id="NAT GEO WILD (IN)" tvg-name="NAT GEO WILD (IN)" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png"group-title="INFORMATION CHANNELS",NAT GEO WILD (IN)
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
-#EXTINF:-1 tvg-id="FOOD FOOD (IN)" tvg-name="FOOD FOOD (IN)" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/07/11/food.jpg?itok=_yxj8tUm"group-title="LIFESTYLE CHANNELS",FOOD FOOD (IN)
+#EXTINF:-1 tvg-id="FOOD FOOD (IN)" tvg-name="FOOD FOOD (IN)" tvg-logo="http://www.licensingcorner.com/wp-content/uploads/2016/12/Food-Food.jpeg"group-title="LIFESTYLE CHANNELS",FOOD FOOD (IN)
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
