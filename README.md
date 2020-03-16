@@ -181,3 +181,4 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_400.m3u8
 https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
 #EXTINF:-1 tvg-id="HISTORY2 (ME)" tvg-name="HISTORY2 (ME)" tvg-logo="http://3.bp.blogspot.com/-RzXst6jpzBw/Toi5hYDW9AI/AAAAAAAACPA/jFKuVx6JcaQ/s500/History+2+logo+2011.png"group-title="INFORMATION CHANNELS",HISTORY2 (ME)
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
+#EXTINF:-1 tvg-id="NAT GEO PEOPLE (ME)" tvg-name="NAT GEO PEOPLE (ME)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3QZtGY9hXmE0f_Ihl0uLbpLxzOFh8wW80XirZGtlQWaOMkFg&s"group-title="INFORMATION CHANNELS",NAT GEO PEOPLE (ME)
