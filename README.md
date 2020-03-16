@@ -185,5 +185,5 @@ http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 #EXTINF:-1 tvg-id="NAT GEO WILD (IN)" tvg-name="NAT GEO WILD (IN)" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/nat-geo-wild-logo-featured.jpg?w=621&h=383&crop=1"group-title="INFORMATION CHANNELS",NAT GEO WILD (IN)
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
-#EXTINF:-1 tvg-id="FOOD FOOD (IN)" tvg-name="FOOD FOOD (IN)" tvg-logo="https://www.foodfood.com/assets/images/logo/logo.png"group-title="LIFESTYLE CHANNELS",FOOD FOOD (IN)
+#EXTINF:-1 tvg-id="FOOD FOOD (IN)" tvg-name="FOOD FOOD (IN)" tvg-logo="https://yt3.ggpht.com/a/AGF-l79qsad0vuE_epPHJw2ydA0cJZlkzgz2f78sUA=s900-c-k-c0xffffffff-no-rj-mo"group-title="LIFESTYLE CHANNELS",FOOD FOOD (IN)
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
