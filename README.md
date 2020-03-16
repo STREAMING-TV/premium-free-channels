@@ -160,7 +160,7 @@ http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="BABY FIRST (USA)" tvg-name="BABY FIRST (USA)" tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png"group-title="KIDS CHANNELS",BABY FIRST (USA)
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 tvg-id="BOOMERANG HD (ME)" tvg-name="BOOMERANG HD (ME)" tvg-logo="https://r.dcs.redcdn.pl/http/o2/redefine/redb/th/thc9s15j2225tvtv1ure9i3tyonjvzxa.jpg"group-title="KIDS CHANNELS",BOOMERANG HD (ME)
-http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="DISNEY CHANNEL (USA)" tvg-name="DISNEY CHANNEL (USA)" tvg-logo="http://images6.fanpop.com/image/photos/40300000/Disney-Channel-Logo-127-nintendofan12s-fun-stuff-40377269-1244-543.png"group-title="KIDS CHANNELS",DISNEY CHANNEL (USA)
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BBC NEWS (INT)" tvg-name="BBC NEWS (INT)" tvg-logo="https://i.pinimg.com/originals/01/c7/27/01c727838c16fcfd65dd28516686110f.png"group-title="NEWS CHANNELS",BBC NEWS (INT)
