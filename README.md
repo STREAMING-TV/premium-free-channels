@@ -187,3 +187,4 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1 tvg-id="FOOD FOOD (IN)" tvg-name="FOOD FOOD (IN)" tvg-logo="http://www.licensingcorner.com/wp-content/uploads/2016/12/Food-Food.jpeg"group-title="LIFESTYLE CHANNELS",FOOD FOOD (IN)
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-id="FASHION TV (PARIS)" tvg-name="FASHION TV (PARIS)" tvg-logo="https://identity-mag.com/wp-content/uploads/2015/06/ftv-logo.jpg"group-title="LIFESTYLE CHANNELS",FASHION TV (PARIS)
