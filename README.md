@@ -190,3 +190,4 @@ https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b130
 #EXTINF:-1 tvg-id="FASHION TV (PARIS)" tvg-name="FASHION TV (PARIS)" tvg-logo="https://identity-mag.com/wp-content/uploads/2015/06/ftv-logo.jpg"group-title="LIFESTYLE CHANNELS",FASHION TV (PARIS)
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="NAT GEO (ASIA)" tvg-name="NAT GEO (ASIA)" tvg-logo="https://i.pinimg.com/originals/a6/77/d1/a677d1e8794db3ac9982972744414f0c.jpg"group-title="INFORMATION CHANNELS",NAT GEO (ASIA)
+https://cdn.jp.jpnettv.live/jptv/National_geographic/chunklist_w1310243407.m3u8
