@@ -1,4 +1,4 @@
-#EXTM3U TV
+Ft#EXTM3U TV
 #EXTINF:-1,tvg-id="Channel_News_Asia (INT)" tvg-name="Channel News Asia (INT)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png"group-title="NEWS CHANNELS",Channel News Asia (INT)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="Channel_News_Asia (INT)" tvg-name="Channel News Asia (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png"group-title="NEWS CHANNELS",Channel News Asia (INT)
@@ -186,3 +186,4 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 #EXTINF:-1 tvg-id="NAT GEO WILD (IN)" tvg-name="NAT GEO WILD (IN)" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/nat-geo-wild-logo-featured.jpg?w=621&h=383&crop=1"group-title="INFORMATION CHANNELS",NAT GEO WILD (IN)
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1 tvg-id="FOOD FOOD (IN)" tvg-name="FOOD FOOD (IN)" tvg-logo="https://www.foodfood.com/assets/images/logo/logo.png"group-title="LIFESTYLE CHANNELS",FOOD FOOD (IN)
+https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
