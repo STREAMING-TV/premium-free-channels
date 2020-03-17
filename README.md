@@ -226,3 +226,4 @@ https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1 tvg-id="BOLLYWOOD HD (RU)" tvg-name="BOLLYWOOD HD (RU)" tvg-logo="https://www.pasjatv.pl/files/BollywooD-HD%20NEW.jpg"group-title="ENTERTAINMENT CHANNELS",BOLLYWOOD HD (RU)
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="ZEE CINEMA HD (IN)" tvg-name="ZEE CINEMA HD (IN)" tvg-logo="http://www.bdiptv.info/wp-content/uploads/2018/11/zeecinemahd.png"group-title="MOVIES CHANNELS",ZEE CINEMA HD (IN) VPN
+http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
