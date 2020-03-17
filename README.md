@@ -215,3 +215,4 @@ http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
 http://216.144.250.174/S0ny_Sab_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR PLUS (IN)" tvg-name="STAR PLUS (UK)" tvg-logo="https://pbs.twimg.com/profile_images/1082680958506041345/TJCrmgb2_400x400.jpg"group-title="ENTERTAINMENT CHANNELS",STAR PLUS (UK) VPN
 http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="STAR PLUS (IN)" tvg-name="STAR PLUS HD (IN)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-plus-hd-logo-300x300.jpg"group-title="ENTERTAINMENT CHANNELS",STAR PLUS HD (IN)
