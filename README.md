@@ -214,3 +214,4 @@ http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY SAB HD (IN)" tvg-name="SONY SAB HD (IN)"tvg-logo=" http://httpsony-a.akamaihd.net/5182475815001/5182475815001_6071991162001_5613710948001-th.jpg?pubId=5182475815001&videoId=5613710948001"group-title="ENTERTAINMENT CHANNELS",SONY SAB HD (IN) VPN
 http://216.144.250.174/S0ny_Sab_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR PLUS (IN)" tvg-name="STAR PLUS (UK)" tvg-logo="https://pbs.twimg.com/profile_images/1082680958506041345/TJCrmgb2_400x400.jpg"group-title="ENTERTAINMENT CHANNELS",STAR PLUS (UK) VPN
+http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
