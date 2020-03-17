@@ -208,3 +208,4 @@ http://210.210.155.66/h/h37/index.m3u8
 #EXTINF:-1 tvg-id="ABP NEWS HD (IN)" tvg-name="ABP NEWS HD (IN)" tvg-logo="http://cdn.abplive.in/abp_english.jpg"group-title="NEWS CHANNELS",ABP NEWS HD (IN)
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1 tvg-id="Zee TV HD (IN)" tvg-name="Zee TV HD (IN)" tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png"group-title="ENTERTAINMENT CHANNELS",ZEE TV HD (IN) VPN
+http://216.144.250.174/Zee_TV_HD_o1/playlist.m3u8
