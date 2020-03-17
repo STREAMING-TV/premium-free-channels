@@ -240,3 +240,4 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/ind
 #EXTINF:-1 tvg-id="B4U MOVIES (IN)" tvg-name="B4U MOVIES (IN)" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2017/03/b4umovies001.jpg"group-title="MOVIES CHANNELS",B4U MOVIES (IN)
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="NTV MOVIES (IN)" tvg-name="NTV MOVIES (IN)" tvg-logo="https://yt3.ggpht.com/a/AGF-l79sQNcWNi4F9AAWg9_YYohmMX2qKux5I1U5XA=s900-c-k-c0xffffffff-no-rj-mo"group-title="MOVIES CHANNELS",NTV MOVIES (IN)
+http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
