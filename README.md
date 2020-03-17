@@ -193,3 +193,4 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 https://cdn.jp.jpnettv.live/jptv/National_geographic/chunklist_w1310243407.m3u8
 #EXTINF:-1 tvg-id="CGTN DOCUMENTARY (ASIA)" tvg-name="CGTN DOCUMENTARY (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png"group-title="INFORMATION CHANNELS",CGTN DOCUMENTARY (ASIA)
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-id="HNO (ASIA)" tvg-name="HBO (ASIA)" tvg-logo="https://norsis.no/wp-content/uploads/2017/08/hbo.jpg"group-title="MOVIES CHANNELS",HBO (ASIA)
