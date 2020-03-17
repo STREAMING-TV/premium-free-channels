@@ -220,3 +220,4 @@ http://109.169.56.170/hls/starplus.m3u8
 #EXTINF:-1 tvg-id="STAR BHARAT (IN)" tvg-name="STAR BHARAT (IN)" tvg-logo="https://www.iwmbuzz.com/wp-content/uploads/2017/12/star-bharat-hindi-general-entertainments-new-leader.png"group-title="ENTERTAINMENT CHANNELS",STAR BHARAT (IN)
 http://109.169.56.170/hls/lifeok.m3u8
 #EXTINF:-1 tvg-id="DD NATIONAL (IN)" tvg-name="DD NATIONAL (IN)" tvg-logo="https://new-img.patrika.com/upload/images/2017/07/27/dd-1501150165_835x547.jpg"group-title="ENTERTAINMENT CHANNELS",DD NATIONAL (IN)
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
