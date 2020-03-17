@@ -103,7 +103,7 @@ https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 http://62.203.143.51:9981/play/PlayyTV
 #EXTINF:-1 tvg-id="CARTOON NATWORK (IN)" tvg-name="CARTOON NATWORK (IN)" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_black.png"group-title="KIDS CHANNELS",CARTOON NATWORK (IN)
 http://stream.tapmad.com:1935/pitvlive2/cartoon_240p/chunklist.m3u8
-#EXTINF:-1 tvg-id="ZEE CINEMA (ME/APAC)" tvg-name="ZEE CINEMA (ME/APAC)" tvg-logo="https://2.bp.blogspot.com/-7rUCU4bCNs4/XEIQXf6AWiI/AAAAAAAAAHA/M7XWXAVbUmEbFo47kvhPq3aceIXAgu3ywCLcBGAs/s1600/ZeeCinema.jpg"group-title="MOVIES CHANNELS",ZEE CINEMA (ME/APAC)
+#EXTINF:-1 tvg-id="ZEE CINEMA (ME)" tvg-name="ZEE CINEMA (ME)" tvg-logo="https://2.bp.blogspot.com/-7rUCU4bCNs4/XEIQXf6AWiI/AAAAAAAAAHA/M7XWXAVbUmEbFo47kvhPq3aceIXAgu3ywCLcBGAs/s1600/ZeeCinema.jpg"group-title="MOVIES CHANNELS",ZEE CINEMA (ME)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecinemame/index.m3u8
 #EXTINF:-1 tvg-id="PASSIONXXX (INT)" tvg-name="PASSIONXXX (INT)" tvg-logo="http://i.imgur.com/6Nr8Bqk.png"group-title="ADULT CHANNELS",PASSIONXXX (INT)
 http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/playlist.m3u8
@@ -197,3 +197,4 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 #EXTINF:-1 tvg-id="MGM (UK)" tvg-name="MGM (UK)" tvg-logo="https://i.pinimg.com/474x/4c/6b/cb/4c6bcbb336cc88924de812efdc15080c.jpg"group-title="MOVIES CHANNELS",MGM (UK)
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1 tvg-id="ZEE CINEMA (APAC)" tvg-name="ZEE CINEMA (APAC)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2020/01/Zee-cinema.jpg"group-title="MOVIES CHANNELS",ZEE CINEMA (APAC)
