@@ -219,3 +219,4 @@ http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 http://109.169.56.170/hls/starplus.m3u8
 #EXTINF:-1 tvg-id="STAR BHARAT (IN)" tvg-name="STAR BHARAT (IN)" tvg-logo="https://www.iwmbuzz.com/wp-content/uploads/2017/12/star-bharat-hindi-general-entertainments-new-leader.png"group-title="ENTERTAINMENT CHANNELS",STAR BHARAT (IN)
 http://109.169.56.170/hls/lifeok.m3u8
+#EXTINF:-1 tvg-id="DD NATIONAL (IN)" tvg-name="DD NATIONAL (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Dd_national.jpg"group-title="ENTERTAINMENT CHANNELS",DD NATIONAL (IN)
