@@ -204,3 +204,4 @@ https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 tvg-id="MBC Bollywood (ME)" tvg-name="MBC Bollywood (ME)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/MBC_Bollywood_logo.jpeg"group-title="MOVIES CHANNELS",MBC Bollywood (ME)
 http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1 tvg-id="HITS TV (ASIA)" tvg-name="HITS TV (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg"group-title="MOVIES CHANNELS",HITS TV (ASIA)
+http://210.210.155.66/h/h37/index.m3u8
