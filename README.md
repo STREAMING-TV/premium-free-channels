@@ -200,3 +200,4 @@ https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_142
 #EXTINF:-1 tvg-id="ZEE CINEMA (APAC)" tvg-name="ZEE CINEMA (APAC)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2020/01/Zee-cinema.jpg"group-title="MOVIES CHANNELS",ZEE CINEMA (APAC)
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 tvg-id="STAR GOLD HD (IND)" tvg-name="STAR GOLD HD (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Star_Gold_Logo.jpg"group-title="MOVIES CHANNELS",STAR GOLD HD (IND)
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
