@@ -231,3 +231,4 @@ http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
 http://216.144.250.174/Zee_ActIon_HD/index.m3u8
 #EXTINF:-1 tvg-id="STAR GOLD HD (IN)" tvg-name="STAR GOLD HD (IN)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png"group-title="MOVIES CHANNELS",STAR GOLD HD (IN) VPN
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SONY MAX HD (IN)" tvg-name="SONY MAX HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157"group-title="MOVIES CHANNELS",SONY MAX HD (IN) VPN
