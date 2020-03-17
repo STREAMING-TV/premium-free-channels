@@ -233,3 +233,4 @@ http://216.144.250.174/Zee_ActIon_HD/index.m3u8
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SONY MAX HD (IN)" tvg-name="SONY MAX HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157"group-title="MOVIES CHANNELS",SONY MAX HD (IN) VPN
 http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="SONY MAX 2 (UK)" tvg-name="SONY MAX 2 (UK)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/02/Sony-Max-2-logo-2-2-2.jpg"group-title="MOVIES CHANNELS",SONY MAX 2 (UK) VPN
