@@ -157,7 +157,7 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
 #EXTINF:-1 tvg-id="CARTOON NETWORK (USA)" tvg-name="CARTOON NETWORK (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png"group-title="KIDS CHANNELS",CARTOON NETWORK (USA)
 http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
-#EXTINF:-1 tvg-id="BABY FIRST (USA)" tvg-name="BABY FIRST (USA)" tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png"group-title="KIDS CHANNELS",BABY FIRST (USA)
+#EXTINF:-1 tvg-id="BABY FIRST (MAL)" tvg-name="BABY FIRST (MAL)" tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png"group-title="KIDS CHANNELS",BABY FIRST (MAL)
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 tvg-id="BOOMERANG HD (ME)" tvg-name="BOOMERANG HD (ME)" tvg-logo="https://r.dcs.redcdn.pl/http/o2/redefine/redb/th/thc9s15j2225tvtv1ure9i3tyonjvzxa.jpg"group-title="KIDS CHANNELS",BOOMERANG HD (ME)
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
@@ -193,5 +193,6 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 https://cdn.jp.jpnettv.live/jptv/National_geographic/chunklist_w1310243407.m3u8
 #EXTINF:-1 tvg-id="CGTN DOCUMENTARY (ASIA)" tvg-name="CGTN DOCUMENTARY (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png"group-title="INFORMATION CHANNELS",CGTN DOCUMENTARY (ASIA)
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-id="HNO (ASIA)" tvg-name="HBO (ASIA)" tvg-logo="https://norsis.no/wp-content/uploads/2017/08/hbo.jpg"group-title="MOVIES CHANNELS",HBO (ASIA)
+#EXTINF:-1 tvg-id="HBO (ASIA)" tvg-name="HBO (ASIA)" tvg-logo="https://norsis.no/wp-content/uploads/2017/08/hbo.jpg"group-title="MOVIES CHANNELS",HBO (ASIA)
 http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
+#EXTINF:-1 tvg-id="MGM (UK)" tvg-name="MGM (UK)" tvg-logo="https://i.pinimg.com/474x/4c/6b/cb/4c6bcbb336cc88924de812efdc15080c.jpg"group-title="MOVIES CHANNELS",MGM (UK)
