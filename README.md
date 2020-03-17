@@ -241,3 +241,4 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/ind
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="NTV MOVIES (IN)" tvg-name="NTV MOVIES (IN)" tvg-logo="https://yt3.ggpht.com/a/AGF-l79sQNcWNi4F9AAWg9_YYohmMX2qKux5I1U5XA=s900-c-k-c0xffffffff-no-rj-mo"group-title="MOVIES CHANNELS",NTV MOVIES (IN)
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
+#EXTINF:-1 tvg-id="MASTIII (IN)" tvg-name="MASTIII (IN)" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2017/12/mastiii-logo_8.jpg&w=620&h=350&zc=1&q=100"group-title="MUSIC CHANNELS",MASTIII (IN)
