@@ -206,3 +206,4 @@ http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1 tvg-id="HITS TV (ASIA)" tvg-name="HITS TV (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg"group-title="MOVIES CHANNELS",HITS TV (ASIA)
 http://210.210.155.66/h/h37/index.m3u8
 #EXTINF:-1 tvg-id="ABP NEWS HD (IN)" tvg-name="ABP NEWS HD (IN)" tvg-logo="http://cdn.abplive.in/abp_english.jpg"group-title="NEWS CHANNELS",ABP NEWS HD (IN)
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
