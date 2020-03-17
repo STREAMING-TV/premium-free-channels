@@ -228,3 +228,4 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721
 #EXTINF:-1 tvg-id="ZEE CINEMA HD (IN)" tvg-name="ZEE CINEMA HD (IN)" tvg-logo="http://www.bdiptv.info/wp-content/uploads/2018/11/zeecinemahd.png"group-title="MOVIES CHANNELS",ZEE CINEMA HD (IN) VPN
 http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZEE ACTION (IN)" tvg-name="ZEE ACTION (IN)" tvg-logo="https://www.adgully.com/img/800/201909/jby7kv1wjoonygtffhu5.png.jpg"group-title="MOVIES CHANNELS",ZEE ACTION (IN) VPN
+http://216.144.250.174/Zee_ActIon_HD/index.m3u8
