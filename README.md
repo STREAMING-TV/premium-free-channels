@@ -196,3 +196,4 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="HBO (ASIA)" tvg-name="HBO (ASIA)" tvg-logo="https://norsis.no/wp-content/uploads/2017/08/hbo.jpg"group-title="MOVIES CHANNELS",HBO (ASIA)
 http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 #EXTINF:-1 tvg-id="MGM (UK)" tvg-name="MGM (UK)" tvg-logo="https://i.pinimg.com/474x/4c/6b/cb/4c6bcbb336cc88924de812efdc15080c.jpg"group-title="MOVIES CHANNELS",MGM (UK)
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
