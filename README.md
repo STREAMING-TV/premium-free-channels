@@ -222,3 +222,4 @@ http://109.169.56.170/hls/lifeok.m3u8
 #EXTINF:-1 tvg-id="DD NATIONAL (IN)" tvg-name="DD NATIONAL (IN)" tvg-logo="https://new-img.patrika.com/upload/images/2017/07/27/dd-1501150165_835x547.jpg"group-title="ENTERTAINMENT CHANNELS",DD NATIONAL (IN)
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="THE Q INDIA (IN)" tvg-name="THE Q INDIA (IN)" tvg-logo="https://www.digitaltveurope.com/files/2018/10/The-Q-India-logo.jpg"group-title="YOUTH CHANNELS",THE Q INDIA (IN)
+https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
