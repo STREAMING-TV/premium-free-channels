@@ -256,3 +256,4 @@ http://streamidvo.multitvsolution.in/live/APHDHindi-a/p1.m3u8
 #EXTINF:-1 tvg-id="TLC HD (IN)" tvg-name="TLC HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TLC-HD-Logo_2016.svg/1200px-TLC-HD-Logo_2016.svg.png"group-title="LIFESTYLE / TRAVELING CHANNELS",TLC HD (IN)
 http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p1.m3u8
 #EXTINF:-1 tvg-id="NAT GEO (ME)" tvg-name="NAT GEO (ME)" tvg-logo="http://pluspng.com/img-png/national-geographic-logo-png--1900.jpg"group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO (ME)
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
