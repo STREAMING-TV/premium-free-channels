@@ -284,3 +284,4 @@ https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdn
 #EXTINF:-1 tvg-id="SONY PIX HD (IN)" tvg-name="SONY PIX HD (IN)" tvg-logo="https://www.pay2easy.com/uploads/7923-Sony%20Pix.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY PIX HD (IN)
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-id="AXN HD (IN)" tvg-name="AXN HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",AXN HD (IN)
+https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
