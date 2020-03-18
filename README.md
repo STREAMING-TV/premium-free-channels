@@ -239,9 +239,9 @@ http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="B4U MOVIES (IN)" tvg-name="B4U MOVIES (IN)" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2017/03/b4umovies001.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",B4U MOVIES (IN)
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="NTV MOVIES (IN)" tvg-name="NTV MOVIES (IN)" tvg-logo="https://yt3.ggpht.com/a/AGF-l79sQNcWNi4F9AAWg9_YYohmMX2qKux5I1U5XA=s900-c-k-c0xffffffff-no-rj-mo"group-title="ENTERTAINMENT / MOVIES CHANNELS",NTV MOVIES (IN)
+#EXTINF:-1 tvg-id="NTV MOVIES (IN)" tvg-name="NTV MOVIES (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1041178171117264898/5pGfFugz_400x400.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",NTV MOVIES (IN)
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
-#EXTINF:-1 tvg-id="MASTIII (IN)" tvg-name="MASTIII (IN)" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2017/12/mastiii-logo_8.jpg&w=620&h=350&zc=1&q=100"group-title="MUSIC / YOUTH CHANNELS",MASTIII (IN)
+#EXTINF:-1 tvg-id="MASTIII (IN)" tvg-name="MASTIII (IN)" tvg-logo="https://exchange4media.gumlet.com/news-photo/101552-Untitleddesign5.jpg?format=webp&w=1100"group-title="MUSIC / YOUTH CHANNELS",MASTIII (IN)
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY (IN)" tvg-name="DISCOVERY (IN)" tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo.png"group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY (IN)
 http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p1.m3u8
