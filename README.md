@@ -149,7 +149,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/theqyou/index.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddbharati/index.m3u8
 #EXTINF:-1 tvg-id="ZEE WORLD (SA)" tvg-name="ZEE WORLD (SA)" tvg-logo="https://uploads.tapatalk-cdn.com/20180221/7e136e8cba7a1e518565a9c8af3d2f74.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE WORLD (SA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/world/index.m3u8
-#EXTINF:-1 tvg-id="VH1 (USA)" tvg-name="VH1 (USA)" tvg-logo="https://vignette.wikia.nocookie.net/scream/images/3/3f/VH1_Logo.png/revision/latest?cb=20190625014409"group-title="MUSIC / YOUTH CHANNELS",VH1 (IN)
+#EXTINF:-1 tvg-id="VH1 (USA)" tvg-name="VH1 (USA)" tvg-logo="https://vignette.wikia.nocookie.net/scream/images/3/3f/VH1_Logo.png/revision/latest?cb=20190625014409"group-title="MUSIC / YOUTH CHANNELS",VH1 (USA)
 http://185.59.223.82:8080/vh1/mpegts
 #EXTINF:-1 tvg-id="MTV (USA)" tvg-name="MTV (USA)" tvg-logo="https://media.graytvinc.com/images/810*455/MTV-logo_720.jpg"group-title="MUSIC / YOUTH CHANNELS",MTV (USA)
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
@@ -211,7 +211,7 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 http://216.144.250.174/Zee_TV_HD_o1/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY TV HD (IN)" tvg-name="SONY TV HD (IN)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-set-hd-logo-300x300.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY TV HD (IN) VPN
 http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
-#EXTINF:-1 tvg-id="SONY SAB HD (IN)" tvg-name="SONY SAB HD (IN)"tvg-logo=" http://httpsony-a.akamaihd.net/5182475815001/5182475815001_6071991162001_5613710948001-th.jpg?pubId=5182475815001&videoId=5613710948001"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY SAB HD (IN) VPN
+#EXTINF:-1 tvg-id="SONY SAB HD (IN)" tvg-name="SONY SAB HD (IN)"tvg-logo="http://httpsony-a.akamaihd.net/5182475815001/5182475815001_6071991162001_5613710948001-th.jpg?pubId=5182475815001&videoId=5613710948001"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY SAB HD (IN) VPN
 http://216.144.250.174/S0ny_Sab_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR PLUS (IN)" tvg-name="STAR PLUS (UK)" tvg-logo="https://pbs.twimg.com/profile_images/1082680958506041345/TJCrmgb2_400x400.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS (UK) VPN
 http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
