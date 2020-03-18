@@ -246,3 +246,4 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY (IN)" tvg-name="DISCOVERY (IN)" tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo.png"group-title="INFORMATION & ANIMAL CHANNELS",DISCOVERY (IN)
 http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p1.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY KIDS (IN)" tvg-name="DISCOVERY KIDS (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/800px-2016_Discovery_Kids_logo.svg.png"group-title="KIDS CHANNELS",DISCOVERY KIDS (IN)
+http://streamidvo.multitvsolution.in//live//DiscoveryKidsHindi-a//p1.m3u8
