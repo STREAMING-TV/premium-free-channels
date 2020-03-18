@@ -149,7 +149,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/theqyou/index.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddbharati/index.m3u8
 #EXTINF:-1 tvg-id="ZEE WORLD (SA)" tvg-name="ZEE WORLD (SA)" tvg-logo="https://uploads.tapatalk-cdn.com/20180221/7e136e8cba7a1e518565a9c8af3d2f74.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE WORLD (SA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/world/index.m3u8
-#EXTINF:-1 tvg-id="VH1 (USA)" tvg-name="VH1 (USA)" tvg-logo="https://vignette.wikia.nocookie.net/scream/images/3/3f/VH1_Logo.png/revision/latest?cb=20190625014409"group-title="MUSIC / YOUTH CHANNELS",VH1 (USA)
+#EXTINF:-1 tvg-id="VH1 (USA)" tvg-name="VH1 (USA)" tvg-logo="https://mms.businesswire.com/media/20180301006441/en/643788/22/2017VH1.jpg"group-title="MUSIC / YOUTH CHANNELS",VH1 (USA)
 http://185.59.223.82:8080/vh1/mpegts
 #EXTINF:-1 tvg-id="MTV (USA)" tvg-name="MTV (USA)" tvg-logo="https://media.graytvinc.com/images/810*455/MTV-logo_720.jpg"group-title="MUSIC / YOUTH CHANNELS",MTV (USA)
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
