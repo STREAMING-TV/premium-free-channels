@@ -211,7 +211,7 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 http://216.144.250.174/Zee_TV_HD_o1/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY TV HD (IN)" tvg-name="SONY TV HD (IN)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-set-hd-logo-300x300.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY TV HD (IN) VPN
 http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
-#EXTINF:-1 tvg-id="SONY SAB HD (IN)" tvg-name="SONY SAB HD (IN)"tvg-logo="http://httpsony-a.akamaihd.net/5182475815001/5182475815001_6071991162001_5613710948001-th.jpg?pubId=5182475815001&videoId=5613710948001"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY SAB HD (IN) VPN
+#EXTINF:-1 tvg-id="SONY SAB HD (IN)" tvg-name="SONY SAB HD (IN)"tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-sab-hd-logo-300x300.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY SAB HD (IN) VPN
 http://216.144.250.174/S0ny_Sab_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR PLUS (IN)" tvg-name="STAR PLUS (UK)" tvg-logo="https://pbs.twimg.com/profile_images/1082680958506041345/TJCrmgb2_400x400.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS (UK) VPN
 http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
