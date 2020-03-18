@@ -261,3 +261,4 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/01.m3u8
 #EXTINF:-1 tvg-id="NAT GEO WILD (ME)" tvg-name="NAT GEO WILD (ME)" tvg-logo="https://media.nationalgeographic.org/assets/photos/107/922/51310b53-3ebc-4b17-8bf4-b153c5d42e28_c278-0-2271-1246_r800x500.png?4a45e0f0aa646b78e6b7a628d1da9b2342bc90fe"group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (ME)
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/01.m3u8
+#EXTINF:-1 tvg-id="ID (IN)" tvg-name="ID (IN)" tvg-logo="https://pbs.twimg.com/profile_images/890679019758342144/t1ifF4LF_400x400.jpg"group-title="INFORMATION / WILDLIFE CHANNELS",ID (IN)
