@@ -241,11 +241,12 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/ind
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="NTV MOVIES (IN)" tvg-name="NTV MOVIES (IN)" tvg-logo="https://yt3.ggpht.com/a/AGF-l79sQNcWNi4F9AAWg9_YYohmMX2qKux5I1U5XA=s900-c-k-c0xffffffff-no-rj-mo"group-title="MOVIES CHANNELS",NTV MOVIES (IN)
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
-#EXTINF:-1 tvg-id="MASTIII (IN)" tvg-name="MASTIII (IN)" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2017/12/mastiii-logo_8.jpg&w=620&h=350&zc=1&q=100"group-title="MUSIC CHANNELS",MASTIII (IN)
+#EXTINF:-1 tvg-id="MASTIII (IN)" tvg-name="MASTIII (IN)" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2017/12/mastiii-logo_8.jpg&w=620&h=350&zc=1&q=100"group-title="MUSIC / YOUTH CHANNELS",MASTIII (IN)
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY (IN)" tvg-name="DISCOVERY (IN)" tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo.png"group-title="INFORMATION & ANIMAL CHANNELS",DISCOVERY (IN)
 http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p1.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY KIDS (IN)" tvg-name="DISCOVERY KIDS (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/800px-2016_Discovery_Kids_logo.svg.png"group-title="KIDS CHANNELS",DISCOVERY KIDS (IN)
 http://streamidvo.multitvsolution.in//live//DiscoveryKidsHindi-a//p1.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY TURBO (IN)" tvg-name="DISCOVERY TURBO (IN)" tvg-logo="https://discovery-latam-prod.imgix.net/files/2018-12/TURBO-Logo-white_0.png"group-title="INFORMATION & ANIMAL CHANNELS",DISCOVERY TURBO (IN)
+#EXTINF:-1 tvg-id="DISCOVERY TURBO (IN)" tvg-name="DISCOVERY TURBO (IN)" tvg-logo="https://discovery-latam-prod.imgix.net/files/2018-12/TURBO-Logo-white_0.png"group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY TURBO (IN)
 http://streamidvo.multitvsolution.in//live//TurboEng-a//p1.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE (IN)" tvg-name="DISCOVERY SCIENCE (IN)" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/554_300.png"group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY SCIENCE  (IN)
