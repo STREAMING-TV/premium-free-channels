@@ -244,3 +244,4 @@ http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1 tvg-id="MASTIII (IN)" tvg-name="MASTIII (IN)" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2017/12/mastiii-logo_8.jpg&w=620&h=350&zc=1&q=100"group-title="MUSIC CHANNELS",MASTIII (IN)
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY (IN)" tvg-name="DISCOVERY (IN)" tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo.png"group-title="INFORMATION & ANIMAL CHANNELS",DISCOVERY (IN)
+http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p1.m3u8
