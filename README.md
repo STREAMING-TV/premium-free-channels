@@ -264,3 +264,4 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/01.m3u8
 #EXTINF:-1 tvg-id="ID (IN)" tvg-name="ID (IN)" tvg-logo="https://pbs.twimg.com/profile_images/890679019758342144/t1ifF4LF_400x400.jpg"group-title="INFORMATION / WILDLIFE CHANNELS",ID (IN)
 https://streamidvo.multitvsolution.in/live/Investigation_Discovery-a/p2.m3u8
 #EXTINF:-1 tvg-id="SONY MIX (IN)" tvg-name="SONY MIX (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sony_Mix.jpg"group-title="MUSIC / YOUTH CHANNELS",SONY MIX (IN)
+https://sony247channels.akamaized.net/hls/live/2011739/SonyMixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
