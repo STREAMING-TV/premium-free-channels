@@ -258,3 +258,4 @@ http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p1.m3u8
 #EXTINF:-1 tvg-id="NAT GEO (ME)" tvg-name="NAT GEO (ME)" tvg-logo="http://pluspng.com/img-png/national-geographic-logo-png--1900.jpg"group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO (ME)
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
 #EXTINF:-1 tvg-id="NAT GEO PEOPLE (ME)" tvg-name="NAT GEO PEOPLE (ME)" tvg-logo="https://banner2.cleanpng.com/20180409/jte/kisspng-nat-geo-people-national-geographic-television-chan-eslimi-5acbd9458a35c9.8843066715233088695661.jpg"group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO PEOPLE (ME)
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/01.m3u8
