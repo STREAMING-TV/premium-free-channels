@@ -1,4 +1,4 @@
-Ft#EXTM3U TV
+#EXTM3U TV
 #EXTINF:-1,tvg-id="Channel_News_Asia (INT)" tvg-name="Channel News Asia (INT)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png"group-title="NEWS / BUSINESS CHANNELS",Channel News Asia (INT)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="Channel_News_Asia (INT)" tvg-name="Channel News Asia (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png"group-title="NEWS / BUSINESS CHANNELS",Channel News Asia (INT)
@@ -252,3 +252,4 @@ http://streamidvo.multitvsolution.in//live//TurboEng-a//p1.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE (IN)" tvg-name="DISCOVERY SCIENCE (IN)" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/554_300.png"group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY SCIENCE  (IN)
 http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p1.m3u8
 #EXTINF:-1 tvg-id="ANIMAL PLANET HD (IN)" tvg-name="ANIMAL PLANET HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635"group-title="INFORMATION / WILDLIFE CHANNELS",ANIMAL PLANET HD (IN)
+http://streamidvo.multitvsolution.in/live/APHDHindi-a/p1.m3u8
