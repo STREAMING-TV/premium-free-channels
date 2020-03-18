@@ -113,7 +113,7 @@ http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hw
 http://cdn.adultiptv.net/brunette.m3u8
 #EXTINF:-1 tvg-id="GAY (INT)" tvg-name="GAY (INT)" tvg-logo="https://logodix.com/logo/1774845.png"group-title="ADULT / SPORTS CHANNELS",GAY (INT)
 http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 tvg-id="PORNSTAR (INT)" tvg-name="PORNSTAR (INT)" tvg-logo="https://d172h4vc197skd.cloudfront.net/images/8f/6b/8f6bf93c0e4afecc6ff97769c855beee_1578763e3f90_t.png"group-title="ADULT /SPORTS CHANNELS",PORNSTAR (INT)
+#EXTINF:-1 tvg-id="PORNSTAR (INT)" tvg-name="PORNSTAR (INT)" tvg-logo="https://d172h4vc197skd.cloudfront.net/images/8f/6b/8f6bf93c0e4afecc6ff97769c855beee_1578763e3f90_t.png"group-title="ADULT / SPORTS CHANNELS",PORNSTAR (INT)
 http://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1 tvg-id="BSX24 (INT)" tvg-name="BSX24 (INT)" tvg-logo="https://s3.amazonaws.com/ctm-tm/003594141.JPG"group-title="ADULT / SPORTS CHANNELS",BSX24 (INT)
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
@@ -181,7 +181,7 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_400.m3u8
 https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
 #EXTINF:-1 tvg-id="HISTORY2 (ME)" tvg-name="HISTORY2 (ME)" tvg-logo="http://3.bp.blogspot.com/-RzXst6jpzBw/Toi5hYDW9AI/AAAAAAAACPA/jFKuVx6JcaQ/s500/History+2+logo+2011.png"group-title="INFORMATION / WILDLIFE CHANNELS",HISTORY2 (ME)
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
-#EXTINF:-1 tvg-id="NAT GEO PEOPLE (ME)" tvg-name="NAT GEO PEOPLE (ME)" tvg-logo="https://neulioneuosn-a.akamaihd.net/u/osn/wavo/thumbs/channels/NAT-GEO-PEOPLE.png"group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO PEOPLE (ME)
+#EXTINF:-1 tvg-id="NAT GEO PEOPLE (ME)" tvg-name="NAT GEO PEOPLE (ME)" tvg-logo="https://neulioneuosn-a.akamaihd.net/u/osn/wavo/thumbs/channels/NAT-GEO-PEOPLE.png"group-title="LIFESTYLE / TRAVELING CHANNELS",NAT GEO PEOPLE (ME)
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 #EXTINF:-1 tvg-id="NAT GEO WILD (IN)" tvg-name="NAT GEO WILD (IN)" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png"group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (IN)
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
@@ -199,7 +199,7 @@ http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1 tvg-id="ZEE CINEMA (APAC)" tvg-name="ZEE CINEMA (APAC)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2020/01/Zee-cinema.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA (APAC)
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1 tvg-id="STAR GOLD HD (IND)" tvg-name="STAR GOLD HD (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Star_Gold_Logo.jpg"group-title="ENTERTAINMENT ) MOVIES CHANNELS",STAR GOLD HD (IND)
+#EXTINF:-1 tvg-id="STAR GOLD HD (IND)" tvg-name="STAR GOLD HD (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Star_Gold_Logo.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD HD (IND)
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 tvg-id="MBC Bollywood (ME)" tvg-name="MBC Bollywood (ME)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/MBC_Bollywood_logo.jpeg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MBC Bollywood (ME)
 http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
@@ -235,7 +235,7 @@ http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY MAX 2 (UK)" tvg-name="SONY MAX 2 (UK)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/02/Sony-Max-2-logo-2-2-2.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY MAX 2 (UK) VPN
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
-#EXTINF:-1 tvg-id="B4U KADAK (IN)" tvg-name="B4U KADAK (IN)" tvg-logo="https://businessfortnight.com/wp-content/uploads/2019/08/B4U_Kadak.jpg"group-title="MOVIES CHANNELS",B4U KADAK (IN)
+#EXTINF:-1 tvg-id="B4U KADAK (IN)" tvg-name="B4U KADAK (IN)" tvg-logo="https://businessfortnight.com/wp-content/uploads/2019/08/B4U_Kadak.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",B4U KADAK (IN)
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="B4U MOVIES (IN)" tvg-name="B4U MOVIES (IN)" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2017/03/b4umovies001.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",B4U MOVIES (IN)
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
@@ -243,7 +243,7 @@ http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/inde
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1 tvg-id="MASTIII (IN)" tvg-name="MASTIII (IN)" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2017/12/mastiii-logo_8.jpg&w=620&h=350&zc=1&q=100"group-title="MUSIC / YOUTH CHANNELS",MASTIII (IN)
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY (IN)" tvg-name="DISCOVERY (IN)" tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo.png"group-title="INFORMATION & WILDLIFE CHANNELS",DISCOVERY (IN)
+#EXTINF:-1 tvg-id="DISCOVERY (IN)" tvg-name="DISCOVERY (IN)" tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo.png"group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY (IN)
 http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p1.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY KIDS (IN)" tvg-name="DISCOVERY KIDS (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/800px-2016_Discovery_Kids_logo.svg.png"group-title="KIDS CHANNELS",DISCOVERY KIDS (IN)
 http://streamidvo.multitvsolution.in//live//DiscoveryKidsHindi-a//p1.m3u8
