@@ -251,3 +251,4 @@ http://streamidvo.multitvsolution.in//live//DiscoveryKidsHindi-a//p1.m3u8
 http://streamidvo.multitvsolution.in//live//TurboEng-a//p1.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE (IN)" tvg-name="DISCOVERY SCIENCE (IN)" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/554_300.png"group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY SCIENCE  (IN)
 http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p1.m3u8
+#EXTINF:-1 tvg-id="ANIMAL PLANET HD (IN)" tvg-name="ANIMAL PLANET HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635"group-title="INFORMATION / WILDLIFE CHANNELS",ANIMAL PLANET HD (IN)
