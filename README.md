@@ -254,3 +254,4 @@ http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p1.m3u8
 #EXTINF:-1 tvg-id="ANIMAL PLANET HD (IN)" tvg-name="ANIMAL PLANET HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635"group-title="INFORMATION / WILDLIFE CHANNELS",ANIMAL PLANET HD (IN)
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p1.m3u8
 #EXTINF:-1 tvg-id="TLC HD (IN)" tvg-name="TLC HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TLC-HD-Logo_2016.svg/1200px-TLC-HD-Logo_2016.svg.png"group-title="LIFESTYLE / TRAVELING CHANNELS",TLC HD (IN)
+http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p1.m3u8
