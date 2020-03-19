@@ -303,3 +303,4 @@ https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in.m3u8
 https://m-c03-j2apps.s.llnwi.net/hls/6640.SkystarMusic.in.m3u8
 #EXTINF:-1 tvg-id="BOX CINEMA (IN)" tvg-name="BOX CINEMA (IN)" tvg-logo="http://boxcinemedia.com/assets/img/logo.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",BOX CINEMA (IN) 
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
+ #EXTINF:-1 tvg-id="ZEE BOLLYWOOD (IN)" tvg-name="ZEE BOLLYWOOD (IN)" tvg-logo="https://www.rapidtvnews.com/images/2018/08/Zee_bollywood_21AUg2018.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE BOLLYWOOD (IN)
