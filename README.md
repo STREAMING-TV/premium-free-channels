@@ -306,3 +306,4 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
 #EXTINF:-1 tvg-id="ZEE BOLLYWOOD (IN)" tvg-name="ZEE BOLLYWOOD (IN)" tvg-logo="https://www.rapidtvnews.com/images/2018/08/Zee_bollywood_21AUg2018.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE BOLLYWOOD (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/classic/index.m3u8
 #EXTINF:-1 tvg-id="ZEE ANMOL CINEMA (IN)" tvg-name="ZEE ANMOL CINEMA (IN)" tvg-logo="https://www.rapidtvnews.com/images/2018/08/Zee_bollywood_21AUg2018.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE ANMOL CINEMA (IN)
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zanmolcnm/index.m3u8
