@@ -289,3 +289,4 @@ https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=e
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/aajtak.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="TEZ (IN)" tvg-name="TEZ (IN)" tvg-logo="https://i.ytimg.com/vi/Qm4vvA-i3Rc/maxresdefault.jpg"group-title="NEWS / BUSINESS CHANNELS",TEZ (IN)
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/aajtaktez.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DD SPORTS (IN)" tvg-name="DD SPORTS (IN)" tvg-logo="https://doordarshan.gov.in/sites/default/files/dd-sports-logo.png"group-title=" ADULT / SPORTS CHANNELS",DD SPORTS (IN)
