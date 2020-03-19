@@ -295,3 +295,4 @@ https://m-c20-j2apps.s.llnwi.net/hls/0179.DDSports.in.m3u8
 https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
 #EXTINF:-1 tvg-id="BFLIX MOVIES (IN)" tvg-name="BFLIX MOVIES (IN)" tvg-logo="https://3.bp.blogspot.com/-bFu3Qcuw04I/V1LablvHTJI/AAAAAAAAQrU/ZcUycyxMFN8OTglvEE1hG1edUvVHqO4WQCLcB/s1600/bflix_logo.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",BFLIX MOVIES (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1 tvg-id="ABZY MOVIES (IN)" tvg-name="ABZY MOVIES (IN)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/38da866a0646683c.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ABZY MOVIES (IN)
