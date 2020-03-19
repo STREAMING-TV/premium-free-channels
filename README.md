@@ -308,3 +308,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/classic/index.m3u8
 #EXTINF:-1 tvg-id="ZEE ANMOL CINEMA (IN)" tvg-name="ZEE ANMOL CINEMA (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_list/zee_anmol_cinem_1599910972.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE ANMOL CINEMA (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zanmolcnm/index.m3u8
 #EXTINF:-1 tvg-id="ZEE ANMOL (IN)" tvg-name="ZEE ANMOL (IN)" tvg-logo="https://www.zeeinternational.co.in/wp-content/uploads/2018/02/Zee-Anmol.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE ANMOL (IN)
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeeanmol/index.m3u8
