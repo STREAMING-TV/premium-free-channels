@@ -1,4 +1,4 @@
-KO#EXTM3U TV
+#EXTM3U TV
 #EXTINF:-1,tvg-id="Channel_News_Asia (INT)" tvg-name="Channel News Asia (INT)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png"group-title="NEWS / BUSINESS CHANNELS",Channel News Asia (INT)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="Channel_News_Asia (INT)" tvg-name="Channel News Asia (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png"group-title="NEWS / BUSINESS CHANNELS",Channel News Asia (INT)
@@ -307,3 +307,4 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/classic/index.m3u8
 #EXTINF:-1 tvg-id="ZEE ANMOL CINEMA (IN)" tvg-name="ZEE ANMOL CINEMA (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_list/zee_anmol_cinem_1599910972.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE ANMOL CINEMA (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zanmolcnm/index.m3u8
+#EXTINF:-1 tvg-id="ZEE ANMOL (IN)" tvg-name="ZEE ANMOL (IN)" tvg-logo="https://www.zeeinternational.co.in/wp-content/uploads/2018/02/Zee-Anmol.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE ANMOL (IN)
