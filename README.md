@@ -1,4 +1,4 @@
-#EXTM3U TV
+KO#EXTM3U TV
 #EXTINF:-1,tvg-id="Channel_News_Asia (INT)" tvg-name="Channel News Asia (INT)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png"group-title="NEWS / BUSINESS CHANNELS",Channel News Asia (INT)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="Channel_News_Asia (INT)" tvg-name="Channel News Asia (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png"group-title="NEWS / BUSINESS CHANNELS",Channel News Asia (INT)
@@ -303,4 +303,5 @@ https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in.m3u8
 https://m-c03-j2apps.s.llnwi.net/hls/6640.SkystarMusic.in.m3u8
 #EXTINF:-1 tvg-id="BOX CINEMA (IN)" tvg-name="BOX CINEMA (IN)" tvg-logo="http://boxcinemedia.com/assets/img/logo.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",BOX CINEMA (IN) 
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
- #EXTINF:-1 tvg-id="ZEE BOLLYWOOD (IN)" tvg-name="ZEE BOLLYWOOD (IN)" tvg-logo="https://www.rapidtvnews.com/images/2018/08/Zee_bollywood_21AUg2018.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE BOLLYWOOD (IN)
+#EXTINF:-1 tvg-id="ZEE BOLLYWOOD (IN)" tvg-name="ZEE BOLLYWOOD (IN)" tvg-logo="https://www.rapidtvnews.com/images/2018/08/Zee_bollywood_21AUg2018.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE BOLLYWOOD (IN)
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/classic/index.m3u8
