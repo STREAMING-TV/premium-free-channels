@@ -32,7 +32,7 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="Star World (ME)" tvg-name="Star World (ME)"  tvg-logo="https://content.osn.com/bob/745x419/STW.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",Star World (ME)
 http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="FILMY (IN)" tvg-name=FILMY (IN)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sahara-filmi-tv-logo.svg/800px-Sahara-filmi-tv-logo.svg.png"group-title=" ADULT / SPORTS CHANNELS",FILMY (IN)
-https://m-c20-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
+https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/psZPO9A.png" group-title="NEWS / BUSINESS CHANNELS",Times Now (IN)
 https://m-c20-j2apps.s.llnwi.net/hls/0087.TimesNow.in.m3u8
 #EXTINF:-1 tvg-id="Zee_TV_HD (IN)" tvg-name="Zee TV HD (IN)" tvg-logo="https://i.ytimg.com/vi/1afZq9TFqwc/maxresdefault.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",Zee TV HD (IN)
