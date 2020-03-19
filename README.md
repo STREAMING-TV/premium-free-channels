@@ -318,3 +318,4 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:-1 tvg-id="MONORANJAN TV (IN)" tvg-name="MANORANJAN TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MANORANJAN TV (IN)
 https://m-c20-j2apps.s.llnwi.net/hls/0449.ManoranjanTV.in.m3u8
 #EXTINF:-1 tvg-id="MAHA MOVIE (IN)" tvg-name="MAHA MOVIE (IN)" tvg-logo="https://ambujtiwari1.files.wordpress.com/2015/11/maha-movie-logo.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MAHA MOVIE (IN)
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
