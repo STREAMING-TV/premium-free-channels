@@ -294,3 +294,4 @@ https://m-c20-j2apps.s.llnwi.net/hls/0179.DDSports.in.m3u8
 #EXTINF:-1 tvg-id="FIRANGI (IN)" tvg-name="FIRANGI (IN)" tvg-logo="http://schoolatgo.info/assets/images/partnerslogo/firangi.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",FIRANGI (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
 #EXTINF:-1 tvg-id="BFLIX MOVIES (IN)" tvg-name="BFLIX MOVIES (IN)" tvg-logo="https://3.bp.blogspot.com/-bFu3Qcuw04I/V1LablvHTJI/AAAAAAAAQrU/ZcUycyxMFN8OTglvEE1hG1edUvVHqO4WQCLcB/s1600/bflix_logo.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",BFLIX MOVIES (IN)
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
