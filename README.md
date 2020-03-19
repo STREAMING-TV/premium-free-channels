@@ -292,3 +292,4 @@ https://sonyent.pc.cdn.bitgravity.com/sonyent/live/aajtaktez.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DD SPORTS (IN)" tvg-name="DD SPORTS (IN)" tvg-logo="https://doordarshan.gov.in/sites/default/files/dd-sports-logo.png"group-title=" ADULT / SPORTS CHANNELS",DD SPORTS (IN)
 https://m-c20-j2apps.s.llnwi.net/hls/0179.DDSports.in.m3u8
 #EXTINF:-1 tvg-id="FIRANGI (IN)" tvg-name="FIRANGI (IN)" tvg-logo="http://schoolatgo.info/assets/images/partnerslogo/firangi.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",FIRANGI (IN)
+https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
