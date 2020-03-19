@@ -315,3 +315,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/bigmagic/index.m3u
 https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-id="MONORANJAN MOVIES (IN)" tvg-name="MANORANJAN MOVIES (IN)" tvg-logo="https://www.shatayupathy.com/wp-content/uploads/2018/05/1-1.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MANORANJAN MOVIES (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:-1 tvg-id="MONORANJAN TV (IN)" tvg-name="MANORANJAN TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MANORANJAN TV (IN)
