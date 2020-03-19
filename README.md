@@ -302,3 +302,4 @@ https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in.m3u8
 #EXTINF:-1 tvg-id="ABZY COOL (IN)" tvg-name="ABZY COOL (IN)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/729823977c1107fb.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ABZY COOL (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/6640.SkystarMusic.in.m3u8
 #EXTINF:-1 tvg-id="BOX CINEMA (IN)" tvg-name="BOX CINEMA (IN)" tvg-logo="http://boxcinemedia.com/assets/img/logo.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",BOX CINEMA (IN) 
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
