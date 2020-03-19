@@ -231,7 +231,7 @@ http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
 http://216.144.250.174/Zee_ActIon_HD/index.m3u8
 #EXTINF:-1 tvg-id="STAR GOLD HD (IN)" tvg-name="STAR GOLD HD (IN)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD HD (IN) VPN
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SONY MAX HD (IN)" tvg-name="SONY MAX HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY MAX HD (IN) VPN
+#EXTINF:-1 tvg-id="SONY MAX HD (IN)" tvg-name="SONY MAX HD (IN)" tvg-logo="https://i.ytimg.com/vi/em5ay4irr2s/maxresdefault.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY MAX HD (IN) VPN
 http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY MAX 2 (UK)" tvg-name="SONY MAX 2 (UK)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/02/Sony-Max-2-logo-2-2-2.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY MAX 2 (UK) VPN
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
@@ -251,7 +251,7 @@ http://streamidvo.multitvsolution.in//live//DiscoveryKidsHindi-a//p1.m3u8
 http://streamidvo.multitvsolution.in//live//TurboEng-a//p1.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE (IN)" tvg-name="DISCOVERY SCIENCE (IN)" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/554_300.png"group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY SCIENCE  (IN)
 http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p1.m3u8
-#EXTINF:-1 tvg-id="ANIMAL PLANET HD (IN)" tvg-name="ANIMAL PLANET HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635"group-title="INFORMATION / WILDLIFE CHANNELS",ANIMAL PLANET HD (IN)
+#EXTINF:-1 tvg-id="ANIMAL PLANET HD (IN)" tvg-name="ANIMAL PLANET HD (IN)" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/animal-planet-hd-large-new.png"group-title="INFORMATION / WILDLIFE CHANNELS",ANIMAL PLANET HD (IN)
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p1.m3u8
 #EXTINF:-1 tvg-id="TLC HD (IN)" tvg-name="TLC HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TLC-HD-Logo_2016.svg/1200px-TLC-HD-Logo_2016.svg.png"group-title="LIFESTYLE / TRAVELING CHANNELS",TLC HD (IN)
 http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p1.m3u8
