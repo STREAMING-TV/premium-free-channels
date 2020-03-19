@@ -316,3 +316,4 @@ https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdn
 #EXTINF:-1 tvg-id="MONORANJAN MOVIES (IN)" tvg-name="MANORANJAN MOVIES (IN)" tvg-logo="https://www.shatayupathy.com/wp-content/uploads/2018/05/1-1.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MANORANJAN MOVIES (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:-1 tvg-id="MONORANJAN TV (IN)" tvg-name="MANORANJAN TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MANORANJAN TV (IN)
+https://m-c20-j2apps.s.llnwi.net/hls/0449.ManoranjanTV.in.m3u8
