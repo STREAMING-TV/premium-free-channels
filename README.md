@@ -297,3 +297,4 @@ https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-id="ABZY MOVIES (IN)" tvg-name="ABZY MOVIES (IN)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/38da866a0646683c.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ABZY MOVIES (IN)
 https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
+#EXTINF:-1 tvg-id="ABZY DHAKAD (IN)" tvg-name="ABZY DHAKAD (IN)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/3548638c9e35adea.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ABZY DHAKAD (IN)
