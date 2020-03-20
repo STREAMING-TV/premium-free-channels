@@ -324,3 +324,4 @@ https://sony247channels.akamaized.net/hls/live/2004806/SONYESPNSD/master.m3u8?hd
 #EXTINF:-1 tvg-id="SONY SIX HD (IN)" tvg-name="SONY SIX HD (IN)"tvg-logo="https://cricstands.com/wp-content/uploads/2019/05/Sony-Six-Live-Streaming-CWC-2019.jpg"group-title="ADULT / SPORTS CHANNELS",SONY SIX HD (IN)
 https://sony247channels.akamaized.net/hls/live/2004805-b/SonySixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 tvg-id="SONY SIX (IN)" tvg-name="SONY SIX (IN)"tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png"group-title="ADULT / SPORTS CHANNELS",SONY SIX (IN)
+http://109.169.56.170/hls/sonysix.m3u8
