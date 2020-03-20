@@ -342,3 +342,4 @@ https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
 #EXTINF:-1 tvg-id="HOUSE FULL MOVIES (IN)" tvg-name="HOUSE FULL MOVIES (IN)" tvg-logo="https://kanchanskytv.com.np/wp-content/uploads/2018/09/432.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",HOUSE FULL MOVIES (IN)
 https://m-c04-j2apps.s.llnwi.net/hls/7000.HousefullMovie.in.m3u8
 #EXTINF:-1 tvg-id="EPIC (IN)" tvg-name="EPIC (IN)" tvg-logo="http://www.epicchannel.com/wp-content/uploads/2018/01/EpicLogo.jpg"group-title="INFORMATION / WILDLIFE CHANNELS",EPIC (IN)
+https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
