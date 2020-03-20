@@ -277,7 +277,7 @@ https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=e
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-id="SONY BBC EARTH (IN)" tvg-name="SONY BBC EARTH (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_773/PORTRAIT/qrQ8Ti1k.png"group-title="INFORMATION / WILDLIFE CHANNELS",BBC EARTH HD (IN)
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="SONY ESPN HD (IN)" tvg-name="SONY ESPN HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/92/SEPN-HD.png/revision/latest?cb=20161126182158"group-title="ADULT / SPORTS CHANNELS",SONY ESPN HD (IN)
+#EXTINF:-1 tvg-id="SONY ESPN HD (IN)" tvg-name="SONY ESPN HD (IN)" tvg-logo="https://www.adgully.com/img/400/65764_image001.png.jpg"group-title="ADULT / SPORTS CHANNELS",SONY ESPN HD (IN)
 https://sony247channels.akamaized.net/hls/live/2004800/SONYESPNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-id="SONY YAY (IN)" tvg-name="SONY YAY (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg"group-title="KIDS CHANNELS",SONY YAY (IN)
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
@@ -325,3 +325,4 @@ https://sony247channels.akamaized.net/hls/live/2004806/SONYESPNSD/master.m3u8?hd
 https://sony247channels.akamaized.net/hls/live/2004805-b/SonySixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 tvg-id="SONY SIX (IN)" tvg-name="SONY SIX (IN)"tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png"group-title="ADULT / SPORTS CHANNELS",SONY SIX (IN)
 http://109.169.56.170/hls/sonysix.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 3 HD (IN)" tvg-name="SONY TEN 3 HD (IN)"tvg-logo="https://3.bp.blogspot.com/-0hg7e4CPb6E/W1w7XkB8EJI/AAAAAAAAAdk/P3_5_IQmM-gJ5MQjMJ9UsncisB7PDUWqgCLcBGAs/s1600/Sony-Ten-3-HD-1-300x240.png"group-title="ADULT / SPORTS CHANNELS",SONY TEN 3 HD (IN)
