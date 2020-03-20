@@ -340,3 +340,4 @@ https://sony247channels.akamaized.net/hls/live/2004807/SonyTen1SD/master.m3u8?hd
 #EXTINF:-1 tvg-id="MOVIE PLUS (IN)" tvg-name="MOVIE PLUS (IN)" tvg-logo="https://i.ytimg.com/vi/bJt_vkZxr78/hqdefault.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MOVIE PLUS (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
 #EXTINF:-1 tvg-id="MOVIE PLUS (IN)" tvg-name="MOVIE PLUS (IN)" tvg-logo="https://i.ytimg.com/vi/bJt_vkZxr78/hqdefault.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MOVIE PLUS (IN)
+https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
