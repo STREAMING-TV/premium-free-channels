@@ -229,7 +229,7 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721
 http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZEE ACTION (IN)" tvg-name="ZEE ACTION (IN)" tvg-logo="https://www.adgully.com/img/800/201909/jby7kv1wjoonygtffhu5.png.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE ACTION (IN) VPN
 http://216.144.250.174/Zee_ActIon_HD/index.m3u8
-#EXTINF:-1 tvg-id="STAR GOLD HD (IN)" tvg-name="STAR GOLD HD (IN)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD HD (IN) VPN
+#EXTINF:-1 tvg-id="STAR GOLD HD (IN)" tvg-name="STAR GOLD HD (IN)" tvg-logo="https://solutionfun.com/wp-content/uploads/2019/03/star-gold.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD HD (IN) VPN
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SONY MAX HD (IN)" tvg-name="SONY MAX HD (IN)" tvg-logo="https://i.ytimg.com/vi/em5ay4irr2s/maxresdefault.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY MAX HD (IN) VPN
 http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
@@ -339,5 +339,5 @@ https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hd
 https://sony247channels.akamaized.net/hls/live/2004807/SonyTen1SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 tvg-id="MOVIE PLUS (IN)" tvg-name="MOVIE PLUS (IN)" tvg-logo="https://i.ytimg.com/vi/bJt_vkZxr78/hqdefault.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MOVIE PLUS (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
-#EXTINF:-1 tvg-id="MOVIE PLUS (IN)" tvg-name="MOVIE PLUS (IN)" tvg-logo="https://i.ytimg.com/vi/bJt_vkZxr78/hqdefault.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MOVIE PLUS (IN)
-https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
+#EXTINF:-1 tvg-id="HOUSE FULL MOVIES (IN)" tvg-name="HOUSE FULL MOVIES (IN)" tvg-logo=" "group-title="ENTERTAINMENT / MOVIES CHANNELS",MOVIE PLUS (IN)
+https://m-c04-j2apps.s.llnwi.net/hls/7000.HousefullMovie.in.m3u8
