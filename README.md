@@ -79,8 +79,8 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/smileusa/index.m3u
 http://103.111.120.46/hls/Colors.m3u8
 #EXTINF:-1 tvg-id="COLORS HD (IN)" tvg-name="COLORS HD (IN)" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/COLORS-HD.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",COLORS HD (IN)
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="AL JAZEERA (USA)" tvg-name="AL JAZEERA (USA)" tvg-logo="http://logok.org/wp-content/uploads/2014/04/Aljazeera-logo-English-1024x768.png"group-title="NEWS / BUSINESS CHANNELS",AL JAZEERA (USA)
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
+#EXTINF:-1 tvg-id="MULTIPLEX (IN)" tvg-name="MULTIPLEX (IN)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/multiplex-tv-channel-logo-300x300.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MULTIPLEX (IN)
+http://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in.m3u8 
 #EXTINF:-1 tvg-id="ZEE CAFE (IN)" tvg-name="ZEE CAFE (IN)" tvg-logo="https://www.adgully.com/img/800/202001/zee-cafe-logo.png.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CAFE (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecafesd/index.m3u8
 #EXTINF:-1 tvg-id="& PRIVE HD (IN)" tvg-name="& PRIVE HD (IN)" tvg-logo="http://bestmediainfo.com/wp-content/uploads/2017/09/andPrive-HD_6.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",& PRIVE HD (IN)
