@@ -326,3 +326,4 @@ https://sony247channels.akamaized.net/hls/live/2004805-b/SonySixSD/master.m3u8?h
 #EXTINF:-1 tvg-id="SONY SIX (IN)" tvg-name="SONY SIX (IN)"tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png"group-title="ADULT / SPORTS CHANNELS",SONY SIX (IN)
 http://109.169.56.170/hls/sonysix.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 3 HD (IN)" tvg-name="SONY TEN 3 HD (IN)"tvg-logo="https://3.bp.blogspot.com/-0hg7e4CPb6E/W1w7XkB8EJI/AAAAAAAAAdk/P3_5_IQmM-gJ5MQjMJ9UsncisB7PDUWqgCLcBGAs/s1600/Sony-Ten-3-HD-1-300x240.png"group-title="ADULT / SPORTS CHANNELS",SONY TEN 3 HD (IN)
+https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
