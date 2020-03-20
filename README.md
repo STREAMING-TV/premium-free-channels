@@ -211,7 +211,7 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 http://216.144.250.174/Zee_TV_HD_o1/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY TV HD (IN)" tvg-name="SONY TV HD (IN)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-set-hd-logo-300x300.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY TV HD (IN) VPN
 http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
-#EXTINF:-1 tvg-id="SONY SAB HD (IN)" tvg-name="SONY SAB HD (IN)"tvg-logo="http://httpsony-a.akamaihd.net/5182475815001/5182475815001_6071991162001_5613710948001-th.jpg?pubId=5182475815001&videoId=5613710948001"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY SAB HD (IN) VPN
+#EXTINF:-1 tvg-id="SONY SAB HD (IN)" tvg-name="SONY SAB HD (IN)"tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_576/PORTRAIT/o4akKNIp.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY SAB HD (IN) VPN
 http://216.144.250.174/S0ny_Sab_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR PLUS (IN)" tvg-name="STAR PLUS (UK)" tvg-logo="https://pbs.twimg.com/profile_images/1082680958506041345/TJCrmgb2_400x400.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS (UK) VPN
 http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
@@ -277,8 +277,8 @@ https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=e
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-id="SONY BBC EARTH (IN)" tvg-name="SONY BBC EARTH (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_773/PORTRAIT/qrQ8Ti1k.png"group-title="INFORMATION / WILDLIFE CHANNELS",BBC EARTH HD (IN)
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="TRAVEL XP HD (IN)" tvg-name="TRAVEL XP HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png"group-title="LIFESTYLE / TRAVELING CHANNELS",TRAVEL XP HD (IN)
-https://sony247channels.akamaized.net/hls/live/2008247/TravelxpHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 tvg-id="TRAVEL XP HD (IN)" tvg-name="SONY ESPN HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/92/SEPN-HD.png/revision/latest?cb=20161126182158"group-title="ADULT / SPORTS CHANNELS",SONY EDPN HD (IN)
+https://sony247channels.akamaized.net/hls/live/2004800/SONYESPNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-id="SONY YAY (IN)" tvg-name="SONY YAY (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg"group-title="KIDS CHANNELS",SONY YAY (IN)
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-id="SONY PIX HD (IN)" tvg-name="SONY PIX HD (IN)" tvg-logo="https://www.pay2easy.com/uploads/7923-Sony%20Pix.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY PIX HD (IN)
