@@ -320,3 +320,4 @@ https://m-c20-j2apps.s.llnwi.net/hls/0449.ManoranjanTV.in.m3u8
 #EXTINF:-1 tvg-id="MAHA MOVIE (IN)" tvg-name="MAHA MOVIE (IN)" tvg-logo="https://ambujtiwari1.files.wordpress.com/2015/11/maha-movie-logo.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MAHA MOVIE (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:-1 tvg-id="SONY ESPN (IN)" tvg-name="SONY ESPN (IN)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/1280px-Sony_ESPN_logo.svg.png"group-title="ADULT / SPORTS CHANNELS",SONY ESPN (IN) 
+https://sony247channels.akamaized.net/hls/live/2004806/SONYESPNSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
