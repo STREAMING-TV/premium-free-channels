@@ -129,8 +129,8 @@ http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v3a1/mono.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/live/amlst:showbox_,b180,b320,b640,b860,b1400,.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HUSTLER TV (INT)" tvg-name="HUSTLER TV (INT)" tvg-logo="http://www.mscnoticiaslatam.com/wp-content/uploads/2014/03/HustlerTV-logo.jpg"group-title="ADULT / SPORTS CHANNELS",HUSTLER TV (INT)
 http://163.172.209.107:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="BBC WORLD NEWS (INT)" tvg-name="BBC WORLD NEWS (INT)" tvg-logo="https://logovtor.com/wp-content/uploads/2019/12/bbc-world-news-logo-vector.png"group-title="NEWS / BUSINESS CHANNELS",BBC WORLD NEWS (INT)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/bbcworldnews/index.m3u8
+#EXTINF:-1 tvg-id="ZEE HINDUSTAN (IN)" tvg-name="ZEE HINDUSTAN (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Zee_Hindustan_Logo.png/799px-Zee_Hindustan_Logo.png"group-title="NEWS / BUSINESS CHANNELS",ZEE HINDUSTAN (IN)
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/hindustan/index.m3u8
 #EXTINF:-1 tvg-id="WION (IN)" tvg-name="WION (INT)" tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2018/04/25/675807-wion-1.jpg"group-title="NEWS / BUSINESS CHANNELS",WION (INT)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/wion/index.m3u8
 #EXTINF:-1 tvg-id="LIVING FOODZ (IN)" tvg-name="LIVING FOODZ (IN)" tvg-logo="http://www.bestmediainfo.com/wp-content/uploads/2015/09/Living-Foodz-logo.jpg"group-title="LIFESTYLE / TRAVELING CHANNELS",LIVING FOODZ (IN)
