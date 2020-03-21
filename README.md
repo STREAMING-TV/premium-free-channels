@@ -369,3 +369,4 @@ https://m-c15-j2apps.s.llnwi.net/hls/0281.DDBihar.in.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddbihar/index.m3u8
 #EXTINF:-1 tvg-id="INDIA TV (IN)" tvg-name="INDIA TV (IN)" tvg-logo="https://lawgupshup.com/wp-content/uploads/2018/03/LAWGUPSHUP-INDIA-TV.jpg"group-title="NEWS / BUSINESS CHANNELS",INDIA TV (IN)
 https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in.m3u8
+#EXTINF:-1 tvg-id="NEWS NATION (IN)" tvg-name="NEWS NATION (IN)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/615z6Q0He%2BL.png"group-title="NEWS / BUSINESS CHANNELS",NEWS NATION (IN)
