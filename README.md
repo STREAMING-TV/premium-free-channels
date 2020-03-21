@@ -348,3 +348,4 @@ https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
 #EXTINF:-1 tvg-id="DISHUM (IN)" tvg-name="DISHUM (IN)" tvg-logo="http://www.dishumtv.com/images/logo.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",DISHUM (IN)
 https://m-c29-j2apps.s.llnwi.net/hls/5332.Dishum.in.m3u8
 #EXTINF:-1 tvg-id="ANJAN TV (IN)" tvg-name="ANJAN TV (IN)" tvg-logo="https://www.satlogo.com/hires/aa/anjan_tv.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ANJAN TV (IN)
+https://m-c04-j2apps.s.llnwi.net/hls/1359.AnjanTV.in.m3u8
