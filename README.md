@@ -364,3 +364,4 @@ https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 #EXTINF:-1 tvg-id="9X JALWA (IN)" tvg-name="9X JALWA (IN)" tvg-logo="https://img.favpng.com/5/7/16/9x-jalwa-television-channel-9x-media-streaming-media-png-favpng-UBBEM6M48rjgxxXDuYXgXcG7S.jpg"group-title="MUSIC / YOUTH CHANNELS",9X JALWA (IN)
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
 #EXTINF:-1 tvg-id="DD BIHAR (IN)" tvg-name="DD BIHAR (IN)" tvg-logo="https://pbs.twimg.com/profile_images/861839470160510976/1WzmIIC3.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",DD BIHAR (IN)
+https://m-c15-j2apps.s.llnwi.net/hls/0281.DDBihar.in.m3u8
