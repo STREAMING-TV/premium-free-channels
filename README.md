@@ -353,3 +353,4 @@ https://m-c04-j2apps.s.llnwi.net/hls/1359.AnjanTV.in.m3u8
 https://m-c20-j2apps.s.llnwi.net/hls/2914.DDKisan.in.m3u8
 #EXTINF:-1 tvg-id="DD BHARTI (IN)" tvg-name="DD BHARTI (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/DDBharatiLogo.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",DD BHARATI (IN)
 https://m-c17-j2apps.s.llnwi.net/hls/0178.DDBharati.in.m3u8
+#EXTINF:-1 tvg-id="MASTII (IN)" tvg-name="MASTII (IN)" tvg-logo="http://saptakdigital.co.in/wp-content/uploads/2018/12/MASTII.jpg"group-title="MUSIC / YOUTH CHANNELS",MASTIII (IN) 
