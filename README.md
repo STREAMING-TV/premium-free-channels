@@ -359,3 +359,4 @@ https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8
 https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in.m3u8
 #EXTINF:-1 tvg-id="MUSIC INDIA (IN)" tvg-name="MUSIC INDIA (IN)" tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india.png"group-title="MUSIC / YOUTH CHANNELS",MUSIC INDIA (IN)
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
+#EXTINF:-1 tvg-id="9XM (IN)" tvg-name="9XM (IN)" tvg-logo="https://cdn.clipart.email/47528cb00781591f081afb045e0f3981_funmania_1600-929.jpeg"group-title="MUSIC / YOUTH CHANNELS",9XM (IN)
