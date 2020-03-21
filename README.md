@@ -349,3 +349,4 @@ https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
 https://m-c29-j2apps.s.llnwi.net/hls/5332.Dishum.in.m3u8
 #EXTINF:-1 tvg-id="ANJAN TV (IN)" tvg-name="ANJAN TV (IN)" tvg-logo="https://www.satlogo.com/hires/aa/anjan_tv.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ANJAN TV (IN)
 https://m-c04-j2apps.s.llnwi.net/hls/1359.AnjanTV.in.m3u8
+#EXTINF:-1 tvg-id="DD KISAN (IN)" tvg-name="DD KISAN (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/DDKisanLogo.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",DD KISAN (IN)
