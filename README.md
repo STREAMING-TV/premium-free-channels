@@ -368,3 +368,4 @@ https://m-c15-j2apps.s.llnwi.net/hls/0281.DDBihar.in.m3u8
 #EXTINF:-1 tvg-id="DD BIHAR (IN)" tvg-name="DD BIHAR (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddbihar/channel_list/ddbihar386x386_1799074633.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",DD BIHAR (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddbihar/index.m3u8
 #EXTINF:-1 tvg-id="INDIA TV (IN)" tvg-name="INDIA TV (IN)" tvg-logo="https://lawgupshup.com/wp-content/uploads/2018/03/LAWGUPSHUP-INDIA-TV.jpg"group-title="NEWS / BUSINESS CHANNELS",INDIA TV (IN)
+https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in.m3u8
