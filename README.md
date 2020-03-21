@@ -375,3 +375,4 @@ https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
 https://m-c20-j2apps.s.llnwi.net/hls/0182.DDNews.in.m3u8
 #EXTINF:-1 tvg-id="INDIA NEWS (IN)" tvg-name="INDIA NEWS (IN)" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71B0kUlXfKL.png"group-title="NEWS / BUSINESS CHANNELS",INDIA NEWS (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+#EXTINF:-1 tvg-id="NEWS X (IN)" tvg-name="NEWS X (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/NewsX_Logo.png"group-title="NEWS / BUSINESS CHANNELS",NEWS X (IN) 
