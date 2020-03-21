@@ -345,3 +345,4 @@ https://m-c04-j2apps.s.llnwi.net/hls/7000.HousefullMovie.in.m3u8
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
 #EXTINF:-1 tvg-id="DD NEWS (IN)" tvg-name="DD NEWS (IN)" tvg-logo="https://i.ytimg.com/vi/25x0ubym0aI/maxresdefault.jpg"group-title="NEWS / BUSINESS CHANNELS",DD NEWS (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
+#EXTINF:-1 tvg-id="DISHUM (IN)" tvg-name="DISHUM (IN)" tvg-logo="http://www.dishumtv.com/images/logo.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",DISHUM (IN)
