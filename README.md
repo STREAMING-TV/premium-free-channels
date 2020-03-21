@@ -355,7 +355,7 @@ https://m-c20-j2apps.s.llnwi.net/hls/2914.DDKisan.in.m3u8
 https://m-c17-j2apps.s.llnwi.net/hls/0178.DDBharati.in.m3u8
 #EXTINF:-1 tvg-id="MASTIII (IN)" tvg-name="MASTIII (IN)" tvg-logo="http://saptakdigital.co.in/wp-content/uploads/2018/12/MASTII.jpg"group-title="MUSIC / YOUTH CHANNELS",MASTIII (IN) 
 https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8
-#EXTINF:-1 tvg-id="ZOOM TV (IN)" tvg-name="ZOOM TV (IN)" tvg-logo="http://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/04/Zoom-styled-by-Myntra-logo_8.jpg&w=620&h=350&zc=1&q=100"group-title="MUSIC / YOUTH CHANNELS",ZOOM TV (IN)
+#EXTINF:-1 tvg-id="ZOOM (IN)" tvg-name="ZOOM (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png"group-title="MUSIC / YOUTH CHANNELS",ZOOM (IN)
 https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in.m3u8
 #EXTINF:-1 tvg-id="MUSIC INDIA (IN)" tvg-name="MUSIC INDIA (IN)" tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india.png"group-title="MUSIC / YOUTH CHANNELS",MUSIC INDIA (IN)
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
