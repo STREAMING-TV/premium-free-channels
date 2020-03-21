@@ -347,7 +347,7 @@ https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
 #EXTINF:-1 tvg-id="DISHUM (IN)" tvg-name="DISHUM (IN)" tvg-logo="http://www.dishumtv.com/images/logo.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",DISHUM (IN)
 https://m-c29-j2apps.s.llnwi.net/hls/5332.Dishum.in.m3u8
-#EXTINF:-1 tvg-id="ANJAN TV (IN)" tvg-name="ANJAN TV (IN)" tvg-logo="https://www.satlogo.com/hires/aa/anjan_tv.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ANJAN TV (IN)
+#EXTINF:-1 tvg-id="ANJAN TV (IN)" tvg-name="ANJAN TV (IN)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-anjan-tv.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ANJAN TV (IN)
 https://m-c04-j2apps.s.llnwi.net/hls/1359.AnjanTV.in.m3u8
 #EXTINF:-1 tvg-id="DD KISAN (IN)" tvg-name="DD KISAN (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/DDKisanLogo.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",DD KISAN (IN)
 https://m-c20-j2apps.s.llnwi.net/hls/2914.DDKisan.in.m3u8
@@ -367,3 +367,4 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
 https://m-c15-j2apps.s.llnwi.net/hls/0281.DDBihar.in.m3u8
 #EXTINF:-1 tvg-id="DD BIHAR (IN)" tvg-name="DD BIHAR (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddbihar/channel_list/ddbihar386x386_1799074633.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",DD BIHAR (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddbihar/index.m3u8
+#EXTINF:-1 tvg-id="INDIA TV (IN)" tvg-name="INDIA TV (IN)" tvg-logo="https://lawgupshup.com/wp-content/uploads/2018/03/LAWGUPSHUP-INDIA-TV.jpg"group-title="NEWS / BUSINESS CHANNELS",INDIA TV (IN)
