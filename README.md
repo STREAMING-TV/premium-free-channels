@@ -409,3 +409,4 @@ https://m-c02-j2apps.s.llnwi.net/hls/5208.HindiKhabar.in.m3u8
 https://m-c037-j2apps.s.llnwi.net/hls/6006.SuryaSamachar.in.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERG QUINT (IN)" tvg-name="BLOOMBERH QUINT (IN)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2018/03/bloomberg-with-quint-logo-2-2.jpg"group-title="NEWS / BUSINESS CHANNELS",BLOOMBERG QUINT (IN)
 https://m-c29-j2apps.s.llnwi.net/hls/5656.BloombergQuint.in.m3u8
+#EXTINF:-1 tvg-id="FOOD FOOD (IN)" tvg-name="FOOD FOOD (IN)" tvg-logo="https://f0.pngfuel.com/png/541/615/food-food-indian-cuisine-television-channel-india-png-clip-art.png"group-title="LIFESTYLE / TRAVELING CHANNELS",FOOD FOOD (IN) 
