@@ -398,3 +398,4 @@ https://m-c20-j2apps.s.llnwi.net/hls/0524.ETNow.in.m3u8
 #EXTINF:-1 tvg-id="MIRROR NOW (IN)" tvg-name="MIRROR NOW (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/MirrorNowLogo.jpg"group-title="NEWS / BUSINESS CHANNELS",MIRROR NOW (IN)
 https://m-c20-j2apps.s.llnwi.net/hls/3873.MirrorNow.in.m3u8
 #EXTINF:-1 tvg-id="SADHNA PLUS (IN)" tvg-name="SADHNA PLUS (IN)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-sadhna-plus.jpg"group-title="NEWS / BUSINESS CHANNELS",SADHNA PLUS (IN)
+https://m-c03-j2apps.s.llnwi.net/hls/4380.SadhnaPlus.in.m3u8
