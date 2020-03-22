@@ -425,3 +425,4 @@ http://109.169.56.170/hls/gtv.m3u8
 http://109.169.56.170/hls/maasranga.m3u8
 #EXTINF:-1 tvg-id="ZEE BANGLA (IN)" tvg-name="ZEE BANGLA (IN)" tvg-logo="https://i.pinimg.com/736x/aa/4b/33/aa4b33e974f202f40ae426d50a14b5e0.jpg"group-title="REGIONAL CHANNELS ",ZEE BANGLA  (IN)
 http://109.169.56.170/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-id="STAR JALSHA (IN)" tvg-name="STAR JALSHA (IN)" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7419/567419-h"group-title="REGIONAL CHANNELS ",STAR JALSHA (IN)
