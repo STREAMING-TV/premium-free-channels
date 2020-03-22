@@ -390,3 +390,4 @@ https://m-c17-j2apps.s.llnwi.net/hls/0131.TotalTV.in.m3u8
 #EXTINF:-1 tvg-id="SAMAY (IN)" tvg-name="SAMAY (IN)" tvg-logo="http://www.anubhavshaphotography.com/images/my_img/about_images/sahara.jpg"group-title="NEWS / BUSINESS CHANNELS",SAMAY (IN) 
 https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in.m3u8
 #EXTINF:-1 tvg-id="ABP NEWS (IN)" tvg-name="ABP NEWS (IN)" tvg-logo="https://exchange4media.gumlet.com/news-photo/100542.ABPNews.jpg?format=webp&w=480&dpr=2.6"group-title="NEWS / BUSINESS CHANNELS",ABP NEWS (IN)
+https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8
