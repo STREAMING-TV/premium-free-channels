@@ -401,4 +401,5 @@ https://m-c20-j2apps.s.llnwi.net/hls/3873.MirrorNow.in.m3u8
 https://m-c03-j2apps.s.llnwi.net/hls/4380.SadhnaPlus.in.m3u8
 #EXTINF:-1 tvg-id="BANSAL NEWS (IN)" tvg-name="BANSAL NEWS (IN)" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/53/16/7c/53167c3e-fd94-9108-055a-552f75cfac56/source/512x512bb.jpg"group-title="NEWS / BUSINESS CHANNELS",BANSAL NEWS (IN) 
 https://m-c03-j2apps.s.llnwi.net/hls/0777.BansalNews.in.m3u8
-#EXTINF:-1 tvg-id="K NEWS (IN)" tvg-name="K NEWS (IN)" tvg-logo="https://www.knews.in/assets/front_panel/images/menu-img.jpg"group-title="NEWS / BUSINESS CHANNELS",K NEWS (IN)
+#EXTINF:-1 tvg-id="K NEWS 24X7 (IN)" tvg-name="K NEWS 24X7 (IN)" tvg-logo="https://www.knews.in/assets/front_panel/images/menu-img.jpg"group-title="NEWS / BUSINESS CHANNELS",K NEWS 24X7 (IN)
+https://m-c03-j2apps.s.llnwi.net/hls/1843.KNews24X7.in.m3u8
