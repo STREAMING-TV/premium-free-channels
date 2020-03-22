@@ -417,3 +417,4 @@ https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
 https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in.m3u8
 #EXTINF:-1 tvg-id="DW (INT)" tvg-name="DW (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/800px-Deutsche_Welle_symbol_2012.svg.png"group-title="NEWS / BUSINESS CHANNELS",DW (INT)
 https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
+EXTINF:-1 tvg-id="SONY AATH (IN)" tvg-name="SONY AATH (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/800px-Sony_Aath_logo.svg.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY AATH (IN)
