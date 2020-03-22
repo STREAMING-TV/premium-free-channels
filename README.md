@@ -377,3 +377,4 @@ https://m-c20-j2apps.s.llnwi.net/hls/0182.DDNews.in.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
 #EXTINF:-1 tvg-id="NEWS X (IN)" tvg-name="NEWS X (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/NewsX_Logo.png"group-title="NEWS / BUSINESS CHANNELS",NEWS X (IN) 
 https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
+#EXTINF:-1 tvg-id="GULISTAN NEWS (IN)" tvg-name="GULISTAN NEWS (IN)" tvg-logo="http://gulistannews.com/cdn/imgs/banner1.jpg"group-title="NEWS / BUSINESS CHANNELS",GULISTAN NEWS (IN)
