@@ -414,3 +414,4 @@ https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
 #EXTINF:-1 tvg-id="EURO NEWS (INT)" tvg-name="EURO NEWS (INT)" tvg-logo="https://media.info/i/lf/0/1464660043/1064.png"group-title="NEWS / BUSINESS CHANNELS",EURO NEWS (INT)
 https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
 #EXTINF:-1 tvg-id="FRANCE 24 (IN)" tvg-name="FRANCE 24 (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/800px-FRANCE_24_logo.svg.png"group-title="NEWS / BUSINESS CHANNELS",FRANCE 24 (INT) 
+https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in.m3u8
