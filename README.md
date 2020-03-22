@@ -407,3 +407,4 @@ https://m-c03-j2apps.s.llnwi.net/hls/1843.KNews24X7.in.m3u8
 https://m-c02-j2apps.s.llnwi.net/hls/5208.HindiKhabar.in.m3u8
 #EXTINF:-1 tvg-id="SURYA CAMACHAR (IN)" tvg-name="SURYA CAMACHAR (IN)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-surya-samachar.jpg"group-title="NEWS / BUSINESS CHANNELS",SURYA CAMACHAR (IN)
 https://m-c037-j2apps.s.llnwi.net/hls/6006.SuryaSamachar.in.m3u8
+#EXTINF:-1 tvg-id="BLOOMBERG QUINT (IN)" tvg-name="BLOOMBERH QUINT (IN)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2018/03/bloomberg-with-quint-logo-2-2.jpg"group-title="NEWS / BUSINESS CHANNELS",BLOOMBERG QUINT (IN)
