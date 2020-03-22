@@ -431,7 +431,7 @@ http://telelivetv.webredirect.org:8081/globeworld2020/starjalsha/chunks.m3u8
 http://telelivetv.webredirect.org:8081/globeworld2020/zeebangla/chunks.m3u8
 #EXTINF:-1 tvg-id="COLORS BANGLA (IN)" tvg-name="COLORS BANGLA (IN)" tvg-logo="http://www.bestmediainfo.com/wp-content/uploads/2016/09/Colors-Bangla-Logo-new.jpg"group-title="REGIONAL CHANNELS ",COLORS BANGLA (IN)
 http://telelivetv.webredirect.org:8081/globeworld2020/colorsbangla/chunks.m3u8
-EXTINF:-1 tvg-id="SONY AATH (IN)" tvg-name="SONY AATH (IN)" tvg-logo="https://i.pinimg.com/originals/f5/11/29/f5112944993a5298092aaa52f7e4cb15.jpg"group-title="REGIONAL CHANNELS",SONY AATH (IN)
+#EXTINF:-1 tvg-id="SONY AATH (IN)" tvg-name="SONY AATH (IN)" tvg-logo="https://i.pinimg.com/originals/f5/11/29/f5112944993a5298092aaa52f7e4cb15.jpg"group-title="REGIONAL CHANNELS",SONY AATH (IN)
 http://telelivetv.webredirect.org:8081/globeworld2020/sonyaath/chunks.m3u8
 #EXTINF:-1 tvg-id="GTV HD (BD)" tvg-name="GTV HD (BD)" tvg-logo="https://www.edailysports.com/wp-content/uploads/2019/01/maxresdefault.jpg"group-title="REGIONAL CHANNELS ",GTV HD (BD)
 http://telelivetv.webredirect.org:8081/globeworld2020/gazitv/chunks.m3u8
