@@ -47,7 +47,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/apacsea/index.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvsduk/index.m3u8
 #EXTINF:-1 tvg-id="ZEE TV (CANADA)" tvg-name="ZEE TV (CANADA)" tvg-logo="http://shaw.tmsimg.com/assets/s79632_ll_h3_ac.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (CANADA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/canadahd/index.m3u8
-#EXTINF:-1 tvg-id="ZEE TV (USA)" tvg-name="ZEE TV (USA)" tvg-logo="https://1.bp.blogspot.com/-JmZB8G7G3bw/XceuY8qcbWI/AAAAAAAAFgM/wW5dhU4-Y8MlIN-DHp8yHbChqAC-L1u0QCEwYBhgL/s320/zee-tv-us.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (USA)
+#EXTINF:-1 tvg-id="ZEE TV (USA)" tvg-name="ZEE TV (USA)" tvg-logo="https://1.bp.blogspot.com/-JmZB8G7G3bw/XceuY8qcbWI/AAAAAAAAFgM/wW5dhU4-Y8MlIN-DHp8yHbChqAC-L1u0QCEwYBhgL/s320/zee-tv-us.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (USA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ztvsdusa/index.m3u8
 #EXTINF:-1 tvg-id="ZEE TV (IN)" tvg-name="ZEE TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvsd/index.m3u8
