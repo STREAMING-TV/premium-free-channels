@@ -392,3 +392,4 @@ https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in.m3u8
 #EXTINF:-1 tvg-id="ABP NEWS (IN)" tvg-name="ABP NEWS (IN)" tvg-logo="https://exchange4media.gumlet.com/news-photo/100542.ABPNews.jpg?format=webp&w=480&dpr=2.6"group-title="NEWS / BUSINESS CHANNELS",ABP NEWS (IN)
 https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8
 #EXTINF:-1 tvg-id="NEWS 9 (IN)" tvg-name="NEWS 9 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/News-9-Logo.png/220px-News-9-Logo.png"group-title="NEWS / BUSINESS CHANNELS",NEWS 9 (IN)
+https://m-c01-j2apps.s.llnwi.net/hls/0499.News9.in.m3u8
