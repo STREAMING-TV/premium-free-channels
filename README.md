@@ -403,3 +403,4 @@ https://m-c03-j2apps.s.llnwi.net/hls/4380.SadhnaPlus.in.m3u8
 https://m-c03-j2apps.s.llnwi.net/hls/0777.BansalNews.in.m3u8
 #EXTINF:-1 tvg-id="K NEWS 24X7 (IN)" tvg-name="K NEWS 24X7 (IN)" tvg-logo="https://www.knews.in/assets/front_panel/images/menu-img.jpg"group-title="NEWS / BUSINESS CHANNELS",K NEWS 24X7 (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/1843.KNews24X7.in.m3u8
+#EXTINF:-1 tvg-id="HINDI KHABAR (IN)" tvg-name="HINDI KHABAR (IN)" tvg-logo="https://english.hindikhabar.com/wp-content/uploads/2018/08/182508022931.jpg"group-title="NEWS / BUSINESS CHANNELS",HINDI KHABAR (IN) 
