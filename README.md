@@ -400,3 +400,4 @@ https://m-c20-j2apps.s.llnwi.net/hls/3873.MirrorNow.in.m3u8
 #EXTINF:-1 tvg-id="SADHNA PLUS (IN)" tvg-name="SADHNA PLUS (IN)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-sadhna-plus.jpg"group-title="NEWS / BUSINESS CHANNELS",SADHNA PLUS (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/4380.SadhnaPlus.in.m3u8
 #EXTINF:-1 tvg-id="BANSAL NEWS (IN)" tvg-name="BANSAL NEWS (IN)" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/53/16/7c/53167c3e-fd94-9108-055a-552f75cfac56/source/512x512bb.jpg"group-title="NEWS / BUSINESS CHANNELS",BANSAL NEWS (IN) 
+https://m-c03-j2apps.s.llnwi.net/hls/0777.BansalNews.in.m3u8
