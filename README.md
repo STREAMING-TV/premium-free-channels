@@ -421,3 +421,4 @@ EXTINF:-1 tvg-id="SONY AATH (IN)" tvg-name="SONY AATH (IN)" tvg-logo="https://up
 https://sony247channels.akamaized.net/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-id="GTV HD (BD)" tvg-name="GTV HD (BD)" tvg-logo="https://www.cricketlivezone.com/wp-content/uploads/2019/12/gazi-tv-live-cricket-678x381.jpg"group-title="REGIONAL CHANNELS ",GTV HD (BD)
 http://109.169.56.170/hls/gtv.m3u8
+#EXTINF:-1 tvg-id="MAASRANGA TV (BD)" tvg-name="MAASRANGA TV (BD)" tvg-logo="http://www.bdiptv.info/wp-content/uploads/2018/11/massranga-tv.png"group-title="REGIONAL CHANNELS ",MAASRANGA TV (BD) 
