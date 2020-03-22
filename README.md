@@ -423,3 +423,4 @@ https://sony247channels.akamaized.net/hls/live/2011641/SonyAathSD/master.m3u8?hd
 http://109.169.56.170/hls/gtv.m3u8
 #EXTINF:-1 tvg-id="MAASRANGA TV (BD)" tvg-name="MAASRANGA TV (BD)" tvg-logo="http://www.bdiptv.info/wp-content/uploads/2018/11/massranga-tv.png"group-title="REGIONAL CHANNELS ",MAASRANGA TV (BD) 
 http://109.169.56.170/hls/maasranga.m3u8
+#EXTINF:-1 tvg-id="ZEE BANGLA (IN)" tvg-name="ZEE BANGLA (IN)" tvg-logo="https://i.pinimg.com/736x/aa/4b/33/aa4b33e974f202f40ae426d50a14b5e0.jpg"group-title="REGIONAL CHANNELS ",ZEE BANGLA  (IN)
