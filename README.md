@@ -387,4 +387,5 @@ https://m-c18-j2apps.s.llnwi.net/hls/1604.JantaTV.in.m3u8
 https://m-c18-j2apps.s.llnwi.net/hls/0519.IBC24.in.m3u8
 #EXTINF:-1 tvg-id="TOTAL TV (IN)" tvg-name="TOTAL TV (IN)" tvg-logo="http://totaltv.in/include/frontend/img/logo.png"group-title="NEWS / BUSINESS CHANNELS",TOTAL TV (IN)
 https://m-c17-j2apps.s.llnwi.net/hls/0131.TotalTV.in.m3u8
-#EXTINF:-1 tvg-id="SAMY (IN)" tvg-name="SAMY (IN)" tvg-logo="http://www.anubhavshaphotography.com/images/my_img/about_images/sahara.jpg"group-title="NEWS / BUSINESS CHANNELS",SAMY (IN) 
+#EXTINF:-1 tvg-id="SAMAY (IN)" tvg-name="SAMAY (IN)" tvg-logo="http://www.anubhavshaphotography.com/images/my_img/about_images/sahara.jpg"group-title="NEWS / BUSINESS CHANNELS",SAMAY (IN) 
+https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in.m3u8
