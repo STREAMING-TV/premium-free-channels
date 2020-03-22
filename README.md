@@ -412,3 +412,4 @@ https://m-c29-j2apps.s.llnwi.net/hls/5656.BloombergQuint.in.m3u8
 #EXTINF:-1 tvg-id="FOOD FOOD (IN)" tvg-name="FOOD FOOD (IN)" tvg-logo="https://f0.pngfuel.com/png/541/615/food-food-indian-cuisine-television-channel-india-png-clip-art.png"group-title="LIFESTYLE / TRAVELING CHANNELS",FOOD FOOD (IN) 
 https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
 #EXTINF:-1 tvg-id="EURO NEWS (INT)" tvg-name="EURO NEWS (INt)" tvg-logo="https://media.info/i/lf/0/1464660043/1064.png"group-title="NEWS / BUSINESS CHANNELS",EURO NEWS (INT)
+https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
