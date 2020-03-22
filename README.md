@@ -382,3 +382,4 @@ https://m-c18-j2apps.s.llnwi.net/hls/1838.GulistanNews.in.m3u8
 #EXTINF:-1 tvg-id="NEWS INDIA 24X7 (IN)" tvg-name="NEWS INDIA 24X7 (IN)" tvg-logo="https://i.ytimg.com/vi/vcIfOiln_iA/hqdefault.jpg"group-title="NEWS / BUSINESS CHANNELS",NEWS INDIA 24X7 (IN) 
 https://m-c16-j2apps.s.llnwi.net/hls/3240.NewsIndia24X7.in.m3u8
 #EXTINF:-1 tvg-id="JANTA TV (IN)" tvg-name="JANTA TV (IN)" tvg-logo="https://i.pinimg.com/originals/08/e5/a2/08e5a21e3dfd99ea131c8997d210bacb.png"group-title="NEWS / BUSINESS CHANNELS",JANTA TV (IN)
+https://m-c18-j2apps.s.llnwi.net/hls/1604.JantaTV.in.m3u8
