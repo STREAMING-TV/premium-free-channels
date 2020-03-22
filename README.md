@@ -429,3 +429,4 @@ http://109.169.56.170/hls/zeebanglahd.m3u8
 http://telelivetv.webredirect.org:8081/globeworld2020/starjalsha/chunks.m3u8
 #EXTINF:-1 tvg-id="ZEE BANGLA (IN)" tvg-name="ZEE BANGLA (IN)" tvg-logo="https://www.mediabrief.com/wp-content/uploads/2018/10/image-ZEE-Bangla-Refreshes-Channel-Identity.jpg"group-title="REGIONAL CHANNELS ",ZEE BANGLA (IN)
 http://telelivetv.webredirect.org:8081/globeworld2020/zeebangla/chunks.m3u8
+#EXTINF:-1 tvg-id="COLORS BANGLA (IN)" tvg-name="COLORS BANGLA (IN)" tvg-logo="http://www.bestmediainfo.com/wp-content/uploads/2016/09/Colors-Bangla-Logo-new.jpg"group-title="REGIONAL CHANNELS ",COLORS BANGLA (IN)
