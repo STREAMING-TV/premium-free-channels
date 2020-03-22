@@ -428,3 +428,4 @@ http://109.169.56.170/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-id="STAR JALSHA (IN)" tvg-name="STAR JALSHA (IN)" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7419/567419-h"group-title="REGIONAL CHANNELS ",STAR JALSHA (IN)
 http://telelivetv.webredirect.org:8081/globeworld2020/starjalsha/chunks.m3u8
 #EXTINF:-1 tvg-id="ZEE BANGLA (IN)" tvg-name="ZEE BANGLA (IN)" tvg-logo="https://www.mediabrief.com/wp-content/uploads/2018/10/image-ZEE-Bangla-Refreshes-Channel-Identity.jpg"group-title="REGIONAL CHANNELS ",ZEE BANGLA (IN)
+http://telelivetv.webredirect.org:8081/globeworld2020/zeebangla/chunks.m3u8
