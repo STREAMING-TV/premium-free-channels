@@ -447,3 +447,4 @@ http://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p3.m3u8
 http://playhls.media.nic.in/live/ddkisan-360p/index.m3u8
 #EXTINF:-1 tvg-id="SHEMARROO KIDS (IN)" tvg-name="SHEMARROO KIDS (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Kids/5bebcba7a609d202b3000005/large_16_9.jpg"group-title="KIDS CHANNELS",SHEMAROO KIDS (IN)
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
+#EXTINF:-1 tvg-id="ABP NEWS (IN)" tvg-name="ABP NEWS (IN)" tvg-logo="http://res.cloudinary.com/onesolutionsbiz/image/upload/v1507121155/abp-news_pojgm5.png"group-title="NEWS / BUSINESS CHANNELS",ABP NEWS (IN)
