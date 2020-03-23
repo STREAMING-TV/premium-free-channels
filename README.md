@@ -437,3 +437,4 @@ http://telelivetv.webredirect.org:8081/globeworld2020/sonyaath/chunks.m3u8
 http://telelivetv.webredirect.org:8081/globeworld2020/gazitv/chunks.m3u8
 #EXTINF:-1 tvg-id="MAASRANGA TV HD (BD)" tvg-name="MAASRANGA TV HD (BD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg"group-title="REGIONAL CHANNELS ",MAASRANGA TV HD (BD)
 http://telelivetv.webredirect.org:8081/globeworld2020/maasranga/chunks.m3u8
+#EXTINF:-1 tvg-id="SHEMAROO PREMIER (IN)" tvg-name="SHEMAROO PREMIER (IN)" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",SHEMAROO PREMIER (IN)
