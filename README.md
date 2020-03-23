@@ -466,3 +466,4 @@ https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.
 #EXTINF:-1 tvg-id="JANTA TV (IN)" tvg-name="JANTA TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Jantvlogo3.png"group-title="NEWS / BUSINESS CHANNELS",JAN TV (IN)
 http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="KHABRAIN ABHI TAK (IN)" tvg-name="KHABRAIN ABHI TAK (IN)" tvg-logo="https://images.jdmagicbox.com/comp/gurgaon/i5/011pxx11.xx11.120717141103.j8i5/catalogue/khabrain-abhi-tak--sector-32-gurgaon-news-satellite-channels-o8ggwmnuyp.jpg"group-title="NEWS / BUSINESS CHANNELS",KHABRAIN ABHI TAK (IN)
+https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/chunks.m3u8
