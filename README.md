@@ -469,3 +469,4 @@ http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/playlist.m3u8
 https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-id="SADHNA PLUS (IN)" tvg-name="SADHNA PLUS (IN)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-sadhna-plus.jpg"group-title="NEWS / BUSINESS CHANNELS",SADHNA PLUS (IN)
 http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8
+#EXTINF:-1 tvg-id="SURYA NEWS (IN)" tvg-name="SURYA NEWS (IN)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-surya-samachar.jpg"group-title="NEWS / BUSINESS CHANNELS",SURYA NEWS (IN)
