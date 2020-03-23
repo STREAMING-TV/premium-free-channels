@@ -453,3 +453,4 @@ http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="NDTV KHABER (IN)" tvg-name="NDTV KHABER (IN)" tvg-logo="https://bsmedia.business-standard.com/_media/bs/img/article/2018-10/19/full/1539930569-9224.jpg"group-title="NEWS / BUSINESS CHANNELS",NDTV KHABER (IN) 
 https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8
+#EXTINF:-1 tvg-id="NEWS 24 (IN)" tvg-name="NEWS 24 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/News24_Logo.jpg/800px-News24_Logo.jpg"group-title="NEWS / BUSINESS CHANNELS",NEWS 24 (IN)
