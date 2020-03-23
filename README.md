@@ -440,3 +440,4 @@ http://telelivetv.webredirect.org:8081/globeworld2020/maasranga/chunks.m3u8
 #EXTINF:-1 tvg-id="SHEMAROO PREMIER (IN)" tvg-name="SHEMAROO PREMIER (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood-Premiere/5d790527a609d2a47a000004/large_16_9.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",SHEMAROO PREMIER (IN)
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_640x360_cf.m3u8
 #EXTINF:-1 tvg-id="ZEE AFLAM (ME)" tvg-name="ZEE AFLAM (ME)" tvg-logo="https://www.sayidaty.net/sites/default/files/styles/800x510/public/2019/04/02/5121751-1453195219.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE AFLAM (ME)
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/03.m3u8
