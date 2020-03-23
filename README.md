@@ -449,3 +449,4 @@ http://playhls.media.nic.in/live/ddkisan-360p/index.m3u8
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
 #EXTINF:-1 tvg-id="ABP NEWS (IN)" tvg-name="ABP NEWS (IN)" tvg-logo="http://res.cloudinary.com/onesolutionsbiz/image/upload/v1507121155/abp-news_pojgm5.png"group-title="NEWS / BUSINESS CHANNELS",ABP NEWS (IN)
 http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+#EXTINF:-1 tvg-id="REPUBLIC BHARAT (IN)" tvg-name="REPUBLIC BHARAT (IN)" tvg-logo="https://mlmqyxhfvgrm.i.optimole.com/YC75iQ-07DR4UcJ/w:auto/h:auto/q:auto/https://livetvmania.net/wp-content/uploads/2019/05/republic-bharath.jpg"group-title="NEWS / BUSINESS CHANNELS",REPUBLIC BHARAT (IN)
