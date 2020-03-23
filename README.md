@@ -475,3 +475,4 @@ http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
 http://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
 #EXTINF:-1 tvg-id="TAAZA TV (IN)" tvg-name="TAAZA TV (IN)" tvg-logo="https://i.ytimg.com/vi/hOSBlTAIF-M/maxresdefault.jpg"group-title="NEWS / BUSINESS CHANNELS",TAAZA TV (IN)
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD63L360P/index.m3u8
+#EXTINF:-1 tvg-id="TV 100 NEWS (IN)" tvg-name="TV 100 NEWS (IN)" tvg-logo="https://i.ytimg.com/vi/yPRnPzihmCI/hqdefault.jpg"group-title="NEWS / BUSINESS CHANNELS",TV 100 NEWS (IN)
