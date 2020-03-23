@@ -89,11 +89,11 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflix/index.m3u8
 #EXTINF:-1 tvg-id="& PICTURES HD (IN)" tvg-name="& PICTURES HD (IN)" tvg-logo="http://i.imgur.com/NUoaFjr.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",& PICTURES HD (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
-#EXTINF:-1 tvg-id="ZEE CINEMA HD (IN)" tvg-name="ZEE CINEMA HD (IN)" tvg-logo="https://realvubd.com/wp-content/uploads/2016/04/Zee-Cinema-HD-2-1024x452.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA HD (IN)
+#EXTINF:-1 tvg-id="ZEE CINEMA HD (IN)" tvg-name="ZEE CINEMA HD (IN)" tvg-logo="http://www.bdiptv.info/wp-content/uploads/2018/11/zeecinemahd.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA HD (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8
 #EXTINF:-1 tvg-id="ZEE ACTION (IN)" tvg-name="ZEE ACTION (IN)" tvg-logo="https://www.adgully.com/img/800/201909/jby7kv1wjoonygtffhu5.png.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE ACTION (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/action/index.m3u8
-#EXTINF:-1 tvg-id="ZEE CINEMA (USA)" tvg-name="ZEE CINEMA (USA)" tvg-logo="https://www.pngitem.com/pimgs/m/8-80870_zee-cinema-channel-logo-hd-png-download.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA (USA)
+#EXTINF:-1 tvg-id="ZEE CINEMA (USA)" tvg-name="ZEE CINEMA (USA)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zee-cinema.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA (USA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemausa/index.m3u8
 #EXTINF:-1 tvg-id="ZEE CINEMA (UK)" tvg-name="ZEE CINEMA (UK)" tvg-logo="https://i.ytimg.com/vi/aaOFu83Xkf4/maxresdefault.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA (UK)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemauk/index.m3u8
@@ -385,7 +385,7 @@ https://m-c16-j2apps.s.llnwi.net/hls/3240.NewsIndia24X7.in.m3u8
 https://m-c18-j2apps.s.llnwi.net/hls/1604.JantaTV.in.m3u8
 #EXTINF:-1 tvg-id="IBC 24 (IN)" tvg-name="IBC 24 (IN)" tvg-logo="https://karthavya.com/wp-content/uploads/2017/12/logo_w.png"group-title="NEWS / BUSINESS CHANNELS",IBC 24 (IN)
 https://m-c18-j2apps.s.llnwi.net/hls/0519.IBC24.in.m3u8
-#EXTINF:-1 tvg-id="TOTAL TV (IN)" tvg-name="TOTAL TV (IN)" tvg-logo="http://totaltv.in/include/frontend/img/logo.png"group-title="NEWS / BUSINESS CHANNELS",TOTAL TV (IN)
+#EXTINF:-1 tvg-id="TOTAL TV (IN)" tvg-name="TOTAL TV (IN)" tvg-logo="https://i.ytimg.com/vi/TxG7xGCTnik/maxresdefault.jpg"group-title="NEWS / BUSINESS CHANNELS",TOTAL TV (IN)
 https://m-c17-j2apps.s.llnwi.net/hls/0131.TotalTV.in.m3u8
 #EXTINF:-1 tvg-id="SAMAY (IN)" tvg-name="SAMAY (IN)" tvg-logo="http://www.anubhavshaphotography.com/images/my_img/about_images/sahara.jpg"group-title="NEWS / BUSINESS CHANNELS",SAMAY (IN) 
 https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in.m3u8
