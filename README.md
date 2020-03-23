@@ -455,3 +455,4 @@ https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_1.m3u8
 https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8
 #EXTINF:-1 tvg-id="NEWS 24 (IN)" tvg-name="NEWS 24 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/News24_Logo.jpg/800px-News24_Logo.jpg"group-title="NEWS / BUSINESS CHANNELS",NEWS 24 (IN)
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8
+#EXTINF:-1 tvg-id="AAJ TAK (IN)" tvg-name="AAJ TAK (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png"group-title="NEWS / BUSINESS CHANNELS",AAJ TAK (IN)
