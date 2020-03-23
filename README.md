@@ -442,3 +442,4 @@ https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunk
 #EXTINF:-1 tvg-id="ZEE AFLAM (ME)" tvg-name="ZEE AFLAM (ME)" tvg-logo="https://www.sayidaty.net/sites/default/files/styles/800x510/public/2019/04/02/5121751-1453195219.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE AFLAM (ME)
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/03.m3u8
 #EXTINF:-1 tvg-id="MANORANJAN TV (IN)" tvg-name="MANORANJAN TV (IN)" tvg-logo="http://www.worldcall.net.pk/images/channels_list/Manoranjan_TV.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MANORANJAN TV (IN)
+http://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p3.m3u8
