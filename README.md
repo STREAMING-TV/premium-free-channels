@@ -451,3 +451,4 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_6
 http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
 #EXTINF:-1 tvg-id="REPUBLIC BHARAT (IN)" tvg-name="REPUBLIC BHARAT (IN)" tvg-logo="https://mlmqyxhfvgrm.i.optimole.com/YC75iQ-07DR4UcJ/w:auto/h:auto/q:auto/https://livetvmania.net/wp-content/uploads/2019/05/republic-bharath.jpg"group-title="NEWS / BUSINESS CHANNELS",REPUBLIC BHARAT (IN)
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_1.m3u8
+#EXTINF:-1 tvg-id="NDTV KHABER (IN)" tvg-name="NDTV KHABER (IN)" tvg-logo="https://bsmedia.business-standard.com/_media/bs/img/article/2018-10/19/full/1539930569-9224.jpg"group-title="NEWS / BUSINESS CHANNELS",NDTV KHABER (IN) 
