@@ -473,3 +473,4 @@ http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8
 http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
 #EXTINF:-1 tvg-id="SWARAJ EXPRESS (IN)" tvg-name="SWARAJ EXPRESS (IN)" tvg-logo="https://i.ytimg.com/vi/0AYg3Qn1OBM/hqdefault.jpg"group-title="NEWS / BUSINESS CHANNELS",SWARAJ EXPRESS (IN) 
 http://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
+#EXTINF:-1 tvg-id="TAAZA TV (IN)" tvg-name="TAAZA TV (IN)" tvg-logo="https://i.ytimg.com/vi/hOSBlTAIF-M/maxresdefault.jpg"group-title="NEWS / BUSINESS CHANNELS",TAAZA TV (IN)
