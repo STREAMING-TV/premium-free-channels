@@ -471,3 +471,4 @@ https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/chunks.m3u8
 http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8
 #EXTINF:-1 tvg-id="SURYA NEWS (IN)" tvg-name="SURYA NEWS (IN)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-surya-samachar.jpg"group-title="NEWS / BUSINESS CHANNELS",SURYA NEWS (IN)
 http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
+#EXTINF:-1 tvg-id="SWARAJ EXPRESS (IN)" tvg-name="SWARAJ EXPRESS (IN)" tvg-logo="https://i.ytimg.com/vi/0AYg3Qn1OBM/hqdefault.jpg"group-title="NEWS / BUSINESS CHANNELS",SWARAJ EXPRESS (IN) 
