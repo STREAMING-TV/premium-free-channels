@@ -477,4 +477,5 @@ http://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD63L360P/index.m3u8
 #EXTINF:-1 tvg-id="TV 100 NEWS (IN)" tvg-name="TV 100 NEWS (IN)" tvg-logo="https://i.ytimg.com/vi/yPRnPzihmCI/hqdefault.jpg"group-title="NEWS / BUSINESS CHANNELS",TV 100 NEWS (IN)
 http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/media.m3u8
-#EXTINF:-1 tvg-id="ZEE BANGLA (IN)" tvg-name="ZEE BANGLA (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png"group-title="REGIONAL CHANNELS ",ZEE BANGLA HD (IN)
+#EXTINF:-1 tvg-id="ZEE BANGLA HD (IN)" tvg-name="ZEE BANGLA HD (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png"group-title="REGIONAL CHANNELS ",ZEE BANGLA HD (IN)
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeebanglahd/index.m3u8
