@@ -445,3 +445,4 @@ http://livecdnh3.tvanywhere.ae/hls/zeeaflam/03.m3u8
 http://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p3.m3u8
 #EXTINF:-1 tvg-id="DD KISAN (IN)" tvg-name="DD KISAN (IN)" tvg-logo="https://webcast.gov.in/images/kisan.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",DD KISAN (IN)
 http://playhls.media.nic.in/live/ddkisan-360p/index.m3u8
+#EXTINF:-1 tvg-id="SHEMARROO KIDS (IN)" tvg-name="SHEMARROO KIDS (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Kids/5bebcba7a609d202b3000005/large_16_9.jpg"group-title="KIDS CHANNELS",SHEMAROO KIDS (IN)
