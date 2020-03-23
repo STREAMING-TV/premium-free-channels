@@ -89,7 +89,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflix/index.m3u8
 #EXTINF:-1 tvg-id="& PICTURES HD (IN)" tvg-name="& PICTURES HD (IN)" tvg-logo="http://i.imgur.com/NUoaFjr.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",& PICTURES HD (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
-#EXTINF:-1 tvg-id="ZEE CINEMA HD (IN)" tvg-name="ZEE CINEMA HD (IN)" tvg-logo="http://www.bdiptv.info/wp-content/uploads/2018/11/zeecinemahd.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA HD (IN)
+#EXTINF:-1 tvg-id="ZEE CINEMA HD (IN)" tvg-name="ZEE CINEMA HD (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_580/PORTRAIT/sjM1MbFR.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA HD (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8
 #EXTINF:-1 tvg-id="ZEE ACTION (IN)" tvg-name="ZEE ACTION (IN)" tvg-logo="https://www.adgully.com/img/800/201909/jby7kv1wjoonygtffhu5.png.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE ACTION (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/action/index.m3u8
