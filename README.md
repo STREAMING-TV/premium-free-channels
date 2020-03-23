@@ -459,3 +459,4 @@ https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8
 https://vidcdn.vidgyor.com/at-origin/desktoplive/at-origin/live3/chunks.m3u8
 #EXTINF:-1 tvg-id="TEZ (IN)" tvg-name="TEZ (IN)" tvg-logo="https://i.ytimg.com/vi/Qm4vvA-i3Rc/maxresdefault.jpg"group-title="NEWS / BUSINESS CHANNELS",TEZ (IN)
 https://vidcdn.vidgyor.com/tez-origin/liveabr/tez-origin/live2/chunks.m3u8
+#EXTINF:-1 tvg-id="INDIA TV (IN)" tvg-name="INDIA TV (IN)" tvg-logo="https://www.livelaw.in/h-upload/2019/02/05/358091-india-tv.jpg"group-title="NEWS / BUSINESS CHANNELS",INDIA TV (IN)
