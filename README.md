@@ -444,3 +444,4 @@ http://livecdnh3.tvanywhere.ae/hls/zeeaflam/03.m3u8
 #EXTINF:-1 tvg-id="MANORANJAN TV (IN)" tvg-name="MANORANJAN TV (IN)" tvg-logo="http://www.worldcall.net.pk/images/channels_list/Manoranjan_TV.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MANORANJAN TV (IN)
 http://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p3.m3u8
 #EXTINF:-1 tvg-id="DD KISAN (IN)" tvg-name="DD KISAN (IN)" tvg-logo="https://webcast.gov.in/images/kisan.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",DD KISAN (IN)
+http://playhls.media.nic.in/live/ddkisan-360p/index.m3u8
