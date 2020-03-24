@@ -480,3 +480,4 @@ http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/media.m3u8
 #EXTINF:-1 tvg-id="ZEE BANGLA HD (IN)" tvg-name="ZEE BANGLA HD (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png"group-title="REGIONAL CHANNELS ",ZEE BANGLA HD (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeebanglahd/index.m3u8
 #EXTINF:-1 tvg-id="HUMRAAZ TV (US)" tvg-name="HUMRAAZ TV (US)" tvg-logo="https://i.ytimg.com/vi/BOLePzbFiT4/hqdefault.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",HUMRAAZ TV (US)
+http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
