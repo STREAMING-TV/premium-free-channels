@@ -481,3 +481,4 @@ http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/media.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeebanglahd/index.m3u8
 #EXTINF:-1 tvg-id="HUMRAAZ TV (US)" tvg-name="HUMRAAZ TV (US)" tvg-logo="https://i.ytimg.com/vi/BOLePzbFiT4/hqdefault.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",HUMRAAZ TV (US)
 http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
+#EXTINF:-1 tvg-id="ARY FAMILY (UK)" tvg-name="ARY FAMILY (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ARY FAMILY (UK)
