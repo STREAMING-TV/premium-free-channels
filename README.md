@@ -492,3 +492,4 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1 tvg-id="BABY TV (IN)" tvg-name="BABY TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="KIDS CHANNELS",BABY TV (IN)
 http://stream.tapmad.com:1935/pitvlive2/baby_360p/chunklist.m3u8
 #EXTINF:-1 tvg-id="HUM HD (PK)" tvg-name="HUM HD (PK)" tvg-logo="https://www.phoneworld.com.pk/wp-content/uploads/2019/12/hum.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",HUM HD (PK)
+http://95.211.211.168/live/humtv0066/playlist.m3u8
