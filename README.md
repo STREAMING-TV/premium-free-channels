@@ -483,3 +483,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeebanglahd/index.
 http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
 #EXTINF:-1 tvg-id="ARY FAMILY (UK)" tvg-name="ARY FAMILY (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ARY FAMILY (UK)
 http://95.211.211.168/live/aryfamily0071/playlist.m3u8
+#EXTINF:-1 tvg-id="TAG TV (US)" tvg-name="TAG TV (US)" tvg-logo="https://pbs.twimg.com/profile_images/541070675385917440/lLsLhFY7.jpeg"group-title="NEWS / BUSINESS CHANNELS",TAG TV (US)
