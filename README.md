@@ -504,3 +504,4 @@ http://stream.tapmad.com:1935/pitvlive2/ptvnews3_240p/chunklist.m3u8
 #EXTINF:-1 tvg-id="PEACE TV (INT)" tvg-name="PEACE TV (INT)" tvg-logo="http://p-img.movetv.com/cms/images/ca858877cb4126fc930aee7c4a9bf934e3ef3e34.png" group-title="DEVOTIONAL CHANNELS ",PEACE TV (INT)
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SDq/chunklist.m3u8
 #EXTINF:-1 tvg-id="ISLAM CHANNEL (INT)" tvg-name="ISLAM CHANNEL (INT)" tvg-logo="https://download.zecast.com/islamchannel/ic-logo-new.png" group-title="DEVOTIONAL CHANNELS ",ISLAM CHANNEL (INT)
+https://59299831b66d0.streamlock.net/islam-live/islam.stream/chunklist.m3u8
