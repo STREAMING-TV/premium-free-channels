@@ -485,9 +485,10 @@ http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
 http://95.211.211.168/live/aryfamily0071/playlist.m3u8
 #EXTINF:-1 tvg-id="TAG TV (US)" tvg-name="TAG TV (US)" tvg-logo="https://pbs.twimg.com/profile_images/541070675385917440/lLsLhFY7.jpeg"group-title="NEWS / BUSINESS CHANNELS",TAG TV (US)
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EXPRESS (IN)" tvg-name="EXPRESS (PK)" tvg-logo="https://www.elementsmediacompany.com/wp-content/uploads/2019/08/express-entertainmen-1170x532.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",EXPRESS (PK)
+#EXTINF:-1 tvg-id="EXPRESS (PK)" tvg-name="EXPRESS (PK)" tvg-logo="https://www.elementsmediacompany.com/wp-content/uploads/2019/08/express-entertainmen-1170x532.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",EXPRESS (PK)
 http://stream.tapmad.com:1935/pitvlive2/express3_240p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SUB RANG (UK)" tvg-name="SUB RANG (UK)" tvg-logo="https://www.subrangtv.com/wp-content/uploads/2018/01/For-TV.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",SUB RANG (UK)
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1 tvg-id="BABY TV (IN)" tvg-name="BABY TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="KIDS CHANNELS",BABY TV (IN)
 http://stream.tapmad.com:1935/pitvlive2/baby_360p/chunklist.m3u8
+#EXTINF:-1 tvg-id="HUM HD (PK)" tvg-name="HUM HD (PK)" tvg-logo="https://www.phoneworld.com.pk/wp-content/uploads/2019/12/hum.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",HUM HD (PK)
