@@ -508,3 +508,4 @@ https://59299831b66d0.streamlock.net/islam-live/islam.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="GUIDE US (USA)" tvg-name="GUIDE US (USA)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-guide-us-tv-5750.jpg" group-title="DEVOTIONAL CHANNELS ",GUIDE US (USA)
 http://stream.streamislam.com:8080/streamer/live/index.m3u8
 #EXTINF:-1 tvg-id="MIRACLE CHANNEL (CA)" tvg-name="MIRACLE CHANNEL (CA)" tvg-logo="https://www.pngkit.com/png/detail/432-4329691_miracle-channel-logo-nonickel-c-square-wide-pin.png" group-title="DEVOTIONAL CHANNELS ",MIRACLE CHANNEL (CA)
+https://d9ruw6nhj5a52.cloudfront.net/live/live/chunklist_w664641459.m3u8
