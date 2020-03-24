@@ -487,3 +487,4 @@ http://95.211.211.168/live/aryfamily0071/playlist.m3u8
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EXPRESS (IN)" tvg-name="EXPRESS (PK)" tvg-logo="https://www.elementsmediacompany.com/wp-content/uploads/2019/08/express-entertainmen-1170x532.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",EXPRESS (PK)
 http://stream.tapmad.com:1935/pitvlive2/express3_240p/chunklist.m3u8
+#EXTINF:-1 tvg-id="SUB RANG (UK)" tvg-name="SUB RANG (UK)" tvg-logo="https://www.subrangtv.com/wp-content/uploads/2018/01/For-TV.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",SUB RANG (UK)
