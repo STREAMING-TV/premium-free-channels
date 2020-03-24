@@ -506,3 +506,4 @@ http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive
 #EXTINF:-1 tvg-id="ISLAM CHANNEL (INT)" tvg-name="ISLAM CHANNEL (INT)" tvg-logo="https://download.zecast.com/islamchannel/ic-logo-new.png" group-title="DEVOTIONAL CHANNELS ",ISLAM CHANNEL (INT)
 https://59299831b66d0.streamlock.net/islam-live/islam.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="GUIDE US (USA)" tvg-name="GUIDE US (USA)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-guide-us-tv-5750.jpg" group-title="DEVOTIONAL CHANNELS ",GUIDE US (USA)
+http://stream.streamislam.com:8080/streamer/live/index.m3u8
