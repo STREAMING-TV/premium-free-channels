@@ -501,3 +501,4 @@ http://95.211.211.168/live/geonews0011/playlist.m3u8
 http://162.250.201.58:6211/uk/A1TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PTV NEWS (PK)" tvg-name="PTV NEWS (PK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/AAJ_News.png"group-title="NEWS / BUSINESS CHANNELS",PTV NEWS (PK)
 http://stream.tapmad.com:1935/pitvlive2/ptvnews3_240p/chunklist.m3u8
+#EXTINF:-1 tvg-id="PEACE TV (INT)" tvg-name="PEACE TV (INT)" tvg-logo="http://p-img.movetv.com/cms/images/ca858877cb4126fc930aee7c4a9bf934e3ef3e34.png" group-title="DEVOTIONAL CHANNELS ",PEACE TV (INT)
