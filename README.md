@@ -490,3 +490,4 @@ http://stream.tapmad.com:1935/pitvlive2/express3_240p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SUB RANG (UK)" tvg-name="SUB RANG (UK)" tvg-logo="https://www.subrangtv.com/wp-content/uploads/2018/01/For-TV.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",SUB RANG (UK)
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1 tvg-id="BABY TV (IN)" tvg-name="BABY TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="KIDS CHANNELS",BABY TV (IN)
+http://stream.tapmad.com:1935/pitvlive2/baby_360p/chunklist.m3u8
