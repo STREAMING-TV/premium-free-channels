@@ -485,3 +485,4 @@ http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
 http://95.211.211.168/live/aryfamily0071/playlist.m3u8
 #EXTINF:-1 tvg-id="TAG TV (US)" tvg-name="TAG TV (US)" tvg-logo="https://pbs.twimg.com/profile_images/541070675385917440/lLsLhFY7.jpeg"group-title="NEWS / BUSINESS CHANNELS",TAG TV (US)
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EXPRESS (IN)" tvg-name="EXPRESS (PK)" tvg-logo="https://www.elementsmediacompany.com/wp-content/uploads/2019/08/express-entertainmen-1170x532.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",EXPRESS (PK)
