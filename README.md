@@ -497,3 +497,4 @@ http://95.211.211.168/live/humtv0066/playlist.m3u8
 http://stream.tapmad.com:1935/pitvlive2/aplus3_240p/chunklist.m3u8
 #EXTINF:-1 tvg-id="GEO NEWS HD (PK)" tvg-name="GEO NEWS HD (PK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="NEWS / BUSINESS CHANNELS",GEO NEWS HD (PK)
 http://95.211.211.168/live/geonews0011/playlist.m3u8
+#EXTINF:-1 tvg-id="AAJ NEWS (UK)" tvg-name="AAJ NEWS (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/AAJ_News.png"group-title="NEWS / BUSINESS CHANNELS",AAJ NEWS (UK)
