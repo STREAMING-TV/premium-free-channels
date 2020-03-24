@@ -482,3 +482,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeebanglahd/index.
 #EXTINF:-1 tvg-id="HUMRAAZ TV (US)" tvg-name="HUMRAAZ TV (US)" tvg-logo="https://i.ytimg.com/vi/BOLePzbFiT4/hqdefault.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",HUMRAAZ TV (US)
 http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
 #EXTINF:-1 tvg-id="ARY FAMILY (UK)" tvg-name="ARY FAMILY (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ARY FAMILY (UK)
+http://95.211.211.168/live/aryfamily0071/playlist.m3u8
