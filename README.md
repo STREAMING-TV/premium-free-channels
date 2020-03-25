@@ -19,7 +19,7 @@ http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="SONY MIX (IN)" tvg-name="SONY MIX (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Mix.png"group-title="MUSIC / YOUTH CHANNELS",SONY MIX (IN)
 http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="ZING (IN)" tvg-name="ZING (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png"group-title="MUSIC / YOUTH CHANNELS",ZING (IN)
+#EXTINF:-1 tvg-id="ZING (USA)" tvg-name="ZING (USA)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png"group-title="MUSIC / YOUTH CHANNELS",ZING (USA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zingusa/index.m3u8
 #EXTINF:-1 tvg-id="ZING (IN)" tvg-name="ZING (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY_400x400.jpg"group-title="MUSIC / YOUTH CHANNELS",ZING (IN)
 http://livecdnh1.tvanywhere.ae/hls/zing/02.m3u8
