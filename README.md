@@ -515,3 +515,4 @@ http://79.106.48.2/live/rtsh_sport_ott_p2/playlist.m3u8
 http://163.172.85.133:8080/TenS/1/index.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 1 (IN)" tvg-name="SONY TEN 1 (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_437/PORTRAIT/2f95e2fC.png"group-title="SPORTS CHANNELS",SONY TEN 1 (IN)
 http://109.169.56.170/hls/ten1.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 2 (IN)" tvg-name="SONY TEN 2 (IN)" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2.png"group-title="SPORTS CHANNELS",SONY TEN 2 (IN)
