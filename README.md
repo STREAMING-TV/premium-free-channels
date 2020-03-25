@@ -522,4 +522,5 @@ http://109.169.56.170/hls/ten3.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 3 (IN)" tvg-name="SONY TEN 3 (IN)" tvg-logo="https://i.pinimg.com/originals/e4/d7/32/e4d73275b3532613c07d5883b59e1803.png"group-title="SPORTS CHANNELS",SONY TEN 3 (IN)
 http://163.172.85.133:8080/TenS/3/index.m3u8
 #EXTINF:-1 tvg-id="STAR SPORTS HINDI 1 (IN)" tvg-name="STAR SPORTS HINDI 1 (IN)" tvg-logo="https://www.televisionpost.com/wp-content/uploads/2019/04/Star-Sports-1-Hindi-cover.jpg" group-title="SPORTS CHANNELS",STAR SPORTS HINDI 1 (IN)
-http://109.169.56.170/hls/starsports1.m3u8?userAgent=
+http://109.169.56.170/hls/starsports1.m3u8?userAgent= 
+#EXTINF:-1 tvg-id="STAR SPORTS HINDI 1 HD (IN)" tvg-name="STAR SPORTS HINDI 1 HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest/scale-to-width-down/732?cb=20171105031607" group-title="SPORTS CHANNELS",STAR SPORTS HINDI 1 HD (IN)
