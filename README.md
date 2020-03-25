@@ -527,3 +527,4 @@ http://109.169.56.170/hls/starsports1.m3u8?userAgent=
 http://195.181.169.120/StarSports_Hd1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="STAR SPORTS HINDI 1 HD (IN)" tvg-name="STAR SPORTS HINDI 1 HD (IN)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/0643d03eae8f3c8f.jpg" group-title="SPORTS CHANNELS",STAR SPORTS HINDI 1 HD (IN)
 http://195.181.169.120/StarSports_Hd1/playlist.m3u8
+#EXTINF:-1 tvg-id="STAR SPORTS 2 (IN)" tvg-name="STAR SPORTS 2 (IN)" tvg-logo="https://www.nicepng.com/png/detail/952-9522547_top-10-most-famous-indian-television-channels-star.png" group-title="SPORTS CHANNELS",STAR SPORTS 2 (IN)
