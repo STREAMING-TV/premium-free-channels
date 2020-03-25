@@ -520,3 +520,4 @@ http://109.169.56.170/hls/ten2.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 3 (IN)" tvg-name="SONY TEN 3 (IN)" tvg-logo="https://cricasia.com/wp-content/uploads/2018/04/Watch-Sony-Ten-3-Tv-Channel-Live-Streaming-810x456.png"group-title="SPORTS CHANNELS",SONY TEN 3 (IN)
 http://109.169.56.170/hls/ten3.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 3 (IN)" tvg-name="SONY TEN 3 (IN)" tvg-logo="https://i.pinimg.com/originals/e4/d7/32/e4d73275b3532613c07d5883b59e1803.png"group-title="SPORTS CHANNELS",SONY TEN 3 (IN)
+http://163.172.85.133:8080/TenS/3/index.m3u8
