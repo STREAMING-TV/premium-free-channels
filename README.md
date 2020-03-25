@@ -105,7 +105,7 @@ http://62.203.143.51:9981/play/PlayyTV
 http://stream.tapmad.com:1935/pitvlive2/cartoon_240p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ZEE CINEMA (ME)" tvg-name="ZEE CINEMA (ME)" tvg-logo="https://adhub.lk/attachments-2.1.0/channel-logos/fid_2529_zee-cinema-1.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA (ME)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecinemame/index.m3u8
-#EXTINF:-1 tvg-id="PASSIONXXX (INT)" tvg-name="PASSIONXXX (INT)" tvg-logo="http://i.imgur.com/6Nr8Bqk.png"group-title="ADULT CHANNELS",PASSIONXXX (INT)
+#EXTINF:-1 tvg-id="PASSION XXX (INT)" tvg-name="PASSION XXX (INT)" tvg-logo="http://i.imgur.com/6Nr8Bqk.png"group-title="ADULT CHANNELS",PASSION XXX (INT)
 http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/playlist.m3u8
 #EXTINF:-1 tvg-id="HUSTLER HD (INT)" tvg-name="HUSTLER HD (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png"group-title="ADULT CHANNELS",HUSTLER HD (INT)
 http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hwVv4Mb5yarbaGHAIfET&uid=491
@@ -119,7 +119,7 @@ http://live.redtraffic.xyz/pornstar.m3u8
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="BIZARRE TV (INT)" tvg-name="BIZARRE TV (INT)" tvg-logo="https://www.feefo.com/api/merchant-image/bizarre-logo.jpg"group-title="ADULT CHANNELS",BIZARRE TV (INT)
 http://84.22.33.254/unicast.bizarre/index.m3u8
-#EXTINF:-1 tvg-id="ERO XXX HD (INT)" tvg-name="ERO XXX HD (INT)" tvg-logo="http://4.bp.blogspot.com/-4vAe6e0L9LA/VOhoM4kQuCI/AAAAAAAAAQc/rzqKOKn2W7M/s1600/eroxxx_hd_tv_channel_live.png"group-title="ADULT  CHANNELS",ERO XXX HD (INT)
+#EXTINF:-1 tvg-id="ERO XXX HD (INT)" tvg-name="ERO XXX HD (INT)" tvg-logo="http://4.bp.blogspot.com/-4vAe6e0L9LA/VOhoM4kQuCI/AAAAAAAAAQc/rzqKOKn2W7M/s1600/eroxxx_hd_tv_channel_live.png"group-title="ADULT CHANNELS",ERO XXX HD (INT)
 http://84.22.33.254/unicast.eroxhd/index.m3u8
 #EXTINF:-1 tvg-id="SUPER ONE HD (INT)" tvg-name="SUPER ONE HD (INT)" tvg-logo="https://mar-vik.si/uploads/logotipi/SUPERONE.png"group-title="ADULT CHANNELS",SUPER ONE HD (INT)
 http://188.35.9.5:10007/stolen/246r/parasite.install
@@ -175,7 +175,7 @@ https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="DD NEWS (IN)" tvg-name="DD NEWS (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/DD_News_Logo_2015.jpg"group-title="NEWS / BUSINESS CHANNELS",DD NEWS (IN)
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-#EXTINF:-1 tvg-id="DSPORT (IN)" tvg-name="DSPORT (IN)" tvg-logo="https://glaws.in/wp-content/uploads/2018/01/DSport.jpg"group-title="ADULT / SPORTS CHANNELS",DSPORT (IN)
+#EXTINF:-1 tvg-id="DSPORT (IN)" tvg-name="DSPORT (IN)" tvg-logo="https://glaws.in/wp-content/uploads/2018/01/DSport.jpg"group-title="SPORTS CHANNELS",DSPORT (IN)
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_400.m3u8
 #EXTINF:-1 tvg-id="SPORTS MAX (ME)" tvg-name="SPORTS MAX (ME)" tvg-logo="https://www.nationnews.com/IMG/865/77865/sportsmax-logo2402-450x303.gif"group-title="SPORTS CHANNELS",SPORTS MAX (ME)
 https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
