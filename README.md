@@ -99,7 +99,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemausa/index.m3
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemauk/index.m3u8
 #EXTINF:-1 tvg-id="STAR PLUS HD (IN)" tvg-name="STAR PLUS HD (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1164132839710838784/LHQ31mtM_400x400.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS HD (IN)
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="PLAY BOY TV (IN)" tvg-name="PLAY BOY TV (IN)" tvg-logo="https://www.pngitem.com/pimgs/m/165-1654634_transparent-playboy-bunny-png-playboy-tv-logo-png.png"group-title="ADULT / SPORTS CHANNELS",PLAY BOY TV (INT)
+#EXTINF:-1 tvg-id="PLAY BOY TV (IN)" tvg-name="PLAY BOY TV (IN)" tvg-logo="https://www.pngitem.com/pimgs/m/165-1654634_transparent-playboy-bunny-png-playboy-tv-logo-png.png"group-title="ADULT CHANNELS",PLAY BOY TV (INT)
 http://62.203.143.51:9981/play/PlayyTV
 #EXTINF:-1 tvg-id="CARTOON NATWORK (IN)" tvg-name="CARTOON NATWORK (IN)" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_black.png"group-title="KIDS CHANNELS",CARTOON NATWORK (IN)
 http://stream.tapmad.com:1935/pitvlive2/cartoon_240p/chunklist.m3u8
@@ -107,27 +107,27 @@ http://stream.tapmad.com:1935/pitvlive2/cartoon_240p/chunklist.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecinemame/index.m3u8
 #EXTINF:-1 tvg-id="PASSIONXXX (INT)" tvg-name="PASSIONXXX (INT)" tvg-logo="http://i.imgur.com/6Nr8Bqk.png"group-title="ADULT / SPORTS CHANNELS",PASSIONXXX (INT)
 http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/playlist.m3u8
-#EXTINF:-1 tvg-id="HUSTLER HD (INT)" tvg-name="HUSTLER HD (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png"group-title="ADULT / SPORTS CHANNELS",HUSTLER HD (INT)
+#EXTINF:-1 tvg-id="HUSTLER HD (INT)" tvg-name="HUSTLER HD (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png"group-title="ADULT CHANNELS",HUSTLER HD (INT)
 http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hwVv4Mb5yarbaGHAIfET&uid=491
-#EXTINF:-1 tvg-id="BRUNETTE (INT)" tvg-name="BRUNETTE (INT)" tvg-logo="https://logopond.com/logos/ec8a8b37d6ec9a21b315921ab8f2f207.png"group-title="ADULT / SPORTS CHANNELS",BRUNETTE (INT)
+#EXTINF:-1 tvg-id="BRUNETTE (INT)" tvg-name="BRUNETTE (INT)" tvg-logo="https://logopond.com/logos/ec8a8b37d6ec9a21b315921ab8f2f207.png"group-title="ADULT CHANNELS",BRUNETTE (INT)
 http://cdn.adultiptv.net/brunette.m3u8
 #EXTINF:-1 tvg-id="GAY (INT)" tvg-name="GAY (INT)" tvg-logo="https://logodix.com/logo/1774845.png"group-title="ADULT / SPORTS CHANNELS",GAY (INT)
 http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 tvg-id="PORNSTAR (INT)" tvg-name="PORNSTAR (INT)" tvg-logo="https://d172h4vc197skd.cloudfront.net/images/8f/6b/8f6bf93c0e4afecc6ff97769c855beee_1578763e3f90_t.png"group-title="ADULT / SPORTS CHANNELS",PORNSTAR (INT)
+#EXTINF:-1 tvg-id="PORNSTAR (INT)" tvg-name="PORNSTAR (INT)" tvg-logo="https://d172h4vc197skd.cloudfront.net/images/8f/6b/8f6bf93c0e4afecc6ff97769c855beee_1578763e3f90_t.png"group-title="ADULT CHANNELS",PORNSTAR (INT)
 http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 tvg-id="BSX24 (INT)" tvg-name="BSX24 (INT)" tvg-logo="https://s3.amazonaws.com/ctm-tm/003594141.JPG"group-title="ADULT / SPORTS CHANNELS",BSX24 (INT)
+#EXTINF:-1 tvg-id="BSX24 (INT)" tvg-name="BSX24 (INT)" tvg-logo="https://s3.amazonaws.com/ctm-tm/003594141.JPG"group-title="ADULT CHANNELS",BSX24 (INT)
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="BIZARRE TV (INT)" tvg-name="BIZARRE TV (INT)" tvg-logo="https://www.feefo.com/api/merchant-image/bizarre-logo.jpg"group-title="ADULT / SPORTS CHANNELS",BIZARRE TV (INT)
+#EXTINF:-1 tvg-id="BIZARRE TV (INT)" tvg-name="BIZARRE TV (INT)" tvg-logo="https://www.feefo.com/api/merchant-image/bizarre-logo.jpg"group-title="ADULT CHANNELS",BIZARRE TV (INT)
 http://84.22.33.254/unicast.bizarre/index.m3u8
-#EXTINF:-1 tvg-id="EROXXXHD (INT)" tvg-name="EROXXXHD (INT)" tvg-logo="http://4.bp.blogspot.com/-4vAe6e0L9LA/VOhoM4kQuCI/AAAAAAAAAQc/rzqKOKn2W7M/s1600/eroxxx_hd_tv_channel_live.png"group-title="ADULT / SPORTS CHANNELS",EROXXXHD (INT)
+#EXTINF:-1 tvg-id="ERO XXX HD (INT)" tvg-name="ERO XXX HD (INT)" tvg-logo="http://4.bp.blogspot.com/-4vAe6e0L9LA/VOhoM4kQuCI/AAAAAAAAAQc/rzqKOKn2W7M/s1600/eroxxx_hd_tv_channel_live.png"group-title="ADULT  CHANNELS",ERO XXX HD (INT)
 http://84.22.33.254/unicast.eroxhd/index.m3u8
-#EXTINF:-1 tvg-id="SUPER ONE HD (INT)" tvg-name="SUPER ONE HD (INT)" tvg-logo="https://mar-vik.si/uploads/logotipi/SUPERONE.png"group-title="ADULT / SPORTS CHANNELS",SUPER ONE HD (INT)
+#EXTINF:-1 tvg-id="SUPER ONE HD (INT)" tvg-name="SUPER ONE HD (INT)" tvg-logo="https://mar-vik.si/uploads/logotipi/SUPERONE.png"group-title="ADULT CHANNELS",SUPER ONE HD (INT)
 http://188.35.9.5:10007/stolen/246r/parasite.install
 #EXTINF:-1 tvg-id="ZEE LIVING (USA)" tvg-name="ZEE LIVING (USA)" tvg-logo="https://www.zeeinternational.co.in/wp-content/uploads/2018/02/Zee-Living.png"group-title="LIFESTYLE / TRAVELING CHANNELS",ZEE LIVING (USA)
 http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="SHOW BOX (IN)" tvg-name="SHOW BOX (IN)" tvg-logo="https://www.inkspell.co.in/wp-content/uploads/2019/06/show_BOX-logo-Epic-Channel-1.png"group-title="MUSIC / YOUTH CHANNELS",SHOW BOX (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/live/amlst:showbox_,b180,b320,b640,b860,b1400,.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HUSTLER TV (INT)" tvg-name="HUSTLER TV (INT)" tvg-logo="http://www.mscnoticiaslatam.com/wp-content/uploads/2014/03/HustlerTV-logo.jpg"group-title="ADULT / SPORTS CHANNELS",HUSTLER TV (INT)
+#EXTINF:-1 tvg-id="HUSTLER TV (INT)" tvg-name="HUSTLER TV (INT)" tvg-logo="http://www.mscnoticiaslatam.com/wp-content/uploads/2014/03/HustlerTV-logo.jpg"group-title="ADULT CHANNELS",HUSTLER TV (INT)
 http://163.172.209.107:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="ZEE HINDUSTAN (IN)" tvg-name="ZEE HINDUSTAN (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Zee_Hindustan_Logo.png/799px-Zee_Hindustan_Logo.png"group-title="NEWS / BUSINESS CHANNELS",ZEE HINDUSTAN (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/hindustan/index.m3u8
@@ -177,7 +177,7 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1 tvg-id="DSPORT (IN)" tvg-name="DSPORT (IN)" tvg-logo="https://glaws.in/wp-content/uploads/2018/01/DSport.jpg"group-title="ADULT / SPORTS CHANNELS",DSPORT (IN)
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_400.m3u8
-#EXTINF:-1 tvg-id="SPORTS MAX (ME)" tvg-name="SPORTS MAX (ME)" tvg-logo="https://www.nationnews.com/IMG/865/77865/sportsmax-logo2402-450x303.gif"group-title="ADULT / SPORTS CHANNELS",SPORTS MAX (ME)
+#EXTINF:-1 tvg-id="SPORTS MAX (ME)" tvg-name="SPORTS MAX (ME)" tvg-logo="https://www.nationnews.com/IMG/865/77865/sportsmax-logo2402-450x303.gif"group-title="SPORTS CHANNELS",SPORTS MAX (ME)
 https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
 #EXTINF:-1 tvg-id="HISTORY2 (ME)" tvg-name="HISTORY2 (ME)" tvg-logo="http://3.bp.blogspot.com/-RzXst6jpzBw/Toi5hYDW9AI/AAAAAAAACPA/jFKuVx6JcaQ/s500/History+2+logo+2011.png"group-title="INFORMATION / WILDLIFE CHANNELS",HISTORY2 (ME)
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
@@ -277,7 +277,7 @@ https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=e
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-id="SONY BBC EARTH (IN)" tvg-name="SONY BBC EARTH (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_773/PORTRAIT/qrQ8Ti1k.png"group-title="INFORMATION / WILDLIFE CHANNELS",BBC EARTH HD (IN)
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="SONY ESPN HD (IN)" tvg-name="SONY ESPN HD (IN)" tvg-logo="https://www.adgully.com/img/400/65764_image001.png.jpg"group-title="ADULT / SPORTS CHANNELS",SONY ESPN HD (IN)
+#EXTINF:-1 tvg-id="SONY ESPN HD (IN)" tvg-name="SONY ESPN HD (IN)" tvg-logo="https://www.adgully.com/img/400/65764_image001.png.jpg"group-title="SPORTS CHANNELS",SONY ESPN HD (IN)
 https://sony247channels.akamaized.net/hls/live/2004800/SONYESPNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-id="SONY YAY (IN)" tvg-name="SONY YAY (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg"group-title="KIDS CHANNELS",SONY YAY (IN)
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
@@ -289,7 +289,7 @@ https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=e
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/aajtak.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="TEZ (IN)" tvg-name="TEZ (IN)" tvg-logo="https://i.ytimg.com/vi/Qm4vvA-i3Rc/maxresdefault.jpg"group-title="NEWS / BUSINESS CHANNELS",TEZ (IN)
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/aajtaktez.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DD SPORTS (IN)" tvg-name="DD SPORTS (IN)" tvg-logo="https://doordarshan.gov.in/sites/default/files/dd-sports-logo.png"group-title=" ADULT / SPORTS CHANNELS",DD SPORTS (IN)
+#EXTINF:-1 tvg-id="DD SPORTS (IN)" tvg-name="DD SPORTS (IN)" tvg-logo="https://doordarshan.gov.in/sites/default/files/dd-sports-logo.png"group-title="SPORTS CHANNELS",DD SPORTS (IN)
 https://m-c20-j2apps.s.llnwi.net/hls/0179.DDSports.in.m3u8
 #EXTINF:-1 tvg-id="FIRANGI (IN)" tvg-name="FIRANGI (IN)" tvg-logo="http://schoolatgo.info/assets/images/partnerslogo/firangi.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",FIRANGI (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
@@ -319,23 +319,23 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 https://m-c20-j2apps.s.llnwi.net/hls/0449.ManoranjanTV.in.m3u8
 #EXTINF:-1 tvg-id="MAHA MOVIE (IN)" tvg-name="MAHA MOVIE (IN)" tvg-logo="https://ambujtiwari1.files.wordpress.com/2015/11/maha-movie-logo.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MAHA MOVIE (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:-1 tvg-id="SONY ESPN (IN)" tvg-name="SONY ESPN (IN)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/1280px-Sony_ESPN_logo.svg.png"group-title="ADULT / SPORTS CHANNELS",SONY ESPN (IN) 
+#EXTINF:-1 tvg-id="SONY ESPN (IN)" tvg-name="SONY ESPN (IN)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/1280px-Sony_ESPN_logo.svg.png"group-title="SPORTS CHANNELS",SONY ESPN (IN) 
 https://sony247channels.akamaized.net/hls/live/2004806/SONYESPNSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 tvg-id="SONY SIX HD (IN)" tvg-name="SONY SIX HD (IN)"tvg-logo="https://cricstands.com/wp-content/uploads/2019/05/Sony-Six-Live-Streaming-CWC-2019.jpg"group-title="ADULT / SPORTS CHANNELS",SONY SIX HD (IN)
+#EXTINF:-1 tvg-id="SONY SIX HD (IN)" tvg-name="SONY SIX HD (IN)"tvg-logo="https://cricstands.com/wp-content/uploads/2019/05/Sony-Six-Live-Streaming-CWC-2019.jpg"group-title="SPORTS CHANNELS",SONY SIX HD (IN)
 https://sony247channels.akamaized.net/hls/live/2004805-b/SonySixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 tvg-id="SONY SIX (IN)" tvg-name="SONY SIX (IN)"tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png"group-title="ADULT / SPORTS CHANNELS",SONY SIX (IN)
+#EXTINF:-1 tvg-id="SONY SIX (IN)" tvg-name="SONY SIX (IN)"tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png"group-title="SPORTS CHANNELS",SONY SIX (IN)
 http://109.169.56.170/hls/sonysix.m3u8
-#EXTINF:-1 tvg-id="SONY TEN 3 HD (IN)" tvg-name="SONY TEN 3 HD (IN)"tvg-logo="https://3.bp.blogspot.com/-0hg7e4CPb6E/W1w7XkB8EJI/AAAAAAAAAdk/P3_5_IQmM-gJ5MQjMJ9UsncisB7PDUWqgCLcBGAs/s1600/Sony-Ten-3-HD-1-300x240.png"group-title="ADULT / SPORTS CHANNELS",SONY TEN 3 HD (IN)
+#EXTINF:-1 tvg-id="SONY TEN 3 HD (IN)" tvg-name="SONY TEN 3 HD (IN)"tvg-logo="https://3.bp.blogspot.com/-0hg7e4CPb6E/W1w7XkB8EJI/AAAAAAAAAdk/P3_5_IQmM-gJ5MQjMJ9UsncisB7PDUWqgCLcBGAs/s1600/Sony-Ten-3-HD-1-300x240.png"group-title="SPORTS CHANNELS",SONY TEN 3 HD (IN)
 https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 tvg-id="SONY TEN 3 (IN)" tvg-name="SONY TEN 3 (IN)"tvg-logo="https://i.pinimg.com/originals/31/62/0f/31620fff81ab910c2dc3726a066a21ed.png"group-title="ADULT / SPORTS CHANNELS",SONY TEN 3 (IN)
+#EXTINF:-1 tvg-id="SONY TEN 3 (IN)" tvg-name="SONY TEN 3 (IN)"tvg-logo="https://i.pinimg.com/originals/31/62/0f/31620fff81ab910c2dc3726a066a21ed.png"group-title="SPORTS CHANNELS",SONY TEN 3 (IN)
 https://sony247channels.akamaized.net/hls/live/2004809/SonyTen3SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 tvg-id="SONY TEN 2 HD (IN)" tvg-name="SONY TEN 2 HD (IN)"tvg-logo="https://tv.bdtype.com/uploads/tv_image/sony-ten-2.png"group-title="ADULT / SPORTS CHANNELS",SONY TEN 2 HD (IN)
+#EXTINF:-1 tvg-id="SONY TEN 2 HD (IN)" tvg-name="SONY TEN 2 HD (IN)"tvg-logo="https://tv.bdtype.com/uploads/tv_image/sony-ten-2.png"group-title="SPORTS CHANNELS",SONY TEN 2 HD (IN)
 https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 tvg-id="SONY TEN 2 (IN)" tvg-name="SONY TEN 2 (IN)"tvg-logo="http://www.kcltv.com/software/images/uploads/sony_ten_2.jpg"group-title="ADULT / SPORTS CHANNELS",SONY TEN 2 (IN)
+#EXTINF:-1 tvg-id="SONY TEN 2 (IN)" tvg-name="SONY TEN 2 (IN)"tvg-logo="http://www.kcltv.com/software/images/uploads/sony_ten_2.jpg"group-title="SPORTS CHANNELS",SONY TEN 2 (IN)
 https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 tvg-id="SONY TEN 1 HD (IN)" tvg-name="SONY TEN 1 HD (IN)"tvg-logo="https://kccl.tv/sites/default/files/Sony_Ten_1_HD.jpg"group-title="ADULT / SPORTS CHANNELS",SONY TEN 1 HD (IN)
+#EXTINF:-1 tvg-id="SONY TEN 1 HD (IN)" tvg-name="SONY TEN 1 HD (IN)"tvg-logo="https://kccl.tv/sites/default/files/Sony_Ten_1_HD.jpg"group-title="SPORTS CHANNELS",SONY TEN 1 HD (IN)
 https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 tvg-id="SONY TEN 1 (IN)" tvg-name="SONY TEN 1 (IN)"tvg-logo="https://i.ytimg.com/vi/GHr_TFO-UgE/maxresdefault.jpg"group-title="ADULT / SPORTS CHANNELS",SONY TEN 1 (IN)
+#EXTINF:-1 tvg-id="SONY TEN 1 (IN)" tvg-name="SONY TEN 1 (IN)"tvg-logo="https://i.ytimg.com/vi/GHr_TFO-UgE/maxresdefault.jpg"group-title="SPORTS CHANNELS",SONY TEN 1 (IN)
 https://sony247channels.akamaized.net/hls/live/2004807/SonyTen1SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 tvg-id="MOVIE PLUS (IN)" tvg-name="MOVIE PLUS (IN)" tvg-logo="https://i.ytimg.com/vi/bJt_vkZxr78/hqdefault.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MOVIE PLUS (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
@@ -509,7 +509,7 @@ https://59299831b66d0.streamlock.net/islam-live/islam.stream/chunklist.m3u8
 http://stream.streamislam.com:8080/streamer/live/index.m3u8
 #EXTINF:-1 tvg-id="MIRACLE CHANNEL (CA)" tvg-name="MIRACLE CHANNEL (CA)" tvg-logo="https://www.pngkit.com/png/detail/432-4329691_miracle-channel-logo-nonickel-c-square-wide-pin.png" group-title="DEVOTIONAL CHANNELS ",MIRACLE CHANNEL (CA)
 https://d9ruw6nhj5a52.cloudfront.net/live/live/chunklist_w664641459.m3u8
-#EXTINF:-1 tvg-id="RTSH SPORTS (EU)" tvg-name="RTSH SPORTS (EU)" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/1280px-RTSH_SPORT.svg_.png" group-title="ADULT / SPORTS CHANNELS",RTSH SPORTS (RU)
+#EXTINF:-1 tvg-id="RTSH SPORTS (EU)" tvg-name="RTSH SPORTS (EU)" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/1280px-RTSH_SPORT.svg_.png" group-title="SPORTS CHANNELS",RTSH SPORTS (RU)
 http://79.106.48.2/live/rtsh_sport_ott_p2/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 1 HD (IN)" tvg-name="SONY TEN 1 HD (IN)" tvg-logo="https://i.ytimg.com/vi/LWlSTtDYD-E/hqdefault_live.jpg" group-title="SPORTS CHANNELS",SONY TEN 1 HD (IN)
 http://163.172.85.133:8080/TenS/1/index.m3u8
