@@ -511,3 +511,4 @@ http://stream.streamislam.com:8080/streamer/live/index.m3u8
 https://d9ruw6nhj5a52.cloudfront.net/live/live/chunklist_w664641459.m3u8
 #EXTINF:-1 tvg-id="RTSH SPORTS (EU)" tvg-name="RTSH SPORTS (EU)" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/1280px-RTSH_SPORT.svg_.png" group-title="ADULT / SPORTS CHANNELS",RTSH SPORTS (RU)
 http://79.106.48.2/live/rtsh_sport_ott_p2/playlist.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 1 HD (IN)" tvg-name="SONY TEN 1 HD (IN)" tvg-logo="https://i.ytimg.com/vi/LWlSTtDYD-E/hqdefault_live.jpg" group-title="SPORTS CHANNELS",SONY TEN 1 HD (IN)
