@@ -531,5 +531,4 @@ http://195.181.169.120/StarSports_Hd1/playlist.m3u8
 http://43.251.86.2:8080/hls/channel_3.m3u8
 #EXTINF:-1 tvg-id="AAJ TAK (IN)" group-title="NEWS / BUSINESS CHANNELS" tvg-logo="https://akm-img-a-in.tosshub.com/sites/aajtak/video/aajtak_livetv_fbshare_thumbnail.jpg",AAJ TAK (IN)
 http://31.14.40.58:8080/AAJTAK_h264/index.m3u8
-#EXTINF:-1 tvg-id="HUSTLER HD (EU)" group-title="ADULT CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png", HUSTLER HD (EU)
-http://188.35.9.26:9031/udp/117m
+#EXTINF:-1 tvg-id="BRAZZERS TV (EU)" group-title="ADULT CHANNELS" tvg-logo="https://cdn.webshopapp.com/shops/120912/files/121623368/890x820x2/brazzers-europe-tv-jaarkaart-viaccess.jpg",BRAZZERS TV (EU)
