@@ -536,3 +536,4 @@ http://188.35.9.26:9031/udp/117m
 #EXTINF:-1 tvg-id="INDIA NEWS (IN)" group-title="NEWS / BUSINESS CHANNELS" tvg-logo="https://lh4.ggpht.com/-pvGg0zMy9_s/Uut-8ZazMYI/AAAAAAAAAeY/JFXwAKRrPDM/s1600/india_news_in.png", INDIA NEWS (IN)
 http://streamidvo.multitvsolution.in//live//IndiaNews-a//p2.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY SHOWCASE HD (EU)" group-title="INFORMATION / WILDLIFE CHANNELS" tvg-logo="https://i.iinfo.cz/images/290/discovery-showcase-hd-1.jpg",DISCOVERY SHOWCASE HD (EU)
+http://178.156.198.68:7612/
