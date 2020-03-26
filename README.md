@@ -548,3 +548,4 @@ https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:-1 ch-id="&FLIX HD (IN)" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg"tvg-url=""group-title="ENTERTAINMENT / MOVIES CHANNELS",&FLIX HD (IN)
 http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 ch-id="ASSAM TALKS (IN)" tvg-logo="https://www.magicalassam.com/wp-content/uploads/2015/05/assam-talks-channel.jpg" group-title="REGIONAL CHANNELS",ASSAM TALKS (IN)
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
