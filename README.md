@@ -542,3 +542,4 @@ http://43.251.86.2:8080/hls/channel_2.m3u8
 #EXTINF:-1 tvg-id="PTV SPORTS (IN)" group-title="SPORTS CHANNELS" tvg-logo="https://cdn.imgbin.com/2/7/1/imgbin-logo-ptv-sports-television-channel-pakistan-cricket-8YvzSP5MmbjMiT27N1RsitE0D.jpg", PTV SPORTS (PK)
 http://163.172.12.37/PtvSports/Hd1/index.m3u8
 #EXTINF:-1 tvg-id="PTV SPORTS (IN)" group-title="SPORTS CHANNELS" tvg-logo="https://lh3.googleusercontent.com/0RRw3TnxVkoJCaRBGvunBMT1p1nY_xpAPKhY9_IqYddrbEq5yOlVKia0c8ckO2XFhBM", PTV SPORTS (PK)
+http://95.211.211.168/live/ptvsports2002/playlist.m3u8
