@@ -497,7 +497,7 @@ http://95.211.211.168/live/humtv0066/playlist.m3u8
 http://stream.tapmad.com:1935/pitvlive2/aplus3_240p/chunklist.m3u8
 #EXTINF:-1 tvg-id="GEO NEWS HD (PK)" tvg-name="GEO NEWS HD (PK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="NEWS / BUSINESS CHANNELS",GEO NEWS HD (PK)
 http://95.211.211.168/live/geonews0011/playlist.m3u8
-#EXTINF:-1 tvg-id="AAJ NEWS (UK)" tvg-name="AAJ NEWS (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/AAJ_News.png"group-title="NEWS / BUSINESS CHANNELS",AAJ NEWS (UK)
+#EXTINF:-1 tvg-id="JK NEWS (UK)" tvg-name="JK NEWS (UK)" tvg-logo="https://pbs.twimg.com/profile_images/663247984235143168/OF4lzF5E_400x400.jpg"group-title="NEWS / BUSINESS CHANNELS",AAJ NEWS (UK)
 http://162.250.201.58:6211/uk/A1TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PTV NEWS (PK)" tvg-name="PTV NEWS (PK)" tvg-logo="https://newsstreamlive.com/wp-content/uploads/2019/07/PTV-News.jpg"group-title="NEWS / BUSINESS CHANNELS",PTV NEWS (PK)
 http://stream.tapmad.com:1935/pitvlive2/ptvnews3_240p/chunklist.m3u8
