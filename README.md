@@ -457,7 +457,7 @@ https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvi
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-id="AAJ TAK (IN)" tvg-name="AAJ TAK (IN)" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/logos/AT-pngx2000.png"group-title="NEWS / BUSINESS CHANNELS",AAJ TAK (IN)
 https://vidcdn.vidgyor.com/at-origin/desktoplive/at-origin/live3/chunks.m3u8
-#EXTINF:-1 tvg-id="TEZ (IN)" tvg-name="TEZ (IN)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/tez_news.jpg"group-title="NEWS / BUSINESS CHANNELS",TEZ (IN)
+#EXTINF:-1 tvg-id="TEZ (IN)" tvg-name="TEZ (IN)" tvg-logo="https://static.filmon.com/assets/channels/3488/extra_big_logo.png"group-title="NEWS / BUSINESS CHANNELS",TEZ (IN)
 https://vidcdn.vidgyor.com/tez-origin/liveabr/tez-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-id="INDIA TV (IN)" tvg-name="INDIA TV (IN)" tvg-logo="https://www.livelaw.in/h-upload/2019/02/05/358091-india-tv.jpg"group-title="NEWS / BUSINESS CHANNELS",INDIA TV (IN)
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_1@199237/chunks.m3u8
