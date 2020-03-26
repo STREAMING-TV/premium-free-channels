@@ -359,7 +359,7 @@ https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8
 https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in.m3u8
 #EXTINF:-1 tvg-id="MUSIC INDIA (IN)" tvg-name="MUSIC INDIA (IN)" tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india.png"group-title="MUSIC / YOUTH CHANNELS",MUSIC INDIA (IN)
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
-#EXTINF:-1 tvg-id="9XM (IN)" tvg-name="9XM (IN)" tvg-logo="https://cdn.clipart.email/47528cb00781591f081afb045e0f3981_funmania_1600-929.jpeg"group-title="MUSIC / YOUTH CHANNELS",9XM (IN)
+#EXTINF:-1 tvg-id="9XM (IN)" tvg-name="9XM (IN)" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2019/06/9xm001.jpg"group-title="MUSIC / YOUTH CHANNELS",9XM (IN)
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 #EXTINF:-1 tvg-id="9X JALWA (IN)" tvg-name="9X JALWA (IN)" tvg-logo="https://img.favpng.com/5/7/16/9x-jalwa-television-channel-9x-media-streaming-media-png-favpng-UBBEM6M48rjgxxXDuYXgXcG7S.jpg"group-title="MUSIC / YOUTH CHANNELS",9X JALWA (IN)
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
@@ -421,7 +421,7 @@ https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
 https://sony247channels.akamaized.net/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-id="GTV HD (BD)" tvg-name="GTV HD (BD)" tvg-logo="https://www.cricketlivezone.com/wp-content/uploads/2019/12/gazi-tv-live-cricket-678x381.jpg"group-title="REGIONAL CHANNELS ",GTV HD (BD)
 http://109.169.56.170/hls/gtv.m3u8
-#EXTINF:-1 tvg-id="MAASRANGA TV (BD)" tvg-name="MAASRANGA TV (BD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="REGIONAL CHANNELS ",MAASRANGA TV (BD) 
+#EXTINF:-1 tvg-id="MAASRANGA TV (BD)" tvg-name="MAASRANGA TV (BD)" tvg-logo="https://assetsds.cdnedge.bluemix.net/sites/default/files/beta2/uploads/2013/07/mashranga1.jpg"group-title="REGIONAL CHANNELS ",MAASRANGA TV (BD) 
 http://109.169.56.170/hls/maasranga.m3u8
 #EXTINF:-1 tvg-id="ZEE BANGLA (IN)" tvg-name="ZEE BANGLA (IN)" tvg-logo="https://i.pinimg.com/736x/aa/4b/33/aa4b33e974f202f40ae426d50a14b5e0.jpg"group-title="REGIONAL CHANNELS ",ZEE BANGLA  (IN)
 http://109.169.56.170/hls/zeebanglahd.m3u8
