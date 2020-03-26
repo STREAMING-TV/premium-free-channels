@@ -467,7 +467,7 @@ https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.
 http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="KHABRAIN ABHI TAK (IN)" tvg-name="KHABRAIN ABHI TAK (IN)" tvg-logo="https://images.jdmagicbox.com/comp/gurgaon/i5/011pxx11.xx11.120717141103.j8i5/catalogue/khabrain-abhi-tak--sector-32-gurgaon-news-satellite-channels-o8ggwmnuyp.jpg"group-title="NEWS / BUSINESS CHANNELS",KHABRAIN ABHI TAK (IN)
 https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/chunks.m3u8
-#EXTINF:-1 tvg-id="SADHNA PLUS (IN)" tvg-name="SADHNA PLUS (IN)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-sadhna-plus.jpg"group-title="NEWS / BUSINESS CHANNELS",SADHNA PLUS (IN)
+#EXTINF:-1 tvg-id="SADHNA PLUS (IN)" tvg-name="SADHNA PLUS (IN)" tvg-logo="https://4.bp.blogspot.com/-vHCoSv77QmM/WKG5HYsqpAI/AAAAAAAAAY0/t9zSNFDsd2AlhuWOOAo9q2JZrto1iLBjACLcB/s1600/SADHNA%2BPLUS.jpg"group-title="NEWS / BUSINESS CHANNELS",SADHNA PLUS (IN)
 http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8
 #EXTINF:-1 tvg-id="SURYA NEWS (IN)" tvg-name="SURYA NEWS (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1097410979481018368/IkFFEFs5_400x400.png"group-title="NEWS / BUSINESS CHANNELS",SURYA NEWS (IN)
 http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
