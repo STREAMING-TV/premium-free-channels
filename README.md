@@ -271,7 +271,7 @@ https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdn
 https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-id="SONY WAH (IN)" tvg-name="SONY WAH (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY WAH (IN)
 https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
-#EXTINF:-1 tvg-id="SONY TV HD (IN)" tvg-name="SONY TV HD (IN)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-set-hd-logo-300x300.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY TV HD (IN)
+#EXTINF:-1 tvg-id="SONY TV HD (IN)" tvg-name="SONY TV HD (IN)" tvg-logo="https://desitvflix.site/contentData/tvshows/images/logos/Sony%20TV.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY TV HD (IN)
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-id="SONY SAB HD (IN)" tvg-name="SONY SAB HD (IN)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/c3ed8e54424399.Y3JvcCw2MjQsNDg4LDI4Niw4MQ.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY SAB HD (IN)
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
@@ -447,7 +447,7 @@ http://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p3.m3u8
 http://playhls.media.nic.in/live/ddkisan-360p/index.m3u8
 #EXTINF:-1 tvg-id="SHEMARROO KIDS (IN)" tvg-name="SHEMARROO KIDS (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Kids/5bebcba7a609d202b3000005/large_16_9.jpg"group-title="KIDS CHANNELS",SHEMAROO KIDS (IN)
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
-#EXTINF:-1 tvg-id="ABP NEWS (IN)" tvg-name="ABP NEWS (IN)" tvg-logo="http://res.cloudinary.com/onesolutionsbiz/image/upload/v1507121155/abp-news_pojgm5.png"group-title="NEWS / BUSINESS CHANNELS",ABP NEWS (IN)
+#EXTINF:-1 tvg-id="ABP NEWS (IN)" tvg-name="ABP NEWS (IN)" tvg-logo="https://i.ytimg.com/vi/3_9vdZ9LEm8/maxresdefault.jpg"group-title="NEWS / BUSINESS CHANNELS",ABP NEWS (IN)
 http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
 #EXTINF:-1 tvg-id="REPUBLIC BHARAT (IN)" tvg-name="REPUBLIC BHARAT (IN)" tvg-logo="https://mlmqyxhfvgrm.i.optimole.com/YC75iQ-07DR4UcJ/w:auto/h:auto/q:auto/https://livetvmania.net/wp-content/uploads/2019/05/republic-bharath.jpg"group-title="NEWS / BUSINESS CHANNELS",REPUBLIC BHARAT (IN)
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_1.m3u8
@@ -455,9 +455,9 @@ https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_1.m3u8
 https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8
 #EXTINF:-1 tvg-id="NEWS 24 (IN)" tvg-name="NEWS 24 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/News24_Logo.jpg/800px-News24_Logo.jpg"group-title="NEWS / BUSINESS CHANNELS",NEWS 24 (IN)
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8
-#EXTINF:-1 tvg-id="AAJ TAK (IN)" tvg-name="AAJ TAK (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png"group-title="NEWS / BUSINESS CHANNELS",AAJ TAK (IN)
+#EXTINF:-1 tvg-id="AAJ TAK (IN)" tvg-name="AAJ TAK (IN)" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/logos/AT-pngx2000.png"group-title="NEWS / BUSINESS CHANNELS",AAJ TAK (IN)
 https://vidcdn.vidgyor.com/at-origin/desktoplive/at-origin/live3/chunks.m3u8
-#EXTINF:-1 tvg-id="TEZ (IN)" tvg-name="TEZ (IN)" tvg-logo="https://i.ytimg.com/vi/Qm4vvA-i3Rc/maxresdefault.jpg"group-title="NEWS / BUSINESS CHANNELS",TEZ (IN)
+#EXTINF:-1 tvg-id="TEZ (IN)" tvg-name="TEZ (IN)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/tez_news.jpg"group-title="NEWS / BUSINESS CHANNELS",TEZ (IN)
 https://vidcdn.vidgyor.com/tez-origin/liveabr/tez-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-id="INDIA TV (IN)" tvg-name="INDIA TV (IN)" tvg-logo="https://www.livelaw.in/h-upload/2019/02/05/358091-india-tv.jpg"group-title="NEWS / BUSINESS CHANNELS",INDIA TV (IN)
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_1@199237/chunks.m3u8
@@ -469,7 +469,7 @@ http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/playlist.m3u8
 https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-id="SADHNA PLUS (IN)" tvg-name="SADHNA PLUS (IN)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-sadhna-plus.jpg"group-title="NEWS / BUSINESS CHANNELS",SADHNA PLUS (IN)
 http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8
-#EXTINF:-1 tvg-id="SURYA NEWS (IN)" tvg-name="SURYA NEWS (IN)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-surya-samachar.jpg"group-title="NEWS / BUSINESS CHANNELS",SURYA NEWS (IN)
+#EXTINF:-1 tvg-id="SURYA NEWS (IN)" tvg-name="SURYA NEWS (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1097410979481018368/IkFFEFs5_400x400.png"group-title="NEWS / BUSINESS CHANNELS",SURYA NEWS (IN)
 http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
 #EXTINF:-1 tvg-id="SWARAJ EXPRESS (IN)" tvg-name="SWARAJ EXPRESS (IN)" tvg-logo="https://i.ytimg.com/vi/0AYg3Qn1OBM/hqdefault.jpg"group-title="NEWS / BUSINESS CHANNELS",SWARAJ EXPRESS (IN) 
 http://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
