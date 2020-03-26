@@ -555,3 +555,4 @@ http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:-1 ch-id="NEWS TIME ASSAM (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/News_Time_new_logo.png"group-title="REGIONAL CHANNELS",NEWS TIME ASSAM (IN)
 http://rtmp.smartstream.video:1935/globalherald/globalherald/playlist.m3u8
+#EXTINF:-1 ch-id="SONY MAX (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY MAX (IN)
