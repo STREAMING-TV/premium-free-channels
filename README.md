@@ -567,3 +567,5 @@ http://103.205.133.42:1935/local/sony_six_720/chunklist.m3u8
 http://103.205.133.42:1935/local/sony_espn_720/chunklist.m3u8
 #EXTINF:-1 ch-id="SONY AATH (IN)" tvg-logo="http://www.logovaults.com/stock_thumb/big-atn-sony-aath-ODE3OQ==.jpg" group-title="REGIONAL CHANNELS",SONY AATH (IN)
 http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
+#EXTINF:-1 tvg-id="BBC CBEEBIES (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png"group-title="KIDS CHANNELS",BBC CBEEBISE (UK)
+http://51.52.156.22:8888/http/003
