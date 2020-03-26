@@ -569,3 +569,5 @@ http://103.205.133.42:1935/local/sony_espn_720/chunklist.m3u8
 http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
 #EXTINF:-1 tvg-id="BBC CBEEBIES (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png"group-title="KIDS CHANNELS",BBC CBEEBISE (UK)
 http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-id="GEM KIDS (IR)" tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemkids-icon.png" group-title="KIDS CHANNELS",GEM KIDS (IR)
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
