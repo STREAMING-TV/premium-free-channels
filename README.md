@@ -545,5 +545,5 @@ http://163.172.12.37/PtvSports/Hd1/index.m3u8
 http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 #EXTINF:-1 ch-id="JONACK TV (IN)" tvg-logo="https://pbs.twimg.com/media/DopmOEFU0AURebZ.jpg"group-title="REGIONAL CHANNELS",JONACK TV (IN)
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-#EXTINF:-1 ch-id="&FLIX HD (IN)" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",&FLIX HD (IN)
+#EXTINF:-1 ch-id="&FLIX HD (IN)" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg"tvg-url="https://upload.wikimedia.org/wikipedia/en/5/5a/Zee5-official-logo.jpeg" group-title="ENTERTAINMENT / MOVIES CHANNELS",&FLIX HD (IN)
 http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
