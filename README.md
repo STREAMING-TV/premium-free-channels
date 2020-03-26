@@ -559,3 +559,4 @@ http://rtmp.smartstream.video:1935/globalherald/globalherald/playlist.m3u8
 http://103.205.133.42:1935/local/sony_max_720/chunklist.m3u8
 #EXTINF:-1 ch-id="SONY MIX (IN)" tvg-logo="https://i.imgur.com/gzRNB25.jpg" roup-title="MUSIC / YOUTH CHANNELS",SONY MIX (IN)
 http://103.205.133.42:1935/local/sony_mix_720/chunklist.m3u8
+#EXTINF:-1 ch-id="SONY SAB (IN)" tvg-logo="https://www.mxmindia.com/wp-content/uploads/2019/08/sony-sab.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY SAB (IN)
