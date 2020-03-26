@@ -539,3 +539,4 @@ http://streamidvo.multitvsolution.in//live//IndiaNews-a//p2.m3u8
 http://178.156.198.68:7612/
 #EXTINF:-1 tvg-id="PTV SPORTS (IN)" group-title="SPORTS CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV SPORTS (PK)
 http://43.251.86.2:8080/hls/channel_2.m3u8
+#EXTINF:-1 tvg-id="PTV SPORTS (IN)" group-title="SPORTS CHANNELS" tvg-logo="https://cdn.imgbin.com/2/7/1/imgbin-logo-ptv-sports-television-channel-pakistan-cricket-8YvzSP5MmbjMiT27N1RsitE0D.jpg", PTV SPORTS (PK)
