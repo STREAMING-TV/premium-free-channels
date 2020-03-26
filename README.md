@@ -571,3 +571,5 @@ http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
 http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-id="GEM KIDS (IR)" tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemkids-icon.png" group-title="KIDS CHANNELS",GEM KIDS (IR)
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+#EXTINF:-1 tvg-id="NIMO TV (INT)" tvg-logo="https://cdn2.tstatic.net/tribunnews/foto/bank/images/nimo-tv__2.jpg"group-title="KIDS CHANNELS",NIMO TV (INT)
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
