@@ -554,3 +554,4 @@ http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 #EXTINF:-1 ch-id="PRATIDIN TIME (IN)" tvg-logo="http://img1.beta.myplex.in/31115/640x360_0aa62018-cd80-4722-bfbf-32f975779c95.jpg" group-title="REGIONAL CHANNELS",PRATIDIN TIME (IN)
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:-1 ch-id="NEWS TIME ASSAM (IN)" tvg-logo="https://yt3.ggpht.com/a/AGF-l78-phwY0o27nikeJXGgJew_4Yu_2BItgluvFg=s900-c-k-c0xffffffff-no-rj-mo" group-title="REGIONAL CHANNELS",NEWS TIME ASSAM (IN)
+http://rtmp.smartstream.video:1935/globalherald/globalherald/playlist.m3u8
