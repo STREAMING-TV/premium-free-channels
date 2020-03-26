@@ -561,3 +561,4 @@ http://103.205.133.42:1935/local/sony_max_720/chunklist.m3u8
 http://103.205.133.42:1935/local/sony_mix_720/chunklist.m3u8
 #EXTINF:-1 ch-id="SONY SAB (IN)" tvg-logo="https://www.mxmindia.com/wp-content/uploads/2019/08/sony-sab.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY SAB (IN)
 http://103.205.133.42:1935/local/sony_sab_720/chunklist.m3u8
+#EXTINF:-1 ch-id="SONY SIX (IN)" tvg-logo="https://toppng.com/uploads/preview/sony-six-hd-sony-ten-1-logo-11563171250vpgsq2y04z.png" group-title="SPORTS CHANNELS",SONY SIX (IN)
