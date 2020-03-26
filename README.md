@@ -552,3 +552,4 @@ http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 #EXTINF:-1 ch-id="DY365 (IN)" tvg-logo="https://i.pinimg.com/originals/65/41/50/654150df61248ee6066b6ef42ddf5557.png" group-title="REGIONAL CHANNELS",DY365 (IN)
 http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 #EXTINF:-1 ch-id="PRATIDIN TIME (IN)" tvg-logo="http://img1.beta.myplex.in/31115/640x360_0aa62018-cd80-4722-bfbf-32f975779c95.jpg" group-title="REGIONAL CHANNELS",PRATIDIN TIME (IN)
+https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
