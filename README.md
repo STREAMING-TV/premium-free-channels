@@ -577,3 +577,4 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 http://125.209.99.45:43568/BRN/CartoonNetwork.stream/chunklist_w903275600.m3u8
 #EXTINF:-1 ch-id="SONY TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/883px-SET_India_logo.svg.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY TV (IN)
 http://103.205.133.42:1935/local/sony_entertainment_720/chunklist.m3u8
+#EXTINF:-1 ch-id="ZEE CLASSIC (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e4/Zee-Classic-Logo.jpg/revision/latest?cb=20190521115025" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CLASSIC (IN)
