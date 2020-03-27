@@ -576,3 +576,4 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 #EXTINF:-1 tvg-id="CARTOON NATWORK (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS CHANNELS",CARTOON NETWORK (UK)
 http://125.209.99.45:43568/BRN/CartoonNetwork.stream/chunklist_w903275600.m3u8
 #EXTINF:-1 ch-id="SONY TV (IN)" tvg-logo="https://i.pinimg.com/originals/93/d6/4d/93d64d804db333a66dd4cbf52d0a5613.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY TV (IN)
+http://103.205.133.42:1935/local/sony_entertainment_720/chunklist.m3u8
