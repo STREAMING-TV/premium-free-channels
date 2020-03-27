@@ -217,7 +217,7 @@ http://216.144.250.174/S0ny_Sab_HD/playlist.m3u8
 http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="STAR PLUS (IN)" tvg-name="STAR PLUS HD (IN)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-plus-hd-logo-300x300.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS HD (IN)
 http://109.169.56.170/hls/starplus.m3u8
-#EXTINF:-1 tvg-id="STAR BHARAT (IN)" tvg-name="STAR BHARAT (IN)" tvg-logo="https://www.iwmbuzz.com/wp-content/uploads/2017/12/star-bharat-hindi-general-entertainments-new-leader.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR BHARAT (IN)
+#EXTINF:-1 tvg-id="STAR BHARAT (IN)" tvg-name="STAR BHARAT (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Star_Bharat_logo.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR BHARAT (IN)
 http://109.169.56.170/hls/lifeok.m3u8
 #EXTINF:-1 tvg-id="DD NATIONAL (IN)" tvg-name="DD NATIONAL (IN)" tvg-logo="https://new-img.patrika.com/upload/images/2017/07/27/dd-1501150165_835x547.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",DD NATIONAL (IN)
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
