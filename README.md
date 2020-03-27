@@ -605,3 +605,7 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 #EXTINF:-1 tvg-id="MNX (IN)" tvg-logo="https://i.imgur.com/rUBjv7B.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",MNX (IN)
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:-1 tvg-id="ROMEDY NOW (IN)" tvg-logo="https://i.imgur.com/rUBjv7B.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ROMEDY NOW (IN)
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+#EXTINF:-1 tvg-id="IFILM" tvg-logo="https://i.imgur.com/rUBjv7B.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",IFILM (ME)
+https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
