@@ -597,4 +597,5 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/181.ts
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 #EXTINF:-1 tvg-id="M2O (UK)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-m2o-tv-6709.jpg" group-title="MUSIC / YOUTH CHANNELS",M2O (UK)
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 ch-id="E! (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/279px-E%21_Logo_2012.svg.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",E! (UK)
+#EXTINF:-1 ch-id="E! (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/279px-E%21_Logo_2012.svg.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",E! (USA)
+http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
