@@ -233,7 +233,7 @@ http://216.144.250.174/Zee_ActIon_HD/index.m3u8
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SONY MAX HD (IN)" tvg-name="SONY MAX HD (IN)" tvg-logo="https://i.ytimg.com/vi/em5ay4irr2s/maxresdefault.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY MAX HD (IN) VPN
 http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="SONY MAX 2 (UK)" tvg-name="SONY MAX 2 (UK)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/02/Sony-Max-2-logo-2-2-2.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY MAX 2 (UK) VPN
+#EXTINF:-1 tvg-id="SONY MAX 2 (UK)" tvg-name="SONY MAX 2 (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY MAX 2 (UK) VPN
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 #EXTINF:-1 tvg-id="B4U KADAK (IN)" tvg-name="B4U KADAK (IN)" tvg-logo="https://businessfortnight.com/wp-content/uploads/2019/08/B4U_Kadak.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",B4U KADAK (IN)
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
