@@ -115,7 +115,7 @@ http://cdn.adultiptv.net/brunette.m3u8
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="PORNSTAR (INT)" tvg-name="PORNSTAR (INT)" tvg-logo="https://d172h4vc197skd.cloudfront.net/images/8f/6b/8f6bf93c0e4afecc6ff97769c855beee_1578763e3f90_t.png"group-title="ADULT CHANNELS",PORNSTAR (INT)
 http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 tvg-id="BSX24 (INT)" tvg-name="BSX24 (INT)" tvg-logo="https://s3.amazonaws.com/ctm-tm/003594141.JPG"group-title="ADULT CHANNELS",BSX24 (INT)
+#EXTINF:-1 tvg-id="BSX (INT)" tvg-name="BSX (INT)" tvg-logo="https://bsx.tv/img/logo.png"group-title="ADULT CHANNELS",BSX24 (INT)
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="BIZARRE TV (INT)" tvg-name="BIZARRE TV (INT)" tvg-logo="https://www.feefo.com/api/merchant-image/bizarre-logo.jpg"group-title="ADULT CHANNELS",BIZARRE TV (INT)
 http://84.22.33.254/unicast.bizarre/index.m3u8
@@ -231,7 +231,7 @@ http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
 http://216.144.250.174/Zee_ActIon_HD/index.m3u8
 #EXTINF:-1 tvg-id="STAR GOLD HD (IN)" tvg-name="STAR GOLD HD (IN)" tvg-logo="https://solutionfun.com/wp-content/uploads/2019/03/star-gold.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD HD (IN) VPN
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SONY MAX HD (IN)" tvg-name="SONY MAX HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY MAX HD (IN) VPN
+#EXTINF:-1 tvg-id="SONY MAX HD (IN)" tvg-name="SONY MAX HD (IN)" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7023.MAXHD.in/1x1/6x/test_pic1581148637225.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY MAX HD (IN) VPN
 http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY MAX 2 (UK)" tvg-name="SONY MAX 2 (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY MAX 2 (UK) VPN
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
