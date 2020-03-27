@@ -563,7 +563,7 @@ http://103.205.133.42:1935/local/sony_mix_720/chunklist.m3u8
 http://103.205.133.42:1935/local/sony_sab_720/chunklist.m3u8
 #EXTINF:-1 ch-id="SONY SIX (IN)" tvg-logo="https://toppng.com/uploads/preview/sony-six-hd-sony-ten-1-logo-11563171250vpgsq2y04z.png" group-title="SPORTS CHANNELS",SONY SIX (IN)
 http://103.205.133.42:1935/local/sony_six_720/chunklist.m3u8
-#EXTINF:-1 ch-id="SONY ESPN (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/15/Sony_ESPN.png/revision/latest/scale-to-width-down/732?cb=20161126181925" group-title="SPORTS CHANNELS",SONY ESPN (IN)
+#EXTINF:-1 ch-id="SONY ESPN (IN)" tvg-logo="https://www.watchlivecric.com/wp-content/uploads/2019/07/Sky-sports-Watch-Live-Streaming-min-2.jpg" group-title="SPORTS CHANNELS",SONY ESPN (IN)
 http://103.205.133.42:1935/local/sony_espn_720/chunklist.m3u8
 #EXTINF:-1 ch-id="SONY AATH (IN)" tvg-logo="http://videoelephantbd.com/wp-content/uploads/2019/10/Sony-Aath.png" group-title="REGIONAL CHANNELS",SONY AATH (IN)
 http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
