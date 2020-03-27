@@ -586,3 +586,4 @@ http://livecdn.live247stream.com/sbimusic/tv/sbimusic/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="MOOZ HITS (USA)" tvg-logo="https://mooz.tv/site/img/mooz-hits.jpg" group-title="MUSIC / YOUTH CHANNELS",MOOZ HITS (USA)
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="DJING LIVE (USA)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-djing-hot-4838.jpg" group-title="MUSIC / YOUTH CHANNELS",DJING LIVE (USA)
+https://www.djing.com/tv/live.m3u8
