@@ -579,6 +579,7 @@ http://125.209.99.45:43568/BRN/CartoonNetwork.stream/chunklist_w903275600.m3u8
 http://103.205.133.42:1935/local/sony_entertainment_720/chunklist.m3u8
 #EXTINF:-1 ch-id="ZEE CLASSIC (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e4/Zee-Classic-Logo.jpg/revision/latest?cb=20190521115025" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CLASSIC (IN)
 http://173.212.237.70/zee5.php?url=https://z5ams.akamaized.net/out/v1/74df8b02f8ab47909df9a9f3189a1012/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rUBjv7B.png" tvg-country="IN" tvg-url="" group-title="Music",VH1
+#EXTINF:-1 tvg-id="VH1 (UK)" tvg-logo="https://www.logolynx.com/images/logolynx/55/552d6c6fe344db49d7d9943e2a4b0dab.png" group-title="MUSIC / YOUTH CHANNELS",VH1 (UK)
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo=" group-title="MUSIC / YOUTH CHANNELS",SBI MUSIC (IN)
+#EXTINF:-1 tvg-id="SBI MUSIC (IN)" tvg-logo="https://i.ibb.co/g6Fggh3/SBI-MUSIC.jpg" group-title="MUSIC / YOUTH CHANNELS",SBI MUSIC (IN)
+http://livecdn.live247stream.com/sbimusic/tv/sbimusic/stream/chunks.m3u8
