@@ -199,7 +199,7 @@ http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1 tvg-id="ZEE CINEMA (APAC)" tvg-name="ZEE CINEMA (APAC)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2020/01/Zee-cinema.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA (APAC)
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1 tvg-id="STAR GOLD HD (IND)" tvg-name="STAR GOLD HD (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Star_Gold_Logo.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD HD (IND)
+#EXTINF:-1 tvg-id="STAR GOLD HD (IND)" tvg-name="STAR GOLD HD (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c3/Star_Gold_HD_2011.png/revision/latest?cb=20110929114319"group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD HD (IND)
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 tvg-id="MBC Bollywood (ME)" tvg-name="MBC Bollywood (ME)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/MBC_Bollywood_logo.jpeg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MBC Bollywood (ME)
 http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
