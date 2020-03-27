@@ -599,3 +599,5 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 ch-id="E! (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/279px-E%21_Logo_2012.svg.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",E! (USA)
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MOVIES NOW (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Movies_Now_logo.png/220px-Movies_Now_logo.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",MOVIES NOW (IN)
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
