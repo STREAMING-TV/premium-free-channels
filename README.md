@@ -591,3 +591,5 @@ https://www.djing.com/tv/live.m3u8
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 tvg-id="21 (UK)" tvg-logo="https://tv21.tv/mk/wp-content/uploads/2019/09/Logo_TV21_1_Without_Circle_Black_PNG.png" group-title="MUSIC / YOUTH CHANNELS",21 (UK)
 http://ott-cdn.ucom.am/s10/index.m3u8
+#EXTINF:-1 tvg-id="MTV (IN)" tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/02/mtv-logo.gif" group-title="MUSIC / YOUTH CHANNELS",MTV INDIA (IN)
+http://iptv.kitv.live:1935/live/Shari/MTV-P/181.ts
