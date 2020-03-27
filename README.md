@@ -497,8 +497,8 @@ http://95.211.211.168/live/humtv0066/playlist.m3u8
 http://stream.tapmad.com:1935/pitvlive2/aplus3_240p/chunklist.m3u8
 #EXTINF:-1 tvg-id="GEO NEWS HD (PK)" tvg-name="GEO NEWS HD (PK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="NEWS / BUSINESS CHANNELS",GEO NEWS HD (PK)
 http://95.211.211.168/live/geonews0011/playlist.m3u8
-#EXTINF:-1 tvg-id="JK NEWS (UK)" tvg-name="JK NEWS (UK)" tvg-logo="https://pbs.twimg.com/profile_images/663247984235143168/OF4lzF5E_400x400.jpg"group-title="NEWS / BUSINESS CHANNELS",JK NEWS (UK)
-http://162.250.201.58:6211/uk/A1TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="9 NEWS (UK)" tvg-name="9 NEWS (UK)" tvg-logo="https://pbs.twimg.com/profile_images/940547058267717632/W0AAWT1v_400x400.jpg" group-title="NEWS / BUSINESS CHANNELS",9 NEWS (UK)
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SDq/chunklist.m3u8 m3u8
 #EXTINF:-1 tvg-id="PTV NEWS (PK)" tvg-name="PTV NEWS (PK)" tvg-logo="https://newsstreamlive.com/wp-content/uploads/2019/07/PTV-News.jpg"group-title="NEWS / BUSINESS CHANNELS",PTV NEWS (PK)
 http://stream.tapmad.com:1935/pitvlive2/ptvnews3_240p/chunklist.m3u8
 #EXTINF:-1 tvg-id="PEACE TV (INT)" tvg-name="PEACE TV (INT)" tvg-logo="http://p-img.movetv.com/cms/images/ca858877cb4126fc930aee7c4a9bf934e3ef3e34.png" group-title="DEVOTIONAL CHANNELS ",PEACE TV (INT)
@@ -581,7 +581,7 @@ http://103.205.133.42:1935/local/sony_entertainment_720/chunklist.m3u8
 http://173.212.237.70/zee5.php?url=https://z5ams.akamaized.net/out/v1/74df8b02f8ab47909df9a9f3189a1012/index.m3u8
 #EXTINF:-1 tvg-id="VH1 (USA)" tvg-logo="https://www.logolynx.com/images/logolynx/55/552d6c6fe344db49d7d9943e2a4b0dab.png" group-title="MUSIC / YOUTH CHANNELS",VH1 (USA)
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
-#EXTINF:-1 tvg-id="SBI MUSIC (ME)" tvg-logo="https://i.ibb.co/g6Fggh3/SBI-MUSIC.jpg" group-title="MUSIC / YOUTH CHANNELS",SBI MUSIC (ME)
+#EXTINF:-1 tvg-id="SBI MUSIC (PK)" tvg-logo="https://i.ibb.co/g6Fggh3/SBI-MUSIC.jpg" group-title="MUSIC / YOUTH CHANNELS",SBI MUSIC (PK)
 http://livecdn.live247stream.com/sbimusic/tv/sbimusic/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="MOOZ HITS (USA)" tvg-logo="https://mooz.tv/site/img/mooz-hits.jpg" group-title="MUSIC / YOUTH CHANNELS",MOOZ HITS (USA)
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
@@ -603,9 +603,9 @@ http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 tvg-id="MBC MAX HD (ME)" tvg-logo="http://my-hd.tv/shared/img/channels/MBC-MAX.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",MBC MAX HD (ME)
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
-#EXTINF:-1 tvg-id="MNX (IN)" tvg-logo="https://i.imgur.com/rUBjv7B.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",MNX (IN)
+#EXTINF:-1 tvg-id="MNX (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000045360000/PORTRAIT/qELkgspp.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",MNX (IN)
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:-1 tvg-id="ROMEDY NOW (IN)" tvg-logo="https://i.imgur.com/rUBjv7B.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ROMEDY NOW (IN)
+#EXTINF:-1 tvg-id="ROMEDY NOW (IN)" tvg-logo="https://www.pngkit.com/png/full/269-2699361_http-www-indigital-co-635509581376875000-romedy-now-channel.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ROMEDY NOW (IN)
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-#EXTINF:-1 tvg-id="IFILM" tvg-logo="https://i.imgur.com/rUBjv7B.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",IFILM (ME)
+#EXTINF:-1 tvg-id="IFILM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",IFILM (ME)
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
