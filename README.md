@@ -601,7 +601,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MOVIES NOW (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Movies_Now_logo.png/220px-Movies_Now_logo.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",MOVIES NOW (IN)
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:-1 tvg-id="MBC MAX HD (ME)" tvg-logo="https://i.imgur.com/rUBjv7B.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",MBC MAX HD (ME)
+#EXTINF:-1 tvg-id="MBC MAX HD (ME)" tvg-logo="http://my-hd.tv/shared/img/channels/MBC-MAX.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",MBC MAX HD (ME)
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 #EXTINF:-1 tvg-id="MNX (IN)" tvg-logo="https://i.imgur.com/rUBjv7B.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",MNX (IN)
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
