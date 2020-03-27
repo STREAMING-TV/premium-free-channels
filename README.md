@@ -603,3 +603,5 @@ http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 tvg-id="MBC MAX HD (ME)" tvg-logo="https://i.imgur.com/rUBjv7B.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",MBC MAX HD (ME)
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
+#EXTINF:-1 tvg-id="MNX (IN)" tvg-logo="https://i.imgur.com/rUBjv7B.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",MNX (IN)
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
