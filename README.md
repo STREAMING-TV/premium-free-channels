@@ -596,3 +596,4 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/181.ts
 #EXTINF:-1 tvg-id="RETRO TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="MUSIC / YOUTH CHANNELS",RETRO TV (UK)
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 #EXTINF:-1 tvg-id="M2O (UK)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-m2o-tv-6709.jpg" group-title="MUSIC / YOUTH CHANNELS",M2O (UK)
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
