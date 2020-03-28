@@ -117,7 +117,7 @@ http://cdn.adultiptv.net/gay.m3u8
 http://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1 tvg-id="BSX (INT)" tvg-name="BSX (INT)" tvg-logo="https://bsx.tv/img/logo.png"group-title="ADULT CHANNELS",BSX (INT)
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="BIZARRE TV (INT)" tvg-name="BIZARRE TV (INT)" tvg-logo="https://www.feefo.com/api/merchant-image/bizarre-logo.jpg"group-title="ADULT CHANNELS",BIZARRE TV (INT)
+#EXTINF:-1 tvg-id="X BIZARRE TV (INT)" tvg-name="X BIZARRE TV (INT)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA56m0Nz3nlBnamFAps1Qx1I-0UshTAcZXgt2-NcpyqFmmjSSJ&s" group-title="ADULT CHANNELS",X BIZARRE TV (INT)
 http://84.22.33.254/unicast.bizarre/index.m3u8
 #EXTINF:-1 tvg-id="ERO XXX HD (INT)" tvg-name="ERO XXX HD (INT)" tvg-logo="http://4.bp.blogspot.com/-4vAe6e0L9LA/VOhoM4kQuCI/AAAAAAAAAQc/rzqKOKn2W7M/s1600/eroxxx_hd_tv_channel_live.png"group-title="ADULT CHANNELS",ERO XXX HD (INT)
 http://84.22.33.254/unicast.eroxhd/index.m3u8
