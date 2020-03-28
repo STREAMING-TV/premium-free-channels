@@ -625,3 +625,11 @@ https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 https://ch.iptvmate.net/417057fba179467854c0c947f5322307.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-I'd="CNBC TV 18 (IN)" tvg-logo="https://seeklogo.com/images/C/cnbc-tv18-logo-B6335AA0FB-seeklogo.com.png" group-title="NEWS / BUSINESS CHANNELS",CNBC TV 18 (IN) 
 https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/7kavMAI.png" tvg-country="IN" tvg-url="" group-title="NEWS",The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/7kavMAI.png" tvg-country="IN" tvg-url="" group-title="NEWS",WEATHER NATION
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/7kavMAI.png" tvg-country="IN" tvg-url="" group-title="NEWS",BBC World News
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/7kavMAI.png" tvg-country="IN" tvg-url="" group-title="NEWS",CNN USA
+http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
