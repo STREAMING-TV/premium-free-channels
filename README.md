@@ -616,3 +616,4 @@ http://livecdnh3.tvanywhere.ae/hls/e24/02.m3u8
 #EXTINF:-1 tvg-id="ZING (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/91/Zing_300x300.png" group-title="MUSIC / YOUTH CHANNELS",ZING (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zing/index.m3u8
 #EXTINF:-1 tvg-id="WWE (USA)" tvg-logo="https://www.augeodigital.com/images/work/wwe/wwe-logo.png" group-title="SPORTS CHANNELS",WWE (USA)
+http://cdnak10.cast4u.info/channels/4/10804.m3u8
