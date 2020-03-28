@@ -623,3 +623,4 @@ http://188.35.9.26:5031/udp/058j
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 #EXTINF:-1 tvg-id="HD FASHION & LIFESTYLE (RU)" tvg-logo="https://www.neplpadome.lv/lv/assets/images/Programmu%20logo/hd_fashion_ua_logo.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",HD FASHION & LIFESTYLE (RU)
 https://ch.iptvmate.net/417057fba179467854c0c947f5322307.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-I'd="CNBC TV 18 (IN)" tvg-logo="https://seeklogo.com/images/C/cnbc-tv18-logo-B6335AA0FB-seeklogo.com.png" group-title="NEWS / BUSINESS CHANNELS",CNBC TV 18 (IN) 
