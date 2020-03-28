@@ -115,7 +115,7 @@ http://cdn.adultiptv.net/brunette.m3u8
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="PORNSTAR (INT)" tvg-name="PORNSTAR (INT)" tvg-logo="https://d172h4vc197skd.cloudfront.net/images/8f/6b/8f6bf93c0e4afecc6ff97769c855beee_1578763e3f90_t.png"group-title="ADULT CHANNELS",PORNSTAR (INT)
 http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 tvg-id="BSX (INT)" tvg-name="BSX (INT)" tvg-logo="https://bsx.tv/img/logo.png"group-title="ADULT CHANNELS",BSX (INT)
+#EXTINF:-1 tvg-id="BSX (INT)" tvg-name="BSX (INT)" tvg-logo="http://www.ghgd.co.uk/wp-content/uploads/2019/03/13055339_1172124886133934_1746106304442101785_n.png"group-title="ADULT CHANNELS",BSX (INT)
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="X BIZARRE TV (INT)" tvg-name="X BIZARRE TV (INT)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA56m0Nz3nlBnamFAps1Qx1I-0UshTAcZXgt2-NcpyqFmmjSSJ&s" group-title="ADULT CHANNELS",X BIZARRE TV (INT)
 http://84.22.33.254/unicast.bizarre/index.m3u8
