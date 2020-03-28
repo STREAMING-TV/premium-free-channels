@@ -617,3 +617,4 @@ http://livecdnh3.tvanywhere.ae/hls/e24/02.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zing/index.m3u8
 #EXTINF:-1 tvg-id="WWE (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/800px-WWE_Logo.svg.png" group-title="SPORTS CHANNELS",WWE (USA)
 http://cdnak10.cast4u.info/channels/4/10804.m3u8
+#EXTINF:-1 tvg-id="RK TV (IN)" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a42ce5e41e35188c4368adc14005a10.jpeg" group-title="ADULT CHANNELS",RK TV (INT)
