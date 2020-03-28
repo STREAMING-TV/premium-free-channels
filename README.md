@@ -619,4 +619,5 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zing/index.m3u8
 http://cdnak10.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 tvg-id="RK TV (IN)" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a42ce5e41e35188c4368adc14005a10.jpeg" group-title="ADULT CHANNELS",RK TV (INT)
 http://188.35.9.26:5031/udp/058j
-#EXTINF:-1 tvg-I'd="TIMES NOW (IN)" tvg-name="TIMES NOW (IN)" tvg-logo="#EXTINF:-1 tvg-I'd="BLOOMBERG (USA)" tvg-logo="https://panxchange.com/wp-content/uploads/2020/01/bloombergahavagroupglobal.png" group-title="NEWS / BUSINESS CHANNELS",BLOOMBERG (USA)
+#EXTINF:-1 tvg-I'd="BLOOMBERG (ASIA)" tvg-logo="https://panxchange.com/wp-content/uploads/2020/01/bloombergahavagroupglobal.png" group-title="NEWS / BUSINESS CHANNELS",BLOOMBERG (ASIA)
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
