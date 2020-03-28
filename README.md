@@ -621,3 +621,4 @@ http://cdnak10.cast4u.info/channels/4/10804.m3u8
 http://188.35.9.26:5031/udp/058j
 #EXTINF:-1 tvg-I'd="BLOOMBERG (ASIA)" tvg-logo="https://panxchange.com/wp-content/uploads/2020/01/bloombergahavagroupglobal.png" group-title="NEWS / BUSINESS CHANNELS",BLOOMBERG (ASIA)
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+#EXTINF:-1 tvg-id="HD FASHION & LIFESTYLE (RU)" tvg-logo="https://www.neplpadome.lv/lv/assets/images/Programmu%20logo/hd_fashion_ua_logo.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",HD FASHION & LIFESTYLE (RU)
