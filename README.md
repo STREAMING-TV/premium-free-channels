@@ -163,7 +163,7 @@ http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="DISNEY CHANNEL (USA)" tvg-name="DISNEY CHANNEL (USA)" tvg-logo="http://images6.fanpop.com/image/photos/40300000/Disney-Channel-Logo-127-nintendofan12s-fun-stuff-40377269-1244-543.png"group-title="KIDS CHANNELS",DISNEY CHANNEL (USA)
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BBC NEWS (INT)" tvg-name="BBC NEWS (INT)" tvg-logo="https://i.pinimg.com/originals/01/c7/27/01c727838c16fcfd65dd28516686110f.png"group-title="NEWS / BUSINESS CHANNELS",BBC NEWS (INT)
+#EXTINF:-1 tvg-id="BBC NEWS (INT)" tvg-name="BBC NEWS (UK)" tvg-logo="https://www.apmdistribution.org/news/bbc/tools/images/logos/2019-bbc-news-linear-world-service-rgb.png" group-title="NEWS / BUSINESS CHANNELS",BBC NEWS (UK)
 https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NDTV24X7 (IN)" tvg-name="NDTV24X7 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/800px-NDTV_247.svg.png"group-title="NEWS / BUSINESS CHANNELS",NDTV24X7 (IN)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
@@ -625,15 +625,15 @@ https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 https://ch.iptvmate.net/417057fba179467854c0c947f5322307.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-I'd="CNBC TV 18 (IN)" tvg-logo="https://seeklogo.com/images/C/cnbc-tv18-logo-B6335AA0FB-seeklogo.com.png" group-title="NEWS / BUSINESS CHANNELS",CNBC TV 18 (IN) 
 https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8
-EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/7kavMAI.png" tvg-country="IN" tvg-url="" group-title="NEWS",The Weather Channel
+EXTINF:-1 tvg-id="THE WEATHER CHANNELS (USA)" tvg-logo="https://www.pngitem.com/pimgs/m/74-746370_weather-channel-hd-png-download.png" group-title="NEWS / BUSINESS CHANNELS",THE WEATHER CHANNELS (USA)
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/7kavMAI.png" tvg-country="IN" tvg-url="" group-title="NEWS",WEATHER NATION
+#EXTINF:-1 tvg-id="WEATHER NATION (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" group-title="NEWS / BUSINESS CHANNELS",WEATHER NATION (USA)
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/7kavMAI.png" tvg-country="IN" tvg-url="" group-title="NEWS",BBC World News
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD NEWS (INT)" tvg-logo="http://jsat.tv/gallery/var/albums/TV%20Logos/BBC%20World%20News.png"  group-title="NEWS / BUSINESS CHANNELS",BBC WORLD NEWS (INT)
 http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/7kavMAI.png" tvg-country="IN" tvg-url="" group-title="NEWS",CNN USA
+#EXTINF:-1 tvg-id="CNN (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png"  group-title="NEWS / BUSINESS CHANNELS",CNN (USA)
 http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/7kavMAI.png" tvg-country="IN" tvg-url="" group-title="NEWS",DW
+#EXTINF:-1 tvg-id="DW (INT)" tvg-logo="https://w12studios.com/wp-content/uploads/2018/08/DW_Logo.png" group-title="NEWS / BUSINESS CHANNELS",DW (INT)
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/7kavMAI.png" tvg-country="IN" tvg-url="" group-title="NEWS",CNBC AWAAZ
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
