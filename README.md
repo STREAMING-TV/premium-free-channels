@@ -613,3 +613,4 @@ https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.
 http://109.169.56.170/hls/zetc.m3u8
 #EXTINF:-1 tvg-id="E24 (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/ba/E24_new.jpeg" group-title="MUSIC / YOUTH CHANNELS",E24 (IN)
 http://livecdnh3.tvanywhere.ae/hls/e24/02.m3u8
+#EXTINF:-1 tvg-id="ZING (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/91/Zing_300x300.png" group-title="MUSIC / YOUTH CHANNELS",ZING (IN)
