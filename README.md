@@ -641,3 +641,17 @@ https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1 tvg-id="tv.101002210221" tvg-name="ABC" tvg-language="English" tvg-logo="https://www.abc.net.au/tv/epg/images/channels/ABC1_60x53.png" group-title="AUSTRALIAN",ABC
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
+#EXTINF:-1 tvg-id="tv.101002210224" tvg-name="ABC ME" tvg-language="English" tvg-logo="https://www.abc.net.au/cm/rimage/11416782-1x1-large.png" group-title="AUSTRALIAN",ABC ME
+https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
+#EXTINF:-1 tvg-id="tv.acctv" tvg-name="ACCTV" tvg-language="English" tvg-logo="https://i.imgur.com/lokNx1U.png" group-title="Religious",ACCTV
+http://i.mjh.nz/au/Melbourne/tv.acctv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="AUSTRALIAN",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/VsvBUCa.jpg" group-title="AUSTRALIAN",Bloomberg TV Australia
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+#EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-language="English" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 tvg-id="tv.101305020528" tvg-name="RACING.COM" tvg-language="English" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sport",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="NEWS",Sky News Extra
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
