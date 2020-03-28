@@ -610,3 +610,4 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 tvg-id="IFILM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",IFILM (ME)
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZEE ETC (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/Zee_ETC_Bollywood_2017-0.jpg" group-title="MUSIC / YOUTH CHANNELS",ZEE ETC (IN) 
+http://109.169.56.170/hls/zetc.m3u8
