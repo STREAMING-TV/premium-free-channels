@@ -614,3 +614,4 @@ http://109.169.56.170/hls/zetc.m3u8
 #EXTINF:-1 tvg-id="E24 (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/ba/E24_new.jpeg" group-title="MUSIC / YOUTH CHANNELS",E24 (IN)
 http://livecdnh3.tvanywhere.ae/hls/e24/02.m3u8
 #EXTINF:-1 tvg-id="ZING (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/91/Zing_300x300.png" group-title="MUSIC / YOUTH CHANNELS",ZING (IN)
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zing/index.m3u8
