@@ -525,7 +525,7 @@ http://163.172.85.133:8080/TenS/3/index.m3u8
 http://109.169.56.170/hls/starsports1.m3u8?userAgent= 
 #EXTINF:-1 tvg-id="STAR SPORTS HINDI 1 HD (IN)" tvg-name="STAR SPORTS HINDI 1 HD (IN)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/0643d03eae8f3c8f.jpg"  group-title="SPORTS CHANNELS",STAR SPORTS HINDI 1 HD (IN)
 http://195.181.169.120/StarSports_Hd1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="STAR SPORTS HINDI 1 HD (IN)" tvg-name="STAR SPORTS HINDI 1 HD (IN)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/0643d03eae8f3c8f.jpg" group-title="SPORTS CHANNELS",STAR SPORTS HINDI 1 HD (IN)
+#EXTINF:-1 tvg-id="STAR SPORTS HINDI 1 HD (IN)" tvg-name="STAR SPORTS HINDI 1 HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG" group-title="SPORTS CHANNELS",STAR SPORTS HINDI 1 HD (IN)
 http://195.181.169.120/StarSports_Hd1/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR SPORTS 2 (IN)" tvg-name="STAR SPORTS 2 (IN)" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7432/567432-h" group-title="SPORTS CHANNELS",STAR SPORTS 2 (IN)
 http://43.251.86.2:8080/hls/channel_3.m3u8
