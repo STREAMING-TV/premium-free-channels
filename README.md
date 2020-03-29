@@ -463,8 +463,7 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD63L360P/
 http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/media.m3u8
 #EXTINF:-1 tvg-id="ZEE BANGLA HD (IN)" tvg-name="ZEE BANGLA HD (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png"group-title="REGIONAL CHANNELS ",ZEE BANGLA HD (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeebanglahd/index.m3u8
-#EXTINF:-1 tvg-id="HUMRAAZ TV (US)" tvg-name="HUMRAAZ TV (US)" tvg-logo="https://i.ytimg.com/vi/BOLePzbFiT4/hqdefault.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",HUMRAAZ TV (US)
-http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
+
 #EXTINF:-1 tvg-id="ARY FAMILY (UK)" tvg-name="ARY FAMILY (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ARY FAMILY (UK)
 http://95.211.211.168/live/aryfamily0071/playlist.m3u8
 #EXTINF:-1 tvg-id="TAG TV (US)" tvg-name="TAG TV (US)" tvg-logo="https://pbs.twimg.com/profile_images/541070675385917440/lLsLhFY7.jpeg"group-title="NEWS / BUSINESS CHANNELS",TAG TV (US)
