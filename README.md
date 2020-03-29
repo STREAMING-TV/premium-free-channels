@@ -639,37 +639,37 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="LOK SABHA TV (IN) tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Lok_Sabha_TV_logo.jpg" group-title="NEWS / BUSINESS CHANNELS",LOK SABHA TV (IN)
 http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
-#EXTINF:-1 tvg-id="tv.101002210221" tvg-name="ABC (AU)" tvg-logo="https://www.abc.net.au/tv/epg/images/channels/ABC1_60x53.png" group-title="NEWS / BUSINESS CHANNELS",ABC (AU)
+#EXTINF:-1 tvg-id="tv.101002210221" tvg-name="ABC TV (AU)" tvg-logo="https://www.abc.net.au/tv/epg/images/channels/ABC1_60x53.png" group-title="NEWS / BUSINESS CHANNELS",ABC RV (AU)
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
 #EXTINF:-1 tvg-id="tv.101002210224" tvg-name="ABC ME (AU)" tvg-language="English" tvg-logo="https://www.abc.net.au/cm/rimage/11416782-1x1-large.png" group-title=KIDS CHANNELS",ABC ME (AU)
 https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
-#EXTINF:-1 tvg-id="ACCTV (AU)" tvg-name="ACCTV (AU)" tvg-logo="https://i.imgur.com/lokNx1U.png" group-title="RELIGIOUS CHANNELS",ACCTV (AU)
+#EXTINF:-1 tvg-id="ACC TV (AU)" tvg-name="ACC TV (AU)" tvg-logo="https://i.imgur.com/lokNx1U.png" group-title="RELIGIOUS CHANNELS",ACC TV (AU)
 http://i.mjh.nz/au/Melbourne/tv.acctv.m3u8
 #EXTINF:-1 tvg-id="AUSTRALIA CHANNEL (AU)" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="NEWS / BUSINESS CHANNELS",AUSTRALIA CHANNEL (AU)
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/VsvBUCa.jpg" group-title="AUSTRALIAN",Bloomberg TV Australia
+#EXTINF:-1 tvg-id="BLOOMBERG TV" tvg-logo="https://i.imgur.com/VsvBUCa.jpg" group-title="NEWS / BUSINESS CHANNELS",BLOOMBERG TV (AU)
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
-#EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-language="English" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport",Fox Sports News
+#EXTINF:-1 tvg-id="FOX SPORTS NEWS (AU)"tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="SPORTS CHANNELS",FOX SPORTS NEWS (AU)
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 tvg-id="tv.101305020528" tvg-name="RACING.COM" tvg-language="English" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sport",Racing.com
+#EXTINF:-1 tvg-id="tv.101305020528" tvg-name="RACING.COM (AU)" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="SPORTS CHANNELS",RACING.COM (AU)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="NEWS",Sky News Extra
+#EXTINF:-1 tvg-id="SKY NEWS EXTRA (AU)" tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="NEWS / BUSINESS CHANNELS",SKY NEWS EXTRA (AU)
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" tvg-country="UAE" tvg-url="" group-title="Religious",Peace TV Bangla
+#EXTINF:-1 tvg-id="PEACE TV (BD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" group-title="DEVOTIONAL CHANNELS",PEACE TV (BD)
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="https://i.imgur.com/rUBjv7B.png" tvg-country="UAE" tvg-url="" group-title="Religious",Azan TV
+#EXTINF:-1 tvg-id="AZAN TV (BD)" tvg-logo="https://i.imgur.com/rUBjv7B.png" group-title="DEVOTIONAL CHANNELS",AZAN TV (BD)
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/live-orgin/azantv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="https://i.imgur.com/U1XFyOx.png" tvg-country="UAE" tvg-url="" group-title="Religious",Peace TV
+#EXTINF:-1 tvg-id="PEACE TV (ME)" tvg-logo="https://i.imgur.com/U1XFyOx.png" group-title="DEVOTIONAL CHANNELS",PEACE TV (ME)
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Z2Io8n4.png" tvg-country="TT" tvg-url="" group-title="Religious",The Islamic Network
+#EXTINF:-1 tvg-id="THE ISLAMIC NETWORK (TT)"  tvg-logo="https://i.imgur.com/Z2Io8n4.png" group-title="DEVOTIONAL CHANNELS",THE ISLAMIC NETWORK (TT)
 http://162.244.81.145:2215/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="https://i.imgur.com/j7a8hcd.jpg" tvg-country="IN" tvg-url="" group-title="Religious",Bible Explorations
+#EXTINF:-1 tvg-id="BIBLE EXPLORATIONS (ME)" tvg-logo="https://i.imgur.com/j7a8hcd.jpg" group-title="DEVOTIONAL CHANNELS",BIBLE EXPLORATIONS (ME)
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://www.bhaktisagartv.com/images/HD-Logo.png" group-title="Religious",Bhakti Sagar
+#EXTINF:-1 tvg-id="BHAKTI SAGAR TV (IN)" tvg-logo="http://www.bhaktisagartv.com/images/HD-Logo.png" group-title="DEVOTIONAL CHANNELS",BHAKTI SAGAR TV (IN)
 http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/index_2128_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/ibnqDAD.png" group-title="Religious",Shubhsandesh
+#EXTINF:-1 tvg-id="SHUBH SANDESH TV (IN)" tvg-logo="https://i.imgur.com/ibnqDAD.png" group-title="DEVOTIONAL CHANNELS",SHUBH SANDESH TV (IN)
 http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="https://i.imgur.com/YLd5f9j.jpg" tvg-country="IN" tvg-url="" group-title="Religious",Swamiji TV
+#EXTINF:-1 tvg-id="SWAMI JI TV (IN)" tvg-logo="https://i.imgur.com/YLd5f9j.jpg" group-title="DEVOTIONAL CHANNELS",SWAMI JI TV (IN)
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w823726530_b1100000.m3u8
 #EXTINF:-1 tvg-id="9ba9a128eff02479da120a4226cd807c" tvg-name="" tvg-language="" tvg-logo="" group-title="",National Geographic
 http://livestream.biznetvideo.net/biznet_ngc/smil:ngc.smil/chunklist_w99579112_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1TT0Z6NFJEdW5XTVlLUjFLRzNqZHgxZzloMXZnX0E5WHRaV0JoS3JxSjltNGFfNzZsU2oyRjY5anFhSmh1VFhh.m3u8
