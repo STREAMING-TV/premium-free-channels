@@ -37,7 +37,7 @@ https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
 https://m-c20-j2apps.s.llnwi.net/hls/0087.TimesNow.in.m3u8
 #EXTINF:-1 tvg-id="ZEE TV HD (IN)" tvg-name="ZEE TV HD (IN)" tvg-logo="https://i.ytimg.com/vi/1afZq9TFqwc/maxresdefault.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
-#EXTINF:-1 tvg-id="ZEE TV HD (USA)" tvg-name="ZEE TV HD (USA)" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928290210341062_zee-tv-hd.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (USA)
+#EXTINF:-1 tvg-id="ZEE TV HD (USA)" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928290210341062_zee-tv-hd.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (USA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ztvhdusa/index.m3u8
 #EXTINF:-1 tvg-id="ZEE TV (APAC)" tvg-name="ZEE TV (APAC)" tvg-logo="https://i.pinimg.com/originals/4a/d3/62/4ad362abea44922e6b7221856f774d3d.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (APAC)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/apacsea/index.m3u8
