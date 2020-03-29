@@ -681,6 +681,6 @@ http://ott-cdn.ucom.am/s18/index.m3u8
 https://stream.simpaisa.com/pitvlive2/masalanew3/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rUBjv7B.png" tvg-country="IN" tvg-url="" group-title="INFOTAINMENT",DABL 
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_22.m3u8
-u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rUBjv7B.png" tvg-country="IN" tvg-url="" group-title="Hindi MOVIES", Gem Bollywood
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
