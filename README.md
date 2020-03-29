@@ -659,5 +659,5 @@ https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a
 https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 #EXTINF:-1 tvg-id="DIVYA TV (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/Divya_Channel.png" group-title="DEVOTIONAL CHANNELS",DIVYA TV (IN)
 http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w927914309.m3u8
-#EXTINF:-1 tvg-id="SADHNA (IN)" tvg-logo="https://www.itl.cat/pngfile/big/67-677353_sadhna-tv-sadhna-channel.png" group-title="DEVOTIONAL CHANNELS",SADHNA (IN)
+#EXTINF:-1 tvg-id="SADHNA (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/Sadhna_TV.jpg" group-title="DEVOTIONAL CHANNELS",SADHNA (IN)
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
