@@ -161,7 +161,7 @@ https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="DD NEWS (IN)" tvg-name="DD NEWS (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/DD_News_Logo_2015.jpg"group-title="NEWS / BUSINESS CHANNELS",DD NEWS (IN)
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-#EXTINF:-1 tvg-id="DSPORT (IN)" tvg-name="DSPORT (IN)" tvg-logo="https://glaws.in/wp-content/uploads/2018/01/DSport.jpg"group-title="SPORTS CHANNELS",DSPORT (IN)
+#EXTINF:-1 tvg-id="EUROSPORT (IN)" tvg-name="EUROSPORT (IN)" tvg-logo="http://www.rasnamban.com/wp-content/uploads/2016/09/eurosport-logo.png"  group-title="SPORTS CHANNELS",EUROSPORT (IN)
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_400.m3u8
 #EXTINF:-1 tvg-id="SPORTS MAX (ME)" tvg-name="SPORTS MAX (ME)" tvg-logo="https://www.nationnews.com/IMG/865/77865/sportsmax-logo2402-450x303.gif"group-title="SPORTS CHANNELS",SPORTS MAX (ME)
 https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
