@@ -37,7 +37,7 @@ https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
 https://m-c20-j2apps.s.llnwi.net/hls/0087.TimesNow.in.m3u8
 #EXTINF:-1 tvg-id="ZEE TV HD (IN)" tvg-name="ZEE TV HD (IN)" tvg-logo="https://i.ytimg.com/vi/1afZq9TFqwc/maxresdefault.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
-#EXTINF:-1 tvg-id="ZEE TV HD (USA)" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928290210341062_zee-tv-hd.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (USA)
+#EXTINF:-1 tvg-id="ZEE TV HD (USA)" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_446/ic_logo_zee_TV_HD_1.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (USA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ztvhdusa/index.m3u8
 #EXTINF:-1 tvg-id="ZEE TV (APAC)" tvg-name="ZEE TV (APAC)" tvg-logo="https://i.pinimg.com/originals/4a/d3/62/4ad362abea44922e6b7221856f774d3d.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (APAC)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/apacsea/index.m3u8
@@ -631,12 +631,10 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-id="SKY NEWS EXTRA (AU)" tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="NEWS / BUSINESS CHANNELS",SKY NEWS EXTRA (AU)
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 tvg-id="PEACE TV (BD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" group-title="DEVOTIONAL CHANNELS",PEACE TV (BD)
+#EXTINF:-1 tvg-id="PEACE TV (BD)" tvg-logo="https://pbs.twimg.com/media/Dhz7Kw8U8AIMcyG.png" group-title="DEVOTIONAL CHANNELS",PEACE TV (BD)
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
-#EXTINF:-1 tvg-id="AZAN TV (BD)" tvg-logo="https://i.imgur.com/rUBjv7B.png" group-title="DEVOTIONAL CHANNELS",AZAN TV (BD)
+#EXTINF:-1 tvg-id="AZAN TV (BD)" tvg-logo="https://www.azan.tv/assets/importent_images/logo.png" group-title="DEVOTIONAL CHANNELS",AZAN TV (BD)
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/live-orgin/azantv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="PEACE TV (ME)" tvg-logo="https://i.imgur.com/U1XFyOx.png" group-title="DEVOTIONAL CHANNELS",PEACE TV (ME)
-http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="THE ISLAMIC NETWORK (TT)"  tvg-logo="https://i.imgur.com/Z2Io8n4.png" group-title="DEVOTIONAL CHANNELS",THE ISLAMIC NETWORK (TT)
 http://162.244.81.145:2215/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="BIBLE EXPLORATIONS (ME)" tvg-logo="https://i.imgur.com/j7a8hcd.jpg" group-title="DEVOTIONAL CHANNELS",BIBLE EXPLORATIONS (ME)
