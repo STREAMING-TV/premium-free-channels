@@ -307,7 +307,7 @@ http://109.169.56.170/hls/sonysix.m3u8
 https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 tvg-id="SONY TEN 3 (IN)" tvg-name="SONY TEN 3 (IN)"tvg-logo="https://i.pinimg.com/originals/31/62/0f/31620fff81ab910c2dc3726a066a21ed.png"group-title="SPORTS CHANNELS",SONY TEN 3 (IN)
 https://sony247channels.akamaized.net/hls/live/2004809/SonyTen3SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 tvg-id="SONY TEN 2 HD (IN)" tvg-name="SONY TEN 2 HD (IN)"tvg-logo="https://tv.bdtype.com/uploads/tv_image/sony-ten-2.png"group-title="SPORTS CHANNELS",SONY TEN 2 HD (IN)
+#EXTINF:-1 tvg-id="SONY TEN 2 HD (IN)" tvg-logo=" https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS CHANNELS",SONY TEN 2 HD (IN)
 https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 tvg-id="SONY TEN 2 (IN)" tvg-name="SONY TEN 2 (IN)"tvg-logo="http://www.kcltv.com/software/images/uploads/sony_ten_2.jpg"group-title="SPORTS CHANNELS",SONY TEN 2 (IN)
 https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
@@ -491,7 +491,7 @@ http://79.106.48.2/live/rtsh_sport_ott_p2/playlist.m3u8
 http://163.172.85.133:8080/TenS/1/index.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 1 (IN)" tvg-name="SONY TEN 1 (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_437/PORTRAIT/2f95e2fC.png"group-title="SPORTS CHANNELS",SONY TEN 1 (IN)
 http://109.169.56.170/hls/ten1.m3u8
-#EXTINF:-1 tvg-id="SONY TEN 2 (IN)" tvg-name="SONY TEN 2 (IN)" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2.png"group-title="SPORTS CHANNELS",SONY TEN 2 (IN)
+#EXTINF:-1 tvg-id="SONY TEN 2 (IN)" tvg-name="SONY TEN 2 (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg" group-title="SPORTS CHANNELS",SONY TEN 2 (IN)
 http://109.169.56.170/hls/ten2.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 3 (IN)" tvg-name="SONY TEN 3 (IN)" tvg-logo="https://cricasia.com/wp-content/uploads/2018/04/Watch-Sony-Ten-3-Tv-Channel-Live-Streaming-810x456.png"group-title="SPORTS CHANNELS",SONY TEN 3 (IN)
 http://109.169.56.170/hls/ten3.m3u8
