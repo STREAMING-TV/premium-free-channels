@@ -641,7 +641,7 @@ https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1 tvg-id="tv.101002210221" tvg-name="ABC TV (AU)" tvg-logo="https://www.abc.net.au/tv/epg/images/channels/ABC1_60x53.png" group-title="NEWS / BUSINESS CHANNELS",ABC RV (AU)
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
-#EXTINF:-1 tvg-id="tv.101002210224" tvg-name="ABC ME (AU)" tvg-language="English" tvg-logo="https://www.abc.net.au/cm/rimage/11416782-1x1-large.png" group-title=KIDS CHANNELS",ABC ME (AU)
+#EXTINF:-1 tvg-id="tv.101002210224" tvg-name="ABC ME (AU)" tvg-logo="https://www.abc.net.au/cm/rimage/11416782-1x1-large.png" group-title="KIDS CHANNELS",ABC ME (AU)
 https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
 #EXTINF:-1 tvg-id="ACC TV (AU)" tvg-name="ACC TV (AU)" tvg-logo="https://i.imgur.com/lokNx1U.png" group-title="RELIGIOUS CHANNELS",ACC TV (AU)
 http://i.mjh.nz/au/Melbourne/tv.acctv.m3u8
