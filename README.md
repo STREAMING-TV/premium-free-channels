@@ -658,3 +658,4 @@ https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a
 #EXTINF:-1 tvg-id="RSTV (IN)" tvg-name="RSTV (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Rajya_Sabha_TV.jpg"  group-title="NEWS / BUSINESS CHANNELS",RSTV (IN)
 https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 #EXTINF:-1 tvg-id="DIVYA TV (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/Divya_Channel.png" group-title="DEVOTIONAL CHANNELS",DIVYA TV (IN)
+http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w927914309.m3u8
