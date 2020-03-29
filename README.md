@@ -363,7 +363,7 @@ https://m-c16-j2apps.s.llnwi.net/hls/3240.NewsIndia24X7.in.m3u8
 https://m-c18-j2apps.s.llnwi.net/hls/1604.JantaTV.in.m3u8
 #EXTINF:-1 tvg-id="IBC 24 (IN)" tvg-name="IBC 24 (IN)" tvg-logo="https://karthavya.com/wp-content/uploads/2017/12/logo_w.png"group-title="NEWS / BUSINESS CHANNELS",IBC 24 (IN)
 https://m-c18-j2apps.s.llnwi.net/hls/0519.IBC24.in.m3u8
-#EXTINF:-1 tvg-id="TOTAL TV (IN)" tvg-name="TOTAL TV (IN)" tvg-logo="https://i.ytimg.com/vi/TxG7xGCTnik/maxresdefault.jpg"group-title="NEWS / BUSINESS CHANNELS",TOTAL TV (IN)
+#EXTINF:-1 tvg-id="TOTAL TV (IN)" tvg-name="TOTAL TV (IN)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-total-news-6037.jpg" group-title="NEWS / BUSINESS CHANNELS",TOTAL TV (IN)
 https://m-c17-j2apps.s.llnwi.net/hls/0131.TotalTV.in.m3u8
 #EXTINF:-1 tvg-id="SAMAY (IN)" tvg-name="SAMAY (IN)" tvg-logo="http://www.anubhavshaphotography.com/images/my_img/about_images/sahara.jpg"group-title="NEWS / BUSINESS CHANNELS",SAMAY (IN) 
 https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in.m3u8
