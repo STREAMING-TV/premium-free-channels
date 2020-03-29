@@ -192,9 +192,9 @@ http://216.144.250.174/Zee_TV_HD_o1/playlist.m3u8
 http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY SAB HD (IN)" tvg-name="SONY SAB HD (IN)"tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_576/PORTRAIT/o4akKNIp.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY SAB HD (IN) VPN
 http://216.144.250.174/S0ny_Sab_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="STAR PLUS (IN)" tvg-name="STAR PLUS (UK)" tvg-logo="https://pbs.twimg.com/profile_images/1082680958506041345/TJCrmgb2_400x400.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS (UK) VPN
+#EXTINF:-1 tvg-id="STAR PLUS (UK)" tvg-name="STAR PLUS (UK)" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2019/05/starpluslogo002.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS (UK) VPN
 http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="STAR PLUS (IN)" tvg-name="STAR PLUS HD (IN)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-plus-hd-logo-300x300.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS HD (IN)
+#EXTINF:-1 tvg-id="STAR PLUS HD (IN)" tvg-name="STAR PLUS HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/StarPlus_HD.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS HD (IN)
 http://109.169.56.170/hls/starplus.m3u8
 #EXTINF:-1 tvg-id="STAR BHARAT (IN)" tvg-name="STAR BHARAT (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Star_Bharat_logo.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR BHARAT (IN)
 http://109.169.56.170/hls/lifeok.m3u8
@@ -208,7 +208,7 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721
 http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZEE ACTION (IN)" tvg-name="ZEE ACTION (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE ACTION (IN) VPN
 http://216.144.250.174/Zee_ActIon_HD/index.m3u8
-#EXTINF:-1 tvg-id="STAR GOLD HD (IN)" tvg-name="STAR GOLD HD (IN)" tvg-logo="https://solutionfun.com/wp-content/uploads/2019/03/star-gold.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD HD (IN) VPN
+#EXTINF:-1 tvg-id="STAR GOLD HD (IN)" tvg-name="STAR GOLD HD (IN)" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD HD (IN) VPN
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SONY MAX HD (IN)" tvg-name="SONY MAX HD (IN)" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7023.MAXHD.in/1x1/6x/test_pic1581148637225.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY MAX HD (IN) VPN
 http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
