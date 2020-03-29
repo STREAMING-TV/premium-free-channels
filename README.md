@@ -643,7 +643,7 @@ http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
 #EXTINF:-1 tvg-id="tv.101002210224" tvg-name="ABC ME (AU)" tvg-logo="https://www.abc.net.au/cm/rimage/11416782-1x1-large.png" group-title="KIDS CHANNELS",ABC ME (AU)
 https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
-#EXTINF:-1 tvg-id="ACC TV (AU)" tvg-name="ACC TV (AU)" tvg-logo="https://i.imgur.com/lokNx1U.png" group-title="RELIGIOUS CHANNELS",ACC TV (AU)
+#EXTINF:-1 tvg-id="ACC TV (AU)" tvg-name="ACC TV (AU)" tvg-logo="https://i.imgur.com/lokNx1U.png" group-title="DEVOTIONAL CHANNELS",ACC TV (AU)
 http://i.mjh.nz/au/Melbourne/tv.acctv.m3u8
 #EXTINF:-1 tvg-id="AUSTRALIA CHANNEL (AU)" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="NEWS / BUSINESS CHANNELS",AUSTRALIA CHANNEL (AU)
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
