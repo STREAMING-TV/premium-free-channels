@@ -629,7 +629,7 @@ EXTINF:-1 tvg-id="THE WEATHER CHANNELS (USA)" tvg-logo="https://www.pngitem.com/
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-id="WEATHER NATION (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" group-title="NEWS / BUSINESS CHANNELS",WEATHER NATION (USA)
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD NEWS (INT)" tvg-logo="http://jsat.tv/gallery/var/albums/TV%20Logos/BBC%20World%20News.png"  group-title="NEWS / BUSINESS CHANNELS",BBC WORLD NEWS (INT)
+#EXTINF:-1 tvg-id="BBC WORLD NEWS (INT)"  tvg-logo="http://jsat.tv/gallery/var/albums/TV%20Logos/BBC%20World%20News.png"  group-title="NEWS / BUSINESS CHANNELS",BBC WORLD NEWS (INT)
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="CNN (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png"  group-title="NEWS / BUSINESS CHANNELS",CNN (USA)
 http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
@@ -639,7 +639,7 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="LSTV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Lok_Sabha_TV_logo.jpg" group-title="NEWS / BUSINESS CHANNELS",LSTV (IN)
 http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
-#EXTINF:-1 tvg-id="tv.101002210221" tvg-name="ABC TV (AU)" tvg-logo="https://www.abc.net.au/tv/epg/images/channels/ABC1_60x53.png" group-title="NEWS / BUSINESS CHANNELS",ABC RV (AU)
+#EXTINF:-1 tvg-id="tv.101002210221" tvg-name="ABC TV (AU)" tvg-logo="https://www.abc.net.au/tv/epg/images/channels/ABC1_60x53.png" group-title="NEWS / BUSINESS CHANNELS",ABC TV (AU)
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
 #EXTINF:-1 tvg-id="tv.101002210224" tvg-name="ABC ME (AU)" tvg-logo="https://www.abc.net.au/cm/rimage/11416782-1x1-large.png" group-title="KIDS CHANNELS",ABC ME (AU)
 https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
