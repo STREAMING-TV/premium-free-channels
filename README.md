@@ -671,13 +671,13 @@ http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/index_2128_av-p.m3u8
 http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
 #EXTINF:-1 tvg-id="SWAMI JI TV (IN)" tvg-logo="https://i.imgur.com/YLd5f9j.jpg" group-title="DEVOTIONAL CHANNELS",SWAMI JI TV (IN)
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w823726530_b1100000.m3u8
-#EXTINF:-1 tvg-id="9ba9a128eff02479da120a4226cd807c" tvg-name="" tvg-language="" tvg-logo="" group-title="",National Geographic
+#EXTINF:-1 tvg-id="NAT GEO (MAL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/National_Geographic_Logo_2016.png" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO (MAL)
 http://livestream.biznetvideo.net/biznet_ngc/smil:ngc.smil/chunklist_w99579112_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1TT0Z6NFJEdW5XTVlLUjFLRzNqZHgxZzloMXZnX0E5WHRaV0JoS3JxSjltNGFfNzZsU2oyRjY5anFhSmh1VFhh.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_big.png?v=2.0.0.13" group-title="",National Geographic WILD (Backup)
+#EXTINF:-1 tvg-id="NAT GEO WILD (MAL)" tvg-logo="https://www.thewrap.com/wp-content/uploads/2019/02/Nat-Geo-Wild.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (MAL)
 http://livestream.biznetvideo.net/biznet_ngwild/smil:ngwild.smil/chunklist_w1571555785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1FOE8tZGNKY3MzSHNEU0drOEtDWFp0UW82XzlxWlhwUzI3QkY4OWJSdnZMakIyanVCRW9lZmtsS0VKOTlsZmxE.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rUBjv7B.png" tvg-country="IN" tvg-url="" group-title="INFOTAINMENT",Food Network
 http://ott-cdn.ucom.am/s18/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rUBjv7B.png" tvg-country="IN" tvg-url="" group-title="INFOTAINMENT",Hum Masala
+#EXTINF:-1 tvg-id="HUM MASALA (PK)" tvg-logo="https://pbs.twimg.com/profile_images/897389040063967232/Jr53VbCS.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",HUM MASALA (PK)
 https://stream.simpaisa.com/pitvlive2/masalanew3/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rUBjv7B.png" tvg-country="IN" tvg-url="" group-title="INFOTAINMENT",DABL 
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_22.m3u8
