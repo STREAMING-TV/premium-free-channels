@@ -527,7 +527,7 @@ http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 #EXTINF:-1 ch-id="DY365 (IN)" tvg-logo="https://i.pinimg.com/originals/65/41/50/654150df61248ee6066b6ef42ddf5557.png" group-title="REGIONAL CHANNELS",DY365 (IN)
 http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
-#EXTINF:-1 ch-id="PRATIDIN TIME (IN)" tvg-logo="http://img1.beta.myplex.in/31115/640x360_0aa62018-cd80-4722-bfbf-32f975779c95.jpg" group-title="REGIONAL CHANNELS",PRATIDIN TIME (IN)
+#EXTINF:-1 ch-id="PRATIDIN TIME (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3a/Pratidin_Time.jpg" group-title="REGIONAL CHANNELS",PRATIDIN TIME (IN)
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:-1 ch-id="NEWS TIME ASSAM (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/40/News_Time_Assam_new.jpeg" group-title="REGIONAL CHANNELS",NEWS TIME ASSAM (IN)
 http://rtmp.smartstream.video:1935/globalherald/globalherald/playlist.m3u8
