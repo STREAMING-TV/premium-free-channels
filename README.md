@@ -345,7 +345,7 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
 https://m-c15-j2apps.s.llnwi.net/hls/0281.DDBihar.in.m3u8
 #EXTINF:-1 tvg-id="DD BIHAR (IN)" tvg-name="DD BIHAR (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddbihar/channel_list/ddbihar386x386_1799074633.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",DD BIHAR (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddbihar/index.m3u8
-#EXTINF:-1 tvg-id="INDIA TV (IN)" tvg-name="INDIA TV (IN)" tvg-logo="https://lawgupshup.com/wp-content/uploads/2018/03/LAWGUPSHUP-INDIA-TV.jpg"group-title="NEWS / BUSINESS CHANNELS",INDIA TV (IN)
+#EXTINF:-1 tvg-id="INDIA TV (IN)" tvg-name="INDIA TV (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/53/India_TV-0.jpg" group-title="NEWS / BUSINESS CHANNELS",INDIA TV (IN)
 https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in.m3u8
 #EXTINF:-1 tvg-id="NEWS NATION (IN)" tvg-name="NEWS NATION (IN)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/615z6Q0He%2BL.png"group-title="NEWS / BUSINESS CHANNELS",NEWS NATION (IN)
 https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
