@@ -311,7 +311,7 @@ https://sony247channels.akamaized.net/hls/live/2004809/SonyTen3SD/master.m3u8?hd
 https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 tvg-id="SONY TEN 2 (IN)" tvg-name="SONY TEN 2 (IN)"tvg-logo="http://www.kcltv.com/software/images/uploads/sony_ten_2.jpg"group-title="SPORTS CHANNELS",SONY TEN 2 (IN)
 https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 tvg-id="SONY TEN 1 HD (IN)" tvg-name="SONY TEN 1 HD (IN)"tvg-logo="https://kccl.tv/sites/default/files/Sony_Ten_1_HD.jpg"group-title="SPORTS CHANNELS",SONY TEN 1 HD (IN)
+#EXTINF:-1 tvg-id="SONY TEN 1 HD (IN)" tvg-name="SONY TEN 1 HD (IN)"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/Sony_Ten_1_HD.jpg" group-title="SPORTS CHANNELS",SONY TEN 1 HD (IN)
 https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 tvg-id="SONY TEN 1 (IN)" tvg-name="SONY TEN 1 (IN)"tvg-logo="https://i.ytimg.com/vi/GHr_TFO-UgE/maxresdefault.jpg"group-title="SPORTS CHANNELS",SONY TEN 1 (IN)
 https://sony247channels.akamaized.net/hls/live/2004807/SonyTen1SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
