@@ -267,7 +267,7 @@ https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=e
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/aajtak.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="TEZ (IN)" tvg-name="TEZ (IN)" tvg-logo="https://i.ytimg.com/vi/Qm4vvA-i3Rc/maxresdefault.jpg"group-title="NEWS / BUSINESS CHANNELS",TEZ (IN)
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/aajtaktez.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DD SPORTS (IN)" tvg-name="DD SPORTS (IN)" tvg-logo="https://doordarshan.gov.in/sites/default/files/dd-sports-logo.png"group-title="SPORTS CHANNELS",DD SPORTS (IN)
+#EXTINF:-1 tvg-id="DD SPORTS (IN)" tvg-name="DD SPORTS (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5b/DD_Sports_2018.jpg" group-title="SPORTS CHANNELS",DD SPORTS (IN)
 https://m-c20-j2apps.s.llnwi.net/hls/0179.DDSports.in.m3u8
 #EXTINF:-1 tvg-id="FIRANGI (IN)" tvg-name="FIRANGI (IN)" tvg-logo="http://schoolatgo.info/assets/images/partnerslogo/firangi.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",FIRANGI (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
