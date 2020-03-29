@@ -529,7 +529,7 @@ http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 #EXTINF:-1 ch-id="PRATIDIN TIME (IN)" tvg-logo="http://img1.beta.myplex.in/31115/640x360_0aa62018-cd80-4722-bfbf-32f975779c95.jpg" group-title="REGIONAL CHANNELS",PRATIDIN TIME (IN)
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
-#EXTINF:-1 ch-id="NEWS TIME ASSAM (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/News_Time_new_logo.png"group-title="REGIONAL CHANNELS",NEWS TIME ASSAM (IN)
+#EXTINF:-1 ch-id="NEWS TIME ASSAM (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/40/News_Time_Assam_new.jpeg" group-title="REGIONAL CHANNELS",NEWS TIME ASSAM (IN)
 http://rtmp.smartstream.video:1935/globalherald/globalherald/playlist.m3u8
 #EXTINF:-1 ch-id="SONY MAX (IN)" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/1200px-Sony_MAX.svg.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY MAX (IN)
 http://103.205.133.42:1935/local/sony_max_720/chunklist.m3u8
