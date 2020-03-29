@@ -39,8 +39,7 @@ https://m-c20-j2apps.s.llnwi.net/hls/0087.TimesNow.in.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 #EXTINF:-1 tvg-id="ZEE TV HD (USA)" tvg-name="ZEE TV HD (USA)" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928290210341062_zee-tv-hd.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (USA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ztvhdusa/index.m3u8
-#EXTINF:-1 tvg-id="ZEE TV (APAC)" tvg-name="Zee TV  (APAC)" tvg-logo="https://i.pinimg.com/originals/4a/d3/62/4ad362abea44922e6b7221856f774d3d.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV  (APAC)
-https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+
 #EXTINF:-1 tvg-id="ZEE TV (APAC)" tvg-name="ZEE TV (APAC)" tvg-logo="https://i.pinimg.com/originals/4a/d3/62/4ad362abea44922e6b7221856f774d3d.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (APAC)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/apacsea/index.m3u8
 #EXTINF:-1 tvg-id="ZEE TV (UK)" tvg-name="ZEE TV (UK)" tvg-logo="https://www.exchange4media.com/news-photo/1508122527_OJuLfs_zee.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (UK)
@@ -59,14 +58,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhdusa/index.m3u8
 #EXTINF:-1 tvg-id="AND TV (IN)" tvg-name="AND TV (IN)" tvg-logo="http://www.plexflix.to/plexflix.to/picons/Indian/AND%20TV%20%28Indian%29.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",AND TV (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvsd/index.m3u8
-#EXTINF:-1 tvg-id="STAR BHARAT (ME)" tvg-name="STAR BHARAT (ME)" tvg-logo="https://i.pinimg.com/originals/fd/6c/90/fd6c905df657f7719843f76275915442.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR BHARAT (ME)
-https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:-1 tvg-id="STAR PLUS (APAC)" tvg-name="STAR PLUS (APAC)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2018/05/Star-Plus-New-Logo-edit-2-2.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS (APAC)
-https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
-#EXTINF:-1 tvg-id="STAR WORLD (IN)" tvg-name="STAR WORLD (IN)" tvg-logo="http://file.wikipediam.org/wikipedia/en/thumb/9/90/STAR_World.svg/1200px-STAR_World.svg.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR WORLD (IN)
-https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
-#EXTINF:-1 tvg-id="AXN (MAL)" tvg-name="AXN (MAL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",AXN (MAL)
-http://av.xemtivinet.net:8080/hls/axn/index.m3u8
+
 #EXTINF:-1 tvg-id="AXN (MAL)" tvg-name="AXN (MAL)" tvg-logo="http://nileonweekends.com/wp-content/uploads/2019/02/AXN-featured-image-1140x660.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",AXN (MAL)
 http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1 tvg-id="ID (USA)" tvg-name="ID (USA)" tvg-logo="http://2.bp.blogspot.com/-g7kclnMAZPA/T3ClVDJR-vI/AAAAAAAAEsA/goncQjp63AI/s500/Investigation+Discovery+logo+2012.jpg"group-title="INFORMATION / WILDLIFE CHANNELS ",ID (USA)
@@ -77,8 +69,7 @@ http://84.22.33.254/unicast.tlc/index.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/smileusa/index.m3u8
 #EXTINF:-1 tvg-id="COLORS TV (APAC)" tvg-name="COLORS TV (APAC)" tvg-logo="https://www.tellyupdates.com/wp-content/uploads/2020/01/colors.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",COLORS TV (APAC)
 http://103.111.120.46/hls/Colors.m3u8
-#EXTINF:-1 tvg-id="COLORS HD (IN)" tvg-name="COLORS HD (IN)" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/COLORS-HD.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",COLORS HD (IN)
-https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+
 #EXTINF:-1 tvg-id="MULTIPLEX (IN)" tvg-name="MULTIPLEX (IN)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/multiplex-tv-channel-logo-300x300.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MULTIPLEX (IN)
 http://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in.m3u8 
 #EXTINF:-1 tvg-id="ZEE CAFE (IN)" tvg-name="ZEE CAFE (IN)" tvg-logo="https://www.adgully.com/img/800/202001/zee-cafe-logo.png.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CAFE (IN)
@@ -97,8 +88,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/action/index.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemausa/index.m3u8
 #EXTINF:-1 tvg-id="ZEE CINEMA (UK)" tvg-name="ZEE CINEMA (UK)" tvg-logo="https://i.ytimg.com/vi/aaOFu83Xkf4/maxresdefault.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA (UK)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemauk/index.m3u8
-#EXTINF:-1 tvg-id="STAR PLUS HD (IN)" tvg-name="STAR PLUS HD (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1164132839710838784/LHQ31mtM_400x400.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS HD (IN)
-https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+
 #EXTINF:-1 tvg-id="PLAY BOY TV (IN)" tvg-name="PLAY BOY TV (IN)" tvg-logo="https://www.pngitem.com/pimgs/m/165-1654634_transparent-playboy-bunny-png-playboy-tv-logo-png.png"group-title="ADULT CHANNELS",PLAY BOY TV (INT)
 http://62.203.143.51:9981/play/PlayyTV
 #EXTINF:-1 tvg-id="CARTOON NATWORK (IN)" tvg-name="CARTOON NATWORK (IN)" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_black.png"group-title="KIDS CHANNELS",CARTOON NATWORK (IN)
@@ -181,10 +171,7 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_400.m3u8
 https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
 #EXTINF:-1 tvg-id="HISTORY2 (ME)" tvg-name="HISTORY2 (ME)" tvg-logo="http://3.bp.blogspot.com/-RzXst6jpzBw/Toi5hYDW9AI/AAAAAAAACPA/jFKuVx6JcaQ/s500/History+2+logo+2011.png"group-title="INFORMATION / WILDLIFE CHANNELS",HISTORY2 (ME)
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
-#EXTINF:-1 tvg-id="NAT GEO PEOPLE (ME)" tvg-name="NAT GEO PEOPLE (ME)" tvg-logo="https://neulioneuosn-a.akamaihd.net/u/osn/wavo/thumbs/channels/NAT-GEO-PEOPLE.png"group-title="LIFESTYLE / TRAVELING CHANNELS",NAT GEO PEOPLE (ME)
-https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
-#EXTINF:-1 tvg-id="NAT GEO WILD (IN)" tvg-name="NAT GEO WILD (IN)" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png"group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (IN)
-https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+
 #EXTINF:-1 tvg-id="FOOD FOOD (IN)" tvg-name="FOOD FOOD (IN)" tvg-logo="http://www.licensingcorner.com/wp-content/uploads/2016/12/Food-Food.jpeg"group-title="LIFESTYLE / TRAVELING CHANNELS",FOOD FOOD (IN)
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-id="FASHION TV (PARIS)" tvg-name="FASHION TV (PARIS)" tvg-logo="https://identity-mag.com/wp-content/uploads/2015/06/ftv-logo.jpg"group-title="LIFESTYLE / TRAVELING CHANNELS",FASHION TV (PARIS)
@@ -197,10 +184,7 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 #EXTINF:-1 tvg-id="MGM (UK)" tvg-name="MGM (UK)" tvg-logo="https://i.pinimg.com/474x/4c/6b/cb/4c6bcbb336cc88924de812efdc15080c.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MGM (UK)
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
-#EXTINF:-1 tvg-id="ZEE CINEMA (APAC)" tvg-name="ZEE CINEMA (APAC)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2020/01/Zee-cinema.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA (APAC)
-https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1 tvg-id="STAR GOLD HD (IND)" tvg-name="STAR GOLD HD (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c3/Star_Gold_HD_2011.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD HD (IND)
-https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+
 #EXTINF:-1 tvg-id="MBC Bollywood (ME)" tvg-name="MBC Bollywood (ME)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/MBC_Bollywood_logo.jpeg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MBC Bollywood (ME)
 http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1 tvg-id="HITS TV (ASIA)" tvg-name="HITS TV (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",HITS TV (ASIA)
