@@ -425,7 +425,7 @@ http://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p3.m3u8
 http://playhls.media.nic.in/live/ddkisan-360p/index.m3u8
 #EXTINF:-1 tvg-id="SHEMARROO KIDS (IN)" tvg-name="SHEMARROO KIDS (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Kids/5bebcba7a609d202b3000005/large_16_9.jpg"group-title="KIDS CHANNELS",SHEMAROO KIDS (IN)
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
-#EXTINF:-1 tvg-id="ABP NEWS (IN)" tvg-name="ABP NEWS (IN)" tvg-logo="https://i.ytimg.com/vi/3_9vdZ9LEm8/maxresdefault.jpg"group-title="NEWS / BUSINESS CHANNELS",ABP NEWS (IN)
+#EXTINF:-1 tvg-id="ABP NEWS (IN)" tvg-name="ABP NEWS (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/ABPNews_2016.jpg" group-title="NEWS / BUSINESS CHANNELS",ABP NEWS (IN)
 http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
 #EXTINF:-1 tvg-id="REPUBLIC BHARAT (IN)" tvg-name="REPUBLIC BHARAT (IN)" tvg-logo="https://mlmqyxhfvgrm.i.optimole.com/YC75iQ-07DR4UcJ/w:auto/h:auto/q:auto/https://livetvmania.net/wp-content/uploads/2019/05/republic-bharath.jpg"group-title="NEWS / BUSINESS CHANNELS",REPUBLIC BHARAT (IN)
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_1.m3u8
