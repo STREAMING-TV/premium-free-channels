@@ -637,7 +637,7 @@ http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="CNBC AWAAZ (IN)" tvg-logo="https://pbs.twimg.com/profile_images/884283573913571329/BgLmFh7u_400x400.jpg" group-title="NEWS / BUSINESS CHANNELS",CNBC AWAAZ (IN)
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="LOK SABHA TV (IN) tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Lok_Sabha_TV_logo.jpg" group-title="NEWS / BUSINESS CHANNELS",LOK SABHA TV (IN)
+#EXTINF:-1 tvg-id="LSTV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Lok_Sabha_TV_logo.jpg" group-title="NEWS / BUSINESS CHANNELS",LSTV (IN)
 http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1 tvg-id="tv.101002210221" tvg-name="ABC TV (AU)" tvg-logo="https://www.abc.net.au/tv/epg/images/channels/ABC1_60x53.png" group-title="NEWS / BUSINESS CHANNELS",ABC RV (AU)
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
