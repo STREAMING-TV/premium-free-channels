@@ -131,7 +131,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeenews/index.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/9xm/index.m3u8
 #EXTINF:-1 tvg-id="THE Q INDIA (IN)" tvg-name="THE Q INDIA (IN)" tvg-logo="https://www.rapidtvnews.com/images/2019/Aug_2019/The_Q_India_logo_-_7_August_2019.png"group-title="MUSIC / YOUTH CHANNELS",THE Q INDIA (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/theqyou/index.m3u8
-#EXTINF:-1 tvg-id="DD BHARATI (IN)" tvg-name="DD BHARATI (IN)" tvg-logo="https://i.ytimg.com/vi/IV9Wtd7EsZM/maxresdefault.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",DD BHARATI (IN)
+#EXTINF:-1 tvg-id="DD BHARATI (IN)" tvg-name="DD BHARATI (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f9/DD_Bharati_2018.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",DD BHARATI (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddbharati/index.m3u8
 #EXTINF:-1 tvg-id="ZEE WORLD (SA)" tvg-name="ZEE WORLD (SA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/Zee_World_Extraordinary._Everyday..jpg "group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE WORLD (SA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/world/index.m3u8
