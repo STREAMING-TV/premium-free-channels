@@ -199,7 +199,7 @@ http://109.169.56.170/hls/starplus.m3u8
 http://109.169.56.170/hls/lifeok.m3u8
 #EXTINF:-1 tvg-id="DD NATIONAL (IN)" tvg-name="DD NATIONAL (IN)" tvg-logo="https://new-img.patrika.com/upload/images/2017/07/27/dd-1501150165_835x547.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",DD NATIONAL (IN)
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="THE Q INDIA (IN)" tvg-name="THE Q INDIA (IN)" tvg-logo="https://www.digitaltveurope.com/files/2018/10/The-Q-India-logo.jpg"group-title="MUSIC / YOUTH CHANNELS",THE Q INDIA (IN)
+#EXTINF:-1 tvg-id="THE Q INDIA (IN)" tvg-name="THE Q INDIA (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/92/The_Q_India.jpg" group-title="MUSIC / YOUTH CHANNELS",THE Q INDIA (IN)
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1 tvg-id="BOLLYWOOD HD (RU)" tvg-name="BOLLYWOOD HD (RU)" tvg-logo="https://www.pasjatv.pl/files/BollywooD-HD%20NEW.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",BOLLYWOOD HD (RU)
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
