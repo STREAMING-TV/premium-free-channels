@@ -133,7 +133,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/9xm/index.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/theqyou/index.m3u8
 #EXTINF:-1 tvg-id="DD BHARATI (IN)" tvg-name="DD BHARATI (IN)" tvg-logo="https://i.ytimg.com/vi/IV9Wtd7EsZM/maxresdefault.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",DD BHARATI (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddbharati/index.m3u8
-#EXTINF:-1 tvg-id="ZEE WORLD (SA)" tvg-name="ZEE WORLD (SA)" tvg-logo="https://uploads.tapatalk-cdn.com/20180221/7e136e8cba7a1e518565a9c8af3d2f74.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE WORLD (SA)
+#EXTINF:-1 tvg-id="ZEE WORLD (SA)" tvg-name="ZEE WORLD (SA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/Zee_World_Extraordinary._Everyday..jpg "group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE WORLD (SA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/world/index.m3u8
 #EXTINF:-1 tvg-id="VH1 (USA)" tvg-name="VH1 (USA)" tvg-logo="https://mms.businesswire.com/media/20180301006441/en/643788/22/2017VH1.jpg"group-title="MUSIC / YOUTH CHANNELS",VH1 (USA)
 http://185.59.223.82:8080/vh1/mpegts
