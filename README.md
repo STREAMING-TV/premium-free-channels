@@ -655,3 +655,4 @@ EXTINF:-1 tvg-id="HUM MASALA (PK)" tvg-logo="https://pbs.twimg.com/profile_image
 https://stream.simpaisa.com/pitvlive2/masalanew3/chunklist.m3u8
 #EXTINF:-1 tvg-id="DABL (USA)" tvg-logo="https://kgeb.net/wp-content/uploads/2020/01/DABL-Subchannel-icon.png" group-title="LIFESTYLE / TRAVELING CHANNELS",DABL (USA)
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_22.m3u8
+#EXTINF:-1 tvg-id="RSTV (IN)" tvg-name="RSTV (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Rajya_Sabha_TV.jpg"  group-title="NEWS / BUSINESS CHANNELS",RSTV (IN)
