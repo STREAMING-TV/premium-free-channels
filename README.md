@@ -668,3 +668,4 @@ http://173.212.237.70/zee5.php?url=https://z5ams.akamaized.net/out/v1/78239452a9
 #EXTINF:-1 tvg-id="DD BANGLA (IN)" tvg-logo="https://pbs.twimg.com/profile_images/521344904044101632/rDRAPIOM.jpeg"  group-title="REGIONAL CHANNELS",DD BANGLA (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddbangla/index.m3u8
 #EXTINF:-1 tvg-id="VENUS TV (UK)" tvg-logo="https://www.prakashastrologer.com/wp-content/uploads/2014/09/VENUS-TV.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",VENUS TV (UK)
+https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
