@@ -663,4 +663,5 @@ http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w927914309.m3
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY YAY (IN)" tvg-name="SONY YAY (IN)" tvg-logo=" https://vignette.wikia.nocookie.net/logopedia/images/1/19/Sonyyay.png" group-title="KIDS CHANNELS",SONY YAY (IN)
 http://103.205.133.42:1935/local/sony_yay_720/chunklist.m3u8
-#EXTINF:-1 tvg-id="E24 (IN)" tvg-logo="  group-title="MUSIC / YOUTH CHANNELS",E24 (IN)
+#EXTINF:-1 tvg-id="E24 (IN)" tvg-logo="https://i.pinimg.com/originals/b0/bb/50/b0bb507caa0a22ef3b062f74f5482168.jpg" group-title="MUSIC / YOUTH CHANNELS",E24 (IN)
+http://173.212.237.70/zee5.php?url=https://z5ams.akamaized.net/out/v1/78239452a9944713bf0dfd0946a55ad5/index.m3u8
