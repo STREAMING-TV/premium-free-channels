@@ -665,3 +665,4 @@ http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 http://103.205.133.42:1935/local/sony_yay_720/chunklist.m3u8
 #EXTINF:-1 tvg-id="E24 (IN)" tvg-logo="https://i.pinimg.com/originals/b0/bb/50/b0bb507caa0a22ef3b062f74f5482168.jpg" group-title="MUSIC / YOUTH CHANNELS",E24 (IN)
 http://173.212.237.70/zee5.php?url=https://z5ams.akamaized.net/out/v1/78239452a9944713bf0dfd0946a55ad5/index.m3u8
+#EXTINF:-1 tvg-id="DD BANGLA (IN)" tvg-logo="https://pbs.twimg.com/profile_images/521344904044101632/rDRAPIOM.jpeg"  group-title="RELIGION CHANNELS",DD BANGLA (IN)
