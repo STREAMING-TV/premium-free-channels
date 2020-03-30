@@ -680,3 +680,4 @@ https://stream.simpaisa.com/pitvlive2/animal_360p/playlist.m3u8?checkedby_iptvca
 #EXTINF:-1 tvg-id="STAR BHARAT (IN)" tvg-name="STAR PLUS HD (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1164132839710838784/LHQ31mtM_400x400.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS HD (IN) 
 http://ddn.amrbd.com:8081/live/starplus/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR MOVIES (ME)" tvg-name="STAR GOLD HD (IN)" tvg-logo="http://i.imgur.com/ev5stgs.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD HD (IN)
+http://ddn.amrbd.com:8081/live/stargold/playlist.m3u8
