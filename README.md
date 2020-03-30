@@ -674,3 +674,4 @@ https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="X BUNGA BUNGA (INT)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tring_bunga_bunga.jpg" group-title="ADULT CHANNELS",X BUNGA BUNGA (INT)
 http://5.135.92.133:52841/out/u/107_1.m3u8
 #EXTINF:-1 tvg-id="ANIMAL PLANET (MAL)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/AnimalPlanetAnimatedLogo2018.gif" group-title="INFORMATION / WILDLIFE CHANNELS",ANIMAL PLANET (MAL)
+http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
