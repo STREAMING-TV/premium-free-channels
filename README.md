@@ -681,3 +681,4 @@ http://ddn.amrbd.com:8081/live/starplus/playlist.m3u8
 http://ddn.amrbd.com:8081/live/stargold/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR MOVIES HD (ME)" tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR MOVIES HD (IN)
 http://ddn.amrbd.com:8081/live/starmovies/playlist.m3u8
+#EXTINF:-1 tvg-id="SONY SAB (IN)" tvg-logo=" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY SAB (IN)
