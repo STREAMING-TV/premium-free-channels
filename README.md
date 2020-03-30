@@ -686,3 +686,4 @@ http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY SIX HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c8/Sony_Six_HD.jpg" group-title="SPORTS CHANNELS",SONY SIX HD (IN)
 http://ddn.amrbd.com:8081/live/sonysix/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR SPORTS 1 (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/33/SS1_Crop.jpg" group-title="SPORTS CHANNELS",STAR SPORTS 1 (IN)
+http://ddn.amrbd.com:8081/live/starsports1/playlist.m3u8
