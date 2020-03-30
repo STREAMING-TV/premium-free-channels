@@ -27,7 +27,7 @@ http://livecdnh1.tvanywhere.ae/hls/zing/02.m3u8
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1 tvg-id="MBC BOLLYWOOD (ME)" tvg-name="MBC BOLLYWOOD (ME)"  tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",MBC BOLLYWOOD (ME)
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
-#EXTINF:-1 tvg-id="STAR MOVIES (ME)" tvg-name="STAR MOVIES (ME)"  tvg-logo="https://content.osn.com/bob/745x419/STM.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR MOVIES (ME)
+#EXTINF:-1 tvg-id="STAR MOVIES HD (ME)" tvg-logo="https://content.osn.com/bob/745x419/STM.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR MOVIES HD (ME)
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="STAR WORLD (ME)" tvg-name="Star World (ME)"  tvg-logo="https://content.osn.com/bob/745x419/STW.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR WORLD (ME)
 http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?fluxustv.m3u8
@@ -677,5 +677,6 @@ http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 https://stream.simpaisa.com/pitvlive2/animal_360p/playlist.m3u8?checkedby_iptvcat.com
 #EXTINF:-1 tvg-id="STAR BHARAT (IN)" tvg-name="STAR PLUS HD (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1164132839710838784/LHQ31mtM_400x400.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS HD (IN) 
 http://ddn.amrbd.com:8081/live/starplus/playlist.m3u8
-#EXTINF:-1 tvg-id="STAR MOVIES (ME)" tvg-name="STAR GOLD HD (IN)" tvg-logo="http://i.imgur.com/ev5stgs.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD HD (IN)
+#EXTINF:-1 tvg-id="STAR GOLD HD (IN)" tvg-name="STAR GOLD HD (IN)" tvg-logo="http://i.imgur.com/ev5stgs.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD HD (IN)
 http://ddn.amrbd.com:8081/live/stargold/playlist.m3u8
+#EXTINF:-1 tvg-id="STAR MOVIES HD (ME)" tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR MOVIES HD (IN)
