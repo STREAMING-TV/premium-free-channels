@@ -662,3 +662,4 @@ http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w927914309.m3
 #EXTINF:-1 tvg-id="SADHNA (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/Sadhna_TV.jpg" group-title="DEVOTIONAL CHANNELS",SADHNA (IN)
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY YAY (IN)" tvg-name="SONY YAY (IN)" tvg-logo=" https://vignette.wikia.nocookie.net/logopedia/images/1/19/Sonyyay.png" group-title="KIDS CHANNELS",SONY YAY (IN)
+http://103.205.133.42:1935/local/sony_yay_720/chunklist.m3u8
