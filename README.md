@@ -688,3 +688,4 @@ http://ddn.amrbd.com:8081/live/sonysix/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR SPORTS 1 (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/33/SS1_Crop.jpg" group-title="SPORTS CHANNELS",STAR SPORTS 1 (IN)
 http://ddn.amrbd.com:8081/live/starsports1/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR SPORTS 2 (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg" group-title="SPORTS CHANNELS",STAR SPORTS 2 (IN)
+http://ddn.amrbd.com:8081/live/starsports2/playlist.m3u8
