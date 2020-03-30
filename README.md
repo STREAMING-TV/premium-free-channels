@@ -179,8 +179,6 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://delivery.macan.live/stream/hbo/index.m3u8?token=Yq91Jdf0&v=20200308 
 #EXTINF:-1 tvg-id="MGM (UK)" tvg-name="MGM (UK)" tvg-logo="https://i.pinimg.com/474x/4c/6b/cb/4c6bcbb336cc88924de812efdc15080c.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MGM (UK)
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
-#EXTINF:-1 tvg-id="MBC Bollywood (ME)" tvg-name="MBC Bollywood (ME)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/MBC_Bollywood_logo.jpeg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MBC Bollywood (ME)
-http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1 tvg-id="HITS TV (ASIA)" tvg-name="HITS TV (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",HITS TV (ASIA)
 http://210.210.155.66/h/h37/index.m3u8
 #EXTINF:-1 tvg-id="ABP NEWS HD (IN)" tvg-name="ABP NEWS HD (IN)" tvg-logo="http://cdn.abplive.in/abp_english.jpg"group-title="NEWS / BUSINESS CHANNELS",ABP NEWS HD (IN)
