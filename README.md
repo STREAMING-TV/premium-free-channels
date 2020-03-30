@@ -189,7 +189,7 @@ http://216.144.250.174/Zee_TV_HD_o1/playlist.m3u8
 http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY SAB HD (IN)" tvg-name="SONY SAB HD (IN)"tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_576/PORTRAIT/o4akKNIp.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY SAB HD (IN) VPN
 http://216.144.250.174/S0ny_Sab_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="STAR PLUS (UK)" tvg-name="STAR PLUS (UK)" tvg-logo="https://indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/08/28/starplus.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS (UK) VPN
+#EXTINF:-1 tvg-id="STAR PLUS (UK)" tvg-name="STAR PLUS (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/StarPlus.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS (UK) VPN
 http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="STAR PLUS HD (IN)" tvg-name="STAR PLUS HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/StarPlus_HD.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS HD (IN)
 http://109.169.56.170/hls/starplus.m3u8
