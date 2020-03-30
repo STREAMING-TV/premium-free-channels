@@ -683,3 +683,4 @@ http://ddn.amrbd.com:8081/live/stargold/playlist.m3u8
 http://ddn.amrbd.com:8081/live/starmovies/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY SAB (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY SAB (IN)
 http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
+#EXTINF:-1 tvg-id="SONY SIX HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c8/Sony_Six_HD.jpg" group-title="SPORTS CHANNELS",SONY SIX HD (IN)
