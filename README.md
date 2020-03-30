@@ -289,7 +289,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zanmolcnm/index.m3
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeeanmol/index.m3u8
 #EXTINF:-1 tvg-id="BIG MAGIC (IN)" tvg-name="BIG MAGIC (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/BIG_Magic_Logo.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",BIG MAGIC (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/bigmagic/index.m3u8
-#EXTINF:-1 tvg-id="SONY PAL (IN)" tvg-name="SONY PAL (IN)" tvg-logo="https://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2016%2F04%2F4338955589001_4871949277001_pal-logo.jpg%3FpubId%3D4338955589001%26videoId%3D4867313347001"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY PAL (IN) 
+#EXTINF:-1 tvg-id="SONY PAL (IN)" tvg-name="SONY PAL (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/10/Sony_Pal.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY PAL (IN) 
 https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-id="MONORANJAN MOVIES (IN)" tvg-name="MANORANJAN MOVIES (IN)" tvg-logo="https://www.shatayupathy.com/wp-content/uploads/2018/05/1-1.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MANORANJAN MOVIES (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
