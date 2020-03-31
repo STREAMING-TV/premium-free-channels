@@ -701,3 +701,4 @@ http://live.redtraffic.net/gangbang.m3u8
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="AMC (USA)" tvg-logo="https://pmcvariety.files.wordpress.com/2019/05/amc_logo_2016.svg_.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",AMC (USA)
 http://84.22.33.254/unicast.amc/index.m3u8
+#EXTINF:-1 tvg-id="HISTORY2 (ME)" tvg-name="DISCOVERY ASIA (APAC)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Discovery-asia.png" group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY ASIA (APAC)
