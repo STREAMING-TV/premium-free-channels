@@ -723,3 +723,4 @@ http://210.210.155.66/h/h07/01.m3u8
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1 tvg-id="FOX CRIME (JKT)" group-title="INFORMATION / WILDLIFE CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/6/61/Fox_Crime_Philippines_Logo_2017.png",FOX CRIME (JKT)
 https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
+#EXTINF:-1 tvg-id="SEX TV (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/SexTV.svg/1200px-SexTV.svg.png" group-title="ADULT CHANNELS",SEX TV (INT)
