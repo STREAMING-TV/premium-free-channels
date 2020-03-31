@@ -695,3 +695,4 @@ http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-id="BOLLYWOOD CLASSIC (RU)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/Bollywood_Clasic_%282015-present%29.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",BOLLYWOOD CLASSIC (RU)
 http://telekomtv-ro.akamaized.net/shls/LIVE%24BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+ #EXTINF:-1 tvg-id="MTV (UK)" tvg-logo="https://vydia.com/wp-content/uploads/brand-logo-mtv-white.png" group-title="MUSIC / YOUTH CHANNELS",MTV (UK)
