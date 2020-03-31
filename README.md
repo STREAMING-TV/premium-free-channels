@@ -703,7 +703,8 @@ https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chu
 http://84.22.33.254/unicast.amc/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY ASIA (APAC)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Discovery-asia.png" group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY ASIA (APAC)
 http://111.13.111.192/125.227.198.89:8028 
-#EXTINF:-1 tvg-id="NEWS 18 ASSAM (IN)"  tvg-logo="https://louisesattler.com/wp-content/uploads/2018/06/Colors-CNN-Logo.jpg" group-title="NEWS / BUSINESS CHANNELS", CNN (IN)
+#EXTINF:-1 tvg-id="CNN (USA)"  tvg-logo="https://louisesattler.com/wp-content/uploads/2018/06/Colors-CNN-Logo.jpg" group-title="NEWS / BUSINESS CHANNELS", CNN (IN)
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
-#EXTM3U TV #EXTINF:-1,tvg-id="CBSN (USA)" tvg-logo="https://www.vargheselaw.com/wp-content/uploads/sites/613/2019/12/cbs-logo-transparent-1.png" group-title="NEWS / BUSINESS CHANNELS",CBSN (USA)
+#EXTINF:-1,tvg-id="CBSN (USA)" tvg-logo="https://www.vargheselaw.com/wp-content/uploads/sites/613/2019/12/cbs-logo-transparent-1.png" group-title="NEWS / BUSINESS CHANNELS",CBSN (USA)
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:-1,tvg-id="BLOOMBERG (USA)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bloomberg_tv_lam.jpg" group-title="NEWS / BUSINESS CHANNELS",BLOOMBERG (USA)
