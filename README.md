@@ -705,3 +705,4 @@ http://84.22.33.254/unicast.amc/index.m3u8
 http://111.13.111.192/125.227.198.89:8028 
 #EXTINF:-1 tvg-id="NEWS 18 ASSAM (IN)"  tvg-logo="https://louisesattler.com/wp-content/uploads/2018/06/Colors-CNN-Logo.jpg" group-title="NEWS / BUSINESS CHANNELS", CNN (IN)
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+#EXTM3U TV #EXTINF:-1,tvg-id="CBSN (USA)" tvg-logo="https://www.vargheselaw.com/wp-content/uploads/sites/613/2019/12/cbs-logo-transparent-1.png" group-title="NEWS / BUSINESS CHANNELS",CBSN (USA)
