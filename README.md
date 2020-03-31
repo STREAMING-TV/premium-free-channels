@@ -714,3 +714,4 @@ https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4
 #EXTINF:-1,tvg-id="HBO (UK)" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/hbo-logo-black-and-white.png"  group-title="NEWS / BUSINESS CHANNELS",HBO (UK)
 https://vbkt.ga/HBO
 #EXTINF:-1 tvg-id="PLAYBOY TV (INT)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/playboy_tv_fr.jpg" group-title="ADULT CHANNELS",PLAYBOY TV (INT)
+http://nl01.spr24.net/5235/mpegts?token=hiVi8EHiq86NZA
