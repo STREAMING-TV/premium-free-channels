@@ -708,3 +708,4 @@ http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1,tvg-id="CBSN (USA)" tvg-logo="https://www.vargheselaw.com/wp-content/uploads/sites/613/2019/12/cbs-logo-transparent-1.png" group-title="NEWS / BUSINESS CHANNELS",CBSN (USA)
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
 #EXTINF:-1,tvg-id="BLOOMBERG (USA)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bloomberg_tv_lam.jpg" group-title="NEWS / BUSINESS CHANNELS",BLOOMBERG (USA)
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
