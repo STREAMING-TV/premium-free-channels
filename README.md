@@ -711,7 +711,7 @@ https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
 #EXTINF:-1,tvg-id="CBS NEWS (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/CBS_News_logo.svg/800px-CBS_News_logo.svg.png" group-title="NEWS / BUSINESS CHANNELS",CBS NEWS (USA)
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
-#EXTINF:-1,tvg-id="HBO (UK)" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/hbo-logo-black-and-white.png"  group-title="NEWS / BUSINESS CHANNELS",HBO (UK)
+#EXTINF:-1,tvg-id="HBO (UK)" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/hbo-logo-black-and-white.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",HBO (UK)
 https://vbkt.ga/HBO
 #EXTINF:-1 tvg-id="PLAYBOY TV (INT)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/playboy_tv_fr.jpg" group-title="ADULT CHANNELS",PLAYBOY TV (INT)
 http://nl01.spr24.net/5235/mpegts?token=hiVi8EHiq86NZA
