@@ -721,3 +721,4 @@ https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
 http://210.210.155.66/h/h07/01.m3u8
 #EXTINF:-1 tvg-id="FOX SPORTS (AU)" "tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/330px-Fox_Sports_Logo.svg.png"  group-title="SPORTS CHANNELS",FOX SPORTS ( AU)
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
+#EXTINF:-1 tvg-id="FOX CRIME (JKT)" group-title="INFORMATION / WILDLIFE CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/6/61/Fox_Crime_Philippines_Logo_2017.png",FOX CRIME (JKT)
