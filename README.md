@@ -698,3 +698,4 @@ http://telekomtv-ro.akamaized.net/shls/LIVE%24BollywoodClassic/6.m3u8/Level(1677
 #EXTINF:-1 tvg-id="GANGBANG (INT)" tvg-logo="https://i.ytimg.com/vi/FU8w2cHISaU/maxresdefault.jpg" group-title="ADULT CHANNELS",GANGBANG (INT)
 http://live.redtraffic.net/gangbang.m3u8
 #EXTINF:-1 tvg-id="PTV SPORTS (PK)" tvg-logo="https://i.pinimg.com/originals/ab/e0/9a/abe09a2abc92ba1edad1eda1362f5556.png"  group-title="SPORTS CHANNELS",PTV SPORTS (PK)
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
