@@ -712,3 +712,4 @@ https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Sour
 #EXTINF:-1,tvg-id="CBS NEWS (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/CBS_News_logo.svg/800px-CBS_News_logo.svg.png" group-title="NEWS / BUSINESS CHANNELS",CBS NEWS (USA)
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
 #EXTINF:-1,tvg-id="HBO (UK)" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/hbo-logo-black-and-white.png"  group-title="NEWS / BUSINESS CHANNELS",HBO (UK)
+https://vbkt.ga/HBO
