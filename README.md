@@ -347,7 +347,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddbihar/index.m3u8
 https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in.m3u8
 #EXTINF:-1 tvg-id="NEWS NATION (IN)" tvg-name="NEWS NATION (IN)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/615z6Q0He%2BL.png"group-title="NEWS / BUSINESS CHANNELS",NEWS NATION (IN)
 https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
-#EXTINF:-1 tvg-id="DD NATIONAL (IN)" tvg-name="DD NATIONAL (IN)" tvg-logo="https://i.ytimg.com/vi/9m7OtYAVJfk/sddefault.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",DD NATIONAL (IN)
+#EXTINF:-1 tvg-id="DD NATIONAL (IN)" tvg-name="DD NATIONAL (IN)" tvg-logo="https://files.prokerala.com/news/photos/imgs/1024/doordarshan-logo-774942.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",DD NATIONAL (IN)
 https://m-c20-j2apps.s.llnwi.net/hls/0182.DDNews.in.m3u8
 #EXTINF:-1 tvg-id="INDIA NEWS (IN)" tvg-name="INDIA NEWS (IN)" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71B0kUlXfKL.png"group-title="NEWS / BUSINESS CHANNELS",INDIA NEWS (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
