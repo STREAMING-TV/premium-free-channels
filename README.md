@@ -719,3 +719,4 @@ http://nl01.spr24.net/5235/mpegts?token=hiVi8EHiq86NZA
 https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
 #EXTINF:-1 tvg-id="KIK (JKT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="SPORTS CHANNELS",KIK (JKT)
 http://210.210.155.66/h/h07/01.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS (AU)" "tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/330px-Fox_Sports_Logo.svg.png"  group-title="SPORTS CHANNELS",FOX SPORTS ( AU)
