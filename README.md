@@ -713,3 +713,4 @@ https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Sour
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
 #EXTINF:-1,tvg-id="HBO (UK)" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/hbo-logo-black-and-white.png"  group-title="NEWS / BUSINESS CHANNELS",HBO (UK)
 https://vbkt.ga/HBO
+#EXTINF:-1 tvg-id="PLAYBOY TV (INT)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/playboy_tv_fr.jpg" group-title="ADULT CHANNELS",PLAYBOY TV (INT)
