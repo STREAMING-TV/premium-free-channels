@@ -717,3 +717,4 @@ https://vbkt.ga/HBO
 http://nl01.spr24.net/5235/mpegts?token=hiVi8EHiq86NZA
 #EXTINF:-1 tvg-id="FOX LIFE (ASIA)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545267982_foxlife-sd.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX LIFE (JKT)
 https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
+#EXTINF:-1 tvg-id="KIK (JKT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="SPORTS CHANNELS",KIK (JKT)
