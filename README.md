@@ -704,3 +704,4 @@ http://84.22.33.254/unicast.amc/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY ASIA (APAC)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Discovery-asia.png" group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY ASIA (APAC)
 http://111.13.111.192/125.227.198.89:8028 
 #EXTINF:-1 tvg-id="NEWS 18 ASSAM (IN)"  tvg-logo="https://louisesattler.com/wp-content/uploads/2018/06/Colors-CNN-Logo.jpg" group-title="NEWS / BUSINESS CHANNELS", CNN (IN)
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
