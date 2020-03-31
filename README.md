@@ -692,3 +692,4 @@ http://ddn.amrbd.com:8081/live/starsports2/playlist.m3u8
 #EXTINF:-1,tvg-id="RT (INT)" tvg-name="RT (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="NEWS / BUSINESS CHANNELS",RT (INT)
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
 #EXTINF:-1 tvg-id="MTV (USA)" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/white-mtv-png-logo-19.png" group-title="MUSIC / YOUTH CHANNELS",MTV (USA)
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
