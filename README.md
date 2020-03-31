@@ -709,3 +709,4 @@ http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
 #EXTINF:-1,tvg-id="BLOOMBERG (USA)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bloomberg_tv_lam.jpg" group-title="NEWS / BUSINESS CHANNELS",BLOOMBERG (USA)
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+#EXTINF:-1,tvg-id="CBS NEWS (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/CBS_News_logo.svg/800px-CBS_News_logo.svg.png" group-title="NEWS / BUSINESS CHANNELS",CBS NEWS (USA)
