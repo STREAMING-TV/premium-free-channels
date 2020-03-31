@@ -195,7 +195,7 @@ http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 http://109.169.56.170/hls/starplus.m3u8
 #EXTINF:-1 tvg-id="STAR BHARAT (IN)" tvg-name="STAR BHARAT (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Star_Bharat_logo.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR BHARAT (IN)
 http://109.169.56.170/hls/lifeok.m3u8
-#EXTINF:-1 tvg-id="DD NATIONAL (IN)" tvg-name="DD NATIONAL (IN)" tvg-logo="https://new-img.patrika.com/upload/images/2017/07/27/dd-1501150165_835x547.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",DD NATIONAL (IN)
+#EXTINF:-1 tvg-id="DD NATIONAL (IN)" tvg-name="DD NATIONAL (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/DD_National_2017.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",DD NATIONAL (IN)
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="THE Q INDIA (IN)" tvg-name="THE Q INDIA (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/92/The_Q_India.jpg" group-title="MUSIC / YOUTH CHANNELS",THE Q INDIA (IN)
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
