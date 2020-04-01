@@ -763,3 +763,4 @@ https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
 https://cdn-laos.workpoint.news/hd-axn_720/index.m3u8
 #EXTINF:-1 tvg-id="FX (JKT)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fx-logo-png-1.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",FX (JKT)
 https://cdn-laos.workpoint.news/hd-fx_720/index.m3u8
+#EXTINF:-1 tvg-id="FOX CRIME (JKT)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1562578594_fox-crime-lg.png"  group-title="INFORMATION / WILDLIFE CHANNELS",FOX CRIME (JKT)
