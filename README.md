@@ -725,3 +725,4 @@ https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
 https://usb.bozztv.com/ssh101/TBB1/TBB1/index.m3u8
 #EXTINF:-1 tvg-id="NAT GEO WILD (MAL)" tvg-logo="https://pmcvariety.files.wordpress.com/2014/03/nat_geo_wild.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (MAL)
 http://ddn.amrbd.com:8081/live/natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-id="STAR JALSHA (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fa/Star_Jalsha_Chalo_Paltai_2019_Social_Media_Profile.jpg" group-title="REGIONAL CHANNELS",STAR JALSHA (IN) 
