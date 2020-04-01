@@ -71,7 +71,7 @@ http://103.111.120.46/hls/Colors.m3u8
 http://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in.m3u8 
 #EXTINF:-1 tvg-id="ZEE CAFE (IN)" tvg-name="ZEE CAFE (IN)" tvg-logo="https://www.adgully.com/img/800/202001/zee-cafe-logo.png.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CAFE (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecafesd/index.m3u8
-#EXTINF:-1 tvg-id="& PRIVE HD (IN)" tvg-name="& PRIVE HD (IN)" tvg-logo="http://bestmediainfo.com/wp-content/uploads/2017/09/andPrive-HD_6.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",& PRIVE HD (IN)
+#EXTINF:-1 tvg-id="& PRIVE HD (IN)" tvg-name="& PRIVE HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/%26priv%C3%A9_HD.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",& PRIVE HD (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-id="& FLIX (IN)" tvg-name="& FLIX (IN)" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/06/06/flix.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",& FLIX (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflix/index.m3u8
