@@ -403,7 +403,7 @@ http://109.169.56.170/hls/maasranga.m3u8
 http://109.169.56.170/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-id="STAR JALSHA (IN)" tvg-name="STAR JALSHA (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png" group-title="REGIONAL CHANNELS ",STAR JALSHA (IN)
 http://telelivetv.webredirect.org:8081/globeworld2020/starjalsha/chunks.m3u8
-#EXTINF:-1 tvg-id="ZEE BANGLA (IN)" tvg-name="ZEE BANGLA (IN)" tvg-logo="https://www.mediabrief.com/wp-content/uploads/2018/10/image-ZEE-Bangla-Refreshes-Channel-Identity.jpg"group-title="REGIONAL CHANNELS ",ZEE BANGLA (IN)
+#EXTINF:-1 tvg-id="ZEE BANGLA (IN)" tvg-name="ZEE BANGLA (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d7/Zeebangla_new.png" group-title="REGIONAL CHANNELS ",ZEE BANGLA (IN)
 http://telelivetv.webredirect.org:8081/globeworld2020/zeebangla/chunks.m3u8
 #EXTINF:-1 tvg-id="COLORS BANGLA (IN)" tvg-name="COLORS BANGLA (IN)" tvg-logo="http://www.bestmediainfo.com/wp-content/uploads/2016/09/Colors-Bangla-Logo-new.jpg"group-title="REGIONAL CHANNELS ",COLORS BANGLA (IN)
 http://telelivetv.webredirect.org:8081/globeworld2020/colorsbangla/chunks.m3u8
