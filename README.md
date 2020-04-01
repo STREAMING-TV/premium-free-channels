@@ -761,3 +761,4 @@ https://assetsds.cdnedge.bluemix.net/sites/default/files/beta2/uploads/2013/07/m
 https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
 #EXTINF:-1 tvg-id="AXN (JKT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",AXN (JKT)
 https://cdn-laos.workpoint.news/hd-axn_720/index.m3u8
+#EXTINF:-1 tvg-id="FX (JKT)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fx-logo-png-1.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",FX (JKT)
