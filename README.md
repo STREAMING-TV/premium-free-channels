@@ -731,4 +731,5 @@ http://ddn.amrbd.com:8081/live/starjalsha/playlist.m3u8
 http://ddn.amrbd.com:8081/live/axn/playlist.m3u8
 #EXTINF:-1 tvg-id="UTV HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",UTV HD (IN)
 http://ddn.amrbd.com:8081/live/foxlife/playlist.m3u8
-#EXTINF:-1 tvg-id="HD FASHION (RU)" tvg-logo="http://www.parsatv.com/index_files/channels/hdfashion.png" group-title="LIFESTYLE / TRAVELING CHANNELS",HD FASHION TV (RU)
+#EXTINF:-1 tvg-id="HD FASHION (USA)" tvg-logo="http://www.parsatv.com/index_files/channels/hdfashion.png" group-title="LIFESTYLE / TRAVELING CHANNELS",HD FASHION TV (USA)
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
