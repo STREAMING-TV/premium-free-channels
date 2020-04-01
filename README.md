@@ -750,3 +750,4 @@ http://175.41.46.16:8081/hls/2.m3u8
 #EXTINF:-1 tvg-id="STAR SPORTS SELECT 1 HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg" group-title="SPORTS CHANNELS",STAR SPORTS SELECT 1 HD (IN)
 http://175.41.46.16:8081/hls/4.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 1 HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/Sony_Ten_1_HD.jpg" group-title="SPORTS CHANNELS",SONY TEN 1 HD (IN)
+http://175.41.46.16:8081/hls/6.m3u8
