@@ -509,8 +509,6 @@ http://31.14.40.58:8080/AAJTAK_h264/index.m3u8
 http://188.35.9.26:9031/udp/117m
 #EXTINF:-1 tvg-id="INDIA NEWS (IN)" group-title="NEWS / BUSINESS CHANNELS" tvg-logo="https://lh4.ggpht.com/-pvGg0zMy9_s/Uut-8ZazMYI/AAAAAAAAAeY/JFXwAKRrPDM/s1600/india_news_in.png", INDIA NEWS (IN)
 http://streamidvo.multitvsolution.in//live//IndiaNews-a//p2.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY SHOWCASE HD (EU)" group-title="INFORMATION / WILDLIFE CHANNELS" tvg-logo="https://i.iinfo.cz/images/290/discovery-showcase-hd-1.jpg",DISCOVERY SHOWCASE HD (EU)
-http://178.156.198.68:7612/
 #EXTINF:-1 tvg-id="PTV SPORTS (IN)" group-title="SPORTS CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV SPORTS (PK)
 http://43.251.86.2:8080/hls/channel_2.m3u8
 #EXTINF:-1 tvg-id="PTV SPORTS (IN)" group-title="SPORTS CHANNELS" tvg-logo="https://cdn.imgbin.com/2/7/1/imgbin-logo-ptv-sports-television-channel-pakistan-cricket-8YvzSP5MmbjMiT27N1RsitE0D.jpg", PTV SPORTS (PK)
