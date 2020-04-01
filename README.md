@@ -742,3 +742,4 @@ https://delivery.macan.live/stream/id_foxsport1/index.m3u8?token=Yq91Jdf0&v=2020
 #EXTINF:-1 tvg-id="DISCOVERY ASIA (APAC)" group-title="INFORMATION / WILDLIFE CHANNELS" tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/05/discovery-asia.jpg",  DISCOVERY ASIA (APAC) 
 https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 tvg-id="BEIN SPORTS (INT)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/BeINSports2017.png" group-title="SPORTS CHANNELS",BEIN SPORTS (INT)
+https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=Yq91Jdf0&v=20200308
