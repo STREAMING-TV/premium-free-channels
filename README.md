@@ -313,7 +313,7 @@ https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hd
 https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 tvg-id="SONY TEN 1 (IN)" tvg-name="SONY TEN 1 (IN)"tvg-logo="https://i.ytimg.com/vi/GHr_TFO-UgE/maxresdefault.jpg"group-title="SPORTS CHANNELS",SONY TEN 1 (IN)
 https://sony247channels.akamaized.net/hls/live/2004807/SonyTen1SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 tvg-id="MOVIE PLUS (IN)" tvg-name="MOVIE PLUS (IN)" tvg-logo="https://i.ytimg.com/vi/bJt_vkZxr78/hqdefault.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MOVIE PLUS (IN)
+#EXTINF:-1 tvg-id="MOVIE PLUS (IN)" tvg-name="MOVIE PLUS (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/Movie_Plus.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",MOVIE PLUS (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
 #EXTINF:-1 tvg-id="HOUSE FULL MOVIES (IN)" tvg-name="HOUSE FULL MOVIES (IN)" tvg-logo="https://kanchanskytv.com.np/wp-content/uploads/2018/09/432.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",HOUSE FULL MOVIES (IN)
 https://m-c04-j2apps.s.llnwi.net/hls/7000.HousefullMovie.in.m3u8
