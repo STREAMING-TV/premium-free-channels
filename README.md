@@ -213,7 +213,7 @@ http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 #EXTINF:-1 tvg-id="B4U KADAK (IN)" tvg-name="B4U KADAK (IN)" tvg-logo="https://businessfortnight.com/wp-content/uploads/2019/08/B4U_Kadak.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",B4U KADAK (IN)
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="B4U MOVIES (IN)" tvg-name="B4U MOVIES (IN)" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2017/03/b4umovies001.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",B4U MOVIES (IN)
+#EXTINF:-1 tvg-id="B4U MOVIES (IN)" tvg-name="B4U MOVIES (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",B4U MOVIES (IN)
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="NTV MOVIES (UK)" tvg-name="NTV MOVIES (UK)" tvg-logo="https://pbs.twimg.com/profile_images/1041178171117264898/5pGfFugz_400x400.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",NTV MOVIES (UK)
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
