@@ -747,3 +747,4 @@ https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=Yq91Jdf0&v=20
 http://175.41.46.16:8081/hls/1.m3u8
 #EXTINF:-1 tvg-id="SONY SIX HD (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_303/PORTRAIT/tJzfDMRk.png"  group-title="SPORTS CHANNELS",SONY SIX HD (IN)
 http://175.41.46.16:8081/hls/2.m3u8
+#EXTINF:-1 tvg-id="STAR SPORTS SELECT 1 HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg" group-title="SPORTS CHANNELS",STAR SPORTS SELECT 1 HD (IN)
