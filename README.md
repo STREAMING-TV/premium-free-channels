@@ -762,3 +762,4 @@ https://cdn-laos.workpoint.news/hd-fx_720/index.m3u8
 #EXTINF:-1 tvg-id="FOX CRIME (JKT)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1562578594_fox-crime-lg.png"  group-title="INFORMATION / WILDLIFE CHANNELS",FOX CRIME (JKT)
 https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
 #EXTINF:-1 tvg-id="TNT (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/225px-TNT_Logo_2016.svg.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",TNT (USA)
+http://cdnak10.cast4u.info/channels/3/10803.m3u8
