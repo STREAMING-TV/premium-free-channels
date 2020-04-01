@@ -587,7 +587,7 @@ http://109.169.56.170/hls/zetc.m3u8
 http://livecdnh3.tvanywhere.ae/hls/e24/02.m3u8
 #EXTINF:-1 tvg-id="ZING (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/91/Zing_300x300.png" group-title="MUSIC / YOUTH CHANNELS",ZING (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zing/index.m3u8
-#EXTINF:-1 tvg-id="WWE (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/800px-WWE_Logo.svg.png" group-title="SPORTS CHANNELS",WWE (USA)
+#EXTINF:-1 tvg-id=AMERICAN TV (USA)" tvg-logo="https://1.bp.blogspot.com/-ULHwD5ksIu8/WlZYnCxVNqI/AAAAAAAANEQ/LMktchFwJYgGknuHQtTbckPa-Z5FxyakwCLcBGAs/s1600/ustv.jpg"  group-title="SPORTS CHANNELS",AMERICAN TV (USA)
 http://cdnak10.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 tvg-id="RK TV (IN)" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a42ce5e41e35188c4368adc14005a10.jpeg" group-title="ADULT CHANNELS",RK TV (INT)
 http://188.35.9.26:5031/udp/058j
