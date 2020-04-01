@@ -755,4 +755,5 @@ http://175.41.46.16:8081/hls/6.m3u8
 http://175.41.46.16:8081/hls/7.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 3 HD (IN)" tvg-logo="http://httpsony-a.akamaihd.net/5182475815001/5182475815001_6025608915001_6025460814001-th.jpg" group-title="SPORTS CHANNELS",SONY TEN 3 HD (IN) 
 http://175.41.46.16:8081/hls/8.m3u8
-#EXTINF:-1 tvg-id="MASSRANGA TV (BD)" tvg-logo="https://assetsds.cdnedge.bluemix.net/sites/default/files/beta2/uploads/2013/07/mashranga1.jpg"  group-title="SPORTS CHANNELS",MASSRANGA TV (BD)
+#EXTINF:-1 tvg-id="MASSRANGA TV HD (BD)" tvg-logo="https://assetsds.cdnedge.bluemix.net/sites/default/files/beta2/uploads/2013/07/mashranga1.jpg"  group-title="SPORTS CHANNELS",MASSRANGA TV HD (BD)
+https://assetsds.cdnedge.bluemix.net/sites/default/files/beta2/uploads/2013/07/mashranga1.jpg
