@@ -729,3 +729,4 @@ http://ddn.amrbd.com:8081/live/natgeowild/playlist.m3u8
 http://ddn.amrbd.com:8081/live/starjalsha/playlist.m3u8
 #EXTINF:-1 tvg-id="GAZI TV HD (BD)" tvg-logo="https://i2.wp.com/pakistandth.com/wp-content/uploads/2019/07/Gazi-TV-Frequency.jpg"  group-title="REGIONAL CHANNELS",GAZI TV HD (BD)
 http://ddn.amrbd.com:8081/live/axn/playlist.m3u8
+#EXTINF:-1 tvg-id="UTV HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",UTV HD (IN)
