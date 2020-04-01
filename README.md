@@ -744,3 +744,4 @@ https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=Yq91Jdf0&v=
 #EXTINF:-1 tvg-id="BEIN SPORTS (INT)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/BeINSports2017.png" group-title="SPORTS CHANNELS",BEIN SPORTS (INT)
 https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 tvg-id="STAR SPORTS HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg" group-title="SPORTS CHANNELS",STAR  SPORTS 1 HD (IN)
+http://175.41.46.16:8081/hls/1.m3u8
