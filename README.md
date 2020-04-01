@@ -739,3 +739,4 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 tvg-id="FOX SPORTS (AU)" tvg-logo="http://allvectorlogo.com/img/2017/08/fox-sports-logo.png"  group-title="SPORTS CHANNELS",FOX SPORTS (AU)
 https://delivery.macan.live/stream/id_foxsport1/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1 tvg-id="DISCOVERY ASIA (APAC)" group-title="INFORMATION / WILDLIFE CHANNELS" tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/05/discovery-asia.jpg",  DISCOVERY ASIA (APAC) 
