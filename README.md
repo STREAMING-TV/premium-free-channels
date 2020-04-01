@@ -724,3 +724,4 @@ https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
 #EXTINF:-1 tvg-id="SEX TV (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/SexTV.svg/1200px-SexTV.svg.png" group-title="ADULT CHANNELS",SEX TV (INT)
 https://usb.bozztv.com/ssh101/TBB1/TBB1/index.m3u8
 #EXTINF:-1 tvg-id="NAT GEO WILD (MAL)" tvg-logo="https://pmcvariety.files.wordpress.com/2014/03/nat_geo_wild.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (MAL)
+http://ddn.amrbd.com:8081/live/natgeowild/playlist.m3u8
