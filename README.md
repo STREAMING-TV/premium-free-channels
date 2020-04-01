@@ -734,3 +734,4 @@ http://ddn.amrbd.com:8081/live/foxlife/playlist.m3u8
 #EXTINF:-1 tvg-id="HD FASHION (USA)" tvg-logo="http://www.parsatv.com/index_files/channels/hdfashion.png" group-title="LIFESTYLE / TRAVELING CHANNELS",HD FASHION TV (USA)
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="ABC NEWS (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Abc-news-logo.png" group-title="NEWS / BUSINESS CHANNELS",ABC NEWS (USA)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
