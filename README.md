@@ -63,7 +63,7 @@ http://210.210.155.66/h/h141/01.m3u8
 http://84.22.33.254/unicast.id/index.m3u8
 #EXTINF:-1 tvg-id="TLC (USA)" tvg-name="TLC (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png"group-title="LIFESTYLE / TRAVELING CHANNELS",TLC (USA)
 http://84.22.33.254/unicast.tlc/index.m3u8
-#EXTINF:-1 tvg-id="ZEE SMILE (USA)" tvg-name="ZEE SMILE (USA)" tvg-logo="https://uploads.tapatalk-cdn.com/20171016/c21a81ee430978be31e22ae5c286c47d.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE SMILE (USA)
+#EXTINF:-1 tvg-id="ZEE SMILE (USA)" tvg-name="ZEE SMILE (USA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/Zee_Smile_2017.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE SMILE (USA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/smileusa/index.m3u8
 #EXTINF:-1 tvg-id="COLORS TV (APAC)" tvg-name="COLORS TV (APAC)" tvg-logo="https://www.tellyupdates.com/wp-content/uploads/2020/01/colors.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",COLORS TV (APAC)
 http://103.111.120.46/hls/Colors.m3u8
