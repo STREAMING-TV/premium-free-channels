@@ -757,3 +757,4 @@ http://175.41.46.16:8081/hls/7.m3u8
 http://175.41.46.16:8081/hls/8.m3u8
 #EXTINF:-1 tvg-id="MASSRANGA TV HD (BD)" tvg-logo="https://assetsds.cdnedge.bluemix.net/sites/default/files/beta2/uploads/2013/07/mashranga1.jpg"  group-title="SPORTS CHANNELS",MASSRANGA TV HD (BD)
 https://assetsds.cdnedge.bluemix.net/sites/default/files/beta2/uploads/2013/07/mashranga1.jpg
+#EXTINF:-1,tvg-id="AL JAZEERA (INT)" tvg-logo="https://pbs.twimg.com/profile_images/981819775817957377/VVKcF_Y6_400x400.jpg" group-title="NEWS / BUSINESS CHANNELS", (INT)
