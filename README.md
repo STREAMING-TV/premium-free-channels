@@ -83,7 +83,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/action/index.m3u8
 #EXTINF:-1 tvg-id="ZEE CINEMA (USA)" tvg-name="ZEE CINEMA (USA)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zee-cinema.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA (USA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemausa/index.m3u8
-#EXTINF:-1 tvg-id="ZEE CINEMA (UK)" tvg-name="ZEE CINEMA (UK)" tvg-logo="https://i.ytimg.com/vi/aaOFu83Xkf4/maxresdefault.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA (UK)
+#EXTINF:-1 tvg-id="ZEE CINEMA (UK)" tvg-name="ZEE CINEMA (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA (UK)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemauk/index.m3u8
 #EXTINF:-1 tvg-id="PLAY BOY TV (IN)" tvg-name="PLAY BOY TV (IN)" tvg-logo="https://www.pngitem.com/pimgs/m/165-1654634_transparent-playboy-bunny-png-playboy-tv-logo-png.png"group-title="ADULT CHANNELS",PLAY BOY TV (INT)
 http://62.203.143.51:9981/play/PlayyTV
