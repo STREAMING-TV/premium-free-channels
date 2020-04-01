@@ -569,8 +569,6 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/181.ts
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 #EXTINF:-1 tvg-id="M2O (UK)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-m2o-tv-6709.jpg" group-title="MUSIC / YOUTH CHANNELS",M2O (UK)
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 ch-id="E! (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/279px-E%21_Logo_2012.svg.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",E! (USA)
-http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MOVIES NOW (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Movies_Now_logo.png/220px-Movies_Now_logo.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",MOVIES NOW (IN)
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 tvg-id="MBC MAX HD (ME)" tvg-logo="http://my-hd.tv/shared/img/channels/MBC-MAX.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",MBC MAX HD (ME)
@@ -709,8 +707,6 @@ https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
 #EXTINF:-1,tvg-id="CBS NEWS (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/CBS_News_logo.svg/800px-CBS_News_logo.svg.png" group-title="NEWS / BUSINESS CHANNELS",CBS NEWS (USA)
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
-#EXTINF:-1,tvg-id="HBO (UK)" tvg-logo="https://www.listofbestmovies.com/wp-content/uploads/2019/07/hbo-png_404159.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",HBO (UK)
-https://vbkt.ga/HBO
 #EXTINF:-1 tvg-id="PLAYBOY TV (INT)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/playboy_tv_fr.jpg" group-title="ADULT CHANNELS",PLAYBOY TV (INT)
 http://nl01.spr24.net/5235/mpegts?token=hiVi8EHiq86NZA
 #EXTINF:-1 tvg-id="FOX LIFE (ASIA)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545267982_foxlife-sd.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX LIFE (JKT)
