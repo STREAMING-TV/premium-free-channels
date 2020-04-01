@@ -751,3 +751,4 @@ http://175.41.46.16:8081/hls/2.m3u8
 http://175.41.46.16:8081/hls/4.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 1 HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/Sony_Ten_1_HD.jpg" group-title="SPORTS CHANNELS",SONY TEN 1 HD (IN)
 http://175.41.46.16:8081/hls/6.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 2 HD (IN)" tvg-logo=" https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS CHANNELS",SONY TEN 2 HD (IN)
