@@ -647,7 +647,7 @@ http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w823726530_b110
 http://livestream.biznetvideo.net/biznet_ngc/smil:ngc.smil/chunklist_w99579112_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1TT0Z6NFJEdW5XTVlLUjFLRzNqZHgxZzloMXZnX0E5WHRaV0JoS3JxSjltNGFfNzZsU2oyRjY5anFhSmh1VFhh.m3u8
 #EXTINF:-1 tvg-id="NAT GEO WILD (MAL)" tvg-logo="https://www.thewrap.com/wp-content/uploads/2019/02/Nat-Geo-Wild.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (MAL)
 http://livestream.biznetvideo.net/biznet_ngwild/smil:ngwild.smil/chunklist_w1571555785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1FOE8tZGNKY3MzSHNEU0drOEtDWFp0UW82XzlxWlhwUzI3QkY4OWJSdnZMakIyanVCRW9lZmtsS0VKOTlsZmxE.m3u8
-#EXTINF:-1 tvg-id="GEM BOLLYWOOD (ME)" tvg-logo="https://img.webme.com/pic/t/totv/gem-bollywood.png" group-title="ENTERTAINMENT / MOVIES CHANNELS", GEM BOLLYWOOD (ME)
+#EXTINF:-1 tvg-id="GEM BOLLYWOOD (IR)" tvg-logo="https://img.webme.com/pic/t/totv/gem-bollywood.png" group-title="ENTERTAINMENT / MOVIES CHANNELS", GEM BOLLYWOOD (IR)
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
 EXTINF:-1 tvg-id="HUM MASALA (PK)" tvg-logo="https://pbs.twimg.com/profile_images/897389040063967232/Jr53VbCS.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",HUM MASALA (PK)
 https://stream.simpaisa.com/pitvlive2/masalanew3/chunklist.m3u8
