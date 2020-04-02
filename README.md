@@ -685,8 +685,6 @@ http://ddn.amrbd.com:8081/live/starsports1/playlist.m3u8
 http://ddn.amrbd.com:8081/live/starsports2/playlist.m3u8
 #EXTINF:-1,tvg-id="RT (INT)" tvg-name="RT (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="NEWS / BUSINESS CHANNELS",RT (INT)
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
-#EXTINF:-1 tvg-id="MTV (USA)" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/white-mtv-png-logo-19.png" group-title="MUSIC / YOUTH CHANNELS",MTV (USA)
-http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-id="BOLLYWOOD CLASSIC (RU)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/Bollywood_Clasic_%282015-present%29.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",BOLLYWOOD CLASSIC (RU)
 http://telekomtv-ro.akamaized.net/shls/LIVE%24BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="GANGBANG (INT)" tvg-logo="https://i.ytimg.com/vi/FU8w2cHISaU/maxresdefault.jpg" group-title="ADULT CHANNELS",GANGBANG (INT)
