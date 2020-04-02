@@ -713,7 +713,7 @@ http://210.210.155.66/h/h07/01.m3u8
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1 tvg-id="FOX CRIME (JKT)" group-title="INFORMATION / WILDLIFE CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/6/61/Fox_Crime_Philippines_Logo_2017.png",FOX CRIME (JKT)
 https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
-#EXTINF:-1 tvg-id="SEX TV (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/SexTV.svg/1200px-SexTV.svg.png" group-title="ADULT CHANNELS",SEX TV (INT)
+#EXTINF:-1 tvg-id="NAUGHTY TV (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/SexTV.svg/1200px-SexTV.svg.png" group-title="ADULT CHANNELS",NAUGHTY TV (INT)
 https://usb.bozztv.com/ssh101/TBB1/TBB1/index.m3u8
 #EXTINF:-1 tvg-id="NAT GEO WILD (MAL)" tvg-logo="https://pmcvariety.files.wordpress.com/2014/03/nat_geo_wild.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (MAL)
 http://ddn.amrbd.com:8081/live/natgeowild/playlist.m3u8
@@ -778,3 +778,4 @@ https://delivery.macan.live/stream/boomerang/index.m3u8?token=Yq91Jdf0&v=2020030
 #EXTINF:-1 tvg-id="PINKO TV (INT)" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/pink-o-tv.png"  group-title="ADULT CHANNELS",PINKO TV (INT)
 http://cdn.fr01.spr24.net/5880/mono.m3u8?token=hiVi8EHiq86NZA
 #EXTINF:-1 tvg-id=SEXY TV (INT)" tvg-logo="https://image.shutterstock.com/image-vector/attractive-sexy-girl-telephone-logo-600w-245385964.jpg"  group-title="ADULT CHANNELS",SEXY TV (INT)
+http://cdn.fr01.spr24.net/22444/mono.m3u8?token=hiVi8EHiq86NZA
