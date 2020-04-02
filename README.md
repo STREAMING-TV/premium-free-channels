@@ -25,7 +25,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zingusa/index.m3u8
 http://livecdnh1.tvanywhere.ae/hls/zing/02.m3u8
 #EXTINF:-1 tvg-id="B4U PLUS (ME)" tvg-name="B4U PLUS (ME)"  tvg-logo="https://i.imgur.com/KnpCnyh.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",B4U PLUS (ME)
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-#EXTINF:-1 tvg-id="MBC BOLLYWOOD (ME)" tvg-name="MBC BOLLYWOOD (ME)"  tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",MBC BOLLYWOOD (ME)
+#EXTINF:-1 tvg-id="MBC BOLLYWOOD (ME)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/MBC_BOLLYWOOD.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",MBC BOLLYWOOD (ME)
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
 #EXTINF:-1 tvg-id="STAR MOVIES HD (ME)" tvg-logo="https://content.osn.com/bob/745x419/STM.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR MOVIES HD (ME)
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?fluxustv.m3u8
