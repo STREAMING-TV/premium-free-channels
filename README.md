@@ -755,7 +755,7 @@ https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
 https://cdn-laos.workpoint.news/hd-axn_720/index.m3u8
 #EXTINF:-1 tvg-id="FX (JKT)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fx-logo-png-1.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",FX (JKT)
 https://cdn-laos.workpoint.news/hd-fx_720/index.m3u8
-#EXTINF:-1 tvg-id="FOX CRIME (JKT)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1562578594_fox-crime-lg.png"  group-title="INFORMATION / WILDLIFE CHANNELS",FOX CRIME (JKT)
+#EXTINF:-1 tvg-id="FOX CRIME (BBK)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1562578594_fox-crime-lg.png"  group-title="INFORMATION / WILDLIFE CHANNELS",FOX CRIME (BBK)
 https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
 #EXTINF:-1 tvg-id="TNT (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/225px-TNT_Logo_2016.svg.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",TNT (USA)
 http://cdnak10.cast4u.info/channels/3/10803.m3u8
@@ -771,3 +771,4 @@ https://ch.iptvmate.net/8d5f98362dfc8a6e88085f89ee1fde9d.m3u8
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 #EXTINF:-1 tvg-id="STAR CRICKET (BBK)" tvg-logo="https://i.pinimg.com/originals/d6/fa/16/d6fa16162a2976d42da418a3cc8ecf17.png"  group-title="SPORTS CHANNELS",STAR CRICKET (BBK)
 https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1 tvg-id="RUGBYPASS TV (MAL)" tvg-logo="https://rugby365.com/wp/wp-content/uploads/post-images/RugbyPAss_logo_new.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",RUGBYPASS TV (MAL)
