@@ -141,8 +141,6 @@ http://185.59.223.82:8080/vh1/mpegts
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-id="9XO (IN)" tvg-name="9XO (IN)" tvg-logo="https://www.adgully.com/img/800/50287_9xo.jpg"group-title="MUSIC / YOUTH CHANNELS",9XO (IN)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
-#EXTINF:-1 tvg-id="CARTOON NETWORK (USA)" tvg-name="CARTOON NETWORK (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png"group-title="KIDS CHANNELS",CARTOON NETWORK (USA)
-http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="BABY FIRST (MAL)" tvg-name="BABY FIRST (MAL)" tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png"group-title="KIDS CHANNELS",BABY FIRST (MAL)
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 tvg-id="BOOMERANG HD (ME)" tvg-name="BOOMERANG HD (ME)" tvg-logo="https://r.dcs.redcdn.pl/http/o2/redefine/redb/th/thc9s15j2225tvtv1ure9i3tyonjvzxa.jpg"group-title="KIDS CHANNELS",BOOMERANG HD (ME)
