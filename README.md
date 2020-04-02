@@ -770,3 +770,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddindia/index.m3u8
 #EXTINF:-1 tvg-id="DD SPORTS (IN)" tvg-name="DD SPORTS (IN)" tvg-logo="https://doordarshan.gov.in/sites/default/files/dd-sports-logo.png" group-title="SPORTS CHANNELS",DD SPORTS (IN)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1,tvg-id="INDIA TODAY (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/India_Today_TV.jpg" group-title="NEWS / BUSINESS CHANNELS",INDIA TODAY (IN)
+https://ch.iptvmate.net/8d5f98362dfc8a6e88085f89ee1fde9d.m3u8
