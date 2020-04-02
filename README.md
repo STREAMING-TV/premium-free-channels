@@ -773,3 +773,4 @@ http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 tvg-id="RUGBYPASS TV (MAL)" tvg-logo="https://rugby365.com/wp/wp-content/uploads/post-images/RugbyPAss_logo_new.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",RUGBYPASS TV (MAL)
 https://delivery.macan.live/stream/macan_sport_41/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1 tvg-id="BOOMERANG (JKT)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png"  group-title="KIDS CHANNELS",BOOMERANG (JKT)
