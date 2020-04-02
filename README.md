@@ -765,3 +765,5 @@ https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
 http://cdnak10.cast4u.info/channels/3/10803.m3u8
 #EXTINF:-1 tvg-id="ZEE SALAAM (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/Zee_Salaam_Hindi_Logo.jpg" group-title="REGIONAL CHANNELS",ZEE SALAAM (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeesalaam/index.m3u8
+#EXTINF:-1 tvg-id="DD INDIA (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1d/DD_India_2019.jpg" group-title="NEWS / BUSINESS CHANNELS",DD INDIA (IN)
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddindia/index.m3u8
