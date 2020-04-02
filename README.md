@@ -753,12 +753,10 @@ https://assetsds.cdnedge.bluemix.net/sites/default/files/beta2/uploads/2013/07/m
 https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
 #EXTINF:-1 tvg-id="AXN (JKT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",AXN (JKT)
 https://cdn-laos.workpoint.news/hd-axn_720/index.m3u8
-#EXTINF:-1 tvg-id="FX (JKT)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fx-logo-png-1.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",FX (JKT)
+#EXTINF:-1 tvg-id="FX (MAL)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fx-logo-png-1.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",FX (MAL)
 https://cdn-laos.workpoint.news/hd-fx_720/index.m3u8
 #EXTINF:-1 tvg-id="FOX CRIME (BBK)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1562578594_fox-crime-lg.png"  group-title="INFORMATION / WILDLIFE CHANNELS",FOX CRIME (BBK)
 https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
-#EXTINF:-1 tvg-id="TNT (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/225px-TNT_Logo_2016.svg.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",TNT (USA)
-http://cdnak10.cast4u.info/channels/3/10803.m3u8
 #EXTINF:-1 tvg-id="ZEE SALAAM (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/Zee_Salaam_Hindi_Logo.jpg" group-title="REGIONAL CHANNELS",ZEE SALAAM (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeesalaam/index.m3u8
 #EXTINF:-1 tvg-id="DD INDIA (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1d/DD_India_2019.jpg" group-title="NEWS / BUSINESS CHANNELS",DD INDIA (IN)
