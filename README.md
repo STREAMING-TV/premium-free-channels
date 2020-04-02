@@ -767,3 +767,5 @@ http://cdnak10.cast4u.info/channels/3/10803.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeesalaam/index.m3u8
 #EXTINF:-1 tvg-id="DD INDIA (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1d/DD_India_2019.jpg" group-title="NEWS / BUSINESS CHANNELS",DD INDIA (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddindia/index.m3u8
+#EXTINF:-1 tvg-id="DD SPORTS (IN)" tvg-name="DD SPORTS (IN)" tvg-logo="https://doordarshan.gov.in/sites/default/files/dd-sports-logo.png" group-title="SPORTS CHANNELS",DD SPORTS (IN)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
