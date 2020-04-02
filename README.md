@@ -763,3 +763,4 @@ https://cdn-laos.workpoint.news/hd-fx_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
 #EXTINF:-1 tvg-id="TNT (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/225px-TNT_Logo_2016.svg.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",TNT (USA)
 http://cdnak10.cast4u.info/channels/3/10803.m3u8
+#EXTINF:-1 tvg-id="ZEE SALAAM (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/Zee_Salaam_Hindi_Logo.jpg" group-title="REGIONAL CHANNELS",ZEE SALAAM (IN)
