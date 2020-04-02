@@ -777,4 +777,4 @@ https://delivery.macan.live/stream/macan_sport_41/index.m3u8?token=Yq91Jdf0&v=20
 https://delivery.macan.live/stream/boomerang/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 tvg-id="PINKO TV (INT)" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/pink-o-tv.png"  group-title="ADULT CHANNELS",PINKO TV (INT)
 http://cdn.fr01.spr24.net/5880/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1 tvg-id="NAUGHTY TV (INT)" tvg-logo="https://logodix.com/logo/684839.jpg" group-title="ADULT CHANNELS",NAUGHTY TV (INT)
+#EXTINF:-1 tvg-id=SEXY TV (INT)" tvg-logo="https://image.shutterstock.com/image-vector/attractive-sexy-girl-telephone-logo-600w-245385964.jpg"  group-title="ADULT CHANNELS",SEXY TV (INT)
