@@ -761,13 +761,13 @@ https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeesalaam/index.m3u8
 #EXTINF:-1 tvg-id="DD INDIA (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1d/DD_India_2019.jpg" group-title="NEWS / BUSINESS CHANNELS",DD INDIA (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddindia/index.m3u8
-#EXTINF:-1 tvg-id="DD SPORTS (IN)" tvg-name="DD SPORTS (IN)" tvg-logo="https://doordarshan.gov.in/sites/default/files/dd-sports-logo.png" group-title="SPORTS CHANNELS",DD SPORTS (IN)
+#EXTINF:-1 tvg-id="DD SPORTS (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/DDSportsLogo.png/240px-DDSportsLogo.png"  group-title="SPORTS CHANNELS",DD SPORTS (IN)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1,tvg-id="INDIA TODAY (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/India_Today_TV.jpg" group-title="NEWS / BUSINESS CHANNELS",INDIA TODAY (IN)
 https://ch.iptvmate.net/8d5f98362dfc8a6e88085f89ee1fde9d.m3u8
-#EXTINF:-1 tvg-id="MIRROR NOW (IN)" tvg-name="MIRROR NOW (IN)" tvg-logo="https://bestmediainfo.com/wp-content/uploads/2018/03/Mirror_Now-new_8.jpg"  group-title="NEWS / BUSINESS CHANNELS",MIRROR NOW (IN) 
+#EXTINF:-1 tvg-id="MIRROR NOW (IN)"tvg-logo="https://bestmediainfo.com/wp-content/uploads/2018/03/Mirror_Now-new_8.jpg"  group-title="NEWS / BUSINESS CHANNELS",MIRROR NOW (IN) 
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
-#EXTINF:-1 tvg-id="STAR CRICKET (BBK)" tvg-logo="https://i.pinimg.com/originals/d6/fa/16/d6fa16162a2976d42da418a3cc8ecf17.png"  group-title="SPORTS CHANNELS",STAR CRICKET (BBK)
+#EXTINF:-1 tvg-id="STAR CRICKET (MAL)" tvg-logo="https://i.pinimg.com/originals/d6/fa/16/d6fa16162a2976d42da418a3cc8ecf17.png"  group-title="SPORTS CHANNELS",STAR CRICKET (MAL)
 https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 tvg-id="RUGBYPASS TV (MAL)" tvg-logo="https://rugby365.com/wp/wp-content/uploads/post-images/RugbyPAss_logo_new.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",RUGBYPASS TV (MAL)
 https://delivery.macan.live/stream/macan_sport_41/index.m3u8?token=Yq91Jdf0&v=20200308
