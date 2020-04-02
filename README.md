@@ -771,4 +771,5 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddindia/index.m3u8
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1,tvg-id="INDIA TODAY (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/India_Today_TV.jpg" group-title="NEWS / BUSINESS CHANNELS",INDIA TODAY (IN)
 https://ch.iptvmate.net/8d5f98362dfc8a6e88085f89ee1fde9d.m3u8
- #EXTINF:-1 tvg-id="MIRROR NOW (IN)" tvg-name="MIRROR NOW (IN)" tvg-logo="https://bestmediainfo.com/wp-content/uploads/2018/03/Mirror_Now-new_8.jpg"  group-title="NEWS / BUSINESS CHANNELS",MIRROR NOW (IN) 
+#EXTINF:-1 tvg-id="MIRROR NOW (IN)" tvg-name="MIRROR NOW (IN)" tvg-logo="https://bestmediainfo.com/wp-content/uploads/2018/03/Mirror_Now-new_8.jpg"  group-title="NEWS / BUSINESS CHANNELS",MIRROR NOW (IN) 
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
