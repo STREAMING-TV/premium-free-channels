@@ -717,7 +717,7 @@ https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
 https://usb.bozztv.com/ssh101/TBB1/TBB1/index.m3u8
 #EXTINF:-1 tvg-id="NAT GEO WILD (MAL)" tvg-logo="https://pmcvariety.files.wordpress.com/2014/03/nat_geo_wild.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (MAL)
 http://ddn.amrbd.com:8081/live/natgeowild/playlist.m3u8
-#EXTINF:-1 tvg-id="STAR JALSHA HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/92/Star_Jalsha_Turquoise_Background.png" group-title="REGIONAL CHANNELS",STAR JALSHA HD (IN) 
+#EXTINF:-1 tvg-id="STAR JALSHA HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png"  group-title="REGIONAL CHANNELS",STAR JALSHA HD (IN) 
 http://ddn.amrbd.com:8081/live/starjalsha/playlist.m3u8
 #EXTINF:-1 tvg-id="GAZI TV HD (BD)" tvg-logo="https://i2.wp.com/pakistandth.com/wp-content/uploads/2019/07/Gazi-TV-Frequency.jpg"  group-title="REGIONAL CHANNELS",GAZI TV HD (BD)
 http://ddn.amrbd.com:8081/live/axn/playlist.m3u8
