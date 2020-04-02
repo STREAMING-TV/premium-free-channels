@@ -775,3 +775,4 @@ https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=Yq91Jdf0&v=20
 https://delivery.macan.live/stream/macan_sport_41/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 tvg-id="BOOMERANG (JKT)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png"  group-title="KIDS CHANNELS",BOOMERANG (JKT)
 https://delivery.macan.live/stream/boomerang/index.m3u8?token=Yq91Jdf0&v=20200308
+ #EXTINF:-1 tvg-id="PINKO TV (INT)" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/pink-o-tv.png"  group-title="ADULT CHANNELS",PINKO TV (INT)
