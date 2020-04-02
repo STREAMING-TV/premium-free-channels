@@ -770,3 +770,4 @@ https://ch.iptvmate.net/8d5f98362dfc8a6e88085f89ee1fde9d.m3u8
 #EXTINF:-1 tvg-id="MIRROR NOW (IN)" tvg-name="MIRROR NOW (IN)" tvg-logo="https://bestmediainfo.com/wp-content/uploads/2018/03/Mirror_Now-new_8.jpg"  group-title="NEWS / BUSINESS CHANNELS",MIRROR NOW (IN) 
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 #EXTINF:-1 tvg-id="STAR CRICKET (BBK)" tvg-logo="https://i.pinimg.com/originals/d6/fa/16/d6fa16162a2976d42da418a3cc8ecf17.png"  group-title="SPORTS CHANNELS",STAR CRICKET (BBK)
+https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=Yq91Jdf0&v=20200308
