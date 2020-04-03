@@ -775,8 +775,6 @@ https://delivery.macan.live/stream/boomerang/index.m3u8?token=Yq91Jdf0&v=2020030
 http://cdn.fr01.spr24.net/5880/mono.m3u8?token=hiVi8EHiq86NZA
 #EXTINF:-1 tvg-id=SEXY TV (INTERNATIONAL)" tvg-logo="https://image.shutterstock.com/image-vector/attractive-sexy-girl-telephone-logo-600w-245385964.jpg"  group-title="ADULT CHANNELS",SEXY TV (INT)
 http://cdn.fr01.spr24.net/22444/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1 tvg-id="NAT GEO WILD (RUSSIA)" tvg-logo="https://www.qmde.net/www.quotenmeter.de/pics/natgeowild/logo/natgeowild_2019_ox__W1000xh0.jpg" group-title="INFORMATION / WILDLIFE CHANNELS ",NAT GEO WILD (RUSSIA)
-http://fr01.spr24.net/1931/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 tvg-id="STAR SPORTS 1 HD (INDIA)" tvg-logo="https://i.pinimg.com/736x/5b/ce/2a/5bce2aa395af0eaa8d138d03e944fb9a.jpg" group-title="SPORTS CHANNELS",STAR SPORTS 1 HD (INDIA)
 http://175.41.46.16:8081/hls/1.m3u8
 #EXTINF:-1 tvg-id="MAASRANGA TV (BANGLADESH)" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/93/a2/96/93a29689-13c5-4976-cae1-ca6bbfd8433f/source/512x512bb.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",MAASRANGA TV (BANGLADESH)
