@@ -303,7 +303,7 @@ http://109.169.56.170/hls/sonysix.m3u8
 https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 tvg-id="SONY TEN 3 (IN)" tvg-logo="https://i.pinimg.com/originals/31/62/0f/31620fff81ab910c2dc3726a066a21ed.png"group-title="SPORTS CHANNELS",SONY TEN 3 (IN)
 https://sony247channels.akamaized.net/hls/live/2004809/SonyTen3SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 tvg-id="SONY TEN 2 HD (IN)" tvg-logo=" https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS CHANNELS",SONY TEN 2 HD (IN)
+#EXTINF:-1 tvg-id="SONY TEN 2 HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS CHANNELS",SONY TEN 2 HD (IN)
 https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 tvg-id="SONY TEN 2 (IN)" tvg-logo="http://www.kcltv.com/software/images/uploads/sony_ten_2.jpg"group-title="SPORTS CHANNELS",SONY TEN 2 (IN)
 https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
@@ -783,4 +783,5 @@ http://175.41.46.16:8081/hls/1.m3u8
 http://175.41.46.16:8081/hls/10.m3u8
 #EXTINF:-1 tvg-id="NAT GEO WILD (MALAYSIA)" tvg-logo="https://talkinpets.com/new/media/k2/items/cache/dec6d1172eb129f5a6252390b6ff80fc_XL.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (MALAYSIA)
 https://cdn-laos.workpoint.news/hd-natgeowild_720/index.m3u8
- #EXTINF:-1 tvg-id="NAT GEO (MALAYSIA)" tvg-logo="https://assets.cdn.watchdisneyfe.com/delta/assets/natgeo/national-geographic.png" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO (BANGKOK)
+#EXTINF:-1 tvg-id="NAT GEO (MALAYSIA)" tvg-logo="https://assets.cdn.watchdisneyfe.com/delta/assets/natgeo/national-geographic.png" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO (BANGKOK)
+https://cdn-laos.workpoint.news/hd-natgeo_720/index.m3u8
