@@ -776,3 +776,4 @@ http://cdn.fr01.spr24.net/5880/mono.m3u8?token=hiVi8EHiq86NZA
 #EXTINF:-1 tvg-id=SEXY TV (INTERNATIONAL)" tvg-logo="https://image.shutterstock.com/image-vector/attractive-sexy-girl-telephone-logo-600w-245385964.jpg"  group-title="ADULT CHANNELS",SEXY TV (INT)
 http://cdn.fr01.spr24.net/22444/mono.m3u8?token=hiVi8EHiq86NZA
 #EXTINF:-1 tvg-id="ID (NEW YORK)" tvg-logo="http://2.bp.blogspot.com/-g7kclnMAZPA/T3ClVDJR-vI/AAAAAAAAEsA/goncQjp63AI/s500/Investigation+Discovery+logo+2012.jpg"group-title="INFORMATION / WILDLIFE CHANNELS ",ID (USA)
+http://fr01.spr24.net/1931/mpegts?token=rCEqTFvRhtEvXt
