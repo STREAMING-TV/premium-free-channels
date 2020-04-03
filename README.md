@@ -395,7 +395,7 @@ https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
 https://sony247channels.akamaized.net/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-id="GTV HD (BD)" tvg-name="GTV HD (BD)" tvg-logo="https://www.cricketlivezone.com/wp-content/uploads/2019/12/gazi-tv-live-cricket-678x381.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS ",GTV HD (BD)
 http://109.169.56.170/hls/gtv.m3u8
-#EXTINF:-1 tvg-id="MAASRANGA TV (BD)" tvg-name="MAASRANGA TV (BD)" tvg-logo="https://assetsds.cdnedge.bluemix.net/sites/default/files/beta2/uploads/2013/07/mashranga1.jpg"group-title="REGIONAL CHANNELS ",MAASRANGA TV (BD) 
+#EXTINF:-1 tvg-id="MAASRANGA TV (BD)" tvg-name="MAASRANGA TV (BD)" tvg-logo="https://assetsds.cdnedge.bluemix.net/sites/default/files/beta2/uploads/2013/07/mashranga1.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS ",MAASRANGA TV (BD) 
 http://109.169.56.170/hls/maasranga.m3u8
 #EXTINF:-1 tvg-id="ZEE BANGLA (IN)" tvg-name="ZEE BANGLA (IN)" tvg-logo="https://i.pinimg.com/736x/aa/4b/33/aa4b33e974f202f40ae426d50a14b5e0.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS ",ZEE BANGLA  (IN)
 http://109.169.56.170/hls/zeebanglahd.m3u8
