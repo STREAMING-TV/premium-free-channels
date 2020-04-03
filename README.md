@@ -782,3 +782,4 @@ http://175.41.46.16:8081/hls/1.m3u8
 #EXTINF:-1 tvg-id="MAASRANGA TV (BANGLADESH)" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/93/a2/96/93a29689-13c5-4976-cae1-ca6bbfd8433f/source/512x512bb.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",MAASRANGA TV (BANGLADESH)
 http://175.41.46.16:8081/hls/10.m3u8
 #EXTINF:-1 tvg-id="NAT GEO WILD (MALAYSIA)" tvg-logo="https://talkinpets.com/new/media/k2/items/cache/dec6d1172eb129f5a6252390b6ff80fc_XL.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (MALAYSIA)
+https://cdn-laos.workpoint.news/hd-natgeowild_720/index.m3u8
