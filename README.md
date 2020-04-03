@@ -783,3 +783,4 @@ http://175.41.46.16:8081/hls/1.m3u8
 http://175.41.46.16:8081/hls/10.m3u8
 #EXTINF:-1 tvg-id="NAT GEO WILD (MALAYSIA)" tvg-logo="https://talkinpets.com/new/media/k2/items/cache/dec6d1172eb129f5a6252390b6ff80fc_XL.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (MALAYSIA)
 https://cdn-laos.workpoint.news/hd-natgeowild_720/index.m3u8
+ #EXTINF:-1 tvg-id="NAT GEO (MALAYSIA)" tvg-logo="https://assets.cdn.watchdisneyfe.com/delta/assets/natgeo/national-geographic.png" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO (BANGKOK)
