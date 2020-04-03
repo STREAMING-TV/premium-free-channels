@@ -796,3 +796,4 @@ https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
 #EXTINF:-1,tvg-id="BBC WORLD NEWS (INTERNATIONAL)" tvg-logo="https://i.ya-webdesign.com/images/bbc-world-news-logo-png-16.png" group-title="NEWS / BUSINESS CHANNELS",BBC WORLD NEWS (INTERNATIONAL)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8 
 #EXTINF:-1 tvg-id="NAT GEO WILD (JAKARTA)" tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/03/logo_ngw.png"  group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (JAKARTA) 
+https://delivery.macan.live/stream/id_natgeowild/index.m3u8?token=Yq91Jdf0&v=20200308
