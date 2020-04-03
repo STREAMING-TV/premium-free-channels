@@ -794,3 +794,4 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="NAT GEO WILD (JAKARTA)" tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/03/logo_ngw.png"  group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (JAKARTA) 
 https://delivery.macan.live/stream/id_natgeowild/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 tvg-id="DISNEY CHANNEL (UNTIED KINGDOM)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="KIDS CHANNELS",DISNEY CHANNEL (UNITED KINGDOM)
+http://gg.gg/lvttdisneychannel1
