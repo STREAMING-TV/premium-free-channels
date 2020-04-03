@@ -786,3 +786,4 @@ https://cdn-laos.workpoint.news/hd-natgeowild_720/index.m3u8
 #EXTINF:-1 tvg-id="NAT GEO (MALAYSIA)" tvg-logo="https://assets.cdn.watchdisneyfe.com/delta/assets/natgeo/national-geographic.png" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO (BANGKOK)
 https://cdn-laos.workpoint.news/hd-natgeo_720/index.m3u8
 #EXTINF:-1 tvg-id="NAT GEO PEOPLE (INDIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png"  group-title="LIFESTYLE / TRAVELING CHANNELS",NAT GEO PEOPLE (MALAYSIA)
+https://cdn-laos.workpoint.news/hd-natgeopeople_720/index.m3u8
