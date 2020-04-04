@@ -383,7 +383,7 @@ https://m-c02-j2apps.s.llnwi.net/hls/5208.HindiKhabar.in.m3u8
 https://m-c037-j2apps.s.llnwi.net/hls/6006.SuryaSamachar.in.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERG QUINT (IN)" tvg-name="BLOOMBERH QUINT (IN)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2018/03/bloomberg-with-quint-logo-2-2.jpg"group-title="NEWS / BUSINESS CHANNELS",BLOOMBERG QUINT (IN)
 https://m-c29-j2apps.s.llnwi.net/hls/5656.BloombergQuint.in.m3u8
-#EXTINF:-1 tvg-id="FOOD FOOD (IN)" tvg-name="FOOD FOOD (IN)" tvg-logo="https://f0.pngfuel.com/png/541/615/food-food-indian-cuisine-television-channel-india-png-clip-art.png"group-title="LIFESTYLE / TRAVELING CHANNELS",FOOD FOOD (IN) 
+#EXTINF:-1 tvg-id="FOOD FOOD (IN)" tvg-name="FOOD FOOD (INDIA)" tvg-logo="https://www.foodfood.com/assets/images/logo/logo.png" group-title="LIFESTYLE / TRAVELING CHANNELS",FOOD FOOD (INDIA) 
 https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
 #EXTINF:-1 tvg-id="EURO NEWS (INT)" tvg-name="EURO NEWS (INT)" tvg-logo="https://media.info/i/lf/0/1464660043/1064.png"group-title="NEWS / BUSINESS CHANNELS",EURO NEWS (INT)
 https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
@@ -807,3 +807,4 @@ http://78.110.169.226:8000/play/a01m
 http://78.110.169.226:8000/play/a021
 #EXTINF:-1 tvg-id="NEWS NET (UNITED STATE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/NewsNetLogo.png" group-title="NEWS / BUSINESS CHANNELS",NEWS NET (UNITED STATE) 
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="GAY (INTERNATIONAL)" tvg-logo="  group-title="ADULT CHANNELS",XXX TV (INTERNATIONAL)
