@@ -809,10 +809,11 @@ http://78.110.169.226:8000/play/a021
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="18+ (INTERNATIONAL)" tvg-logo="https://i.ytimg.com/vi/wbCIe0xbo8Q/hqdefault.jpg" group-title="ADULT CHANNELS",18+ (INTERNATIONAL)
 http://cdn.fr01.spr24.net/22444/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1 tvg-id="BIG LOVE TV (INTERNATIONAL)" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFmcmlzb2Z0Z2hhbmEuYmlnbG92ZWFkdWx0dHZfaWNvbl8xNTQyODA0NTY0XzA5Mw/icon.png" group-title="ADULT CHANNELS",BIG LOVE TV (INTERNATIONAL)
+#EXTINF:-1 tvg-id="TELEVISION X (INTERNATIONAL)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Television_X.png" group-title="ADULT CHANNELS",TELEVISION X (INTERNATIONAL)
 https://usb.bozztv.com/ssh101/TBB5/TBB5/index.m3u8
 #EXTINF:-1 tvg-id="BOOMERANG (RUSSIA)" tvg-logo="https://ih0.redbubble.net/image.488369607.9154/flat,750x,075,f-pad,750x1000,f8f8f8.jpg"  group-title="KIDS CHANNELS",BOOMERANG (RUSSIA)
 https://usb.bozztv.com/ssh101/BoomerangDCN/BoomerangDCN/playlist.m3u8
 #EXTINF:-1 tvg-id="BOOMERANG (UNITED STATE)" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2018/04/logo-boomerang.png"  group-title="KIDS CHANNELS",BOOMERANG (UNITED STATE)
 http://proxyts.ec.cx:8082/hls1/boomerang.m3u8?wmsAuthSign
 #EXTINF:-1 tvg-id="BOOMERANG (UNITED KINGDOM)" tvg-logo="https://logodix.com/logo/334393.png" group-title="KIDS CHANNELS",BOOMERANG (UNITED KINGDOM)
+http://178.159.5.210:1000/play/Boomerang/index.m3u8
