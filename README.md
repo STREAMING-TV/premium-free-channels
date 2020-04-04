@@ -797,3 +797,4 @@ https://delivery.macan.live/stream/id_natgeowild/index.m3u8?token=Yq91Jdf0&v=202
 http://gg.gg/lvttdisneychannel1
 #EXTINF:-1 tvg-id="BT SPORT 1 HD (UNITED STATE)" tvg-logo="https://www.thesportsdb.com/images/media/logo/4osx7y1579351981.png"  group-title="SPORTS CHANNELS",BT SPORT 1 HD (UNITED STATE)
 http://cdnak10.cast4u.info/channels/2/10802.m3u8
+#EXTINF:-1 tvg-id="FOX (UNITED STATE)" tvg-logo="https://static-media.fox.com/foxnow/web/v3-2/img/fox_logo.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX (UNITED STATE)
