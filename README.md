@@ -824,3 +824,4 @@ http://iptvfree.gq/live/hbo.m3u8
 #EXTINF:-1 tvg-id="NAT GEO WILD (INDIA)" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png"  group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (INDIA)
 http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
 #EXTINF:-1 tvg-id="NHK WORLD (JAPAN)"  tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/b/b5/NHK_World_%282015-.n.v.%29.png"  group-title="NEWS / BUSINESS CHANNELS",NHK WORLD (JAPAN) 
+http://210.210.155.66/h/h23/02.m3u8
