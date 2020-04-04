@@ -13,7 +13,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeebusiness/index.
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png"group-title="MUSIC / YOUTH CHANNELS",ZOOM (INDIA)
 http://livecdnh1.tvanywhere.ae/hls/zoom/01.m3u8
-#EXTINF:-1 tvg-id="B4U MUSIC (INDIA)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png"group-title="MUSIC / YOUTH CHANNELS",B4U MUSIC (INDIA)
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png"group-title="MUSIC / YOUTH CHANNELS",B4U MUSIC (INDIA)
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 tvg-id="MUSIC INDIA (INDIA)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png"group-title="MUSIC / YOUTH CHANNELS",MUSIC INDIA (INDIA)
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
