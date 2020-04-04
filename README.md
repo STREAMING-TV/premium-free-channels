@@ -821,3 +821,4 @@ http://178.159.5.210:1000/play/Boomerang/index.m3u8
 https://ch.iptvmate.net/6b2e4d0c46578a2d1087181cc07ccc75.m3u8
 #EXTINF:-1 tvg-id="NAT GEO (MALAYSIA)" tvg-logo="https://static.wixstatic.com/media/a3d2b1_ab8902f0b15d440fafc7763b4619f926~mv2.png" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO (MALAYSIA)
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+#EXTINF:-1 tvg-id="HBO (JAKARTA)" tvg-logo="https://www.agconnect.nl/sites/ag/files/styles/article_main_image/public/2017-08/hbo_new_logo.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",HBO (JAKARTA)
