@@ -465,7 +465,7 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 http://stream.tapmad.com:1935/pitvlive2/baby_360p/chunklist.m3u8
 #EXTINF:-1 tvg-id="HUM HD (PK)" tvg-name="HUM HD (PK)" tvg-logo="https://www.phoneworld.com.pk/wp-content/uploads/2019/12/hum.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",HUM HD (PK)
 http://95.211.211.168/live/humtv0066/playlist.m3u8
-#EXTINF:-1 tvg-id="A PLUS (PK)" tvg-name="A PLUS (PK)" tvg-logo="http://a-plus.tv/wp-content/uploads/2019/02/logo_aplus.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",A PLUS (PK)
+#EXTINF:-1 tvg-id="A PLUS (PK)" tvg-logo="http://a-plus.tv/wp-content/uploads/2019/02/logo_aplus.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",A PLUS (PK)
 http://stream.tapmad.com:1935/pitvlive2/aplus3_240p/chunklist.m3u8
 #EXTINF:-1 tvg-id="GEO NEWS HD (PK)" tvg-name="GEO NEWS HD (PK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="NEWS / BUSINESS CHANNELS",GEO NEWS HD (PK)
 http://95.211.211.168/live/geonews0011/playlist.m3u8
