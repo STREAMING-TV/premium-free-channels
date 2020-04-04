@@ -799,4 +799,5 @@ http://gg.gg/lvttdisneychannel1
 http://cdnak10.cast4u.info/channels/2/10802.m3u8
 #EXTINF:-1 tvg-id="FOX (UNITED STATE)" tvg-logo="https://static-media.fox.com/foxnow/web/v3-2/img/fox_logo.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX (UNITED STATE)
 http://cdnak10.cast4u.info/channels/3/10803.m3u8
- #EXTINF:-1 tvg-id="MBC MAX HD (MIDDLE EAST)" tvg-logo="https://www.altkiasat.com/wp-content/uploads/2015/11/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%85-%D8%A8%D9%8A-%D8%B3%D9%8A-%D9%85%D8%A7%D9%83%D8%B3-%D8%A7%D8%AA%D8%B4-%D8%AF%D9%8A.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",MBC MAX HD (MIDDLE EAST)
+#EXTINF:-1 tvg-id="MBC MAX HD (MIDDLE EAST)" tvg-logo="https://www.altkiasat.com/wp-content/uploads/2015/11/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%85-%D8%A8%D9%8A-%D8%B3%D9%8A-%D9%85%D8%A7%D9%83%D8%B3-%D8%A7%D8%AA%D8%B4-%D8%AF%D9%8A.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",MBC MAX HD (MIDDLE EAST)
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
