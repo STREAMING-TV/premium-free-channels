@@ -815,3 +815,4 @@ https://usb.bozztv.com/ssh101/TBB5/TBB5/index.m3u8
 https://usb.bozztv.com/ssh101/BoomerangDCN/BoomerangDCN/playlist.m3u8
 #EXTINF:-1 tvg-id="BOOMERANG (UNITED STATE)" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2018/04/logo-boomerang.png"  group-title="KIDS CHANNELS",BOOMERANG (UNITED STATE)
 http://proxyts.ec.cx:8082/hls1/boomerang.m3u8?wmsAuthSign
+#EXTINF:-1 tvg-id="BOOMERANG (UNITED KINGDOM)" tvg-logo="https://logodix.com/logo/334393.png" group-title="KIDS CHANNELS",BOOMERANG (UNITED KINGDOM)
