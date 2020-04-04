@@ -808,3 +808,4 @@ http://78.110.169.226:8000/play/a021
 #EXTINF:-1 tvg-id="NEWS NET (UNITED STATE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/NewsNetLogo.png" group-title="NEWS / BUSINESS CHANNELS",NEWS NET (UNITED STATE) 
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="18+ (INTERNATIONAL)" tvg-logo="https://i.ytimg.com/vi/wbCIe0xbo8Q/hqdefault.jpg" group-title="ADULT CHANNELS",18+ (INTERNATIONAL)
+http://cdn.fr01.spr24.net/22444/mono.m3u8?token=hiVi8EHiq86NZA
