@@ -811,5 +811,6 @@ http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv
 http://cdn.fr01.spr24.net/22444/mono.m3u8?token=hiVi8EHiq86NZA
 #EXTINF:-1 tvg-id="BIG LOVE TV (INTERNATIONAL)" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFmcmlzb2Z0Z2hhbmEuYmlnbG92ZWFkdWx0dHZfaWNvbl8xNTQyODA0NTY0XzA5Mw/icon.png" group-title="ADULT CHANNELS",BIG LOVE TV (INTERNATIONAL)
 https://usb.bozztv.com/ssh101/TBB5/TBB5/index.m3u8
-#EXTINF:-1 tvg-id="BABY TV (IN)" tvg-name="BOOMERANG (RUSSIA)" tvg-logo="https://ih0.redbubble.net/image.488369607.9154/flat,750x,075,f-pad,750x1000,f8f8f8.jpg"  group-title="KIDS CHANNELS",BOOMERANG (RUSSIA)
+#EXTINF:-1 tvg-id="BOOMERANG (RUSSIA)" tvg-logo="https://ih0.redbubble.net/image.488369607.9154/flat,750x,075,f-pad,750x1000,f8f8f8.jpg"  group-title="KIDS CHANNELS",BOOMERANG (RUSSIA)
 https://usb.bozztv.com/ssh101/BoomerangDCN/BoomerangDCN/playlist.m3u8
+#EXTINF:-1 tvg-id="BOOMERANG (UNITED STATE)" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2018/04/logo-boomerang.png"  group-title="KIDS CHANNELS",BOOMERANG (UNITED STATE)
