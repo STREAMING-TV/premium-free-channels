@@ -583,7 +583,7 @@ http://109.169.56.170/hls/zetc.m3u8
 http://livecdnh3.tvanywhere.ae/hls/e24/02.m3u8
 #EXTINF:-1 tvg-id="ZING (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/91/Zing_300x300.png" group-title="MUSIC / YOUTH CHANNELS",ZING (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zing/index.m3u8
-#EXTINF:-1 tvg-id="WWE/USA (UNITED STATE)" tvg-logo="https://corporate.wwe.com/~/media/Images/W/WWE/content-images/news/wwe-usa-logo.jpg"  group-title="SPORTS CANNELS",WWE/USA (UNITED STATE)
+#EXTINF:-1 tvg-id="WWE/USA (UNITED STATE)" tvg-logo="https://corporate.wwe.com/~/media/Images/W/WWE/content-images/news/wwe-usa-logo.jpg"  group-title="SPORTS CHANNELS",WWE/USA (UNITED STATE)
 http://cdnak10.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 tvg-id="RK TV (IN)" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a42ce5e41e35188c4368adc14005a10.jpeg" group-title="ADULT CHANNELS",RK TV (INT)
 http://188.35.9.26:5031/udp/058j
@@ -811,3 +811,4 @@ http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv
 http://cdn.fr01.spr24.net/22444/mono.m3u8?token=hiVi8EHiq86NZA
 #EXTINF:-1 tvg-id="BIG LOVE TV (INTERNATIONAL)" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFmcmlzb2Z0Z2hhbmEuYmlnbG92ZWFkdWx0dHZfaWNvbl8xNTQyODA0NTY0XzA5Mw/icon.png" group-title="ADULT CHANNELS",BIG LOVE TV (INTERNATIONAL)
 https://usb.bozztv.com/ssh101/TBB5/TBB5/index.m3u8
+#EXTINF:-1 tvg-id="BABY TV (IN)" tvg-name="BOOMERANG (RUSSIA)" tvg-logo="https://ih0.redbubble.net/image.488369607.9154/flat,750x,075,f-pad,750x1000,f8f8f8.jpg"  group-title="KIDS CHANNELS",BOOMERANG (RUSSIA)
