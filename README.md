@@ -803,3 +803,4 @@ http://cdnak10.cast4u.info/channels/3/10803.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="COMEDY CENTRAL (UNITED KINGDOM)" tvg-logo="https://pbs.twimg.com/profile_images/1026903797501583360/K4IylV9m_400x400.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",COMEDY CENTRAL (UNITED KINGDOM)
 http://78.110.169.226:8000/play/a01m
+#EXTINF:-1 tvg-id="CARTOON NATWORK (UNITED KINGDOM)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Cartoon_Network_%2B1_2010_logo.png" group-title="KIDS CHANNELS",CARTOON NATWORK+1 (UNITED KINGDOM)
