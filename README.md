@@ -785,8 +785,6 @@ https://cdn-laos.workpoint.news/hd-natgeo_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-natgeopeople_720/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY ASIA (BANGKOK)" tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/05/discovery-asia.jpg"  group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY ASIA (BANGKOK)
 https://cdn-laos.workpoint.news/hd-discovery_720/index.m3u8
-#EXTINF:-1 tvg-id="FOX LIFE (MALAYSIA)" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/02/Fox-Life-never-stop_8.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX LIFE (MALAYSIA)
-https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
 #EXTINF:-1 tvg-id="HISTORY (BANGKOK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png"  group-title="INFORMATION / WILDLIFE CHANNELS",HISTORY (BANGKOK)
 https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
 #EXTINF:-1,tvg-id="BBC WORLD NEWS (INTERNATIONAL)" tvg-logo="https://i.ya-webdesign.com/images/bbc-world-news-logo-png-16.png" group-title="NEWS / BUSINESS CHANNELS",BBC WORLD NEWS (INTERNATIONAL)
