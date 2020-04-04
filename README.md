@@ -819,3 +819,4 @@ http://proxyts.ec.cx:8082/hls1/boomerang.m3u8?wmsAuthSign
 http://178.159.5.210:1000/play/Boomerang/index.m3u8
 #EXTINF:-1 tvg-id="BOSTON 24 NEWS (UNITED STATE)" tvg-logo="https://pbs.twimg.com/profile_images/1058469392688836609/vHXurVod_400x400.jpg" group-title="NEWS / BUSINESS CHANNELS",BOSTON 24 NEWS (UNITED STATE)
 https://ch.iptvmate.net/6b2e4d0c46578a2d1087181cc07ccc75.m3u8
+#EXTINF:-1 tvg-id="NAT GEO (MALAYSIA)" tvg-logo="https://static.wixstatic.com/media/a3d2b1_ab8902f0b15d440fafc7763b4619f926~mv2.png" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO (MALAYSIA)
