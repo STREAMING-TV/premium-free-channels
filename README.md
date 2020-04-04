@@ -829,3 +829,4 @@ http://210.210.155.66/h/h23/02.m3u8
 http://210.210.155.66/h/h03/02.m3u8
 #EXTINF:-1 tvg-logo="http://www.jeludkov.com/Images/Selected_Logos/01.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",LIFESTYLE (MALAYSIA)
 http://210.210.155.66/h/h28/02.m3u8
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bffc537d-17b1-465d-ab34-d477223ac142/dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",AXN (BANGKOK) 
