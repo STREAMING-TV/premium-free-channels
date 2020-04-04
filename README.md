@@ -823,3 +823,4 @@ https://ch.iptvmate.net/6b2e4d0c46578a2d1087181cc07ccc75.m3u8
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 #EXTINF:-1 tvg-id="HBO (JAKARTA)" tvg-logo="https://www.agconnect.nl/sites/ag/files/styles/article_main_image/public/2017-08/hbo_new_logo.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",HBO (JAKARTA)
 http://iptvfree.gq/live/hbo.m3u8
+#EXTINF:-1 tvg-id="NAT GEO WILD (INDIA)" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png"  group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (INDIA)
