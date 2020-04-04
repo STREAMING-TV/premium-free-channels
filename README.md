@@ -805,3 +805,4 @@ http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
 http://78.110.169.226:8000/play/a01m
 #EXTINF:-1 tvg-id="CARTOON NATWORK (UNITED KINGDOM)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Cartoon_Network_%2B1_2010_logo.png" group-title="KIDS CHANNELS",CARTOON NATWORK+1 (UNITED KINGDOM)
 http://78.110.169.226:8000/play/a021
+#EXTINF:-1 tvg-id="NEWS NET (UNITED STATE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/NewsNetLogo.png" group-title="NEWS / BUSINESS CHANNELS",NEWS NET (UNITED STATE) 
