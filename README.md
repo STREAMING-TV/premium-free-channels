@@ -795,3 +795,4 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://delivery.macan.live/stream/id_natgeowild/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 tvg-id="DISNEY CHANNEL (UNTIED KINGDOM)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="KIDS CHANNELS",DISNEY CHANNEL (UNITED KINGDOM)
 http://gg.gg/lvttdisneychannel1
+#EXTINF:-1 tvg-id="BT SPORT 1 HD (UNITED STATE)" tvg-logo="https://www.thesportsdb.com/images/media/logo/4osx7y1579351981.png"  group-title="SPORTS CHANNELS",BT SPORT 1 HD (UNITED STATE)
