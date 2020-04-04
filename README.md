@@ -1,9 +1,9 @@
 #EXTM3U TV
-#EXTINF:-1,tvg-id="CNA (INTERNATIONAL)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png"group-title="NEWS / BUSINESS CHANNELS",CNA (INTERNATIONAL)
+#EXTINF:-1,tvg-id="CNA" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png"group-title="NEWS / BUSINESS CHANNELS",CNA (INTERNATIONAL)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="CNA (INTERNATIONAL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png"group-title="NEWS / BUSINESS CHANNELS",CNA (INTERNATIONAL)
 http://210.210.155.66/h/h29/02.m3u8
-#EXTINF:-1 tvg-id="DD NORTH EAST (INDIA)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD13_Guwahati_NE.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",DD NORTH EAST (INDIA)
+#EXTINF:-1 tvg-id="DD ASSAM" tvg-logo="https://i.ytimg.com/vi/hj8Pk2zmvWg/maxresdefault.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",DD ASSAM (INDIA)
 https://m-c15-j2apps.s.llnwi.net/hls/0284.DDNorthEast.in.m3u8
 #EXTINF:-1 tvg-id="CVR NEWS (INDIA)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_English.png"group-title="NEWS / BUSINESS CHANNELS",CVR NEWS (INDIA)
 https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
