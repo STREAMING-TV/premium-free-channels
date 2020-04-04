@@ -828,3 +828,4 @@ http://210.210.155.66/h/h23/02.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERG (AUSTRALIA)" tvg-logo="https://thefinancialguys.com/wp-content/uploads/2019/02/bloomberg-logo-white-1.png"  group-title="NEWS / BUSINESS CHANNELS",BLOOMBERG (AUSTRALIA)
 http://210.210.155.66/h/h03/02.m3u8
 #EXTINF:-1 tvg-id="LIFESTYLE (MALAYSIA)" tvg-logo="http://www.jeludkov.com/Images/Selected_Logos/01.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",LIFESTYLE (MALAYSIA)
+http://210.210.155.66/h/h28/02.m3u8
