@@ -799,8 +799,6 @@ http://cdnak10.cast4u.info/channels/2/10802.m3u8
 http://cdnak10.cast4u.info/channels/3/10803.m3u8
 #EXTINF:-1 tvg-id="MBC MAX HD (MIDDLE EAST)" tvg-logo="https://www.altkiasat.com/wp-content/uploads/2015/11/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%85-%D8%A8%D9%8A-%D8%B3%D9%8A-%D9%85%D8%A7%D9%83%D8%B3-%D8%A7%D8%AA%D8%B4-%D8%AF%D9%8A.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",MBC MAX HD (MIDDLE EAST)
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="COMEDY CENTRAL (UNITED KINGDOM)" tvg-logo="https://pbs.twimg.com/profile_images/1026903797501583360/K4IylV9m_400x400.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",COMEDY CENTRAL (UNITED KINGDOM)
-http://78.110.169.226:8000/play/a01m
 #EXTINF:-1 tvg-id="CARTOON NATWORK (UNITED KINGDOM)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Cartoon_Network_%2B1_2010_logo.png" group-title="KIDS CHANNELS",CARTOON NATWORK+1 (UNITED KINGDOM)
 http://78.110.169.226:8000/play/a021
 #EXTINF:-1 tvg-id="NEWS NET (UNITED STATE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/NewsNetLogo.png" group-title="NEWS / BUSINESS CHANNELS",NEWS NET (UNITED STATE) 
