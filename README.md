@@ -767,7 +767,7 @@ https://ch.iptvmate.net/8d5f98362dfc8a6e88085f89ee1fde9d.m3u8
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 #EXTINF:-1 tvg-id="STAR CRICKET (MALAYSIA)" tvg-logo="https://i.pinimg.com/originals/d6/fa/16/d6fa16162a2976d42da418a3cc8ecf17.png"  group-title="SPORTS CHANNELS",STAR CRICKET (MAL)
 https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=Yq91Jdf0&v=20200308
-#EXTINF:-1 tvg-id="RUGBYPASS TV (MALAYSIA)" tvg-logo="https://rugby365.com/wp/wp-content/uploads/post-images/RugbyPAss_logo_new.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",RUGBYPASS TV (MAL)
+#EXTINF:-1 tvg-id="RUGBYPASS TV (MALAYSIA)" tvg-logo="https://rugby365.com/wp/wp-content/uploads/post-images/RugbyPAss_logo_new.png"  group-title="SPORTS CHANNELS",RUGBYPASS TV (MAL)
 https://delivery.macan.live/stream/macan_sport_41/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 tvg-id="BOOMERANG (JAKARTA)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png"  group-title="KIDS CHANNELS",BOOMERANG (JKT)
 https://delivery.macan.live/stream/boomerang/index.m3u8?token=Yq91Jdf0&v=20200308
