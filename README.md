@@ -833,3 +833,4 @@ http://210.210.155.66/h/h28/02.m3u8
 http://vtv.iptvfree.gq:2086/live/axn.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Boomerang.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",BOOMERANG (UK) 
 http://vtv.iptvfree.gq:2086/live/boomerang.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/cartoon-network-2010-png-logo-0.png"  group-title="KIDS CHANNELS",CARTOON NETWORK (RU)
