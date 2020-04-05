@@ -844,3 +844,4 @@ http://vtv.iptvfree.gq:2086/live/foxlife.m3u8
 #EXTINF:- 1tvg-logo="http://www.cookchannel.in/inscripcion/wp-content/uploads/2015/10/Logo-0101.png" group-title="LIFESTYLE / TRAVELING CHANNELS",CHEF TV (US)
 https://ch.iptvmate.net/11e118e202992ae500578c6f72bcf142.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_ECTV_DSh.png"  group-title="KIDS CHANNELS",ENGLISH CLUB TV (UK)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/British_Muslim_TV_logo.png"  group-title="DEVOTIONAL CHANNELS",BRITISH MUSLIM TV (UK)
