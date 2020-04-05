@@ -850,3 +850,4 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/in
 http://162.250.201.58:6211/uk/A1TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Satsang.jpeg" group-title="DEVOTIONAL CHANNELS", SATSANG (IND)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/satsangtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/10/7f/2a/107f2a60f58e16c1388c88f95ae4b957.jpg" group-title="DEVOTIONAL CHANNELS", SANSKAR TV (IND) 
