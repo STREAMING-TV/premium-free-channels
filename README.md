@@ -854,3 +854,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/sanskartv/index.m3
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/AhlulbaytTV.png" group-title="DEVOTIONAL CHANNELS",AHLULBAYT TV (MIDDLE EAST)
 http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
+ #EXTINF:-1 tvg-logo="https://www.dakotacentral.com/wp-content/uploads/2019/09/bek_broadcasting.png"  group-title="SPORTS CHANNELS",BEK (UK)
