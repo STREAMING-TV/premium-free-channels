@@ -836,3 +836,4 @@ http://vtv.iptvfree.gq:2086/live/boomerang.m3u8
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/cartoon-network-2010-png-logo-0.png"  group-title="KIDS CHANNELS",CARTOON NETWORK (RU)
 http://vtv.iptvfree.gq:2086/live/cartoon.m3u8
 #EXTINF:-1 tvg-logo="http://images6.fanpop.com/image/photos/41000000/Disney-Channel-2014-Inverted-6-logos-41098529-1244-543.png" group-title="KIDS CHANNELS",DISNEY CHANNEL (JKT)
+http://vtv.iptvfree.gq:2086/live/disney.m3u8
