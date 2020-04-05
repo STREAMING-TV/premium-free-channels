@@ -862,3 +862,4 @@ https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
 http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/nat-geo-wild.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRiOGUyZWMtMDZhZi00MjBlLWFiNTQtNTFjZjQ0MjU3OWQ4XkEyXkFqcGdeQXVyNTA2MzEzNjY@._V1_.jpg"  group-title="LIFESTYLE / TRAVELING CHANNELS",PLANET FASHION TV (USA)
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Dubai_One_logo_2016.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",DUBAI ONE (ME)
