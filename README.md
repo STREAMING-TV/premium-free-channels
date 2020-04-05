@@ -842,3 +842,4 @@ http://vtv.iptvfree.gq:2086/live/foxmovies.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/927918098417639424/mHPaTK5u_400x400.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX LIFE (JKT)
 http://vtv.iptvfree.gq:2086/live/foxlife.m3u8
 #EXTINF:- 1tvg-logo="http://www.cookchannel.in/inscripcion/wp-content/uploads/2015/10/Logo-0101.png" group-title="LIFESTYLE / TRAVELING CHANNELS",THE COOKING SHOW  (US)
+https://ch.iptvmate.net/11e118e202992ae500578c6f72bcf142.m3u8?fluxustv.m3u8
