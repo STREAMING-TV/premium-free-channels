@@ -838,3 +838,4 @@ http://vtv.iptvfree.gq:2086/live/cartoon.m3u8
 #EXTINF:-1 tvg-logo="http://images6.fanpop.com/image/photos/41000000/Disney-Channel-2014-Inverted-6-logos-41098529-1244-543.png" group-title="KIDS CHANNELS",DISNEY CHANNEL (JKT)
 http://vtv.iptvfree.gq:2086/live/disney.m3u8
 #EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545266399_fox-movies-sd.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX MOVIES (BBK)
+http://vtv.iptvfree.gq:2086/live/foxmovies.m3u8
