@@ -853,3 +853,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/sanskartv/index.m3
 #EXTINF:-1 tvg-logo="https://gumlet.assettype.com/thequint/2018-04/eb848cad-ca7d-4fbb-848b-839b45e245b9/04fc69b3d65f090543a75175a20656c6.jpg"  group-title="MUSIC / YOUTH CHANNELS",ZOOM (IND)
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/AhlulbaytTV.png" group-title="DEVOTIONAL CHANNELS",AHLULBAYT TV (MIDDLE EAST)
+http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
