@@ -856,3 +856,4 @@ http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dakotacentral.com/wp-content/uploads/2019/09/bek_broadcasting.png"  group-title="SPORTS CHANNELS",BEK (UK)
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png"  group-title="NEWS / BUSINESS CHANNELS",FOX NEWS CHANNEL (USA)
