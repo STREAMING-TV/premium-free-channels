@@ -858,3 +858,4 @@ http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png"  group-title="NEWS / BUSINESS CHANNELS",FOX NEWS CHANNEL (USA)
 https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
+#EXTINF:-1 tvg-id="NAT GEO WILD (RU)" group-title="INFORMATION / WILDLIFE CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/NGWild.png",NAT GEO WILD (RU)
