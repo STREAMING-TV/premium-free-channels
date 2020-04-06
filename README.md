@@ -869,3 +869,4 @@ https://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:-1 tvg-id="ENJOYMENT"  tvg-logo="https://i.ebayimg.com/images/g/UZ8AAOSw7NNUCIHm/s-l300.jpg"  group-title="ADULT CHANNELS",ENJOYMENT (INT)
 https://usb.bozztv.com/ssh101/TBB4/TBB4/index.m3u8
 #EXTINF:-1 tvg-id=" ROMANTIC TV" tvg-logo="https://media.cleo.com.sg/2019/05/sex-positions-short-girls-sit-768x768.jpg"  group-title=" CHANNELS",ROMANTIC TV (INT)
+https://usb.bozztv.com/ssh101/TBB3/TBB3/index.m3u8
