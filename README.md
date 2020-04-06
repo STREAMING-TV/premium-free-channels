@@ -871,3 +871,4 @@ https://usb.bozztv.com/ssh101/TBB4/TBB4/index.m3u8
 #EXTINF:-1 tvg-id=" ROMANTIC TV" tvg-logo="https://media.cleo.com.sg/2019/05/sex-positions-short-girls-sit-768x768.jpg"  group-title="ADULT CHANNELS",ROMANTIC TV (INT)
 https://usb.bozztv.com/ssh101/TBB3/TBB3/index.m3u8
 #EXTINF:-1 tvg-id="FAITH" tvg-logo="https://usa.myfaith.tv/wp-content/uploads/2019/10/faith-light-1.png" group-title="DEVOTIONAL CHANNELS",FAITH (USA)
+http://hls-live-media.cdn01.net/default/stream_14889.m3u8
