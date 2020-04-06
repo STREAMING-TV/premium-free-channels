@@ -875,3 +875,4 @@ http://hls-live-media.cdn01.net/default/stream_14889.m3u8
 #EXTINF:-1 tvg-id="ABC NEWS" tvg-logo="https://www.pinclipart.com/picdir/middle/340-3407689_1200-x-425-19-abc-news-logo-png.png"  group-title="NEWS / BUSINESS CHANNELS",ABC NEWS (USA)
 #EXTINF:-1 tvg-id="ID" tvg-logo="https://www.pngkit.com/png/full/442-4421623_a-kid-to-kill-for-investigation-discovery-logo.png" group-title="INFORMATION / WILDLIFE CHANNELS",ID (UK)
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="HUM MASALA" tvg-logo="https://images.ctfassets.net/evnrpfa1vdk4/hSoxdVwHws57ZO6bv3KAH/8f3b2d1c60a867349e91ff1cf4ceb54c/masalatv_logo.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",HUM MASALA (PK)
