@@ -866,3 +866,4 @@ https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u
 https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
 #EXTINF:-1 tvg-id="ASS LOVER TV" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/9b064649177903.56084ea344766.jpg"  group-title="ADULT CHANNELS",AAS LOVER TV(INT)
 https://www.ast.tv/stream/1/cellular.m3u8
+#EXTINF:-1 tvg-id="ENJOYMENT"  tvg-logo="https://i.ebayimg.com/images/g/UZ8AAOSw7NNUCIHm/s-l300.jpg"  group-title="ADULT CHANNELS",ENJOYMENT (INT)
