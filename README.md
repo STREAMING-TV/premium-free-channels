@@ -86,7 +86,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemausa/index.m3
 #EXTINF:-1 tvg-id="ZEE CINEMA (UNITED KINGDOM)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA (UK)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemauk/index.m3u8
 #EXTINF:-1 tvg-id="FUCK TV" tvg-logo="https://cdn.shortpixel.ai/client/q_lossless,ret_img,w_150/https://touchmekissmee.com/wp-content/uploads/2018/12/favicon.png" group-title="ADULT CHANNELS",FUCK TV (INT)
-http://62.203.143.51:9981/play/PlayyTV
+https://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:-1 tvg-id="CARTOON NATWORK (INDIA)" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_black.png"group-title="KIDS CHANNELS",CARTOON NATWORK (IN)
 http://stream.tapmad.com:1935/pitvlive2/cartoon_240p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ZEE CINEMA (MIDDLE EAST)" tvg-logo="https://adhub.lk/attachments-2.1.0/channel-logos/fid_2529_zee-cinema-1.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA (ME)
