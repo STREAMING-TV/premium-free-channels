@@ -873,3 +873,4 @@ https://usb.bozztv.com/ssh101/TBB3/TBB3/index.m3u8
 #EXTINF:-1 tvg-id="FAITH" tvg-logo="https://usa.myfaith.tv/wp-content/uploads/2019/10/faith-light-1.png" group-title="DEVOTIONAL CHANNELS",FAITH (USA)
 http://hls-live-media.cdn01.net/default/stream_14889.m3u8
 #EXTINF:-1 tvg-id="ABC NEWS" tvg-logo="https://www.pinclipart.com/picdir/middle/340-3407689_1200-x-425-19-abc-news-logo-png.png"  group-title="NEWS / BUSINESS CHANNELS",ABC NEWS (USA)
+#EXTINF:-1 tvg-id="ID" tvg-logo="https://www.pngkit.com/png/full/442-4421623_a-kid-to-kill-for-investigation-discovery-logo.png" group-title="INFORMATION / WILDLIFE CHANNELS",ID (UK)
