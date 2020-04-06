@@ -803,7 +803,7 @@ http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
 http://78.110.169.226:8000/play/a021
 #EXTINF:-1 tvg-id="NEWS NET (UNITED STATE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/NewsNetLogo.png" group-title="NEWS / BUSINESS CHANNELS",NEWS NET (UNITED STATE) 
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="18+ (INTERNATIONAL)" tvg-logo="https://i.ytimg.com/vi/wbCIe0xbo8Q/hqdefault.jpg" group-title="ADULT CHANNELS",18+ (INTERNATIONAL)
+#EXTINF:-1 tvg-id="18+ZONE (INT)" tvg-logo="https://previews.123rf.com/images/miceking/miceking1605/miceking160500858/57894068-sexy-woman-with-wings.jpg"  group-title="ADULT CHANNELS",18+ZONE (INT)
 http://cdn.fr01.spr24.net/22444/mono.m3u8?token=hiVi8EHiq86NZA
 #EXTINF:-1 tvg-id="TELEVISION X (INTERNATIONAL)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Television_X.png" group-title="ADULT CHANNELS",TELEVISION X (INTERNATIONAL)
 https://usb.bozztv.com/ssh101/TBB5/TBB5/index.m3u8
