@@ -876,4 +876,5 @@ http://hls-live-media.cdn01.net/default/stream_14889.m3u8
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HUM MASALA" tvg-logo="https://images.ctfassets.net/evnrpfa1vdk4/hSoxdVwHws57ZO6bv3KAH/8f3b2d1c60a867349e91ff1cf4ceb54c/masalatv_logo.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",HUM MASALA (PK)
 http://stream.tapmad.com:1935/pitvlive2/masalanew3/chunklist.m3u8
-#EXTINF:-1 tvg-id="ABC NEWS" tvg-logo="https://www.pinclipart.com/picdir/middle/340-3407689_1200-x-425-19-abc-news-logo-png.png"  group-title="NEWS / BUSINESS CHANNELS", ABC NEWS (USA)
+#EXTINF:-1 tvg-id="NEWSCENTER 7" tvg-logo="https://pbs.twimg.com/media/DjYjBWRX0AEPjMH.jpg" group-title="NEWS / BUSINESS CHANNELS",NEWSCENTER 7 (USA)
+https://ch.iptvmate.net/5f24f642017e3fae6fca576aaf4ef0f3.m3u8
