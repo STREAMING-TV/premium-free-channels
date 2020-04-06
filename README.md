@@ -864,3 +864,4 @@ http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/nat-geo-wild.m3u8
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Dubai_One_logo_2016.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",DUBAI ONE (ME)
 https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
+ #EXTINF:-1 tvg-id="ASS LOVER TV" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/9b064649177903.56084ea344766.jpg"  group-title="ADULT CHANNELS",AAS LOVER TV(INT)
