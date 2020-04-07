@@ -856,41 +856,43 @@ https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
 https://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:-1 tvg-id="ENJOYMENT"  tvg-logo="https://i.ebayimg.com/images/g/UZ8AAOSw7NNUCIHm/s-l300.jpg"  group-title="ADULT CHANNELS",ENJOYMENT (INT)
 https://usb.bozztv.com/ssh101/TBB4/TBB4/index.m3u8
-#EXTINF:-1 tvg-id=" ROMANTIC TV" tvg-logo="https://media.cleo.com.sg/2019/05/sex-positions-short-girls-sit-768x768.jpg"  group-title="ADULT CHANNELS",ROMANTIC TV (INT)
+#EXTINF:-1 tvg-id=" ROMANTIC TV (INT)" tvg-logo="https://media.cleo.com.sg/2019/05/sex-positions-short-girls-sit-768x768.jpg"  group-title="ADULT CHANNELS",ROMANTIC TV (INT)
 https://usb.bozztv.com/ssh101/TBB3/TBB3/index.m3u8
-#EXTINF:-1 tvg-id="FAITH" tvg-logo="https://usa.myfaith.tv/wp-content/uploads/2019/10/faith-light-1.png" group-title="DEVOTIONAL CHANNELS",FAITH (USA)
+#EXTINF:-1 tvg-id="FAITH (UK)" tvg-logo="https://usa.myfaith.tv/wp-content/uploads/2019/10/faith-light-1.png" group-title="DEVOTIONAL CHANNELS",FAITH (USA)
 http://hls-live-media.cdn01.net/default/stream_14889.m3u8
-#EXTINF:-1 tvg-id="ID" tvg-logo="https://www.pngkit.com/png/full/442-4421623_a-kid-to-kill-for-investigation-discovery-logo.png" group-title="INFORMATION / WILDLIFE CHANNELS",ID (UK)
+#EXTINF:-1 tvg-id="ID (USA)" tvg-logo="https://www.pngkit.com/png/full/442-4421623_a-kid-to-kill-for-investigation-discovery-logo.png" group-title="INFORMATION / WILDLIFE CHANNELS",ID (UK)
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="HUM MASALA" tvg-logo="https://images.ctfassets.net/evnrpfa1vdk4/hSoxdVwHws57ZO6bv3KAH/8f3b2d1c60a867349e91ff1cf4ceb54c/masalatv_logo.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",HUM MASALA (PK)
+#EXTINF:-1 tvg-id="HUM MASALA (PK)" tvg-logo="https://images.ctfassets.net/evnrpfa1vdk4/hSoxdVwHws57ZO6bv3KAH/8f3b2d1c60a867349e91ff1cf4ceb54c/masalatv_logo.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",HUM MASALA (PK)
 http://stream.tapmad.com:1935/pitvlive2/masalanew3/chunklist.m3u8
-#EXTINF:-1 tvg-id="NEWSCENTER 7" tvg-logo="https://pbs.twimg.com/media/DjYjBWRX0AEPjMH.jpg" group-title="NEWS / BUSINESS CHANNELS",NEWSCENTER 7 (USA)
+#EXTINF:-1 tvg-id="NEWSCENTER 7 (USA)" tvg-logo="https://pbs.twimg.com/media/DjYjBWRX0AEPjMH.jpg" group-title="NEWS / BUSINESS CHANNELS",NEWSCENTER 7 (USA)
 https://ch.iptvmate.net/5f24f642017e3fae6fca576aaf4ef0f3.m3u8
-#EXTINF:-1 tvg-I'd="ZEE TV ME" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/82/Zee_TV_HD_2017-0.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (ME)
+#EXTINF:-1 tvg-I'd="ZEE TV (ME)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/82/Zee_TV_HD_2017-0.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (ME)
 http://bolly360.xyz:80/zee.php?c=ztvme
-#EXTINF:-1 tvg-id="ZEE TV USA"  tvg-logo="https://1.bp.blogspot.com/-JmZB8G7G3bw/XceuY8qcbWI/AAAAAAAAFgM/wW5dhU4-Y8MlIN-DHp8yHbChqAC-L1u0QCEwYBhgL/s320/zee-tv-us.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (USA)
+#EXTINF:-1 tvg-id="ZEE TV (USA)"  tvg-logo="https://1.bp.blogspot.com/-JmZB8G7G3bw/XceuY8qcbWI/AAAAAAAAFgM/wW5dhU4-Y8MlIN-DHp8yHbChqAC-L1u0QCEwYBhgL/s320/zee-tv-us.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (USA)
 http://bolly360.xyz:80/zee.php?c=ztvsdusa
-#EXTINF:-1 tvg-id="ZEE TV IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (IN)
+#EXTINF:-1 tvg-id="ZEE TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (IN)
 http://bolly360.xyz:80/zee.php?c=zeetvsd
-#EXTINF:-1 tvg-id="AND TV HD IN" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",AND TV HD (IN)
+#EXTINF:-1 tvg-id="AND TV HD (IN)" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",AND TV HD (IN)
 http://bolly360.xyz:80/zee.php?c=andtvhd
-#EXTINF:-1 tvg-id="AND TV HD USA" tvg-logo="https://i.pinimg.com/originals/42/0c/fa/420cfa62cb7893056442c1697cfa2636.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",AND TV HD (USA)
+#EXTINF:-1 tvg-id="AND TV HD (USA)" tvg-logo="https://i.pinimg.com/originals/42/0c/fa/420cfa62cb7893056442c1697cfa2636.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",AND TV HD (USA)
 http://bolly360.xyz:80/zee.php?c=andtvhdusa
-#EXTINF:-1 tvg-id="AND TV IN" tvg-logo="http://www.plexflix.to/plexflix.to/picons/Indian/AND%20TV%20%28Indian%29.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",AND TV (IN)
+#EXTINF:-1 tvg-id="AND TV (IN)" tvg-logo="http://www.plexflix.to/plexflix.to/picons/Indian/AND%20TV%20%28Indian%29.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",AND TV (IN)
 http://bolly360.xyz:80/zee.php?c=andtvsd
-#EXTINF:-1 tvg-id="ZEE SMILE USA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/Zee_Smile_2017.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE SMILE (USA)
+#EXTINF:-1 tvg-id="ZEE SMILE (USA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/Zee_Smile_2017.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE SMILE (USA)
 http://bolly360.xyz:80/zee.php?c=smileusa
-#EXTINF:-1 tvg-id="ZEE CAFE IN" tvg-logo="https://www.adgully.com/img/800/202001/zee-cafe-logo.png.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CAFE (IN)
+#EXTINF:-1 tvg-id="ZEE CAFE (IN)" tvg-logo="https://www.adgully.com/img/800/202001/zee-cafe-logo.png.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CAFE (IN)
 http://bolly360.xyz:80/zee.php?c=zeecafesd
-#EXTINF:-1 tvg-id="& PRIVE HD IN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/%26priv%C3%A9_HD.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",& PRIVE HD (IN)
+#EXTINF:-1 tvg-id="& PRIVE HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/%26priv%C3%A9_HD.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",& PRIVE HD (IN)
 http://bolly360.xyz:80/zee.php?c=andprivehd
-#EXTINF:-1 tvg-id="& FLIX IN" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/06/06/flix.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",& FLIX (IN)
+#EXTINF:-1 tvg-id="& FLIX (IN)" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/06/06/flix.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",& FLIX (IN)
 http://bolly360.xyz:80/zee.php?c=andflix
-#EXTINF:-1 tvg-id="& PICTURES HD IN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",& PICTURES HD (IN)
+#EXTINF:-1 tvg-id="& PICTURES HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",& PICTURES HD (IN)
 http://bolly360.xyz:80/zee.php?c=andpicshd
-#EXTINF:-1 tvg-id="ZEE CINEMA HD IN" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_580/PORTRAIT/sjM1MbFR.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA HD (IN)
+#EXTINF:-1 tvg-id="ZEE CINEMA HD (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_580/PORTRAIT/sjM1MbFR.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA HD (IN)
 http://bolly360.xyz:80/zee.php?c=zcinemahd
-#EXTINF:-1 tvg-id="ZEE ACTION IN" tvg-logo="https://www.adgully.com/img/800/201909/jby7kv1wjoonygtffhu5.png.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE ACTION (IN)
+#EXTINF:-1 tvg-id="ZEE ACTION (IN)" tvg-logo="https://www.adgully.com/img/800/201909/jby7kv1wjoonygtffhu5.png.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE ACTION (IN)
 http://bolly360.xyz:80/zee.php?c=action
-#EXTINF:-1 tvg-id="ZEE CINEMA USA" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zee-cinema.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA (USA)
+#EXTINF:-1 tvg-id="ZEE CINEMA (USA)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zee-cinema.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA (USA)
 http://bolly360.xyz:80/zee.php?c=cinemausa
+#EXTINF:-1 tvg-id="ZEE CINEMA (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA (UK)
+http://bolly360.xyz:80/zee.php?c=cinemauk
