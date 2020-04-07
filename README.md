@@ -878,3 +878,4 @@ http://bolly360.xyz:80/zee.php?c=cinemauk
 http://bolly360.xyz:80/zee.php?c=zeecinemame
 #EXTINF:-1 tvg-id="ZEE HINDUSTAN (IND)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Zee_Hindustan_Logo.png/799px-Zee_Hindustan_Logo.png"group-title="NEWS / BUSINESS CHANNELS",ZEE HINDUSTAN (INDIA)
 http://bolly360.xyz:80/zee.php?c=hindustan
+#EXTINF:-1 tvg-id="BHAKTI SAGAR (IND)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/c4a22980242553.Y3JvcCw4MDgsNjMyLDAsMA.jpg" group-title="DEVOTIONAL CHANNELS",BHAKTI SAGAR (IND)
