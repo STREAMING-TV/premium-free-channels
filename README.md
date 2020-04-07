@@ -97,8 +97,8 @@ http://bolly360.xyz:80/zee.php?c=zeenews
 http://bolly360.xyz:80/zee.php?c=9xm
 #EXTINF:-1 tvg-id="THE Q INDIA (IND)"  tvg-logo="https://www.rapidtvnews.com/images/2019/Aug_2019/The_Q_India_logo_-_7_August_2019.png"group-title="MUSIC / YOUTH CHANNELS",THE Q INDIA (INDIA)
 http://bolly360.xyz:80/zee.php?c=theqyou
-#EXTINF:-1 tvg-id="DD BHARATI (INDIA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f9/DD_Bharati_2018.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",DD BHARATI (INDIA)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddbharati/index.m3u8
+#EXTINF:-1 tvg-id="DD BHARATI (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f9/DD_Bharati_2018.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",DD BHARATI (INDIA)
+http://bolly360.xyz:80/zee.php?c=ddbharati
 #EXTINF:-1 tvg-id="ZEE WORLD (SOUTH AFRICA)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/Zee_World_Extraordinary._Everyday..jpg "group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE WORLD (SOUTH AFRICA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/world/index.m3u8
 #EXTINF:-1 tvg-id="VH1 (NEW YORK)"  tvg-logo="https://mms.businesswire.com/media/20180301006441/en/643788/22/2017VH1.jpg"group-title="MUSIC / YOUTH CHANNELS",VH1 (UNITED STATE)
