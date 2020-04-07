@@ -83,8 +83,6 @@ http://188.35.9.5:10007/stolen/246r/parasite.install
 http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="HUSTLER TV (INTERNATIONAL)"  tvg-logo="http://www.mscnoticiaslatam.com/wp-content/uploads/2014/03/HustlerTV-logo.jpg"group-title="ADULT CHANNELS",HUSTLER TV (INTERNATIONAL)
 http://163.172.209.107:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="ZEE HINDUSTAN (INDIA)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Zee_Hindustan_Logo.png/799px-Zee_Hindustan_Logo.png"group-title="NEWS / BUSINESS CHANNELS",ZEE HINDUSTAN (INDIA)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/hindustan/index.m3u8
 #EXTINF:-1 tvg-id="WION (INDIA)"  tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2018/04/25/675807-wion-1.jpg"group-title="NEWS / BUSINESS CHANNELS",WION (INTERNATIONAL)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/wion/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.bestmediainfo.com/wp-content/uploads/2015/09/Living-Foodz-logo.jpg"group-title="LIFESTYLE / TRAVELING CHANNELS",LIVING FOODZ (INDIA)
@@ -878,3 +876,5 @@ http://bolly360.xyz:80/zee.php?c=cinemausa
 http://bolly360.xyz:80/zee.php?c=cinemauk
 #EXTINF:-1 tvg-id="ZEE CINEMA (ME)" tvg-logo="https://adhub.lk/attachments-2.1.0/channel-logos/fid_2529_zee-cinema-1.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA (ME)
 http://bolly360.xyz:80/zee.php?c=zeecinemame
+#EXTINF:-1 tvg-id="ZEE HINDUSTAN (IND)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Zee_Hindustan_Logo.png/799px-Zee_Hindustan_Logo.png"group-title="NEWS / BUSINESS CHANNELS",ZEE HINDUSTAN (INDIA)
+http://bolly360.xyz:80/zee.php?c=hindustan
