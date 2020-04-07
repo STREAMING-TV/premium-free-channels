@@ -890,3 +890,5 @@ http://bolly360.xyz:80/zee.php?c=andflix
 http://bolly360.xyz:80/zee.php?c=andpicshd
 #EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_580/PORTRAIT/sjM1MbFR.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA HD (IN)
 http://bolly360.xyz:80/zee.php?c=zcinemahd
+#EXTINF:-1 tvg-id="ZEE ACTION" tvg-logo="https://www.adgully.com/img/800/201909/jby7kv1wjoonygtffhu5.png.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE ACTION (IN)
+http://bolly360.xyz:80/zee.php?c=action
