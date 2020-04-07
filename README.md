@@ -724,7 +724,7 @@ https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
 #EXTINF:-1 tvg-id="ZEE SALAAM (INDIA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/Zee_Salaam_Hindi_Logo.jpg" group-title="NEWS / BUSINESS CHANNELS",ZEE SALAAM (IN)
 http://bolly360.xyz:80/zee.php?c=zeesalaam
 #EXTINF:-1 tvg-id="DD INDIA (INDIA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1d/DD_India_2019.jpg" group-title="NEWS / BUSINESS CHANNELS",DD INDIA (IN)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddindia/index.m3u8
+http://bolly360.xyz:80/zee.php?c=ddindia
 #EXTINF:-1 tvg-id="DD SPORTS (INDIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/DDSportsLogo.png/240px-DDSportsLogo.png"  group-title="SPORTS CHANNELS",DD SPORTS (IN)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1,tvg-id="INDIA TODAY (INDIA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/India_Today_TV.jpg" group-title="NEWS / BUSINESS CHANNELS",INDIA TODAY (IN)
