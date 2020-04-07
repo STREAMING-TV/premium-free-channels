@@ -888,3 +888,5 @@ http://bolly360.xyz:80/zee.php?c=andprivehd
 http://bolly360.xyz:80/zee.php?c=andflix
 #EXTINF:-1 tvg-id="& PICTURES HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",& PICTURES HD (IN)
 http://bolly360.xyz:80/zee.php?c=andpicshd
+#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_580/PORTRAIT/sjM1MbFR.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA HD (IN)
+http://bolly360.xyz:80/zee.php?c=zcinemahd
