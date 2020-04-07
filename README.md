@@ -880,3 +880,5 @@ http://bolly360.xyz:80/zee.php?c=ztvme
 http://bolly360.xyz:80/zee.php?c=ztvsdusa
 #EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (IN)
 http://bolly360.xyz:80/zee.php?c=zeetvsd
+#EXTINF:-1 tvg-id="AND TV HD" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",AND TV HD (IN)
+http://bolly360.xyz:80/zee.php?c=andtvhd
