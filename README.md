@@ -884,3 +884,5 @@ http://bolly360.xyz:80/zee.php?c=zeetvsd
 http://bolly360.xyz:80/zee.php?c=andtvhd
 #EXTINF:-1 tvg-id="AND TV HD" tvg-logo="https://i.pinimg.com/originals/42/0c/fa/420cfa62cb7893056442c1697cfa2636.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",AND TV HD (USA)
 http://bolly360.xyz:80/zee.php?c=andtvhdusa
+#EXTINF:-1 tvg-id="AND TV" tvg-logo="http://www.plexflix.to/plexflix.to/picons/Indian/AND%20TV%20%28Indian%29.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",AND TV (IN)
+http://bolly360.xyz:80/zee.php?c=andtvsd
