@@ -8,7 +8,7 @@ https://m-c15-j2apps.s.llnwi.net/hls/0284.DDNorthEast.in.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_English.png"group-title="NEWS / BUSINESS CHANNELS",CVR NEWS (INDIA)
 https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png"group-title="NEWS / BUSINESS CHANNELS",ZEE BUSINESS (INDIA)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeebusiness/index.m3u8
+http://bolly360.xyz:80/zee.php?c=zeebusiness
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png"group-title="NEWS / BUSINESS CHANNELS", NEWS 18 ASSAM (INDIA)
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png"group-title="MUSIC / YOUTH CHANNELS",ZOOM (INDIA)
@@ -20,7 +20,7 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/ind
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Mix.png"group-title="MUSIC / YOUTH CHANNELS",SONY MIX (INDIA)
 http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/zing-tv-us-black.png"group-title="MUSIC / YOUTH CHANNELS",ZING (UNITED STATE OF AMERICA)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zingusa/index.m3u8
+http://bolly360.xyz:80/zee.php?c=zingusa
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY_400x400.jpg"group-title="MUSIC / YOUTH CHANNELS",ZING (INDIA)
 http://livecdnh1.tvanywhere.ae/hls/zing/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KnpCnyh.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",B4U PLUS (ME)
@@ -36,15 +36,15 @@ https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/psZPO9A.png" group-title="NEWS / BUSINESS CHANNELS",TIMES NOW (IN)
 https://m-c20-j2apps.s.llnwi.net/hls/0087.TimesNow.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1afZq9TFqwc/maxresdefault.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (IN)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
+http://bolly360.xyz:80/zee.php?c=zeetvhd
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_446/ic_logo_zee_TV_HD_1.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (USA)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ztvhdusa/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4a/d3/62/4ad362abea44922e6b7221856f774d3d.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (APAC)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/apacsea/index.m3u8
+http://bolly360.xyz:80/zee.php?c=ztvhdusa
+EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4a/d3/62/4ad362abea44922e6b7221856f774d3d.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (APAC)
+http://bolly360.xyz:80/zee.php?c=apacsea
 #EXTINF:-1 tvg-id="ZEE TV (UNITED KINGDOM)" tvg-logo="https://www.exchange4media.com/news-photo/1508122527_OJuLfs_zee.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (UK)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvsduk/index.m3u8
+http://bolly360.xyz:80/zee.php?c=zeetvsduk
 #EXTINF:-1 tvg-id="ZEE TV (CANADA)" tvg-logo="http://shaw.tmsimg.com/assets/s79632_ll_h3_ac.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (CANADA)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/canadahd/index.m3u8
+http://bolly360.xyz:80/zee.php?c=canadahd
 #EXTINF:-1 tvg-id="ZEE TV (NEW YORK)" tvg-logo="https://1.bp.blogspot.com/-JmZB8G7G3bw/XceuY8qcbWI/AAAAAAAAFgM/wW5dhU4-Y8MlIN-DHp8yHbChqAC-L1u0QCEwYBhgL/s320/zee-tv-us.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (USA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ztvsdusa/index.m3u8
 #EXTINF:-1 tvg-id="ZEE TV (INDIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (IN)
