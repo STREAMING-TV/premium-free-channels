@@ -882,3 +882,5 @@ http://bolly360.xyz:80/zee.php?c=andtvsd
 http://bolly360.xyz:80/zee.php?c=smileusa
 #EXTINF:-1 tvg-id="ZEE CAFE" tvg-logo="https://www.adgully.com/img/800/202001/zee-cafe-logo.png.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CAFE (IN)
 http://bolly360.xyz:80/zee.php?c=zeecafesd
+#EXTINF:-1 tvg-id="& PRIVE HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/%26priv%C3%A9_HD.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",& PRIVE HD (IN)
+http://bolly360.xyz:80/zee.php?c=andprivehd
