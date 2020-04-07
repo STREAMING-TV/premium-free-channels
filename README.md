@@ -87,8 +87,8 @@ http://163.172.209.107:8000/play/a006/index.m3u8
 http://bolly360.xyz:80/zee.php?c=wion
 #EXTINF:-1 tvg-logo="http://www.bestmediainfo.com/wp-content/uploads/2015/09/Living-Foodz-logo.jpg"group-title="LIFESTYLE / TRAVELING CHANNELS",LIVING FOODZ (INDIA)
 http://bolly360.xyz:80/zee.php?c=livingfoodz
-#EXTINF:-1 tvg-id="ZEE ETC (INDIA)"  tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_etc_bollywood.png"group-title="MUSIC / YOUTH CHANNELS",ZEE ETC (INDIA)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/etc/index.m3u8
+#EXTINF:-1 tvg-id="ZEE ETC (IND)"  tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_etc_bollywood.png"group-title="MUSIC / YOUTH CHANNELS",ZEE ETC (INDIA)
+http://bolly360.xyz:80/zee.php?c=etc
 #EXTINF:-1 tvg-id="9X JALWA (INDIA)"  tvg-logo="https://www.exchange4media.com/news-photo/1530525962_xUFdBo_9X-Jalwa.jpg"group-title="MUSIC / YOUTH CHANNELS",9X JALWA (IND)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/9xjalwa/index.m3u8
 #EXTINF:-1 tvg-id="ZEE NEWS (INDIA)"  tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/01/04/773839-zee-news-logo.jpg"group-title="NEWS / BUSINESS CHANNELS",ZEE NEWS (INDIA)
