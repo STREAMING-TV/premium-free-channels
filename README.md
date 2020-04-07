@@ -47,12 +47,6 @@ http://bolly360.xyz:80/zee.php?c=zeetvsduk
 http://bolly360.xyz:80/zee.php?c=canadahd
 #EXTINF:-1 tvg-id="AND TV HD (INDIA)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/TV-HD-1-2.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",AND TV HD (IN)
 http://45.120.188.76:8080/0.ts
-#EXTINF:-1 tvg-id="AND TV HD (INDIA)" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",AND TV HD (IN)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
-#EXTINF:-1 tvg-id="AND TV HD (NEW YORK)" tvg-logo="https://i.pinimg.com/originals/42/0c/fa/420cfa62cb7893056442c1697cfa2636.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",AND TV HD (USA)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhdusa/index.m3u8
-#EXTINF:-1 tvg-id="AND TV (INDIA)" tvg-logo="http://www.plexflix.to/plexflix.to/picons/Indian/AND%20TV%20%28Indian%29.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",AND TV (IN)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvsd/index.m3u8
 #EXTINF:-1 tvg-id="AXN (MALAYSIA)" tvg-logo="http://nileonweekends.com/wp-content/uploads/2019/02/AXN-featured-image-1140x660.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",AXN (MAL)
 http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-g7kclnMAZPA/T3ClVDJR-vI/AAAAAAAAEsA/goncQjp63AI/s500/Investigation+Discovery+logo+2012.jpg"group-title="INFORMATION / WILDLIFE CHANNELS ",ID (USA)
@@ -886,3 +880,5 @@ http://bolly360.xyz:80/zee.php?c=andtvhd
 http://bolly360.xyz:80/zee.php?c=andtvhdusa
 #EXTINF:-1 tvg-id="AND TV" tvg-logo="http://www.plexflix.to/plexflix.to/picons/Indian/AND%20TV%20%28Indian%29.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",AND TV (IN)
 http://bolly360.xyz:80/zee.php?c=andtvsd
+#EXTINF:-1 tvg-id="ZEE SMILE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/Zee_Smile_2017.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE SMILE (USA)
+http://bolly360.xyz:80/zee.php?c=smileusa
