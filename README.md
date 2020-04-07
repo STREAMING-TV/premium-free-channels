@@ -880,3 +880,5 @@ http://stream.tapmad.com:1935/pitvlive2/masalanew3/chunklist.m3u8
 https://ch.iptvmate.net/5f24f642017e3fae6fca576aaf4ef0f3.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/82/Zee_TV_HD_2017-0.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (ME)
 http://bolly360.xyz:80/zee.php?c=ztvme
+#EXTINF:-1 tvg-id="ZEE TV (NEW YORK)" tvg-logo="https://1.bp.blogspot.com/-JmZB8G7G3bw/XceuY8qcbWI/AAAAAAAAFgM/wW5dhU4-Y8MlIN-DHp8yHbChqAC-L1u0QCEwYBhgL/s320/zee-tv-us.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (USA)
+http://bolly360.xyz:80/zee.php?c=ztvsdusa
