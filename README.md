@@ -884,3 +884,5 @@ http://bolly360.xyz:80/zee.php?c=smileusa
 http://bolly360.xyz:80/zee.php?c=zeecafesd
 #EXTINF:-1 tvg-id="& PRIVE HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/%26priv%C3%A9_HD.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",& PRIVE HD (IN)
 http://bolly360.xyz:80/zee.php?c=andprivehd
+#EXTINF:-1 tvg-id="& FLIX" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/06/06/flix.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",& FLIX (IN)
+http://bolly360.xyz:80/zee.php?c=andflix
