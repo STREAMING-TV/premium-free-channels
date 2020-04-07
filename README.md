@@ -244,13 +244,13 @@ https://m-c03-j2apps.s.llnwi.net/hls/6640.SkystarMusic.in.m3u8
 #EXTINF:-1 tvg-id="BOX CINEMA (INDIA)"  tvg-logo="http://boxcinemedia.com/assets/img/logo.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",BOX CINEMA (IN) 
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
 #EXTINF:-1 tvg-id="ZEE BOLLYWOOD (INDIA)" tvg-logo="https://www.rapidtvnews.com/images/2018/08/Zee_bollywood_21AUg2018.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE BOLLYWOOD (IN)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/classic/index.m3u8
+http://bolly360.xyz:80/zee.php?c=classic
 #EXTINF:-1 tvg-id="ZEE ANMOL CINEMA (INDIA)"  tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_list/zee_anmol_cinem_1599910972.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE ANMOL CINEMA (IN)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zanmolcnm/index.m3u8
+http://bolly360.xyz:80/zee.php?c=zanmolcnm
 #EXTINF:-1 tvg-id="ZEE ANMOL (INDIA)"  tvg-logo="https://www.zeeinternational.co.in/wp-content/uploads/2018/02/Zee-Anmol.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE ANMOL (IN)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeeanmol/index.m3u8
+http://bolly360.xyz:80/zee.php?c=zeeanmol
 #EXTINF:-1 tvg-id="BIG MAGIC (INDIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/BIG_Magic_Logo.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",BIG MAGIC (IN)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/bigmagic/index.m3u8
+http://bolly360.xyz:80/zee.php?c=bigmagic
 #EXTINF:-1 tvg-id="SONY PAL (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/10/Sony_Pal.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY PAL (IN) 
 https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-id="MONORANJAN MOVIES (IN)" tvg-logo="https://www.shatayupathy.com/wp-content/uploads/2018/05/1-1.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MANORANJAN MOVIES (IN)
