@@ -878,4 +878,5 @@ http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 http://stream.tapmad.com:1935/pitvlive2/masalanew3/chunklist.m3u8
 #EXTINF:-1 tvg-id="NEWSCENTER 7" tvg-logo="https://pbs.twimg.com/media/DjYjBWRX0AEPjMH.jpg" group-title="NEWS / BUSINESS CHANNELS",NEWSCENTER 7 (USA)
 https://ch.iptvmate.net/5f24f642017e3fae6fca576aaf4ef0f3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1afZq9TFqwc/maxresdefault.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (IN)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1afZq9TFqwc/maxresdefault.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (ME)
+http://bolly360.xyz:80/zee.php?c=ztvme
