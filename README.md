@@ -92,7 +92,7 @@ http://bolly360.xyz:80/zee.php?c=etc
 #EXTINF:-1 tvg-id="9X JALWA (IND)"  tvg-logo="https://www.exchange4media.com/news-photo/1530525962_xUFdBo_9X-Jalwa.jpg"group-title="MUSIC / YOUTH CHANNELS",9X JALWA (IND)
 http://bolly360.xyz:80/zee.php?c=9xjalwa
 #EXTINF:-1 tvg-id="ZEE NEWS (IND)"  tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/01/04/773839-zee-news-logo.jpg"group-title="NEWS / BUSINESS CHANNELS",ZEE NEWS (INDIA)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeenews/index.m3u8
+http://bolly360.xyz:80/zee.php?c=zeenews
 #EXTINF:-1 tvg-id="9XM (INDIA)"  tvg-logo="https://cdn.clipart.email/47528cb00781591f081afb045e0f3981_funmania_1600-929.jpeg"group-title="MUSIC / YOUTH CHANNELS",9XM (INDIA)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/9xm/index.m3u8
 #EXTINF:-1 tvg-id="THE Q INDIA (INDIA)"  tvg-logo="https://www.rapidtvnews.com/images/2019/Aug_2019/The_Q_India_logo_-_7_August_2019.png"group-title="MUSIC / YOUTH CHANNELS",THE Q INDIA (INDIA)
