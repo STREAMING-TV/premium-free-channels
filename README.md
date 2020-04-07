@@ -514,7 +514,7 @@ http://125.209.99.45:43568/BRN/CartoonNetwork.stream/chunklist_w903275600.m3u8
 #EXTINF:-1 ch-id="SONY TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/883px-SET_India_logo.svg.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY TV (IN)
 http://103.205.133.42:1935/local/sony_entertainment_720/chunklist.m3u8
 #EXTINF:-1 ch-id="ZEE CLASSIC (IN)" tvg-logo="https://www.televisionpost.com/wp-content/uploads/2019/05/Zee-Classic-cover.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CLASSIC (IN)
-http://173.212.237.70/zee5.php?url=https://z5ams.akamaized.net/out/v1/74df8b02f8ab47909df9a9f3189a1012/index.m3u8
+http://bolly360.xyz:80/zee.php?c=74df8b02f8ab47909df9a9f3189a1012
 #EXTINF:-1 tvg-id="VH1 (USA)" tvg-logo="https://www.logolynx.com/images/logolynx/55/552d6c6fe344db49d7d9943e2a4b0dab.png" group-title="MUSIC / YOUTH CHANNELS",VH1 (USA)
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
 #EXTINF:-1 tvg-id="SBI MUSIC (PK)" tvg-logo="https://i.ibb.co/g6Fggh3/SBI-MUSIC.jpg" group-title="MUSIC / YOUTH CHANNELS",SBI MUSIC (PK)
@@ -548,7 +548,7 @@ http://109.169.56.170/hls/zetc.m3u8
 #EXTINF:-1 tvg-id="E24 (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/ba/E24_new.jpeg" group-title="MUSIC / YOUTH CHANNELS",E24 (IN)
 http://livecdnh3.tvanywhere.ae/hls/e24/02.m3u8
 #EXTINF:-1 tvg-id="ZING (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/91/Zing_300x300.png" group-title="MUSIC / YOUTH CHANNELS",ZING (IN)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zing/index.m3u8
+http://bolly360.xyz:80/zee.php?c=zing
 #EXTINF:-1 tvg-id="WWE/USA (UNITED STATE)" tvg-logo="https://corporate.wwe.com/~/media/Images/W/WWE/content-images/news/wwe-usa-logo.jpg"  group-title="SPORTS CHANNELS",WWE/USA (UNITED STATE)
 http://cdnak10.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 tvg-id="RK TV (IN)" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a42ce5e41e35188c4368adc14005a10.jpeg" group-title="ADULT CHANNELS",RK TV (INT)
@@ -624,7 +624,7 @@ http://103.205.133.42:1935/local/sony_yay_720/chunklist.m3u8
 #EXTINF:-1 tvg-id="E24 (IN)" tvg-logo="https://i.pinimg.com/originals/b0/bb/50/b0bb507caa0a22ef3b062f74f5482168.jpg" group-title="MUSIC / YOUTH CHANNELS",E24 (IN)
 http://173.212.237.70/zee5.php?url=https://z5ams.akamaized.net/out/v1/78239452a9944713bf0dfd0946a55ad5/index.m3u8
 #EXTINF:-1 tvg-id="DD BANGLA (IN)" tvg-logo="https://pbs.twimg.com/profile_images/521344904044101632/rDRAPIOM.jpeg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",DD BANGLA (IN)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddbangla/index.m3u8
+http://bolly360.xyz:80/zee.php?c=ddbangla
 #EXTINF:-1 tvg-id="VENUS TV (UK)" tvg-logo="https://www.prakashastrologer.com/wp-content/uploads/2014/09/VENUS-TV.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",VENUS TV (UK)
 https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
 #EXTINF:-1 tvg-id="NEWS 18 LOKMAT (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f2/News18_Lokmat.jpg" group-title="NEWS / BUSINESS CHANNELS",NEWS 18 LOKMAT (IN)
@@ -722,7 +722,7 @@ https://cdn-laos.workpoint.news/hd-fx_720/index.m3u8
 #EXTINF:-1 tvg-id="FOX CRIME (BANGKOK)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1562578594_fox-crime-lg.png"  group-title="INFORMATION / WILDLIFE CHANNELS",FOX CRIME (BBK)
 https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
 #EXTINF:-1 tvg-id="ZEE SALAAM (INDIA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/Zee_Salaam_Hindi_Logo.jpg" group-title="NEWS / BUSINESS CHANNELS",ZEE SALAAM (IN)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeesalaam/index.m3u8
+http://bolly360.xyz:80/zee.php?c=zeesalaam
 #EXTINF:-1 tvg-id="DD INDIA (INDIA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1d/DD_India_2019.jpg" group-title="NEWS / BUSINESS CHANNELS",DD INDIA (IN)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddindia/index.m3u8
 #EXTINF:-1 tvg-id="DD SPORTS (INDIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/DDSportsLogo.png/240px-DDSportsLogo.png"  group-title="SPORTS CHANNELS",DD SPORTS (IN)
@@ -813,9 +813,9 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/in
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/AAJ_News.png"  group-title="NEWS / BUSINESS CHANNELS",AAJ NEWS (UK)
 http://162.250.201.58:6211/uk/A1TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Satsang.jpeg" group-title="DEVOTIONAL CHANNELS", SATSANG (IND)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/satsangtv/index.m3u8
+http://bolly360.xyz:80/zee.php?c=satsangtv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/10/7f/2a/107f2a60f58e16c1388c88f95ae4b957.jpg" group-title="DEVOTIONAL CHANNELS", SANSKAR TV (IND) 
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/sanskartv/index.m3u8
+http://bolly360.xyz:80/zee.php?c=sanskartv
 #EXTINF:-1 tvg-logo="https://gumlet.assettype.com/thequint/2018-04/eb848cad-ca7d-4fbb-848b-839b45e245b9/04fc69b3d65f090543a75175a20656c6.jpg"  group-title="MUSIC / YOUTH CHANNELS",ZOOM (IND)
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/AhlulbaytTV.png" group-title="DEVOTIONAL CHANNELS",AHLULBAYT TV (MIDDLE EAST)
