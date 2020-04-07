@@ -53,8 +53,6 @@ http://210.210.155.66/h/h141/01.m3u8
 http://84.22.33.254/unicast.id/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png"group-title="LIFESTYLE / TRAVELING CHANNELS",TLC (USA)
 http://84.22.33.254/unicast.tlc/index.m3u8
-#EXTINF:-1 tvg-id="ZEE SMILE (NEW YORK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/Zee_Smile_2017.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE SMILE (USA)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/smileusa/index.m3u8
 #EXTINF:-1 tvg-id="COLORS TV (ASIA PACIFIC)" tvg-logo="https://www.tellyupdates.com/wp-content/uploads/2020/01/colors.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",COLORS TV (APAC)
 http://103.111.120.46/hls/Colors.m3u8
 #EXTINF:-1 tvg-id="MULTIPLEX (INDIA)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/multiplex-tv-channel-logo-300x300.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MULTIPLEX (IN)
@@ -882,3 +880,5 @@ http://bolly360.xyz:80/zee.php?c=andtvhdusa
 http://bolly360.xyz:80/zee.php?c=andtvsd
 #EXTINF:-1 tvg-id="ZEE SMILE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/Zee_Smile_2017.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE SMILE (USA)
 http://bolly360.xyz:80/zee.php?c=smileusa
+#EXTINF:-1 tvg-id="ZEE CAFE" tvg-logo="https://www.adgully.com/img/800/202001/zee-cafe-logo.png.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CAFE (IN)
+http://bolly360.xyz:80/zee.php?c=zeecafesd
