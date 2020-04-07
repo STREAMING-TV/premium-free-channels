@@ -61,8 +61,6 @@ http://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in.m3u8
 https://usb.bozztv.com/ssh101/TBB2/TBB2/index.m3u8
 #EXTINF:-1 tvg-id="CARTOON NATWORK (INDIA)" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_black.png"group-title="KIDS CHANNELS",CARTOON NATWORK (IN)
 http://stream.tapmad.com:1935/pitvlive2/cartoon_240p/chunklist.m3u8
-#EXTINF:-1 tvg-id="ZEE CINEMA (MIDDLE EAST)" tvg-logo="https://adhub.lk/attachments-2.1.0/channel-logos/fid_2529_zee-cinema-1.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA (ME)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecinemame/index.m3u8
 #EXTINF:-1 tvg-id="PASSION XXX (INT)" tvg-logo="http://i.imgur.com/6Nr8Bqk.png"group-title="ADULT CHANNELS",PASSION XXX (INT)
 http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/playlist.m3u8
 #EXTINF:-1 tvg-id="HUSTLER HD (INTERNATIONAL)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png"group-title="ADULT CHANNELS",HUSTLER HD (INT)
@@ -83,8 +81,6 @@ http://84.22.33.254/unicast.eroxhd/index.m3u8
 http://188.35.9.5:10007/stolen/246r/parasite.install
 #EXTINF:-1 tvg-logo="https://www.zeeinternational.co.in/wp-content/uploads/2018/02/Zee-Living.png"group-title="LIFESTYLE / TRAVELING CHANNELS",ZEE LIVING (USA)
 http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.inkspell.co.in/wp-content/uploads/2019/06/show_BOX-logo-Epic-Channel-1.png"group-title="MUSIC / YOUTH CHANNELS",SHOW BOX (INDIA)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/live/amlst:showbox_,b180,b320,b640,b860,b1400,.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HUSTLER TV (INTERNATIONAL)"  tvg-logo="http://www.mscnoticiaslatam.com/wp-content/uploads/2014/03/HustlerTV-logo.jpg"group-title="ADULT CHANNELS",HUSTLER TV (INTERNATIONAL)
 http://163.172.209.107:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="ZEE HINDUSTAN (INDIA)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Zee_Hindustan_Logo.png/799px-Zee_Hindustan_Logo.png"group-title="NEWS / BUSINESS CHANNELS",ZEE HINDUSTAN (INDIA)
