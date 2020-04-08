@@ -883,3 +883,4 @@ http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
 #EXTINF:-1 tvg-id="&PICTURES (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2b/%26pictures.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",&PICTURES (IND)
 http://zee18.site/zee/get.php?channel=andpicssd
 #EXTINF:-1 tvg-id="23ABC (USA)" tvg-logo="https://i.ytimg.com/vi/72NUeCVJXEc/maxresdefault.jpg"  group-title="NEWS / BUSINESS CHANNELS",23ABC (USA)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
