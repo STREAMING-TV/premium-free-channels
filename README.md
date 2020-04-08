@@ -895,3 +895,4 @@ http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-I'd="BBC NEWS (UK)" tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/13551/production/_91758197_p01tlf61.jpg" group-title="NEWS / BUSINESS CHANNELS",BBC NEWS (UK)
 http://51.52.156.22:8888/http/004
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/800px-2019_Discovery_logo.svg.png" group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY CHANNEL (IN)
+https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8
