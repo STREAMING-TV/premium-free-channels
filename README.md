@@ -891,3 +891,4 @@ http://api.new.livestream.com/accounts/6395980/events/2598380/live.m3u8
 #EXTINF:-1 tvg-id="ITV2 (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/ITV2_2015_Gray-Light_Gray_Gradiant.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ITV2 (UK)
 http://51.52.156.22:8888/http/005
 #EXTINF:-1 tvg-id="BBC CBEEBIES (UK)" tvg-logo="https://www.licenseglobal.com/sites/licenseglobal.com/files/styles/article_featured_retina/public/cbeebies.png"  group-title="KIDS CHANNELS",BBC CBEEBIES (UK)
+http://51.52.156.22:8888/http/003
