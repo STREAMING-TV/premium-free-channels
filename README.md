@@ -898,3 +898,4 @@ http://51.52.156.22:8888/http/004
 https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="ZEE BANGLA (IND)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zeebangla/list/zee_bangla_386x3_745970677.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",MULTIPLEX  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE BANGLA (IN)
 http://43.251.86.2:8080/hls/channel_1.m3u8
+ #EXTINF:-1 tvg-I'd="STAR PLUS HD (IN)" tvg-logo="http://pcmc.in/newpcmc/images/start_logos/star-plus_hd.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS HD (IND) 
