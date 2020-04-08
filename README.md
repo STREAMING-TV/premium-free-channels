@@ -887,3 +887,4 @@ https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 tvg-id="FOOD NETWORK (USA)" tvg-logo="https://www.pngfind.com/pngs/m/36-364764_food-network-logo-png-food-network-logo-white.png" group-title="LIFESTYLE / TRAVELING CHANNELS",FOOD NETWORK (USA)
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1 tvg-id="FOX4 (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Wftx_2008.png"  group-title="NEWS / BUSINESS CHANNELS",FOX4 (USA) 
+http://api.new.livestream.com/accounts/6395980/events/2598380/live.m3u8
