@@ -888,3 +888,4 @@ https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1 tvg-id="FOX4 (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Wftx_2008.png"  group-title="NEWS / BUSINESS CHANNELS",FOX4 (USA) 
 http://api.new.livestream.com/accounts/6395980/events/2598380/live.m3u8
+#EXTINF:-1 tvg-id="ITV2 (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/ITV2_2015_Gray-Light_Gray_Gradiant.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ITV2 (UK)
