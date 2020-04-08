@@ -897,3 +897,4 @@ http://51.52.156.22:8888/http/004
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/800px-2019_Discovery_logo.svg.png" group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY CHANNEL (IN)
 https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="ZEE BANGLA (IND)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zeebangla/list/zee_bangla_386x3_745970677.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",MULTIPLEX  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE BANGLA (IN)
+http://43.251.86.2:8080/hls/channel_1.m3u8
