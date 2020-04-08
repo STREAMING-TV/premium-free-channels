@@ -901,3 +901,4 @@ http://43.251.86.2:8080/hls/channel_1.m3u8
 #EXTINF:-1 tvg-I'd="STAR PLUS HD (IN)" tvg-logo="http://pcmc.in/newpcmc/images/start_logos/star-plus_hd.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS HD (IND) 
 http://103.115.159.37:8080/starplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZEE TV (APAC)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zee-tv.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (APAC)
+http://103.115.159.37:8080/zeetv/tracks-v1a1/mono.m3u8
