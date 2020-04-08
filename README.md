@@ -893,3 +893,4 @@ http://51.52.156.22:8888/http/005
 #EXTINF:-1 tvg-id="BBC CBEEBIES (UK)" tvg-logo="https://www.licenseglobal.com/sites/licenseglobal.com/files/styles/article_featured_retina/public/cbeebies.png"  group-title="KIDS CHANNELS",BBC CBEEBIES (UK)
 http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-I'd="BBC NEWS (UK)" tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/13551/production/_91758197_p01tlf61.jpg" group-title="NEWS / BUSINESS CHANNELS",BBC NEWS (UK)
+http://51.52.156.22:8888/http/004
