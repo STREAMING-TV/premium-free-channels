@@ -98,7 +98,7 @@ http://bolly360.xyz:80/zee.php?c=9xm
 #EXTINF:-1 tvg-id="THE Q INDIA (IND)"  tvg-logo="https://www.rapidtvnews.com/images/2019/Aug_2019/The_Q_India_logo_-_7_August_2019.png"group-title="MUSIC / YOUTH CHANNELS",THE Q INDIA (INDIA)
 http://bolly360.xyz:80/zee.php?c=theqyou
 #EXTINF:-1 tvg-id="DD BHARATI (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f9/DD_Bharati_2018.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",DD BHARATI (INDIA)
-http://bolly360.xyz:80/zee.php?c=ddbharati
+http://zee18.site/zee/get.php?channel=out/v1/03d04d1461114e9083d382ab0054ac2c 
 #EXTINF:-1 tvg-id="ZEE WORLD (SA)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/Zee_World_Extraordinary._Everyday..jpg "group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE WORLD (SOUTH AFRICA)
 http://bolly360.xyz:80/zee.php?c=world
 #EXTINF:-1 tvg-id="VH1 (NEW YORK)"  tvg-logo="https://mms.businesswire.com/media/20180301006441/en/643788/22/2017VH1.jpg"group-title="MUSIC / YOUTH CHANNELS",VH1 (UNITED STATE)
@@ -514,7 +514,7 @@ http://125.209.99.45:43568/BRN/CartoonNetwork.stream/chunklist_w903275600.m3u8
 #EXTINF:-1 ch-id="SONY TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/883px-SET_India_logo.svg.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY TV (IN)
 http://103.205.133.42:1935/local/sony_entertainment_720/chunklist.m3u8
 #EXTINF:-1 ch-id="ZEE CLASSIC (IN)" tvg-logo="https://www.televisionpost.com/wp-content/uploads/2019/05/Zee-Classic-cover.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CLASSIC (IN)
-http://bolly360.xyz:80/zee.php?c=74df8b02f8ab47909df9a9f3189a1012
+http://zee18.site/zee/get.php?channel=out/v1/74df8b02f8ab47909df9a9f3189a1012
 #EXTINF:-1 tvg-id="VH1 (USA)" tvg-logo="https://www.logolynx.com/images/logolynx/55/552d6c6fe344db49d7d9943e2a4b0dab.png" group-title="MUSIC / YOUTH CHANNELS",VH1 (USA)
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
 #EXTINF:-1 tvg-id="SBI MUSIC (PK)" tvg-logo="https://i.ibb.co/g6Fggh3/SBI-MUSIC.jpg" group-title="MUSIC / YOUTH CHANNELS",SBI MUSIC (PK)
