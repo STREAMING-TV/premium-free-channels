@@ -912,3 +912,4 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="FOX ACTION MOVIES (MAL)" tvg- logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/1200px-Fox_Action_Movies_logo.svg.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX ACTION MOVIES (MAL)
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 tvg-id="SONY TV (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/Logo-animated-new.gif" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY TV (IN)
