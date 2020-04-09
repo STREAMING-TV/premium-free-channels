@@ -908,3 +908,4 @@ https://v-pi.mybtv.net/event/17.2/640x480?start_time=2019-12-11T20%3A45%3A00.000
 http://51.52.156.22:8888/http/015
 #EXTINF:-1 tvg-id="ET (USA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/38/Entertainment_Tonight_Logo.png" group-title="ENTERTAINMENT / MOVIES CHANNELS", ET (USA)
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTINF:-1 tvg-id="DOCU BOX (INT)" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/docubox-logo.png"  group-title="INFORMATION / WILDLIFE CHANNELS",DOCU BOX (INT)
