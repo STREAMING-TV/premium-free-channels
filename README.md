@@ -900,5 +900,5 @@ http://103.115.159.37:8080/sony/tracks-v1a1/mono.m3u8
 http://103.115.159.37:8080/zeecinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SONY MAX (IND)" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/SONY-MAX.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY MAX (IN)
 http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ch-id="STAR GOLD HD (IN)" tvg-logo="https://dreamdth.com/community/proxy.php?image=https%3A%2F%2Fwww.startv.com%2Fmedia%2F3525%2Fstar_gold_hd_1920_x_960_pxl_black.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD HD (IN)
+#EXTINF:-1 ch-id="STAR GOLD HD (IN)" tvg-logo="https://i.ytimg.com/vi/zk9ZgckCjlk/maxresdefault.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD HD (IN)
 http://103.115.159.37:8080/stargold/tracks-v1a1/mono.m3u8
