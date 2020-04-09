@@ -899,3 +899,4 @@ http://103.115.159.37:8080/sony/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA (APAC)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_441/PORTRAIT/Zux6faL8.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA-APAC
 http://103.115.159.37:8080/zeecinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SONY MAX (IND)" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/SONY-MAX.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY MAX (IN)
+http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8
