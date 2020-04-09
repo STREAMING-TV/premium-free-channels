@@ -896,7 +896,8 @@ http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8?fluxustv.m3u8
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-id="SONY TV (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/Logo-animated-new.gif" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY TV (IN)
 http://103.115.159.37:8080/sony/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ch-id="ZEE CINEMA (APAC)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_441/PORTRAIT/Zux6faL8.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA-APAC
+#EXTINF:-1 ch-id="ZEE CINEMA (APAC)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_441/PORTRAIT/Zux6faL8.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA (APAC)
 http://103.115.159.37:8080/zeecinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SONY MAX (IND)" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/SONY-MAX.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY MAX (IN)
 http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ch-id="STAR GOLD HD (IN)" tvg-logo="https://dreamdth.com/community/proxy.php?image=https%3A%2F%2Fwww.startv.com%2Fmedia%2F3525%2Fstar_gold_hd_1920_x_960_pxl_black.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD HD (IN)
