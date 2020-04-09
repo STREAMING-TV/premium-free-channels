@@ -906,3 +906,4 @@ http://103.115.159.37:8080/zeetv/tracks-v1a1/mono.m3u8
 https://v-pi.mybtv.net/event/17.2/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
 #EXTINF:-1 tvg-id="POP (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Pop_%28UK_TV_channel%29_logo.png"  group-title="POP CHANNELS",POP (UK)
 http://51.52.156.22:8888/http/015
+#EXTINF:-1 tvg-id="ET (USA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/38/Entertainment_Tonight_Logo.png" group-title="ENTERTAINMENT / MOVIES CHANNELS", ET (USA)
