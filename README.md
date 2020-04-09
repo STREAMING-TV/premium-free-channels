@@ -902,4 +902,5 @@ http://103.115.159.37:8080/zeecinema/tracks-v1a1/mono.m3u8
 http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="STAR GOLD HD (IN)" tvg-logo="https://i.ytimg.com/vi/zk9ZgckCjlk/maxresdefault.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD HD (IN)
 http://103.115.159.37:8080/stargold/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NAT GEO (IN)" tvg-logo="   " group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO (IN)
+#EXTINF:-1 tvg-id="NAT GEO (IN)" tvg-logo="https://iasbh.tmgrup.com.tr/b3fe05/0/0/0/0/0/0?u=http://i.sabah.com.tr/sb/galeri/dunya/national-geographicten-sok-aciklama/01.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO (IN)
+http://103.115.159.37:8080/natgeo/tracks-v1a1/mono.m3u8
