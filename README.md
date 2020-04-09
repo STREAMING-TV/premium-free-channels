@@ -910,3 +910,4 @@ http://51.52.156.22:8888/http/015
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 tvg-id="DOCU BOX (INT)" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/docubox-logo.png"  group-title="INFORMATION / WILDLIFE CHANNELS",DOCU BOX (INT)
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="FOX ACTION MOVIES (MAL)" tvg- logo="https://www.pngkit.com/png/detail/107-1070585_fox-action-movies.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX ACTION MOVIES (MAL)
