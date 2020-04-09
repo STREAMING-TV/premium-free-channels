@@ -892,7 +892,7 @@ http://51.52.156.22:8888/http/015
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 tvg-id="DOCU BOX (INT)" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/docubox-logo.png"  group-title="INFORMATION / WILDLIFE CHANNELS",DOCU BOX (INT)
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="FOX ACTION MOVIES (MAL)" tvg- logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1330_1.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX ACTION MOVIES (MAL)
+#EXTINF:-1 tvg-id="FOX ACTION MOVIES (MAL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/1200px-Fox_Action_Movies_logo.svg.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX ACTION MOVIES (MAL)
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-id="SONY TV (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/Logo-animated-new.gif" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY TV (IN)
 http://103.115.159.37:8080/sony/tracks-v1a1/mono.m3u8
