@@ -139,8 +139,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 https://cdn.jp.jpnettv.live/jptv/National_geographic/chunklist_w1310243407.m3u8
 #EXTINF:-1 tvg-id="CGTN DOCUMENTARY (ASIA PACIFIC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png"group-title="NEWS / BUSINESS CHANNELS",CGTN DOCUMENTARY (BANGKOK)
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-id="HBO (BANGKOK)" tvg-logo="https://norsis.no/wp-content/uploads/2017/08/hbo.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",HBO (BANGKOK)
-https://delivery.macan.live/stream/hbo/index.m3u8?token=Yq91Jdf0&v=20200308 
+ 
 #EXTINF:-1 tvg-id="MGM (UNITED KINGDOM)" tvg-logo="https://i.pinimg.com/474x/4c/6b/cb/4c6bcbb336cc88924de812efdc15080c.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MGM (UNITED KINGDOM)
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1 tvg-id="HITS TV (JAKARTA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",HITS TV (JAKARTA)
@@ -693,14 +692,7 @@ http://ddn.amrbd.com:8081/live/foxlife/playlist.m3u8
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="ABC NEWS (UNITED STATE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Abc-news-logo.png" group-title="NEWS / BUSINESS CHANNELS",ABC NEWS (USA)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="WWE (UNITED STATE)"  tvg-logo="https://www.stickpng.com/assets/images/5cb487d85f1b6d3fbadece7e.png"  group-title="SPORTS CHANNELS",WWE (USA)
-https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=Yq91Jdf0&v=20200308
-#EXTINF:-1 tvg-id="FOX SPORTS (AUSTRALIA)" tvg-logo="http://allvectorlogo.com/img/2017/08/fox-sports-logo.png"  group-title="SPORTS CHANNELS",FOX SPORTS (AU)
-https://delivery.macan.live/stream/id_foxsport1/index.m3u8?token=Yq91Jdf0&v=20200308
-#EXTINF:-1 tvg-id="DISCOVERY ASIA (BANGKOK)" group-title="INFORMATION / WILDLIFE CHANNELS" tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/05/discovery-asia.jpg",  DISCOVERY ASIA (APAC) 
-https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=Yq91Jdf0&v=20200308
-#EXTINF:-1 tvg-id="BEIN SPORTS (MALAYSIA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/BeINSports2017.png" group-title="SPORTS CHANNELS",BEIN SPORTS (INT)
-https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=Yq91Jdf0&v=20200308
+
 #EXTINF:-1 tvg-id="STAR SPORTS HD (INDIA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg" group-title="SPORTS CHANNELS",STAR  SPORTS 1 HD (IN)
 http://175.41.46.16:8081/hls/1.m3u8
 #EXTINF:-1 tvg-id="SONY SIX HD (INDIA)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_303/PORTRAIT/tJzfDMRk.png"  group-title="SPORTS CHANNELS",SONY SIX HD (IN)
@@ -731,12 +723,7 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 https://ch.iptvmate.net/8d5f98362dfc8a6e88085f89ee1fde9d.m3u8
 #EXTINF:-1 tvg-id="MIRROR NOW (INDIA)"tvg-logo="https://bestmediainfo.com/wp-content/uploads/2018/03/Mirror_Now-new_8.jpg"  group-title="NEWS / BUSINESS CHANNELS",MIRROR NOW (IN) 
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
-#EXTINF:-1 tvg-id="STAR CRICKET (MALAYSIA)" tvg-logo="https://i.pinimg.com/originals/d6/fa/16/d6fa16162a2976d42da418a3cc8ecf17.png"  group-title="SPORTS CHANNELS",STAR CRICKET (MAL)
-https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=Yq91Jdf0&v=20200308
-#EXTINF:-1 tvg-id="RUGBYPASS TV (MALAYSIA)" tvg-logo="https://rugby365.com/wp/wp-content/uploads/post-images/RugbyPAss_logo_new.png"  group-title="SPORTS CHANNELS",RUGBYPASS TV (MAL)
-https://delivery.macan.live/stream/macan_sport_41/index.m3u8?token=Yq91Jdf0&v=20200308
-#EXTINF:-1 tvg-id="BOOMERANG (JAKARTA)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png"  group-title="KIDS CHANNELS",BOOMERANG (JKT)
-https://delivery.macan.live/stream/boomerang/index.m3u8?token=Yq91Jdf0&v=20200308
+
 #EXTINF:-1 tvg-id="PINKO TV (INTERNATIONAL)" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/pink-o-tv.png"  group-title="ADULT CHANNELS",PINKO TV (INT)
 http://cdn.fr01.spr24.net/5880/mono.m3u8?token=hiVi8EHiq86NZA
 #EXTINF:-1 tvg-id="STAR SPORTS 1 HD (INDIA)" tvg-logo="https://i.pinimg.com/736x/5b/ce/2a/5bce2aa395af0eaa8d138d03e944fb9a.jpg" group-title="SPORTS CHANNELS",STAR SPORTS 1 HD (INDIA)
@@ -755,8 +742,7 @@ https://cdn-laos.workpoint.news/hd-discovery_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
 #EXTINF:-1,tvg-id="BBC WORLD NEWS (INTERNATIONAL)" tvg-logo="https://i.ya-webdesign.com/images/bbc-world-news-logo-png-16.png" group-title="NEWS / BUSINESS CHANNELS",BBC WORLD NEWS (INTERNATIONAL)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8 
-#EXTINF:-1 tvg-id="NAT GEO WILD (JAKARTA)" tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/03/logo_ngw.png"  group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (JAKARTA) 
-https://delivery.macan.live/stream/id_natgeowild/index.m3u8?token=Yq91Jdf0&v=20200308
+
 #EXTINF:-1 tvg-id="DISNEY CHANNEL (UNTIED KINGDOM)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="KIDS CHANNELS",DISNEY CHANNEL (UNITED KINGDOM)
 http://gg.gg/lvttdisneychannel1
 #EXTINF:-1 tvg-id="BT SPORT 1 HD (UNITED STATE)" tvg-logo="https://www.thesportsdb.com/images/media/logo/4osx7y1579351981.png"  group-title="SPORTS CHANNELS",BT SPORT 1 HD (UNITED STATE)
