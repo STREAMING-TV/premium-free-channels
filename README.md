@@ -909,3 +909,4 @@ http://51.52.156.22:8888/http/015
 #EXTINF:-1 tvg-id="ET (USA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/38/Entertainment_Tonight_Logo.png" group-title="ENTERTAINMENT / MOVIES CHANNELS", ET (USA)
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 tvg-id="DOCU BOX (INT)" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/docubox-logo.png"  group-title="INFORMATION / WILDLIFE CHANNELS",DOCU BOX (INT)
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8?fluxustv.m3u8
