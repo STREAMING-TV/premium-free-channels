@@ -904,3 +904,4 @@ http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8
 http://103.115.159.37:8080/stargold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NAT GEO (IN)" tvg-logo="https://iasbh.tmgrup.com.tr/b3fe05/0/0/0/0/0/0?u=http://i.sabah.com.tr/sb/galeri/dunya/national-geographicten-sok-aciklama/01.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO (IN)
 http://103.115.159.37:8080/natgeo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="HISTORY (MAL)" tvg-logo="https://pbs.twimg.com/profile_images/1193562287686197253/Fk47KjwT_400x400.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",HISTORY (MAL)
