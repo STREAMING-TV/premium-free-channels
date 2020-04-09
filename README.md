@@ -903,3 +903,4 @@ http://103.115.159.37:8080/starplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZEE TV (APAC)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zee-tv.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (APAC)
 http://103.115.159.37:8080/zeetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PHL17.COM (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/WPHL_2018_logo.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",PHL17.COM (USA) 
+https://v-pi.mybtv.net/event/17.2/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
