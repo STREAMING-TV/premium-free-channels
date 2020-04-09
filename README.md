@@ -829,7 +829,7 @@ https://ch.iptvmate.net/5f24f642017e3fae6fca576aaf4ef0f3.m3u8
 #EXTINF:-1 tvg-I'd="ZEE TV (ME)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/82/Zee_TV_HD_2017-0.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (ME)
 http://bolly360.xyz:80/zee.php?c=ztvme
 #EXTINF:-1 tvg-id="ZEE TV (USA)"  tvg-logo="https://1.bp.blogspot.com/-JmZB8G7G3bw/XceuY8qcbWI/AAAAAAAAFgM/wW5dhU4-Y8MlIN-DHp8yHbChqAC-L1u0QCEwYBhgL/s320/zee-tv-us.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (USA)
-http://zee18.site/zee/get.php?channel=ztvsdusa
+http://bolly360.xyz:80/zee.php?c=ztvsdusa
 #EXTINF:-1 tvg-id="ZEE TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (IN)
 http://bolly360.xyz:80/zee.php?c=zeetvsd
 #EXTINF:-1 tvg-id="AND TV HD (IN)" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",AND TV HD (IN)
