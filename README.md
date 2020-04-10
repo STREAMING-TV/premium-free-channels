@@ -739,8 +739,6 @@ http://cdnak10.cast4u.info/channels/2/10802.m3u8
 http://cdnak10.cast4u.info/channels/3/10803.m3u8
 #EXTINF:-1 tvg-id="MBC MAX HD (MIDDLE EAST)" tvg-logo="https://www.altkiasat.com/wp-content/uploads/2015/11/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%85-%D8%A8%D9%8A-%D8%B3%D9%8A-%D9%85%D8%A7%D9%83%D8%B3-%D8%A7%D8%AA%D8%B4-%D8%AF%D9%8A.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",MBC MAX HD (MIDDLE EAST)
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="CARTOON NATWORK (UNITED KINGDOM)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Cartoon_Network_%2B1_2010_logo.png" group-title="KIDS CHANNELS",CARTOON NATWORK+1 (UNITED KINGDOM)
-http://78.110.169.226:8000/play/a021
 #EXTINF:-1 tvg-id="NEWS NET (UNITED STATE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/NewsNetLogo.png" group-title="NEWS / BUSINESS CHANNELS",NEWS NET (UNITED STATE) 
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="18+ZONE (INT)" tvg-logo="https://previews.123rf.com/images/miceking/miceking1605/miceking160500858/57894068-sexy-woman-with-wings.jpg"  group-title="ADULT CHANNELS",18+ZONE (INT)
@@ -854,8 +852,6 @@ http://5.135.92.133:52841/out/u/502_1.m3u8
 http://api.new.livestream.com/accounts/6395980/events/2598380/live.m3u8
 #EXTINF:-1 tvg-id="ITV2 (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/ITV2_2015_Gray-Light_Gray_Gradiant.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ITV2 (UK)
 http://51.52.156.22:8888/http/005
-#EXTINF:-1 tvg-id="BBC CBEEBIES (UK)" tvg-logo="https://www.licenseglobal.com/sites/licenseglobal.com/files/styles/article_featured_retina/public/cbeebies.png"  group-title="KIDS CHANNELS",BBC CBEEBIES (UK)
-http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-I'd="BBC NEWS (UK)" tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/13551/production/_91758197_p01tlf61.jpg" group-title="NEWS / BUSINESS CHANNELS",BBC NEWS (UK)
 http://51.52.156.22:8888/http/004
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/800px-2019_Discovery_logo.svg.png" group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY CHANNEL (IN)
