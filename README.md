@@ -888,5 +888,5 @@ http://103.115.159.37:8080/Sonyten1/tracks-v1a1/mono.m3u8
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/1101.m3u8
 #EXTINF:-1 tvg-id="JUST 89 (INT)" tvg-logo="https://www.just89.com/img/logo/just89.png" group-title="ADULT CHANNELS",JUST 89 (INT) 
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41823.m3u8
-#EXTINF:-1 tvg-id="PRIVATE TV HD (INT)" tvg-logo=" " group-title="ADULT CHANNELS",PRIVATE TV HD (INT) 
+#EXTINF:-1 tvg-id="PRIVATE TV HD (INT)" tvg-logo="https://www.pasjatv.pl/files/tv/photo/min/152302558372_logo_privatetvhd_ok1.png" group-title="ADULT CHANNELS",PRIVATE TV HD (INT) 
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/1036.m3u8
