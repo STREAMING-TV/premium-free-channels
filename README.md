@@ -886,5 +886,5 @@ http://103.115.159.37:8080/history/tracks-v1a1/mono.m3u8
 http://103.115.159.37:8080/Sonyten1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DORCEL TV (INT)" tvg-logo="https://enigma2-hilfe.de/wp-content/uploads/2017/07/DorcelTV.jpg" group-title="ADULT CHANNELS",DORCEL TV (INT) 
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/1101.m3u8
-#EXTINF:-1 tvg-id="JUST 89 (INT)" tvg-logo=" " group-title="ADULT CHANNELS",JUST 89 (INT) 
+#EXTINF:-1 tvg-id="JUST 89 (INT)" tvg-logo="https://www.just89.com/img/logo/just89.png" group-title="ADULT CHANNELS",JUST 89 (INT) 
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41823.m3u8
