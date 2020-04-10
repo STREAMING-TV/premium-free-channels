@@ -778,9 +778,8 @@ http://162.250.201.58:6211/uk/A1TV/tracks-v1a1/mono.m3u8
 http://bolly360.xyz:80/zee.php?c=satsangtv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/10/7f/2a/107f2a60f58e16c1388c88f95ae4b957.jpg" group-title="DEVOTIONAL CHANNELS", SANSKAR TV (IN) 
 http://bolly360.xyz:80/zee.php?c=sanskartv
-#EXTINF:-1 tvg-logo="https://gumlet.assettype.com/thequint/2018-04/eb848cad-ca7d-4fbb-848b-839b45e245b9/04fc69b3d65f090543a75175a20656c6.jpg"  group-title="MUSIC / YOUTH CHANNELS",ZOOM (IN)
+#EXTINF:-1 ch-id="ZOOM (IN)"  tvg-logo="https://gumlet.assettype.com/thequint/2018-04/eb848cad-ca7d-4fbb-848b-839b45e245b9/04fc69b3d65f090543a75175a20656c6.jpg"  group-title="MUSIC / YOUTH CHANNELS",ZOOM (IN)
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
-#EXTINF:-1 ch-id="AHLULBAYT TV (ME)"
 #EXTINF:-1 ch-id="AHLULBAYT TV (ME)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/AhlulbaytTV.png" group-title="DEVOTIONAL CHANNELS",AHLULBAYT TV (ME)
 http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
 #EXTINF:-1 ch-id="BEK (UK)"  tvg-logo="https://www.dakotacentral.com/wp-content/uploads/2019/09/bek_broadcasting.png"  group-title="SPORTS CHANNELS",BEK (UK)
