@@ -540,8 +540,7 @@ http://109.169.56.170/hls/zetc.m3u8
 #EXTINF:-1 tvg-id="E24 (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/ba/E24_new.jpeg" group-title="MUSIC / YOUTH CHANNELS",E24 (IN)
 http://livecdnh3.tvanywhere.ae/hls/e24/02.m3u8
 #EXTINF:-1 tvg-id="ZING (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/91/Zing_300x300.png" group-title="MUSIC / YOUTH CHANNELS",ZING (IN)
-http://bolly360.xyz:80/zee.php?c=zing
-#EXTINF:-1 tvg-id="WWE/USA (UNITED STATE)" tvg-logo="https://corporate.wwe.com/~/media/Images/W/WWE/content-images/news/wwe-usa-logo.jpg"  group-title="SPORTS CHANNELS",WWE/U http://cdnak10.cast4u.info/channels/4/10804.m3u8
+http://bolly360.xyz:80/zee.php?c=zing 
 #EXTINF:-1 tvg-id="RK TV (IN)" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a42ce5e41e35188c4368adc14005a10.jpeg" group-title="ADULT CHANNELS",RK TV (INT)
 http://188.35.9.26:5031/udp/058j
 #EXTINF:-1 tvg-I'd="BLOOMBERG (ASIA)" tvg-logo="https://panxchange.com/wp-content/uploads/2020/01/bloombergahavagroupglobal.png" group-title="NEWS / BUSINESS CHANNELS",BLOOMBERG (ASIA)
@@ -893,4 +892,5 @@ http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41815.m3u8
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41824.m3u8
 #EXTINF:-1 tvg-id="STC (INT)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e24b266f-01ff-4f4a-b9d5-13984dec0c6b/d4wctsv-a639d998-50a2-41a6-aaa8-930afa1d1b36.jpg/v1/fill/w_271,h_146,q_75,strp/stc_logo_by_qazinahin_d4wctsv-fullview.jpg" group-title="ADULT CHANNELS",STC (INT) 
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41825.m3u8
-#EXTINF:-1 tvg-id="WWE/USA (UNITED STATE)" tvg-logo="https://corporate.wwe.com/~/media/Images/W/WWE/content-images/news/wwe-usa-logo.jpg"  group-title="SPORTS CHANNELS",WWE/USA 
+#EXTINF:-1 tvg-id="WWE/USA (US)" tvg-logo="https://corporate.wwe.com/~/media/Images/W/WWE/content-images/news/wwe-usa-logo.jpg"  group-title="SPORTS CHANNELS",WWE/USA (US)
+(UNU http://cdnak10.cast4u.info/channels/4/10804.m3u8
