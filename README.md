@@ -620,7 +620,7 @@ http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY YAY (IN)" tvg-name="SONY YAY (IN)" tvg-logo=" https://vignette.wikia.nocookie.net/logopedia/images/1/19/Sonyyay.png" group-title="KIDS CHANNELS",SONY YAY (IN)
 http://103.205.133.42:1935/local/sony_yay_720/chunklist.m3u8
 #EXTINF:-1 tvg-id="E24 (IN)" tvg-logo="https://i.pinimg.com/originals/b0/bb/50/b0bb507caa0a22ef3b062f74f5482168.jpg" group-title="MUSIC / YOUTH CHANNELS",E24 (IN)
-http://173.212.237.70/zee5.php?url=https://z5ams.akamaized.net/out/v1/78239452a9944713bf0dfd0946a55ad5/index.m3u8
+http://bolly360.xyz:80/zee.php?c=out/v1/78239452a9944713bf0dfd0946a55ad5
 #EXTINF:-1 tvg-id="DD BANGLA (IN)" tvg-logo="https://pbs.twimg.com/profile_images/521344904044101632/rDRAPIOM.jpeg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",DD BANGLA (IN)
 http://bolly360.xyz:80/zee.php?c=ddbangla
 #EXTINF:-1 tvg-id="VENUS TV (UK)" tvg-logo="https://www.prakashastrologer.com/wp-content/uploads/2014/09/VENUS-TV.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",VENUS TV (UK)
@@ -677,16 +677,14 @@ http://210.210.155.66/h/h07/01.m3u8
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1 tvg-id="FOX CRIME (JKT)" group-title="INFORMATION / WILDLIFE CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/6/61/Fox_Crime_Philippines_Logo_2017.png",FOX CRIME (JKT)
 https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
-#EXTINF:-1 tvg-id="NAUGHTY TV (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/SexTV.svg/1200px-SexTV.svg.png" group-title="ADULT CHANNELS",NAUGHTY TV (INT)
-https://usb.bozztv.com/ssh101/TBB1/TBB1/index.m3u8
+
 #EXTINF:-1 tvg-id="NAT GEO WILD (MAL)" tvg-logo="https://pmcvariety.files.wordpress.com/2014/03/nat_geo_wild.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (MAL)
 http://ddn.amrbd.com:8081/live/natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR JALSHA HD (INDIAN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR JALSHA HD (IN) 
 http://ddn.amrbd.com:8081/live/starjalsha/playlist.m3u8
 #EXTINF:-1 tvg-id="GAZI TV HD (BANGLADESH)" tvg-logo="https://i2.wp.com/pakistandth.com/wp-content/uploads/2019/07/Gazi-TV-Frequency.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",GAZI TV HD (BD)
 http://ddn.amrbd.com:8081/live/axn/playlist.m3u8
-#EXTINF:-1 tvg-id="UTV HD (INDIA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",UTV HD (IN)
-http://ddn.amrbd.com:8081/live/foxlife/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HD FASHION (UNITED STATE)" tvg-logo="http://www.parsatv.com/index_files/channels/hdfashion.png" group-title="LIFESTYLE / TRAVELING CHANNELS",HD FASHION TV (USA)
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="ABC NEWS (UNITED STATE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Abc-news-logo.png" group-title="NEWS / BUSINESS CHANNELS",ABC NEWS (USA)
@@ -753,12 +751,7 @@ http://78.110.169.226:8000/play/a021
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="18+ZONE (INT)" tvg-logo="https://previews.123rf.com/images/miceking/miceking1605/miceking160500858/57894068-sexy-woman-with-wings.jpg"  group-title="ADULT CHANNELS",18+ZONE (INT)
 http://cdn.fr01.spr24.net/22444/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1 tvg-id="TELEVISION X (INTERNATIONAL)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Television_X.png" group-title="ADULT CHANNELS",TELEVISION X (INTERNATIONAL)
-https://usb.bozztv.com/ssh101/TBB5/TBB5/index.m3u8
-#EXTINF:-1 tvg-id="BOOMERANG (RUSSIA)" tvg-logo="https://ih0.redbubble.net/image.488369607.9154/flat,750x,075,f-pad,750x1000,f8f8f8.jpg"  group-title="KIDS CHANNELS",BOOMERANG (RUSSIA)
-https://usb.bozztv.com/ssh101/BoomerangDCN/BoomerangDCN/playlist.m3u8
-#EXTINF:-1 tvg-id="BOOMERANG (UNITED STATE)" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2018/04/logo-boomerang.png"  group-title="KIDS CHANNELS",BOOMERANG (UNITED STATE)
-http://proxyts.ec.cx:8082/hls1/boomerang.m3u8?wmsAuthSign
+
 #EXTINF:-1 tvg-id="BOOMERANG (UNITED KINGDOM)" tvg-logo="https://logodix.com/logo/334393.png" group-title="KIDS CHANNELS",BOOMERANG (UNITED KINGDOM)
 http://178.159.5.210:1000/play/Boomerang/index.m3u8
 #EXTINF:-1 tvg-id="BOSTON 24 NEWS (UNITED STATE)" tvg-logo="https://pbs.twimg.com/profile_images/1058469392688836609/vHXurVod_400x400.jpg" group-title="NEWS / BUSINESS CHANNELS",BOSTON 24 NEWS (UNITED STATE)
@@ -814,10 +807,7 @@ https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u
 https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
 #EXTINF:-1 tvg-id="ASS LOVER TV" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/9b064649177903.56084ea344766.jpg"  group-title="ADULT CHANNELS",AAS LOVER TV(INT)
 https://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1 tvg-id="ENJOYMENT"  tvg-logo="https://i.ebayimg.com/images/g/UZ8AAOSw7NNUCIHm/s-l300.jpg"  group-title="ADULT CHANNELS",ENJOYMENT (INT)
-https://usb.bozztv.com/ssh101/TBB4/TBB4/index.m3u8
-#EXTINF:-1 tvg-id=" ROMANTIC TV (INT)" tvg-logo="https://media.cleo.com.sg/2019/05/sex-positions-short-girls-sit-768x768.jpg"  group-title="ADULT CHANNELS",ROMANTIC TV (INT)
-https://usb.bozztv.com/ssh101/TBB3/TBB3/index.m3u8
+
 #EXTINF:-1 tvg-id="FAITH (UK)" tvg-logo="https://usa.myfaith.tv/wp-content/uploads/2019/10/faith-light-1.png" group-title="DEVOTIONAL CHANNELS",FAITH (USA)
 http://hls-live-media.cdn01.net/default/stream_14889.m3u8
 #EXTINF:-1 tvg-id="ID (USA)" tvg-logo="https://www.pngkit.com/png/full/442-4421623_a-kid-to-kill-for-investigation-discovery-logo.png" group-title="INFORMATION / WILDLIFE CHANNELS",ID (UK)
