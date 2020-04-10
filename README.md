@@ -713,45 +713,45 @@ http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 http://cdn.fr01.spr24.net/5880/mono.m3u8?token=hiVi8EHiq86NZA
 #EXTINF:-1 tvg-id="STAR SPORTS 1 HD (INDIA)" tvg-logo="https://i.pinimg.com/736x/5b/ce/2a/5bce2aa395af0eaa8d138d03e944fb9a.jpg" group-title="SPORTS CHANNELS",STAR SPORTS 1 HD (INDIA)
 http://175.41.46.16:8081/hls/1.m3u8
-#EXTINF:-1 tvg-id="MAASRANGA TV (BANGLADESH)" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/93/a2/96/93a29689-13c5-4976-cae1-ca6bbfd8433f/source/512x512bb.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",MAASRANGA TV (BANGLADESH)
+#EXTINF:-1 tvg-id="MAASRANGA TV (BANGLADESH)" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/93/a2/96/93a29689-13c5-4976-cae1-ca6bbfd8433f/source/512x512bb.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",MAASRANGA TV (BD)
 http://175.41.46.16:8081/hls/10.m3u8
-#EXTINF:-1 tvg-id="NAT GEO WILD (MALAYSIA)" tvg-logo="https://talkinpets.com/new/media/k2/items/cache/dec6d1172eb129f5a6252390b6ff80fc_XL.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (MALAYSIA)
+#EXTINF:-1 tvg-id="NAT GEO WILD (MALAYSIA)" tvg-logo="https://talkinpets.com/new/media/k2/items/cache/dec6d1172eb129f5a6252390b6ff80fc_XL.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (MAL)
 https://cdn-laos.workpoint.news/hd-natgeowild_720/index.m3u8
-#EXTINF:-1 tvg-id="NAT GEO (MALAYSIA)" tvg-logo="https://assets.cdn.watchdisneyfe.com/delta/assets/natgeo/national-geographic.png" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO (BANGKOK)
+#EXTINF:-1 tvg-id="NAT GEO (MALAYSIA)" tvg-logo="https://assets.cdn.watchdisneyfe.com/delta/assets/natgeo/national-geographic.png" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO (ASIA)
 https://cdn-laos.workpoint.news/hd-natgeo_720/index.m3u8
-#EXTINF:-1 tvg-id="NAT GEO PEOPLE (INDIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png"  group-title="LIFESTYLE / TRAVELING CHANNELS",NAT GEO PEOPLE (MALAYSIA)
+#EXTINF:-1 tvg-id="NAT GEO PEOPLE (INDIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png"  group-title="LIFESTYLE / TRAVELING CHANNELS",NAT GEO PEOPLE (MAL)
 https://cdn-laos.workpoint.news/hd-natgeopeople_720/index.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY ASIA (BANGKOK)" tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/05/discovery-asia.jpg"  group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY ASIA (BANGKOK)
+#EXTINF:-1 tvg-id="DISCOVERY ASIA (BANGKOK)" tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/05/discovery-asia.jpg"  group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY ASIA (ASIA)
 https://cdn-laos.workpoint.news/hd-discovery_720/index.m3u8
-#EXTINF:-1 tvg-id="HISTORY (BANGKOK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png"  group-title="INFORMATION / WILDLIFE CHANNELS",HISTORY (BANGKOK)
+#EXTINF:-1 tvg-id="HISTORY (BANGKOK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png"  group-title="INFORMATION / WILDLIFE CHANNELS",HISTORY (ASIA)
 https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
-#EXTINF:-1,tvg-id="BBC WORLD NEWS (INTERNATIONAL)" tvg-logo="https://i.ya-webdesign.com/images/bbc-world-news-logo-png-16.png" group-title="NEWS / BUSINESS CHANNELS",BBC WORLD NEWS (INTERNATIONAL)
+#EXTINF:-1,tvg-id="BBC WORLD NEWS (INTERNATIONAL)" tvg-logo="https://i.ya-webdesign.com/images/bbc-world-news-logo-png-16.png" group-title="NEWS / BUSINESS CHANNELS",BBC WORLD NEWS (INT)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8 
-#EXTINF:-1 tvg-id="DISNEY CHANNEL (UNTIED KINGDOM)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="KIDS CHANNELS",DISNEY CHANNEL (UNITED KINGDOM)
+#EXTINF:-1 tvg-id="DISNEY CHANNEL (UNTIED KINGDOM)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="KIDS CHANNELS",DISNEY CHANNEL (UK)
 http://gg.gg/lvttdisneychannel1
-#EXTINF:-1 tvg-id="BT SPORT 1 HD (UNITED STATE)" tvg-logo="https://www.thesportsdb.com/images/media/logo/4osx7y1579351981.png"  group-title="SPORTS CHANNELS",BT SPORT 1 HD (UNITED STATE)
+#EXTINF:-1 tvg-id="BT SPORT 1 HD (UNITED STATE)" tvg-logo="https://www.thesportsdb.com/images/media/logo/4osx7y1579351981.png"  group-title="SPORTS CHANNELS",BT SPORT 1 HD (USA)
 http://cdnak10.cast4u.info/channels/2/10802.m3u8
-#EXTINF:-1 tvg-id="FOX (UNITED STATE)" tvg-logo="https://static-media.fox.com/foxnow/web/v3-2/img/fox_logo.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX (UNITED STATE)
+#EXTINF:-1 tvg-id="FOX (UNITED STATE)" tvg-logo="https://static-media.fox.com/foxnow/web/v3-2/img/fox_logo.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX (USA)
 http://cdnak10.cast4u.info/channels/3/10803.m3u8
-#EXTINF:-1 tvg-id="MBC MAX HD (MIDDLE EAST)" tvg-logo="https://www.altkiasat.com/wp-content/uploads/2015/11/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%85-%D8%A8%D9%8A-%D8%B3%D9%8A-%D9%85%D8%A7%D9%83%D8%B3-%D8%A7%D8%AA%D8%B4-%D8%AF%D9%8A.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",MBC MAX HD (MIDDLE EAST)
+#EXTINF:-1 tvg-id="MBC MAX HD (MIDDLE EAST)" tvg-logo="https://www.altkiasat.com/wp-content/uploads/2015/11/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%85-%D8%A8%D9%8A-%D8%B3%D9%8A-%D9%85%D8%A7%D9%83%D8%B3-%D8%A7%D8%AA%D8%B4-%D8%AF%D9%8A.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",MBC MAX HD (ME)
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="NEWS NET (UNITED STATE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/NewsNetLogo.png" group-title="NEWS / BUSINESS CHANNELS",NEWS NET (UNITED STATE) 
+#EXTINF:-1 tvg-id="NEWS NET (UNITED STATE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/NewsNetLogo.png" group-title="NEWS / BUSINESS CHANNELS",NEWS NET (USA) 
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="18+ZONE (INT)" tvg-logo="https://previews.123rf.com/images/miceking/miceking1605/miceking160500858/57894068-sexy-woman-with-wings.jpg"  group-title="ADULT CHANNELS",18+ZONE (INT)
 http://cdn.fr01.spr24.net/22444/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1 tvg-id="BOOMERANG (UNITED KINGDOM)" tvg-logo="https://logodix.com/logo/334393.png" group-title="KIDS CHANNELS",BOOMERANG (UNITED KINGDOM)
+#EXTINF:-1 tvg-id="BOOMERANG (UNITED KINGDOM)" tvg-logo="https://logodix.com/logo/334393.png" group-title="KIDS CHANNELS",BOOMERANG (UK)
 http://178.159.5.210:1000/play/Boomerang/index.m3u8
-#EXTINF:-1 tvg-id="BOSTON 24 NEWS (UNITED STATE)" tvg-logo="https://pbs.twimg.com/profile_images/1058469392688836609/vHXurVod_400x400.jpg" group-title="NEWS / BUSINESS CHANNELS",BOSTON 24 NEWS (UNITED STATE)
+#EXTINF:-1 tvg-id="BOSTON 24 NEWS (UNITED STATE)" tvg-logo="https://pbs.twimg.com/profile_images/1058469392688836609/vHXurVod_400x400.jpg" group-title="NEWS / BUSINESS CHANNELS",BOSTON 24 NEWS (USA)
 https://ch.iptvmate.net/6b2e4d0c46578a2d1087181cc07ccc75.m3u8
-#EXTINF:-1 tvg-id="NAT GEO (MALAYSIA)" tvg-logo="https://static.wixstatic.com/media/a3d2b1_ab8902f0b15d440fafc7763b4619f926~mv2.png" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO (MALAYSIA)
+#EXTINF:-1 tvg-id="NAT GEO (MALAYSIA)" tvg-logo="https://static.wixstatic.com/media/a3d2b1_ab8902f0b15d440fafc7763b4619f926~mv2.png" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO (MAL)
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
-#EXTINF:-1 tvg-id="HBO (JAKARTA)" tvg-logo="https://www.agconnect.nl/sites/ag/files/styles/article_main_image/public/2017-08/hbo_new_logo.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",HBO (JAKARTA)
+#EXTINF:-1 tvg-id="HBO (JAKARTA)" tvg-logo="https://www.agconnect.nl/sites/ag/files/styles/article_main_image/public/2017-08/hbo_new_logo.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",HBO (ASIA)
 http://iptvfree.gq/live/hbo.m3u8
-#EXTINF:-1 tvg-id="NAT GEO WILD (INDIA)" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png"  group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (INDIA)
+#EXTINF:-1 tvg-id="NAT GEO WILD (INDIA)" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png"  group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (IN)
 http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
-#EXTINF:-1 tvg-id="NHK WORLD (JAPAN)"  tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/b/b5/NHK_World_%282015-.n.v.%29.png"  group-title="NEWS / BUSINESS CHANNELS",NHK WORLD (JAPAN) 
+#EXTINF:-1 tvg-id="NHK WORLD (JAPAN)"  tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/b/b5/NHK_World_%282015-.n.v.%29.png"  group-title="NEWS / BUSINESS CHANNELS",NHK WORLD (JP) 
 http://210.210.155.66/h/h23/02.m3u8
-#EXTINF:-1 tvg-id="BLOOMBERG (AUSTRALIA)" tvg-logo="https://thefinancialguys.com/wp-content/uploads/2019/02/bloomberg-logo-white-1.png"  group-title="NEWS / BUSINESS CHANNELS",BLOOMBERG (AUSTRALIA)
+#EXTINF:-1 tvg-id="BLOOMBERG (AUSTRALIA)" tvg-logo="https://thefinancialguys.com/wp-content/uploads/2019/02/bloomberg-logo-white-1.png"  group-title="NEWS / BUSINESS CHANNELS",BLOOMBERG (AU)
 http://210.210.155.66/h/h03/02.m3u8
 #EXTINF:-1 tvg-logo="http://www.jeludkov.com/Images/Selected_Logos/01.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",LIFESTYLE (MALAYSIA)
 http://210.210.155.66/h/h28/02.m3u8
