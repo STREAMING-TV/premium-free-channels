@@ -890,3 +890,4 @@ http://103.115.159.37:8080/natgeo/tracks-v1a1/mono.m3u8
 http://103.115.159.37:8080/history/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 1 HD (IND)" tvg-logo="https://1.bp.blogspot.com/-FpYX6yGLmpM/XCdxGu4_D_I/AAAAAAAAAAc/LVirYeQ2BHcUo5byscy1swM82nTWMYIhgCLcBGAs/s1600/powervu-key-sony-ten-1-hd-terbaru-2019.jpg" group-title="SPORTS CHANNELS",SONY TEN 1 HD (IND)
 http://103.115.159.37:8080/Sonyten1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DORCEL TV (INT)" tvg-logo="https://enigma2-hilfe.de/wp-content/uploads/2017/07/DorcelTV.jpg" group-title="ADULT CHANNELS",DORCEL TV (INT) 
