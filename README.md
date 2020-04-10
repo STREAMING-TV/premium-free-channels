@@ -890,4 +890,5 @@ http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/1101.m3u8
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41823.m3u8
 #EXTINF:-1 tvg-id="PRIVATE TV HD (INT)" tvg-logo="https://www.pasjatv.pl/files/tv/photo/min/152302558372_logo_privatetvhd_ok1.png" group-title="ADULT CHANNELS",PRIVATE TV HD (INT) 
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/1036.m3u8
-
+#EXTINF:-1 tvg-id="PLAY BOY TV HD (EU)" tvg-logo=" " group-title="ADULT CHANNELS",PLAY BOY TV HD (EU) 
+http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41815.m3u8
