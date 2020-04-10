@@ -57,8 +57,6 @@ http://84.22.33.254/unicast.tlc/index.m3u8
 http://103.111.120.46/hls/Colors.m3u8
 #EXTINF:-1 tvg-id="MULTIPLEX (INDIA)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/multiplex-tv-channel-logo-300x300.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MULTIPLEX (IN)
 http://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in.m3u8 
-#EXTINF:-1 tvg-id="PLAY FUCK TV" tvg-logo="https://cdn.shortpixel.ai/client/q_lossless,ret_img,w_150/https://touchmekissmee.com/wp-content/uploads/2018/12/favicon.png" group-title="ADULT CHANNELS",PLAY FUCK TV (INT)
-https://usb.bozztv.com/ssh101/TBB2/TBB2/index.m3u8
 #EXTINF:-1 tvg-id="CARTOON NATWORK (INDIA)" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_black.png"group-title="KIDS CHANNELS",CARTOON NATWORK (IN)
 http://stream.tapmad.com:1935/pitvlive2/cartoon_240p/chunklist.m3u8
 #EXTINF:-1 tvg-id="PASSION XXX (INT)" tvg-logo="http://i.imgur.com/6Nr8Bqk.png"group-title="ADULT CHANNELS",PASSION XXX (INT)
@@ -465,8 +463,6 @@ http://195.181.169.120/StarSports_Hd1/tracks-v1a1/mono.m3u8
 http://195.181.169.120/StarSports_Hd1/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR SPORTS 2 (IN)" tvg-name="STAR SPORTS 2 (IN)" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7432/567432-h" group-title="SPORTS CHANNELS",STAR SPORTS 2 (IN)
 http://43.251.86.2:8080/hls/channel_3.m3u8
-#EXTINF:-1 tvg-id="AAJ TAK (IN)" group-title="NEWS / BUSINESS CHANNELS" tvg-logo="https://akm-img-a-in.tosshub.com/sites/aajtak/video/aajtak_livetv_fbshare_thumbnail.jpg",AAJ TAK (IN)
-http://31.14.40.58:8080/AAJTAK_h264/index.m3u8
 #EXTINF:-1 group-title="ADULT CHANNELS" tvg-logo="https://cdn.webshopapp.com/shops/120912/files/121623368/890x820x2/brazzers-europe-tv-jaarkaart-viaccess.jpg",BRAZZERS TV (EU)
 http://188.35.9.26:9031/udp/117m
 #EXTINF:-1 tvg-id="INDIA NEWS (IN)" group-title="NEWS / BUSINESS CHANNELS" tvg-logo="https://lh4.ggpht.com/-pvGg0zMy9_s/Uut-8ZazMYI/AAAAAAAAAeY/JFXwAKRrPDM/s1600/india_news_in.png", INDIA NEWS (IN)
@@ -571,11 +567,11 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="LSTV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Lok_Sabha_TV_logo.jpg" group-title="NEWS / BUSINESS CHANNELS",LSTV (IN)
 http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
-#EXTINF:-1 tvg-id="tv.101002210221" tvg-name="ABC TV (AU)" tvg-logo="https://www.abc.net.au/tv/epg/images/channels/ABC1_60x53.png" group-title="NEWS / BUSINESS CHANNELS",ABC TV (AU)
+#EXTINF:-1 tvg-id="ABC TV (AU)" tvg-logo="https://www.abc.net.au/tv/epg/images/channels/ABC1_60x53.png" group-title="NEWS / BUSINESS CHANNELS",ABC TV (AU)
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
-#EXTINF:-1 tvg-id="tv.101002210224" tvg-name="ABC ME (AU)" tvg-logo="https://www.abc.net.au/cm/rimage/11416782-1x1-large.png" group-title="KIDS CHANNELS",ABC ME (AU)
+#EXTINF:-1 tvg-id="ABC ME (AU)" tvg-logo="https://www.abc.net.au/cm/rimage/11416782-1x1-large.png" group-title="KIDS CHANNELS",ABC ME (AU)
 https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
-#EXTINF:-1 tvg-id="ACC TV (AU)" tvg-name="ACC TV (AU)" tvg-logo="https://i.imgur.com/lokNx1U.png" group-title="DEVOTIONAL CHANNELS",ACC TV (AU)
+#EXTINF:-1 tvg-id="ACC TV (AU)" tvg-logo="https://i.imgur.com/lokNx1U.png" group-title="DEVOTIONAL CHANNELS",ACC TV (AU)
 http://i.mjh.nz/au/Melbourne/tv.acctv.m3u8
 #EXTINF:-1 tvg-id="AUSTRALIA CHANNEL (AU)" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="NEWS / BUSINESS CHANNELS",AUSTRALIA CHANNEL (AU)
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
@@ -633,7 +629,7 @@ http://5.135.92.133:52841/out/u/107_1.m3u8
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ANIMAL PLANET (MAL)" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/08/Animal-Planet-New.png" group-title="INFORMATION / WILDLIFE CHANNELS",ANIMAL PLANET (IN)
 https://stream.simpaisa.com/pitvlive2/animal_360p/playlist.m3u8?checkedby_iptvcat.com
-#EXTINF:-1 tvg-id="STAR BHARAT (IN)" tvg-name="STAR PLUS HD (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1164132839710838784/LHQ31mtM_400x400.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS HD (IN) 
+#EXTINF:-1 tvg-id="STAR PLUS HD (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1164132839710838784/LHQ31mtM_400x400.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS HD (IN) 
 http://ddn.amrbd.com:8081/live/starplus/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR GOLD HD (IN)" tvg-name="STAR GOLD HD (IN)" tvg-logo="http://i.imgur.com/ev5stgs.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD HD (IN)
 http://ddn.amrbd.com:8081/live/stargold/playlist.m3u8
