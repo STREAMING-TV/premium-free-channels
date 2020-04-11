@@ -311,37 +311,37 @@ https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
 https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
 #EXTINF:-1 ch-id="GULISTAN NEWS (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/14/Gulistan_News.jpeg" group-title="NEWS / BUSINESS CHANNELS",GULISTAN NEWS (IN)
 https://m-c18-j2apps.s.llnwi.net/hls/1838.GulistanNews.in.m3u8
-#EXTINF:-1 ch-id="NEWS INDIA 24X7 (IN)" tvg-name="NEWS INDIA 24X7 (IN)" tvg-logo="https://i.ytimg.com/vi/vcIfOiln_iA/hqdefault.jpg" group-title="NEWS / BUSINESS CHANNELS",NEWS INDIA 24X7 (IN) 
+#EXTINF:-1 ch-id="NEWS INDIA 24X7 (IN)" tvg-logo="https://i.ytimg.com/vi/vcIfOiln_iA/hqdefault.jpg" group-title="NEWS / BUSINESS CHANNELS",NEWS INDIA 24X7 (IN) 
 https://m-c16-j2apps.s.llnwi.net/hls/3240.NewsIndia24X7.in.m3u8
-#EXTINF:-1 ch-id="JANTA TV (IN)" tvg-name="JANTA TV (IN)" tvg-logo="https://i.pinimg.com/originals/08/e5/a2/08e5a21e3dfd99ea131c8997d210bacb.png" group-title="NEWS / BUSINESS CHANNELS",JANTA TV (IN)
+#EXTINF:-1 ch-id="JANTA TV (IN)"  tvg-logo="https://i.pinimg.com/originals/08/e5/a2/08e5a21e3dfd99ea131c8997d210bacb.png" group-title="NEWS / BUSINESS CHANNELS",JANTA TV (IN)
 https://m-c18-j2apps.s.llnwi.net/hls/1604.JantaTV.in.m3u8
-#EXTINF:-1 ch-id="IBC 24 (IN)" tvg-name="IBC 24 (IN)" tvg-logo="https://karthavya.com/wp-content/uploads/2017/12/logo_w.png" group-title="NEWS / BUSINESS CHANNELS",IBC 24 (IN)
+#EXTINF:-1 ch-id="IBC 24 (IN)" tvg-logo="https://karthavya.com/wp-content/uploads/2017/12/logo_w.png" group-title="NEWS / BUSINESS CHANNELS",IBC 24 (IN)
 https://m-c18-j2apps.s.llnwi.net/hls/0519.IBC24.in.m3u8
-#EXTINF:-1 ch-id="TOTAL TV (IN)" tvg-name="TOTAL TV (IN)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-total-news-6037.jpg" group-title="NEWS / BUSINESS CHANNELS",TOTAL TV (IN)
+#EXTINF:-1 ch-id="TOTAL TV (IN)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-total-news-6037.jpg" group-title="NEWS / BUSINESS CHANNELS",TOTAL TV (IN)
 https://m-c17-j2apps.s.llnwi.net/hls/0131.TotalTV.in.m3u8
-#EXTINF:-1 ch-id="SAMAY (IN)" tvg-name="SAMAY (IN)" tvg-logo="http://www.anubhavshaphotography.com/images/my_img/about_images/sahara.jpg" group-title="NEWS / BUSINESS CHANNELS",SAMAY (IN) 
+#EXTINF:-1 ch-id="SAMAY (IN)"  tvg-logo="http://www.anubhavshaphotography.com/images/my_img/about_images/sahara.jpg" group-title="NEWS / BUSINESS CHANNELS",SAMAY (IN) 
 https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in.m3u8
-#EXTINF:-1 ch-id="ABP NEWS (IN)" tvg-name="ABP NEWS (IN)" tvg-logo="http://res.cloudinary.com/onesolutionsbiz/image/upload/v1507121155/abp-news_pojgm5.png" group-title="NEWS / BUSINESS CHANNELS",ABP NEWS (IN)
+#EXTINF:-1 ch-id="ABP NEWS (IN)"  tvg-logo="http://res.cloudinary.com/onesolutionsbiz/image/upload/v1507121155/abp-news_pojgm5.png" group-title="NEWS / BUSINESS CHANNELS",ABP NEWS (IN)
 https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8
-#EXTINF:-1 ch-id="NEWS 9 (IN)" tvg-name="NEWS 9 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/News-9-Logo.png/220px-News-9-Logo.png" group-title="NEWS / BUSINESS CHANNELS",NEWS 9 (IN)
+#EXTINF:-1 ch-id="NEWS 9 (IN)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/News-9-Logo.png/220px-News-9-Logo.png" group-title="NEWS / BUSINESS CHANNELS",NEWS 9 (IN)
 https://m-c01-j2apps.s.llnwi.net/hls/0499.News9.in.m3u8
-#EXTINF:-1 ch-id="ET NOW (IN)" tvg-name="ET NOW (IN)" tvg-logo="https://pbs.twimg.com/profile_images/905788230464708608/GJsqkJRX_400x400.jpg" group-title="NEWS / BUSINESS CHANNELS",ET NOW (IN)
+#EXTINF:-1 ch-id="ET NOW (IN)"  tvg-logo="https://pbs.twimg.com/profile_images/905788230464708608/GJsqkJRX_400x400.jpg" group-title="NEWS / BUSINESS CHANNELS",ET NOW (IN)
 https://m-c20-j2apps.s.llnwi.net/hls/0524.ETNow.in.m3u8
-#EXTINF:-1 ch-id="MIRROR NOW (IN)" tvg-name="MIRROR NOW (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/MirrorNowLogo.jpg" group-title="NEWS / BUSINESS CHANNELS",MIRROR NOW (IN)
+#EXTINF:-1 ch-id="MIRROR NOW (IN)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/MirrorNowLogo.jpg" group-title="NEWS / BUSINESS CHANNELS",MIRROR NOW (IN)
 https://m-c20-j2apps.s.llnwi.net/hls/3873.MirrorNow.in.m3u8
-#EXTINF:-1 ch-id="SADHNA PLUS (IN)" tvg-name="SADHNA PLUS (IN)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-sadhna-plus.jpg" group-title="NEWS / BUSINESS CHANNELS",SADHNA PLUS (IN)
+#EXTINF:-1 ch-id="SADHNA PLUS (IN)"  tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-sadhna-plus.jpg" group-title="NEWS / BUSINESS CHANNELS",SADHNA PLUS (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/4380.SadhnaPlus.in.m3u8
-#EXTINF:-1 ch-id="BANSAL NEWS (IN)" tvg-name="BANSAL NEWS (IN)" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/53/16/7c/53167c3e-fd94-9108-055a-552f75cfac56/source/512x512bb.jpg" group-title="NEWS / BUSINESS CHANNELS",BANSAL NEWS (IN) 
+#EXTINF:-1 ch-id="BANSAL NEWS (IN)"  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/53/16/7c/53167c3e-fd94-9108-055a-552f75cfac56/source/512x512bb.jpg" group-title="NEWS / BUSINESS CHANNELS",BANSAL NEWS (IN) 
 https://m-c03-j2apps.s.llnwi.net/hls/0777.BansalNews.in.m3u8
-#EXTINF:-1 tvg-id="K NEWS 24X7 (IN)" tvg-name="K NEWS 24X7 (IN)" tvg-logo="https://www.knews.in/assets/front_panel/images/menu-img.jpg"group-title="NEWS / BUSINESS CHANNELS",K NEWS 24X7 (IN)
+#EXTINF:-1 tvg-id="K NEWS 24X7 (IN)"  tvg-logo="https://www.knews.in/assets/front_panel/images/menu-img.jpg"group-title="NEWS / BUSINESS CHANNELS",K NEWS 24X7 (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/1843.KNews24X7.in.m3u8
-#EXTINF:-1 ch-id="HINDI KHABAR (IN)" tvg-name="HINDI KHABAR (IN)" tvg-logo="https://english.hindikhabar.com/wp-content/uploads/2018/08/182508022931.jpg"group-title="NEWS / BUSINESS CHANNELS",HINDI KHABAR (IN) 
+#EXTINF:-1 ch-id="HINDI KHABAR (IN)"  tvg-logo="https://english.hindikhabar.com/wp-content/uploads/2018/08/182508022931.jpg"group-title="NEWS / BUSINESS CHANNELS",HINDI KHABAR (IN) 
 https://m-c02-j2apps.s.llnwi.net/hls/5208.HindiKhabar.in.m3u8
-#EXTINF:-1 tvg-id="SURYA CAMACHAR (IN)" tvg-name="SURYA CAMACHAR (IN)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-surya-samachar.jpg"group-title="NEWS / BUSINESS CHANNELS",SURYA CAMACHAR (IN)
+#EXTINF:-1 tvg-id="SURYA CAMACHAR (IN)"  tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-surya-samachar.jpg"group-title="NEWS / BUSINESS CHANNELS",SURYA CAMACHAR (IN)
 https://m-c037-j2apps.s.llnwi.net/hls/6006.SuryaSamachar.in.m3u8
 #EXTINF:-1 ch-id="BLOOMBERG QUINT (IN)" tvg-name="BLOOMBERH QUINT (IN)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2018/03/bloomberg-with-quint-logo-2-2.jpg"group-title="NEWS / BUSINESS CHANNELS",BLOOMBERG QUINT (IN)
 https://m-c29-j2apps.s.llnwi.net/hls/5656.BloombergQuint.in.m3u8
-#EXTINF:-1 ch-id="FOOD FOOD (IN)'  tvg-logo="https://www.foodfood.com/assets/images/logo/logo.png" group-title="LIFESTYLE / TRAVELING CHANNELS",FOOD FOOD (IN) 
+#EXTINF:-1 ch-id="FOOD FOOD (IN)"  tvg-logo="https://www.foodfood.com/assets/images/logo/logo.png" group-title="LIFESTYLE / TRAVELING CHANNELS",FOOD FOOD (IN) 
 https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
 #EXTINF:-1 ch-id="EURO NEWS (INT)" tvg-name="EURO NEWS (INT)" tvg-logo="https://media.info/i/lf/0/1464660043/1064.png"group-title="NEWS / BUSINESS CHANNELS",EURO NEWS (INT)
 https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
