@@ -765,7 +765,7 @@ http://vtv.iptvfree.gq:2086/live/disney.m3u8
 http://vtv.iptvfree.gq:2086/live/foxmovies.m3u8
 #EXTINF:-1 ch-id="FOX LIFE (ASIA)"  tvg-logo="https://pbs.twimg.com/profile_images/927918098417639424/mHPaTK5u_400x400.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX LIFE (ASIA)
 http://vtv.iptvfree.gq:2086/live/foxlife.m3u8
-#EXTINF:-1 ch-id="GOODNESS TV (USA)" tvg-logo=" "  group-title="LIFESTYLE / TRAVELING CHANNELS",GOODNESS TV (USA)
+#EXTINF:-1 ch-id="GOODNESS TV (USA)" tvg-logo="https://fonds-risq.qc.ca/wp-content/uploads/2018/07/logo-goodness.jpg"  group-title="LIFESTYLE / TRAVELING CHANNELS",GOODNESS TV (USA)
 https://ch.iptvmate.net/11e118e202992ae500578c6f72bcf142.m3u8?fluxustv.m3u8
 #EXTINF:-1 ch-id="BRITISH MUSLIM TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/British_Muslim_TV_logo.png"  group-title="DEVOTIONAL CHANNELS",BRITISH MUSLIM TV (UK)
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
