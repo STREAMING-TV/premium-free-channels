@@ -901,3 +901,4 @@ https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
 #EXTINF:-1 ch-id="CGTN (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",CGTN (INT) 
 http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 ch-id="TV BRICS (RU)" tvg-logo=" " group-title="ENTERTAINMENT / MOVIES CHANNELS",TV BRICS (RU)
