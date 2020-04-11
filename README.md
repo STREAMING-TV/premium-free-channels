@@ -889,7 +889,7 @@ http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/1036.m3u8
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41815.m3u8
 #EXTINF:-1 ch-id="PRIVE (INT)" tvg-logo="https://i.imgur.com/MBGOQkC.png" group-title="ADULT CHANNELS",PRIVE (INT) 
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41824.m3u8
-#EXTINF:-1 ch-id="STC (INT)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e24b266f-01ff-4f4a-b9d5-13984dec0c6b/d4wctsv-a639d998-50a2-41a6-aaa8-930afa1d1b36.jpg/v1/fill/w_271,h_146,q_75,strp/stc_logo_by_qazinahin_d4wctsv-fullview.jpg" group-title="ADULT CHANNELS",STC (INT) 
+#EXTINF:-1 ch-id="STC (INT)" tvg-logo=" " group-title="ADULT CHANNELS",STC (INT) 
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41825.m3u8
 #EXTINF:-1 ch-id="WWE/USA (US)" tvg-logo="https://corporate.wwe.com/~/media/Images/W/WWE/content-images/news/wwe-usa-logo.jpg"  group-title="SPORTS CHANNELS",WWE/USA (US)
 http://cdnak10.cast4u.info/channels/4/10804.m3u8
