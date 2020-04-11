@@ -895,4 +895,5 @@ http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41825.m3u8
 http://cdnak10.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 ch-id="ENGLISH CLUB TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_ECTV_DSh.png"  group-title="KIDS CHANNELS",ENGLISH CLUB TV (UK)
 http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
-#EXTINF:-1 ch-id="TELESUR HD (USA)" tvg-logo=" " group-title="NEWS / BUSINESS CHANNELS",TELESUR HD (USA)
+#EXTINF:-1 ch-id="TELESUR HD (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="NEWS / BUSINESS CHANNELS",TELESUR HD (USA)
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
