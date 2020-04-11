@@ -897,4 +897,5 @@ http://cdnak10.cast4u.info/channels/4/10804.m3u8
 http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
 #EXTINF:-1 ch-id="TELESUR HD (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="NEWS / BUSINESS CHANNELS",TELESUR HD (USA)
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 ch-id="CBN NEWS (INT)" tvg-logo=" " group-title="ENTERTAINMENT / MOVIES CHANNELS",CBN NEWS (INT)
+#EXTINF:-1 ch-id="CBN NEWS (INT)" tvg-logo="https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",CBN NEWS (INT)
+https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
