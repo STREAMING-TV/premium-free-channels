@@ -735,7 +735,7 @@ http://cdnak10.cast4u.info/channels/3/10803.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="NEWS NET (UNITED STATE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/NewsNetLogo.png" group-title="NEWS / BUSINESS CHANNELS",NEWS NET (USA) 
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="18+ZONE (INT)" tvg-logo="https://previews.123rf.com/images/miceking/miceking1605/miceking160500858/57894068-sexy-woman-with-wings.jpg"  group-title="ADULT CHANNELS",18+ZONE (INT)
+#EXTINF:-1 tvg-id="FUCKING ZONE (INT)" tvg-logo=" "  group-title="ADULT CHANNELS",FUCKING ZONE (INT)
 http://cdn.fr01.spr24.net/22444/mono.m3u8?token=hiVi8EHiq86NZA
 #EXTINF:-1 tvg-id="BOOMERANG (UNITED KINGDOM)" tvg-logo="https://logodix.com/logo/334393.png" group-title="KIDS CHANNELS",BOOMERANG (UK)
 http://178.159.5.210:1000/play/Boomerang/index.m3u8
