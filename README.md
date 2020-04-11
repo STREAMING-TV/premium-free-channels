@@ -65,7 +65,7 @@ http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/playlist.
 http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hwVv4Mb5yarbaGHAIfET&uid=491
 #EXTINF:-1 ch-id="BRUNETTE (INT)" tvg-logo="https://logopond.com/logos/ec8a8b37d6ec9a21b315921ab8f2f207.png"group-title="ADULT CHANNELS",BRUNETTE (INT)
 http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 ch-id="GAY TV (INT)"  tvg-logo=" " group-title="ADULT CHANNELS",GAY TV (INT)
+#EXTINF:-1 ch-id="GAY TV (INT)"  tvg-logo="https://i.ytimg.com/vi/A9z92iX7nwQ/hqdefault.jpg" group-title="ADULT CHANNELS",GAY TV (INT)
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 ch-id="PORNSTAR (INT)" tvg-logo="https://d172h4vc197skd.cloudfront.net/images/8f/6b/8f6bf93c0e4afecc6ff97769c855beee_1578763e3f90_t.png"group-title="ADULT CHANNELS",PORNSTAR (INT)
 http://live.redtraffic.xyz/pornstar.m3u8
@@ -643,7 +643,7 @@ http://ddn.amrbd.com:8081/live/starsports2/playlist.m3u8
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
 #EXTINF:-1 tvg-id="BOLLYWOOD CLASSIC (RU)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/Bollywood_Clasic_%282015-present%29.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",BOLLYWOOD CLASSIC (RU)
 http://telekomtv-ro.akamaized.net/shls/LIVE%24BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="GROUP SEX (INT)" tvg-logo="https://fanart.tv/fanart/movies/44221/hdmovielogo/group-sex-58e661c15c8e3.png" group-title="ADULT CHANNELS",GROUP SEX (INT)
+#EXTINF:-1 tvg-id="GROUP SEX (INT)" tvg-logo=" " group-title="ADULT CHANNELS",GROUP SEX (INT)
 http://live.redtraffic.net/gangbang.m3u8
 #EXTINF:-1 tvg-id="PTV SPORTS (PK)" tvg-logo="https://i.pinimg.com/originals/ab/e0/9a/abe09a2abc92ba1edad1eda1362f5556.png"  group-title="SPORTS CHANNELS",PTV SPORTS (PK)
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
