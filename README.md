@@ -65,7 +65,7 @@ http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/playlist.
 http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hwVv4Mb5yarbaGHAIfET&uid=491
 #EXTINF:-1 ch-id="GAY TV (INT)"  tvg-logo="https://i.ytimg.com/vi/A9z92iX7nwQ/hqdefault.jpg" group-title="ADULT CHANNELS",GAY TV (INT)
 http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 ch-id="PORNSTAR (INT)" tvg-logo="https://d172h4vc197skd.cloudfront.net/images/8f/6b/8f6bf93c0e4afecc6ff97769c855beee_1578763e3f90_t.png"group-title="ADULT CHANNELS",PORNSTAR (INT)
+#EXTINF:-1 ch-id="PORNSTAR (INT)" tvg-logo="https://i1.sndcdn.com/avatars-000424266405-cgh5rx-t500x500.jpg" group-title="ADULT CHANNELS",PORNSTAR (INT)
 http://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1 ch-id="BSX (INT)" tvg-logo="http://www.ghgd.co.uk/wp-content/uploads/2019/03/13055339_1172124886133934_1746106304442101785_n.png"group-title="ADULT CHANNELS",BSX (INT)
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
