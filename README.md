@@ -647,33 +647,33 @@ http://live.redtraffic.net/gangbang.m3u8
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="AMC (USA)" tvg-logo="https://pmcvariety.files.wordpress.com/2019/05/amc_logo_2016.svg_.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",AMC (USA)
 http://84.22.33.254/unicast.amc/index.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY ASIA (APAC)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Discovery-asia.png" group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY ASIA (APAC)
+#EXTINF:-1 ch-id="DISCOVERY ASIA (APAC)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Discovery-asia.png" group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY ASIA (APAC)
 http://111.13.111.192/125.227.198.89:8028 
-#EXTINF:-1 tvg-id="CNN (USA)"  tvg-logo="https://louisesattler.com/wp-content/uploads/2018/06/Colors-CNN-Logo.jpg" group-title="NEWS / BUSINESS CHANNELS", CNN (IN)
+#EXTINF:-1 ch-id="CNN (USA)"  tvg-logo="https://louisesattler.com/wp-content/uploads/2018/06/Colors-CNN-Logo.jpg" group-title="NEWS / BUSINESS CHANNELS", CNN (IN)
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
-#EXTINF:-1,tvg-id="CBSN (USA)" tvg-logo="https://www.vargheselaw.com/wp-content/uploads/sites/613/2019/12/cbs-logo-transparent-1.png" group-title="NEWS / BUSINESS CHANNELS",CBSN (USA)
+#EXTINF:-1,ch-id="CBSN (USA)" tvg-logo="https://www.vargheselaw.com/wp-content/uploads/sites/613/2019/12/cbs-logo-transparent-1.png" group-title="NEWS / BUSINESS CHANNELS",CBSN (USA)
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
-#EXTINF:-1,tvg-id="BLOOMBERG (USA)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bloomberg_tv_lam.jpg" group-title="NEWS / BUSINESS CHANNELS",BLOOMBERG (USA)
+#EXTINF:-1,ch-id="BLOOMBERG (USA)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bloomberg_tv_lam.jpg" group-title="NEWS / BUSINESS CHANNELS",BLOOMBERG (USA)
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
-#EXTINF:-1,tvg-id="CBS NEWS (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/CBS_News_logo.svg/800px-CBS_News_logo.svg.png" group-title="NEWS / BUSINESS CHANNELS",CBS NEWS (USA)
+#EXTINF:-1,ch-id="CBS NEWS (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/CBS_News_logo.svg/800px-CBS_News_logo.svg.png" group-title="NEWS / BUSINESS CHANNELS",CBS NEWS (USA)
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
-#EXTINF:-1 tvg-id="PLAYBOY TV (INT)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/playboy_tv_fr.jpg" group-title="ADULT CHANNELS",PLAYBOY TV (INT)
+#EXTINF:-1 ch-id="PLAYBOY TV (INT)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/playboy_tv_fr.jpg" group-title="ADULT CHANNELS",PLAYBOY TV (INT)
 http://nl01.spr24.net/5235/mpegts?token=hiVi8EHiq86NZA
-#EXTINF:-1 tvg-id="FOX LIFE (ASIA)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545267982_foxlife-sd.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX LIFE (JKT)
+#EXTINF:-1 ch-id="FOX LIFE (ASIA)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545267982_foxlife-sd.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX LIFE (JKT)
 https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
-#EXTINF:-1 tvg-id="KIK (JKT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="SPORTS CHANNELS",KIK (JKT)
+#EXTINF:-1 ch-id="KIK (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="SPORTS CHANNELS",KIK (JKT)
 http://210.210.155.66/h/h07/01.m3u8
-#EXTINF:-1 tvg-id="FOX SPORTS (AU)" "tvg-logo="https://1x41wi4ekjc71rf2x7zbpt6azg-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/fox.png"  group-title="SPORTS CHANNELS",FOX SPORTS ( AU)
+#EXTINF:-1 ch-id="FOX SPORTS (AU)" "tvg-logo="https://1x41wi4ekjc71rf2x7zbpt6azg-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/fox.png"  group-title="SPORTS CHANNELS",FOX SPORTS ( AU)
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
-#EXTINF:-1 tvg-id="FOX CRIME (JKT)" group-title="INFORMATION / WILDLIFE CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/6/61/Fox_Crime_Philippines_Logo_2017.png",FOX CRIME (JKT)
+#EXTINF:-1 ch-id="FOX CRIME (ASIA)" group-title="INFORMATION / WILDLIFE CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/6/61/Fox_Crime_Philippines_Logo_2017.png",FOX CRIME (JKT)
 https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
-#EXTINF:-1 tvg-id="NAT GEO WILD (MAL)" tvg-logo="https://pmcvariety.files.wordpress.com/2014/03/nat_geo_wild.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (MAL)
+#EXTINF:-1 ch-id="NAT GEO WILD (ASIA)" tvg-logo="https://pmcvariety.files.wordpress.com/2014/03/nat_geo_wild.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (MAL)
 http://ddn.amrbd.com:8081/live/natgeowild/playlist.m3u8
-#EXTINF:-1 tvg-id="STAR JALSHA HD (INDIAN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR JALSHA HD (IN) 
+#EXTINF:-1 ch-id="STAR JALSHA HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR JALSHA HD (IN) 
 http://ddn.amrbd.com:8081/live/starjalsha/playlist.m3u8
-#EXTINF:-1 tvg-id="GAZI TV HD (BANGLADESH)" tvg-logo="https://i2.wp.com/pakistandth.com/wp-content/uploads/2019/07/Gazi-TV-Frequency.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",GAZI TV HD (BD)
+#EXTINF:-1 ch-id="GAZI TV HD (BD)" tvg-logo="https://i2.wp.com/pakistandth.com/wp-content/uploads/2019/07/Gazi-TV-Frequency.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",GAZI TV HD (BD)
 http://ddn.amrbd.com:8081/live/axn/playlist.m3u8
-#EXTINF:-1 tvg-id="HD FASHION (UNITED STATE)" tvg-logo="http://www.parsatv.com/index_files/channels/hdfashion.png" group-title="LIFESTYLE / TRAVELING CHANNELS",HD FASHION TV (USA)
+#EXTINF:-1 ch-id="HD FASHION (USA)" tvg-logo="http://www.parsatv.com/index_files/channels/hdfashion.png" group-title="LIFESTYLE / TRAVELING CHANNELS",HD FASHION TV (USA)
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="ABC NEWS (UNITED STATE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Abc-news-logo.png" group-title="NEWS / BUSINESS CHANNELS",ABC NEWS (USA)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -899,5 +899,5 @@ https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
 #EXTINF:-1 ch-id="CGTN (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png" group-title="NEWS / BUSINESS CHANNELS",CGTN (INT) 
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 ch-id="TV BRICS (RU)" tvg-logo="https://tvkinoradio.ru/upload/images/Article/57/1c/77/571c77b48bc399af8a6a87b6ea2118fa.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",TV BRICS (RU)
+#EXTINF:-1 ch-id="TV BRICS (RU)" tvg-logo="https://tvkinoradio.ru/upload/images/Article/57/1c/77/571c77b48bc399af8a6a87b6ea2118fa.png" group-title="NEWS / BUSINESS CHANNELS",TV BRICS (RU)
 https://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
