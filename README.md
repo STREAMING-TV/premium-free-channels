@@ -75,7 +75,7 @@ http://84.22.33.254/unicast.bizarre/index.m3u8
 http://84.22.33.254/unicast.eroxhd/index.m3u8
 #EXTINF:-1 ch-id="SUPER ONE HD (INT)"  tvg-logo="https://mar-vik.si/uploads/logotipi/SUPERONE.png"group-title="ADULT CHANNELS",SUPER ONE HD (INT)
 http://188.35.9.5:10007/stolen/246r/parasite.install
-#EXTINF:-1 ch-id="ZEE LIVING (USA)" logo="https://www.zeeinternational.co.in/wp-content/uploads/2018/02/Zee-Living.png"group-title="LIFESTYLE / TRAVELING CHANNELS",ZEE LIVING (USA)
+#EXTINF:-1 ch-id="ZEE LIVING (USA)" tvg-logo="https://www.zeeinternational.co.in/wp-content/uploads/2018/02/Zee-Living.png"group-title="LIFESTYLE / TRAVELING CHANNELS",ZEE LIVING (USA)
 http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v3a1/mono.m3u8
 #EXTINF:-1 ch-id="HUSTLER TV (INT)"  tvg-logo="http://www.mscnoticiaslatam.com/wp-content/uploads/2014/03/HustlerTV-logo.jpg"group-title="ADULT CHANNELS",HUSTLER TV (INT)
 http://163.172.209.107:8000/play/a006/index.m3u8
@@ -765,7 +765,7 @@ http://vtv.iptvfree.gq:2086/live/disney.m3u8
 http://vtv.iptvfree.gq:2086/live/foxmovies.m3u8
 #EXTINF:-1 ch-id="FOX LIFE (ASIA)"  tvg-logo="https://pbs.twimg.com/profile_images/927918098417639424/mHPaTK5u_400x400.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX LIFE (ASIA)
 http://vtv.iptvfree.gq:2086/live/foxlife.m3u8
-#EXTINF:-1 ch-id="GOODNESS TV (USA)" tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2017/12/chef-tv-1.png"  group-title="LIFESTYLE / TRAVELING CHANNELS",GOODNESS TV (USA)
+#EXTINF:-1 ch-id="GOODNESS TV (USA)" tvg-logo=" "  group-title="LIFESTYLE / TRAVELING CHANNELS",GOODNESS TV (USA)
 https://ch.iptvmate.net/11e118e202992ae500578c6f72bcf142.m3u8?fluxustv.m3u8
 #EXTINF:-1 ch-id="BRITISH MUSLIM TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/British_Muslim_TV_logo.png"  group-title="DEVOTIONAL CHANNELS",BRITISH MUSLIM TV (UK)
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
