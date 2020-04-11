@@ -65,7 +65,7 @@ http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/playlist.
 http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hwVv4Mb5yarbaGHAIfET&uid=491
 #EXTINF:-1 ch-id="BRUNETTE (INT)" tvg-logo="https://logopond.com/logos/ec8a8b37d6ec9a21b315921ab8f2f207.png"group-title="ADULT CHANNELS",BRUNETTE (INT)
 http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 ch-id="GAY TV (INT)"  tvg-logo="  " group-title="ADULT CHANNELS",GAY TV (INT)
+#EXTINF:-1 ch-id="GAY TV (INT)"  tvg-logo=" " group-title="ADULT CHANNELS",GAY TV (INT)
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 ch-id="PORNSTAR (INT)" tvg-logo="https://d172h4vc197skd.cloudfront.net/images/8f/6b/8f6bf93c0e4afecc6ff97769c855beee_1578763e3f90_t.png"group-title="ADULT CHANNELS",PORNSTAR (INT)
 http://live.redtraffic.xyz/pornstar.m3u8
@@ -889,7 +889,7 @@ http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/1036.m3u8
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41815.m3u8
 #EXTINF:-1 ch-id="PRIVE (INT)" tvg-logo="https://i.imgur.com/MBGOQkC.png" group-title="ADULT CHANNELS",PRIVE (INT) 
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41824.m3u8
-#EXTINF:-1 ch-id="STC (INT)" tvg-logo=" " group-title="ADULT CHANNELS",STC (INT) 
+#EXTINF:-1 ch-id="STC (INT)" tvg-logo="https://pbs.twimg.com/media/CMKFXFMUkAAIvJ6.jpg" group-title="ADULT CHANNELS",STC (INT) 
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41825.m3u8
 #EXTINF:-1 ch-id="WWE/USA (US)" tvg-logo="https://corporate.wwe.com/~/media/Images/W/WWE/content-images/news/wwe-usa-logo.jpg"  group-title="SPORTS CHANNELS",WWE/USA (US)
 http://cdnak10.cast4u.info/channels/4/10804.m3u8
