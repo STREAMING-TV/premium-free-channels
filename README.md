@@ -911,4 +911,5 @@ http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41824.m3u8
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41825.m3u8
 #EXTINF:-1 ch-id="STAR GOLD 2 (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD 2 (IND)
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
-#EXTINF:-1 ch-id="STAR GOLD (IND)" tvg-logo=" " group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD (IN)
+#EXTINF:-1 ch-id="STAR GOLD (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Star_Gold_Logo.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD (IN)
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/stargold/playlist.m3u8
