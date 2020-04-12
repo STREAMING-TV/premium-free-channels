@@ -903,11 +903,11 @@ http://live.cgtn.com/1000/prog_index.m3u8
 https://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="SEXT6SENSO (INT)" tvg-logo="http://4.bp.blogspot.com/-m3XxD2Wc934/VQyREpbemMI/AAAAAAAAD6U/coyq2yX0yqc/s1600/senzalimiti.jpg" group-title="ADULT CHANNELS",SEXT6SENSO (INT) 
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41826.m3u8
-#EXTINF:-1 ch-id="PLAY BOY TV HD (EU)" tvg-logo="https://www.nicepng.com/png/detail/146-1464175_mipcom-2018-cannes-playboy-tv-asia.png" group-title="ADULT CHANNELS",PLAY BOY TV HD (GBR) 
-http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41815.m3u8
-#EXTINF:-1 ch-id="PRIVE (INT)" tvg-logo="https://i.imgur.com/MBGOQkC.png" group-title="ADULT CHANNELS",PRIVE (INT) 
+#EXTINF:-1 ch-id="VIVID RED HD (EU)" tvg-logo=" " group-title="ADULT CHANNELS",VIVID RED HD (GBR) 
+http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/2892.m3u8
+#EXTINF:-1 ch-id="PRIVE (INT)" tvg-logo=" " group-title="ADULT CHANNELS",PRIVE (INT) 
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41824.m3u8
-#EXTINF:-1 ch-id="STC (INT)" tvg-logo="https://pbs.twimg.com/media/CMKFXFMUkAAIvJ6.jpg" group-title="ADULT CHANNELS",STC (INT) 
+#EXTINF:-1 ch-id="STC (INT)" tvg-logo=" " group-title="ADULT CHANNELS",STC (INT) 
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41825.m3u8
 #EXTINF:-1 ch-id="STAR GOLD 2 (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD 2 (IND)
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
