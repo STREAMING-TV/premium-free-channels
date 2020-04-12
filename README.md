@@ -903,7 +903,7 @@ http://live.cgtn.com/1000/prog_index.m3u8
 https://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="SEXT6SENSO (INT)" tvg-logo="http://4.bp.blogspot.com/-m3XxD2Wc934/VQyREpbemMI/AAAAAAAAD6U/coyq2yX0yqc/s1600/senzalimiti.jpg" group-title="ADULT CHANNELS",SEXT6SENSO (INT) 
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41826.m3u8
-#EXTINF:-1 ch-id="VIVID RED HD (EU)" tvg-logo=" " group-title="ADULT CHANNELS",VIVID RED HD (GBR) 
+#EXTINF:-1 ch-id="VIVID RED HD (EU)" tvg-logo="https://www.digitaltveurope.com/files/2020/01/364-3647246_vivid-red-hd-frquence-vivid-astra-19-2.png" group-title="ADULT CHANNELS",VIVID RED HD (GBR) 
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/2892.m3u8
 #EXTINF:-1 ch-id="PRIVE (INT)" tvg-logo=" " group-title="ADULT CHANNELS",PRIVE (INT) 
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41824.m3u8
