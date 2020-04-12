@@ -901,7 +901,7 @@ https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 ch-id="TV BRICS (RU)" tvg-logo="https://tvkinoradio.ru/upload/images/Article/57/1c/77/571c77b48bc399af8a6a87b6ea2118fa.png" group-title="NEWS / BUSINESS CHANNELS",TV BRICS (RUS)
 https://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ch-id="SEXT6SENSO (INT)" tvg-logo=" " group-title="ADULT CHANNELS",SEXT6SENSO (INT) 
+#EXTINF:-1 ch-id="SEXT6SENSO (INT)" tvg-logo="http://4.bp.blogspot.com/-m3XxD2Wc934/VQyREpbemMI/AAAAAAAAD6U/coyq2yX0yqc/s1600/senzalimiti.jpg" group-title="ADULT CHANNELS",SEXT6SENSO (INT) 
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41826.m3u8
 #EXTINF:-1 ch-id="PLAY BOY TV HD (EU)" tvg-logo="https://www.nicepng.com/png/detail/146-1464175_mipcom-2018-cannes-playboy-tv-asia.png" group-title="ADULT CHANNELS",PLAY BOY TV HD (GBR) 
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41815.m3u8
