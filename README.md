@@ -60,7 +60,7 @@ http://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in.m3u8
 #EXTINF:-1 ch-id="CARTOON NATWORK (IN)" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_black.png"group-title="KIDS CHANNELS",CARTOON NATWORK (IN)
 http://stream.tapmad.com:1935/pitvlive2/cartoon_240p/chunklist.m3u8
 #EXTINF:-1 ch-id="PASSION XXX (INT)" tvg-logo="http://i.imgur.com/6Nr8Bqk.png"group-title="ADULT CHANNELS",PASSION XXX (INT)
-http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/playlist.m3u8
+http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41820.m3u8   
 #EXTINF:-1 ch-id="HUSTLER HD (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png"group-title="ADULT CHANNELS",HUSTLER HD (INT)
 http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hwVv4Mb5yarbaGHAIfET&uid=491
 #EXTINF:-1 ch-id="GAY TV (INT)"  tvg-logo="https://i.ytimg.com/vi/A9z92iX7nwQ/hqdefault.jpg" group-title="ADULT CHANNELS",GAY TV (INT)
