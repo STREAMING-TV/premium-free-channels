@@ -905,8 +905,8 @@ https://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41826.m3u8
 #EXTINF:-1 ch-id="VIVID RED HD (EU)" tvg-logo="https://www.digitaltveurope.com/files/2020/01/364-3647246_vivid-red-hd-frquence-vivid-astra-19-2.png" group-title="ADULT CHANNELS",VIVID RED HD (GBR) 
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/2892.m3u8
-#EXTINF:-1 ch-id="PRIVE (INT)" tvg-logo=" " group-title="ADULT CHANNELS",PRIVE (INT) 
-http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41824.m3u8
+#EXTINF:-1 ch-id="RED LIGHT HD (INT)" tvg-logo="http://only-tv.date/wp-content/uploads/2019/11/0848889001511217567.png" group-title="ADULT CHANNELS",RED LIGHT HD (INT) 
+http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/826.m3u8
 #EXTINF:-1 ch-id="STC (INT)" tvg-logo=" " group-title="ADULT CHANNELS",STC (INT) 
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41825.m3u8
 #EXTINF:-1 ch-id="STAR GOLD 2 (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD 2 (IND)
