@@ -909,3 +909,4 @@ http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41815.m3u8
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41824.m3u8
 #EXTINF:-1 ch-id="STC (INT)" tvg-logo="https://pbs.twimg.com/media/CMKFXFMUkAAIvJ6.jpg" group-title="ADULT CHANNELS",STC (INT) 
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41825.m3u8
+#EXTINF:-1 ch-id="STAR GOLD 2 (IND)" tvg-logo=" " group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD 2 (IND)
