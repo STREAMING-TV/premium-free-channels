@@ -915,4 +915,5 @@ https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/stargold/playlist.m3u8
 #EXTINF:-1 ch-id="PINKO TV  (INT)" tvg-logo="https://www.varnalan.com/wp-content/uploads/2017/04/pink_o_tv.png" group-title="ADULT CHANNELS",PINKO TV (INT) 
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41821.m3u8
-#EXTINF:-1 ch-id="TEN CRICKET (PAK)" tvg-logo=" " group-title="SPORTS CHANNELS",TEN CRICKET (PAK)
+#EXTINF:-1 ch-id="TEN CRICKET (PAK)" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title="SPORTS CHANNELS",TEN CRICKET (PAK)
+http://103.81.104.222/live/ten-cricket/index.m3u8
