@@ -941,4 +941,5 @@ http://103.115.159.37:8080/sonyaath/tracks-v1a1/mono.m3u8
 http://103.144.200.7:8080/hls/zeetv/index.m3u8
 #EXTINF:-1 ch-id="JUST 89 (INT)" tvg-logo="https://www.just89.com/img/logo.jpg" group-title="ADULT CHANNELS",JUST 89 (INT)
 https://ch.iptvmate.net/118f7bb441e27ef9d855b3bb9a487614.m3u8
-#EXTINF:-1 ch-id="CNN NEWS 18 (IND)" tvg-logo=" " group-title="NEWS / BUSINESS CHANNELS",CNN NEWS 18 (IND)
+#EXTINF:-1 ch-id="CNN NEWS 18 (IND)" tvg-logo="https://www.nicepng.com/png/detail/361-3617902_http-www-indigital-co-635967475567880057-cnn-news-18.png" group-title="NEWS / BUSINESS CHANNELS",CNN NEWS 18 (IND)
+https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
