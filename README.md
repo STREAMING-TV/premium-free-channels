@@ -933,7 +933,7 @@ http://103.115.159.37:8080/nick/tracks-v1a1/mono.m3u8
 http://103.115.159.37:8080/zeebangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="STAR JANLSHA HD (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR JALSHA HD (IND)
 http://103.115.159.37:8080/starjalsha/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ch-id="AXN (ASIA)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bffc537d-17b1-465d-ab34-d477223ac142/dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",AXN (ASIA)
+#EXTINF:-1 ch-id="AXN (ASIA)" tvg-logo="https://image.flaticon.com/icons/png/512/870/870885.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",AXN (ASIA)
 http://103.115.159.37:8080/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="SONY AATH (IND)" tvg-logo="https://image.winudf.com/v2/image/Y29tLnRlY2hsaWJyYXJ5YmQuc29ueWJhbmdsYV9zY3JlZW5fMF8xNTI2NzEwNjkyXzA2OA/screen-0.jpg?fakeurl=1&type=.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY AATH (IND) 
 http://103.115.159.37:8080/sonyaath/tracks-v1a1/mono.m3u8
