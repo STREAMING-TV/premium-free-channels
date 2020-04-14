@@ -685,7 +685,7 @@ http://175.41.46.16:8081/hls/2.m3u8
 http://175.41.46.16:8081/hls/4.m3u8
 #EXTINF:-1 ch-id="SONY TEN 1 HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/Sony_Ten_1_HD.jpg" group-title="SPORTS CHANNELS",SONY TEN 1 HD (IND)
 http://175.41.46.16:8081/hls/6.m3u8
-#EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo=" https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS CHANNELS",SONY TEN 2 HD (IND)
+#EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS CHANNELS",SONY TEN 2 HD (IND)
 http://175.41.46.16:8081/hls/7.m3u8
 #EXTINF:-1 ch-id="SONY TEN 3 HD (IN)" tvg-logo="http://httpsony-a.akamaihd.net/5182475815001/5182475815001_6025608915001_6025460814001-th.jpg" group-title="SPORTS CHANNELS",SONY TEN 3 HD (IND) 
 http://175.41.46.16:8081/hls/8.m3u8
@@ -917,5 +917,6 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41821.m3u8
 #EXTINF:-1 ch-id="TEN CRICKET (PAK)" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title="SPORTS CHANNELS",TEN CRICKET (PAK)
 http://103.81.104.222/live/ten-cricket/index.m3u8
-#EXTINF:-1 ch-id="ANIMAL PLANET HD (RUS)"  tvg-logo=" " group-title="INFORMATION / WILDLIFE CHANNELS",ANIMAL PLANET HD (RUS)
+#EXTINF:-1 ch-id="ANIMAL PLANET HD (RUS)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AnimalPlanet_HD_PrimaryLockup2_RGB_Wiki_2.svg/1200px-AnimalPlanet_HD_PrimaryLockup2_RGB_Wiki_2.svg.png" group-title="INFORMATION / WILDLIFE CHANNELS",ANIMAL PLANET HD (RUS)
 http://78.129.228.178/iptv/AGCFZVZNQQ3Z64/218/index.m3u8
+#EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo=" " group-title="SPORTS CHANNELS",SONY TEN 2 HD (IND)
