@@ -947,4 +947,5 @@ https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
 https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
 #EXTINF:-1 ch-id="AAJ TAK (IND)" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2012/04/aaj-tak-logo-1.jpg" group-title="NEWS / BUSINESS CHANNELS",AAJ TAK (IND)
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L720P/chunklist_b700000.m3u8
-#EXTINF:-1 ch-id="STAR PLUS HD (INF)" tvg-logo=" " group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS HD (IND)
+#EXTINF:-1 ch-id="STAR PLUS HD (INF)" tvg-logo="https://pbs.twimg.com/profile_images/1164132839710838784/LHQ31mtM_400x400.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS HD (IND)
+https://bracnet.iptv.jadoodigital.com/live/star_plus_hd/chunks.m3u8
