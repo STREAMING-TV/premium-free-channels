@@ -921,4 +921,5 @@ http://103.81.104.222/live/ten-cricket/index.m3u8
 http://78.129.228.178/iptv/AGCFZVZNQQ3Z64/218/index.m3u8
 #EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2018/05/sony-ten-featured-2-2.jpg" group-title="SPORTS CHANNELS",SONY TEN 2 HD (IND)
 http://103.115.159.37:8080/sonyten2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ch-id="SONY TEN 3 HD (IN)" tvg-logo=" " group-title="SPORTS CHANNELS",SONY TEN 3 HD (IND) 
+#EXTINF:-1 ch-id="SONY TEN 3 HD (IN)" tvg-logo="https://3.bp.blogspot.com/-0hg7e4CPb6E/W1w7XkB8EJI/AAAAAAAAAdk/P3_5_IQmM-gJ5MQjMJ9UsncisB7PDUWqgCLcBGAs/s1600/Sony-Ten-3-HD-1-300x240.png" group-title="SPORTS CHANNELS",SONY TEN 3 HD (IND) 
+http://103.115.159.37:8080/Sonyten3/tracks-v1a1/mono.m3u8
