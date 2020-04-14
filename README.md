@@ -925,4 +925,5 @@ http://103.115.159.37:8080/sonyten2/tracks-v1a1/mono.m3u8
 http://103.115.159.37:8080/Sonyten3/tracks-v1a1/mono.m3u8
 EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://i.pinimg.com/originals/55/03/36/5503361f1e6b61da12b96547b0460b22.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",HBO (ASIA)
 http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ch-id="FOX LIFE (ASIA)" tvg-logo=" " group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX LIFE (ASIA)
+#EXTINF:-1 ch-id="FOX LIFE (ASIA)" tvg-logo="https://bestmediainfo.com/wp-content/uploads/2018/02/Fox-Life-never-stop_8.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX LIFE (ASIA)
+http://103.115.159.37:8080/foxlife/tracks-v1a1/mono.m3u8
