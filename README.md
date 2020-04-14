@@ -931,9 +931,9 @@ http://103.115.159.37:8080/foxlife/tracks-v1a1/mono.m3u8
 http://103.115.159.37:8080/nick/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="ZEE BANGLA HD (IND)" tvg-logo="https://kccl.tv/sites/default/files/Zee_Bangla_HD_Logo.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE BANGLA HD (IND) 
 http://103.115.159.37:8080/zeebangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ch-id="STAR JANLSHA HD (IND)" tvg-logo=" " group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX LIFE (ASIA)
+#EXTINF:-1 ch-id="STAR JANLSHA HD (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR JALSHA HD (IND)
 http://103.115.159.37:8080/starjalsha/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ch-id="AXN (ASIA)" tvg-logo=" " group-title="KIDS https://w0.pngwave.com/png/427/35/nickelodeon-the-nick-app-tv-everywhere-nick-play-nick-png-clip-art.png (IND)
+#EXTINF:-1 ch-id="AXN (ASIA)" tvg-logo=" " group-title="ENTERTAINMENT / MOVIES CHANNELS",AXN (ASIA)
 http://103.115.159.37:8080/axn/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ch-id="SONY AATH (IND)" tvg-logo=" " group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE BANGLA HD (IND) 
+#EXTINF:-1 ch-id="SONY AATH (IND)" tvg-logo=" " group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY AATH (IND) 
 http://103.115.159.37:8080/sonyaath/tracks-v1a1/mono.m3u8
