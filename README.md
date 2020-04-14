@@ -927,4 +927,5 @@ EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://i.pinimg.com/originals/55/03/36/5
 http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="FOX LIFE (ASIA)" tvg-logo="https://bestmediainfo.com/wp-content/uploads/2018/02/Fox-Life-never-stop_8.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX LIFE (ASIA)
 http://103.115.159.37:8080/foxlife/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ch-id="NICK (IND)" tvg-logo=" " group-title="KIDS CHANNELS",NICK (IND)
+#EXTINF:-1 ch-id="NICK (IND)" tvg-logo="https://w0.pngwave.com/png/427/35/nickelodeon-the-nick-app-tv-everywhere-nick-play-nick-png-clip-art.png" group-title="KIDS CHANNELS",NICK (IND)
+http://103.115.159.37:8080/nick/tracks-v1a1/mono.m3u8
