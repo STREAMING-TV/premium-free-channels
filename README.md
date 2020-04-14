@@ -939,4 +939,5 @@ http://103.115.159.37:8080/axn/tracks-v1a1/mono.m3u8
 http://103.115.159.37:8080/sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="ZEE HINDUSTAN (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Zee_Hindustan_Logo.png/1280px-Zee_Hindustan_Logo.png" group-title="NEWS / BUSINESS CHANNELS",ZEE HINDUSTAN (IND)
 http://103.144.200.7:8080/hls/zeetv/index.m3u8
-#EXTINF:-1 ch-id="JUST 89 (INT)" tvg-logo=" " group-title="ADULT CHANNELS",JUST 89 (INT)
+#EXTINF:-1 ch-id="JUST 89 (INT)" tvg-logo="https://www.just89.com/img/logo.jpg" group-title="ADULT CHANNELS",JUST 89 (INT)
+https://ch.iptvmate.net/118f7bb441e27ef9d855b3bb9a487614.m3u8
