@@ -917,3 +917,4 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41821.m3u8
 #EXTINF:-1 ch-id="TEN CRICKET (PAK)" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title="SPORTS CHANNELS",TEN CRICKET (PAK)
 http://103.81.104.222/live/ten-cricket/index.m3u8
+#EXTINF:-1 ch-id="ANIMAL PLANET HD (RUS)"  tvg-logo=" " group-title="INFORMATION / WILDLIFE CHANNELS",ANIMAL PLANET HD (RUS)
