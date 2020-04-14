@@ -945,3 +945,4 @@ https://ch.iptvmate.net/118f7bb441e27ef9d855b3bb9a487614.m3u8
 https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
 #EXTINF:-1 ch-id="COLORS HD (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",COLORS HD (IND)
 https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
+#EXTINF:-1 ch-id="AAJ TAK (IND)" tvg-logo=" " group-title="NEWS / BUSINESS CHANNELS",AAJ TAK (IND)
