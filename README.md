@@ -919,4 +919,5 @@ http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/41821.m3u8
 http://103.81.104.222/live/ten-cricket/index.m3u8
 #EXTINF:-1 ch-id="ANIMAL PLANET HD (RUS)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AnimalPlanet_HD_PrimaryLockup2_RGB_Wiki_2.svg/1200px-AnimalPlanet_HD_PrimaryLockup2_RGB_Wiki_2.svg.png" group-title="INFORMATION / WILDLIFE CHANNELS",ANIMAL PLANET HD (RUS)
 http://78.129.228.178/iptv/AGCFZVZNQQ3Z64/218/index.m3u8
-#EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo=" " group-title="SPORTS CHANNELS",SONY TEN 2 HD (IND)
+#EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2018/05/sony-ten-featured-2-2.jpg" group-title="SPORTS CHANNELS",SONY TEN 2 HD (IND)
+http://103.115.159.37:8080/sonyten2/tracks-v1a1/mono.m3u8
