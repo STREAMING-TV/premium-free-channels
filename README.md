@@ -943,4 +943,5 @@ http://103.144.200.7:8080/hls/zeetv/index.m3u8
 https://ch.iptvmate.net/118f7bb441e27ef9d855b3bb9a487614.m3u8
 #EXTINF:-1 ch-id="CNN NEWS 18 (IND)" tvg-logo="https://www.nicepng.com/png/detail/361-3617902_http-www-indigital-co-635967475567880057-cnn-news-18.png" group-title="NEWS / BUSINESS CHANNELS",CNN NEWS 18 (IND)
 https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
-#EXTINF:-1 ch-id="COLORS HD (IND)" tvg-logo=" " group-title="ENTERTAINMENT / MOVIES CHANNELS",COLORS HD (IND)
+#EXTINF:-1 ch-id="COLORS HD (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",COLORS HD (IND)
+https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
