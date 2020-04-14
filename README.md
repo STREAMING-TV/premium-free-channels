@@ -929,3 +929,4 @@ http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
 http://103.115.159.37:8080/foxlife/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="NICK (IND)" tvg-logo="https://w0.pngwave.com/png/427/35/nickelodeon-the-nick-app-tv-everywhere-nick-play-nick-png-clip-art.png" group-title="KIDS CHANNELS",NICK (IND)
 http://103.115.159.37:8080/nick/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ch-id="ZEE BANGLA HD (IND)" tvg-logo=" " group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE BANGLA HD (IND) 
