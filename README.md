@@ -924,3 +924,4 @@ http://103.115.159.37:8080/sonyten2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="SONY TEN 3 HD (IN)" tvg-logo="https://3.bp.blogspot.com/-0hg7e4CPb6E/W1w7XkB8EJI/AAAAAAAAAdk/P3_5_IQmM-gJ5MQjMJ9UsncisB7PDUWqgCLcBGAs/s1600/Sony-Ten-3-HD-1-300x240.png" group-title="SPORTS CHANNELS",SONY TEN 3 HD (IND) 
 http://103.115.159.37:8080/Sonyten3/tracks-v1a1/mono.m3u8
 EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://i.pinimg.com/originals/55/03/36/5503361f1e6b61da12b96547b0460b22.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",HBO (ASIA)
+http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
