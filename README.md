@@ -935,7 +935,7 @@ http://103.115.159.37:8080/zeebangla/tracks-v1a1/mono.m3u8
 http://103.115.159.37:8080/starjalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="AXN (ASIA)" tvg-logo="https://image.flaticon.com/icons/png/512/870/870885.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",AXN (ASIA)
 http://103.115.159.37:8080/axn/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ch-id="SONY AATH (IND)" tvg-logo="https://image.winudf.com/v2/image/Y29tLnRlY2hsaWJyYXJ5YmQuc29ueWJhbmdsYV9zY3JlZW5fMF8xNTI2NzEwNjkyXzA2OA/screen-0.jpg?fakeurl=1&type=.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY AATH (IND) 
+#EXTINF:-1 ch-id="SONY AATH (IND)" tvg-logo="http://videoelephantbd.com/wp-content/uploads/2019/10/Sony-Aath.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY AATH (IND) 
 http://103.115.159.37:8080/sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="ZEE HINDUSTAN (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Zee_Hindustan_Logo.png/1280px-Zee_Hindustan_Logo.png" group-title="NEWS / BUSINESS CHANNELS",ZEE HINDUSTAN (IND)
 http://103.144.200.7:8080/hls/zeetv/index.m3u8
