@@ -951,5 +951,7 @@ http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L720P/chunklist
 https://bracnet.iptv.jadoodigital.com/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1 ch-id="CARTOON NETWORK (ASIA)" tvg-logo="https://vignette.wikia.nocookie.net/teentitansgoshow/images/d/d4/2000px-Cartoon_Network_logo.svg.png"  group-title="KIDS CHANNELS",CARTOON NETWORK (ASIA)
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
-#EXTINF:-1 ch-id="ANIMAL PLANET HD (ID)"  tvg-logo=" " group-title="INFORMATION / WILDLIFE CHANNELS",ANIMAL PLANET HD (ID)
+#EXTINF:-1 ch-id="ANIMAL PLANET HD (ID)"  tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/animal-planet-hd-large-new.png" group-title="INFORMATION / WILDLIFE CHANNELS",ANIMAL PLANET HD (ID)
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
+#EXTINF:-1 ch-id="KIDS CENTRAL (ASIA)" tvg-logo=" "  group-title="KIDS CHANNELS",KIDS CENTRAL (ASIA)
+https://simultv.s.llnwi.net/o033/simkidcentral/ngrp:simkidcentral_simul/720p-playlist.m3u8
