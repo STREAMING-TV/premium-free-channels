@@ -961,3 +961,7 @@ http://sudarshan.live/hls/sudarshannews/index.m3u8?_=1582988583335
 https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
 #EXTINF:-1 ch-id="SATSANG TV (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-channel_1565694979/list/satsang386x386_1164840092.jpg" group-title="DEVOTIONAL CHANNELS", SATSANG TV (IND)
 https://satsangtv.sanskargroup.in/satsangtvlive.m3u8
+#EXTINF:-1 ch-id="SHRADDHA MH ONE (IN)" tvg-logo="https://pbs.twimg.com/profile_images/827045241228242944/HlRVoXCn_400x400.jpg" group-title="DEVOTIONAL CHANNELS", SHRADDHA MH ONE (IND)
+http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8   
+#EXTINF:-1 ch-id="SADHNA BHAKTI TV (IN)" tvg-logo="https://images.jdmagicbox.com/comp/noida/22/011p127422/catalogue/sadhna-tv-noida-sector-10-noida-satellite-channels-lzxqx5ej92.jpg" group-title="DEVOTIONAL CHANNELS", SADHNA BHAKTI TV (IND)
+http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
