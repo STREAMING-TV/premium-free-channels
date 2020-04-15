@@ -953,5 +953,5 @@ https://bracnet.iptv.jadoodigital.com/live/star_plus_hd/chunks.m3u8
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 #EXTINF:-1 ch-id="ANIMAL PLANET HD (ID)"  tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/animal-planet-hd-large-new.png" group-title="INFORMATION / WILDLIFE CHANNELS",ANIMAL PLANET HD (ID)
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
-#EXTINF:-1 ch-id="KIDS CENTRAL (ASIA)" tvg-logo=" "  group-title="KIDS CHANNELS",KIDS CENTRAL (ASIA)
+#EXTINF:-1 ch-id="KIDS CENTRAL (ASIA)" tvg-logo="https://ktrujillo409.files.wordpress.com/2016/11/kids-central.jpg"  group-title="KIDS CHANNELS",KIDS CENTRAL (ASIA)
 https://simultv.s.llnwi.net/o033/simkidcentral/ngrp:simkidcentral_simul/720p-playlist.m3u8
