@@ -959,3 +959,5 @@ https://simultv.s.llnwi.net/o033/simkidcentral/ngrp:simkidcentral_simul/720p-pla
 http://sudarshan.live/hls/sudarshannews/index.m3u8?_=1582988583335
 #EXTINF:-1 ch-id="SANSKAR TV (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-channel_1144658965/list/sanskarlogo386x386.jpg" group-title="DEVOTIONAL CHANNELS", SANSKAR TV (IND)
 https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
+#EXTINF:-1 ch-id="SATSANG TV (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-channel_1565694979/list/satsang386x386_1164840092.jpg" group-title="DEVOTIONAL CHANNELS", SATSANG TV (IND)
+https://satsangtv.sanskargroup.in/satsangtvlive.m3u8
