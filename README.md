@@ -955,5 +955,7 @@ http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 #EXTINF:-1 ch-id="KIDS CENTRAL (ASIA)" tvg-logo="https://ktrujillo409.files.wordpress.com/2016/11/kids-central.jpg"  group-title="KIDS CHANNELS",KIDS CENTRAL (ASIA)
 https://simultv.s.llnwi.net/o033/simkidcentral/ngrp:simkidcentral_simul/720p-playlist.m3u8
-#EXTINF:-1 ch-id="SUDARSHAN NEWS (IN)" tvg-logo=" " group-title="NEWS / BUSINESS CHANNELS",SUDARSHAN NEWS (IN)
+#EXTINF:-1 ch-id="SUDARSHAN NEWS (IN)" tvg-logo="https://image3.mouthshut.com/images/imagesp/925787041s.png" group-title="NEWS / BUSINESS CHANNELS",SUDARSHAN NEWS (IN)
 http://sudarshan.live/hls/sudarshannews/index.m3u8?_=1582988583335
+#EXTINF:-1 ch-id="SANSKAR TV (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-channel_1144658965/list/sanskarlogo386x386.jpg" group-title="DEVOTIONAL CHANNELS", SANSKAR TV (IND)
+https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
