@@ -799,7 +799,7 @@ http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 http://stream.tapmad.com:1935/pitvlive2/masalanew3/chunklist.m3u8
 #EXTINF:-1 ch-id="NEWSCENTER 7 (USA)" tvg-logo="https://pbs.twimg.com/media/DjYjBWRX0AEPjMH.jpg" group-title="NEWS / BUSINESS CHANNELS",NEWSCENTER 7 (USA)
 https://ch.iptvmate.net/5f24f642017e3fae6fca576aaf4ef0f3.m3u8
-#EXTINF:-1 ch-id="ZEE TV (ME)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/82/Zee_TV_HD_2017-0.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (SAU)
+#EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/82/Zee_TV_HD_2017-0.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (ME)
 http://bolly360.xyz:80/zee.php?c=ztvme
 #EXTINF:-1 ch-id="ZEE TV (USA)"  tvg-logo="https://1.bp.blogspot.com/-JmZB8G7G3bw/XceuY8qcbWI/AAAAAAAAFgM/wW5dhU4-Y8MlIN-DHp8yHbChqAC-L1u0QCEwYBhgL/s320/zee-tv-us.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (USA)
 http://bolly360.xyz:80/zee.php?c=ztvsdusa
@@ -977,7 +977,9 @@ https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba
 https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
 #EXTINF:-1 ch-id="STAR PLUS (APAC)" tvg-logo="https://i.pinimg.com/564x/ea/45/e3/ea45e365d3e2759b4d48c38073337bac.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS (APAC)
 https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
-#EXTINF:-1 ch-id="STAR WORLD (IND)" tvg-logo=" " group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR WORLD (IND)
-https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
+#EXTINF:-1 ch-id="STAR GOLD HD (IND)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD HD (IND)
+https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
 #EXTINF:-1 ch-id="STAR BHARAT (ME)" tvg-logo="https://www.iwmbuzz.com/wp-content/uploads/2017/08/star-bharat-logo.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR BHARAT (ME)
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
+#EXTINF:-1 ch-id="ZEE TV (APAC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV-3 (APAC)
+https://bracnet.iptv.jadoodigital.com/live/zee_tv/chunks.m3u8
