@@ -997,3 +997,5 @@ https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
 http://t100v.com/play.php?token=yRv5IgbHOrEy9JUmOu-6_g%3D%3D%2C1586293904.1679989495&id=47875
 #EXTINF:-1 ch-id="ID (ASIA)" tvg-logo="http://2.bp.blogspot.com/-g7kclnMAZPA/T3ClVDJR-vI/AAAAAAAAEsA/goncQjp63AI/s500/Investigation+Discovery+logo+2012.jpg",INFORMATION / WILDLIFE CHANNELS",ID (ASIA)
 http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
+#EXTINF:-1 ch-id="100AUTOMOTO TV (USA)"  tvg-logo="http://www.dealood.com/content/uploads/images/September2019/bg-100-auto-moto-tv[1]-large.jpg" group-title="SPORTS CHANNELS",100AUTOMOTO TV (USA)
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
