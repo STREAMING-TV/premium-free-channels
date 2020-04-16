@@ -975,3 +975,5 @@ https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in_480p/index.m3u8
 https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
 #EXTINF:-1 ch-id="STAR WORLD (IND)" tvg-logo="https://pbs.twimg.com/profile_images/1131448235707457537/p4iq0KWu_400x400.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR WORLD (IND)
 https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
+#EXTINF:-1 ch-id="STAR PLUS (APAC)" tvg-logo="https://i.pinimg.com/564x/ea/45/e3/ea45e365d3e2759b4d48c38073337bac.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS (APAC)
+https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
