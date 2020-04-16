@@ -1015,3 +1015,5 @@ http://tv-trtworld.live.trt.com.tr/master_720.m3u8
 http://188.35.9.5:10005/stolen/153a/imposter.rar
 #EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://www.listofbestmovies.com/wp-content/uploads/2019/07/hbo-png_404159.png" group-tittle="ENTERTAINMENT / MOVIES CHANNELS",HBO (ASIA)
 http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
+#EXTINF:-1 ch-id="VIVID TV (EU)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/VividTV.jpeg" group-title="ADULT CHANNELS",VIVID TV (EU)
+http://188.35.9.26:2031/udp/031a
