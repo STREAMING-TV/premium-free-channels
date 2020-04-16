@@ -1009,3 +1009,5 @@ http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
 http://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 #EXTINF:-1 ch-id="MUSIC BOX (UK)"  tvg-logo="https://upload.wikimedia.org/wikipedia/de/e/ef/Music_Box_logo.png"  group-title="MUSIC / YOUTH CHANNELS",MUSIC BOX (UK)
 http://hls.clubplus.eu/ch09/index.m3u8
+#EXTINF:-1 ch-id="TRT WORLD (INT)" tvg-logo="https://www.danielmekonnen.com/wp-content/uploads/2020/01/afb285c992c744fe83f01388e262b839.png" group-title="NEWS / BUSINESS CHANNELS",TRT WORLD (INT)
+http://tv-trtworld.live.trt.com.tr/master_720.m3u8
