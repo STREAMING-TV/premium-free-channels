@@ -973,3 +973,5 @@ https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in_480p/index.m3u8
 https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in_480p/index.m3u8      
 #EXTINF:-1 ch-id="SAIBABA LIVE (IND)" tvg-logo="https://images.newindianexpress.com/uploads/user/imagelibrary/2020/1/18/w1200X800/home-slider-1.jpg" group-title="DEVOTIONAL CHANNELS", SAIBABA LIVE (IND)
 https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
+#EXTINF:-1 ch-id="STAR WORLD (IND)" tvg-logo="https://pbs.twimg.com/profile_images/1131448235707457537/p4iq0KWu_400x400.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR WORLD (IND)
+https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
