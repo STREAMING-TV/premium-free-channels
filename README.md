@@ -529,7 +529,7 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 #EXTINF:-1 ch-id="MNX (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000045360000/PORTRAIT/qELkgspp.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",MNX (IND)
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:-1 ch-id="ROMEDY NOW (IN)" tvg-logo="https://www.pngkit.com/png/full/269-2699361_http-www-indigital-co-635509581376875000-romedy-now-channel.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ROMEDY NOW (IND)
+#EXTINF:-1 ch-id="ROMEDY NOW (IN)" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/09/23/unnamed.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ROMEDY NOW (IND)
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 ch-id="IFILM (ME)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",IFILM (ARU)
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
