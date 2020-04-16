@@ -977,3 +977,7 @@ https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba
 https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
 #EXTINF:-1 ch-id="STAR PLUS (APAC)" tvg-logo="https://i.pinimg.com/564x/ea/45/e3/ea45e365d3e2759b4d48c38073337bac.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS (APAC)
 https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
+#EXTINF:-1 ch-id="STAR WORLD (IND)" tvg-logo=" " group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR WORLD (IND)
+https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
+#EXTINF:-1 ch-id="STAR BHARAT (ME)" tvg-logo="https://www.iwmbuzz.com/wp-content/uploads/2017/08/star-bharat-logo.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR BHARAT (ME)
+https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
