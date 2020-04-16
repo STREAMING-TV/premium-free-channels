@@ -967,3 +967,9 @@ http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 #EXTINF:-1 ch-id="DIVYA TV (IND)"  tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-channel-divya.jpg" group-title="DEVOTIONAL CHANNELS", DIVYA TV (IND) 
 http://bolly360.xyz:80/zee.php?c=divyatv
+#EXTINF:-1 ch-id="ISHWAR TV (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ce/Ishwar_TV.jpeg" group-title="DEVOTIONAL CHANNELS", ISHWAR TV (IND)
+https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in_480p/index.m3u8  
+#EXTINF:-1 ch-id="KAATYAYANI TV (IND)" tvg-logo="http://www.veeconmedia.com/img/katyayani-logo.jpg" group-title="DEVOTIONAL CHANNELS",KAATYAYANI TV (IND)
+https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in_480p/index.m3u8      
+#EXTINF:-1 ch-id="SAIBABA LIVE (IND)" tvg-logo="https://images.newindianexpress.com/uploads/user/imagelibrary/2020/1/18/w1200X800/home-slider-1.jpg" group-title="DEVOTIONAL CHANNELS", SAIBABA LIVE (IND)
+https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
