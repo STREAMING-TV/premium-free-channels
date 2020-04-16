@@ -983,7 +983,7 @@ https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
 #EXTINF:-1 ch-id="ZEE TV (APAC)" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/12/ZEE_TV_new_logo1_3.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (APAC)
 https://bracnet.iptv.jadoodigital.com/live/zee_tv/chunks.m3u8
-#EXTINF:-1 ch-id="NAT GEO PEOPLE (ME)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/nz-nat-geo-people-5797.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (ME)
+#EXTINF:-1 ch-id="NAT GEO PEOPLE (ME)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/nz-nat-geo-people-5797.jpg"  group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (ME)
 https://bracnet.iptv.jadoodigital.com/live/nat_Geo_people/chunks.m3u8
 #EXTINF:-1 ch-id="NICK JR (IND)" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/db/98/12/db98128b-7615-6676-1fb4-ef08f46ffe73/contsched.lvkmlfrg.lsr/1024x1024bb.jpg" group-title="KIDS CHANNELS",NICK JR (IND)
 https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
@@ -995,7 +995,7 @@ https://bracnet.iptv.jadoodigital.com/live/zee_classic/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 ch-id="ROMEDY NOW (IND)" tvg-logo="https://indiantelevision.com/sites/default/files/styles/230x230/public/images/tv-images/2019/09/16/romedy.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ROMEDY NOW (IND)
 http://t100v.com/play.php?token=yRv5IgbHOrEy9JUmOu-6_g%3D%3D%2C1586293904.1679989495&id=47875
-#EXTINF:-1 ch-id="ID (ASIA)" tvg-logo="http://2.bp.blogspot.com/-g7kclnMAZPA/T3ClVDJR-vI/AAAAAAAAEsA/goncQjp63AI/s500/Investigation+Discovery+logo+2012.jpg","INFORMATION / WILDLIFE CHANNELS",ID (ASIA)
+#EXTINF:-1 ch-id="ID (ASIA)" tvg-logo="http://2.bp.blogspot.com/-g7kclnMAZPA/T3ClVDJR-vI/AAAAAAAAEsA/goncQjp63AI/s500/Investigation+Discovery+logo+2012.jpg"  group-title="INFORMATION / WILDLIFE CHANNELS",ID (ASIA)
 http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
 #EXTINF:-1 ch-id="100AUTOMOTO TV (USA)"  tvg-logo="http://www.dealood.com/content/uploads/images/September2019/bg-100-auto-moto-tv[1]-large.jpg" group-title="SPORTS CHANNELS",100AUTOMOTO TV (USA)
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
@@ -1003,5 +1003,5 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 http://fr01.spr24.net/22338/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:-1 ch-id="FOOD NETWORK (USA)"  tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/c/c8/Cartoon_Network_International_Logo.png"   group-title="LIFESTYLE / TRAVELING CHANNELS",FOOD NETWORK (USA)
 https://delivery.ghanacloud.ga/LiveApp/streams/842293636447220341220267.m3u8
-#EXTINF:-1 ch-id="SONY TV (UK) VPN"  tvg-logo="https://i.pinimg.com/originals/93/d6/4d/93d64d804db333a66dd4cbf52d0a5613.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY TV (UK) VPN
+#EXTINF:-1 ch-id="SONY TV (UK) VPN"  tvg-logo="https://i.pinimg.com/originals/93/d6/4d/93d64d804db333a66dd4cbf52d0a5613.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY TV (UK) VPN
 http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
