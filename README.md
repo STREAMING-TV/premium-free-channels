@@ -981,7 +981,7 @@ https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
 #EXTINF:-1 ch-id="STAR BHARAT (ME)" tvg-logo="https://www.iwmbuzz.com/wp-content/uploads/2017/08/star-bharat-logo.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR BHARAT (ME)
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
-#EXTINF:-1 ch-id="ZEE TV (APAC)" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/12/ZEE_TV_new_logo1_3.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV-3 (APAC)
+#EXTINF:-1 ch-id="ZEE TV (APAC)" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/12/ZEE_TV_new_logo1_3.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (APAC)
 https://bracnet.iptv.jadoodigital.com/live/zee_tv/chunks.m3u8
 #EXTINF:-1 ch-id="NAT GEO PEOPLE (ME)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/nz-nat-geo-people-5797.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (ME)
 https://bracnet.iptv.jadoodigital.com/live/nat_Geo_people/chunks.m3u8
@@ -991,5 +991,7 @@ https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/fyi_hd/chunks.m3u8
 #EXTINF:-1 ch-id="ZEE BOLLYWOOD (IND)" tvg-logo="http://www.ethnicchannels.com/images/channeldetail/zee-bollywood/Zee-Bollywood.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE BOLLYWOOD (IND)
 https://bracnet.iptv.jadoodigital.com/live/zee_classic/chunks.m3u8
-#EXTINF:-1 ch-id="ZEE CINEMA (INT)" tvg-logo="https://i.pinimg.com/originals/df/d1/2e/dfd12e752197ffdd87e904f4734f3b1b.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA-4 (INT)
+#EXTINF:-1 ch-id="ZEE CINEMA (INT)" tvg-logo="https://i.pinimg.com/originals/df/d1/2e/dfd12e752197ffdd87e904f4734f3b1b.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA (INT)
 https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
+#EXTINF:-1 ch-id="ROMEDY NOW (IND)" tvg-logo="  " group-title="ENTERTAINMENT / MOVIES CHANNELS",ROMEDY NOW (IND)
+http://t100v.com/play.php?token=yRv5IgbHOrEy9JUmOu-6_g%3D%3D%2C1586293904.1679989495&id=47875
