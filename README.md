@@ -993,5 +993,5 @@ https://bracnet.iptv.jadoodigital.com/live/fyi_hd/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/zee_classic/chunks.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA (INT)" tvg-logo="https://i.pinimg.com/originals/df/d1/2e/dfd12e752197ffdd87e904f4734f3b1b.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA (INT)
 https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
-#EXTINF:-1 ch-id="ROMEDY NOW (IND)" tvg-logo="  " group-title="ENTERTAINMENT / MOVIES CHANNELS",ROMEDY NOW (IND)
+#EXTINF:-1 ch-id="ROMEDY NOW (IND)" tvg-logo="https://indiantelevision.com/sites/default/files/styles/230x230/public/images/tv-images/2019/09/16/romedy.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ROMEDY NOW (IND)
 http://t100v.com/play.php?token=yRv5IgbHOrEy9JUmOu-6_g%3D%3D%2C1586293904.1679989495&id=47875
