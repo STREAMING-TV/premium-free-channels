@@ -965,3 +965,5 @@ https://satsangtv.sanskargroup.in/satsangtvlive.m3u8
 http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8   
 #EXTINF:-1 ch-id="SADHNA BHAKTI TV (IN)" tvg-logo="https://images.jdmagicbox.com/comp/noida/22/011p127422/catalogue/sadhna-tv-noida-sector-10-noida-satellite-channels-lzxqx5ej92.jpg" group-title="DEVOTIONAL CHANNELS", SADHNA BHAKTI TV (IND)
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
+#EXTINF:-1 ch-id="DIVYA TV (IND)"  tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-channel-divya.jpg" group-title="DEVOTIONAL CHANNELS", DIVYA TV (IND) 
+http://bolly360.xyz:80/zee.php?c=divyatv
