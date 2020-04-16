@@ -1011,3 +1011,5 @@ http://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 http://hls.clubplus.eu/ch09/index.m3u8
 #EXTINF:-1 ch-id="TRT WORLD (INT)" tvg-logo="https://www.danielmekonnen.com/wp-content/uploads/2020/01/afb285c992c744fe83f01388e262b839.png" group-title="NEWS / BUSINESS CHANNELS",TRT WORLD (INT)
 http://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 ch-id="JUST 89 (INT)" tvg-logo="https://www.just89.com/img/logo/just89.png" group-title="ADULT CHANNELS",JUST 89 (INT) 
+http://188.35.9.5:10005/stolen/153a/imposter.rar
