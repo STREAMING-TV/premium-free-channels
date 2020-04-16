@@ -1001,3 +1001,5 @@ http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 ch-id="CARTOON NETWORK (UK)" tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/c/c8/Cartoon_Network_International_Logo.png"   group-title="KIDS CHANNELS",CARTOON NETWORK (UK)
 http://fr01.spr24.net/22338/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1 ch-id="FOOD NETWORK (USA)"  tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/c/c8/Cartoon_Network_International_Logo.png"   group-title="LIFESTYLE / TRAVELING CHANNELS",FOOD NETWORK (USA)
+https://delivery.ghanacloud.ga/LiveApp/streams/842293636447220341220267.m3u8
