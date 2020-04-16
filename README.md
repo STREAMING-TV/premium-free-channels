@@ -987,7 +987,7 @@ https://bracnet.iptv.jadoodigital.com/live/zee_tv/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/nat_Geo_people/chunks.m3u8
 #EXTINF:-1 ch-id="NICK JR (IND)" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/db/98/12/db98128b-7615-6676-1fb4-ef08f46ffe73/contsched.lvkmlfrg.lsr/1024x1024bb.jpg" group-title="KIDS CHANNELS",NICK JR (IND)
 https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
-#EXTINF:-1 ch-id="FYI 18 HD (IND)" tvg-logo=" " group-title="LIFESTYLE / TRAVELING CHANNELS",FYI 18 HD (IND)
+#EXTINF:-1 ch-id="FYI 18 HD (IND)" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/FYI-TV-18-HD.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",FYI 18 HD (IND)
 https://bracnet.iptv.jadoodigital.com/live/fyi_hd/chunks.m3u8
 #EXTINF:-1 ch-id="ZEE BOLLYWOOD (IND)" tvg-logo="http://www.ethnicchannels.com/images/channeldetail/zee-bollywood/Zee-Bollywood.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE BOLLYWOOD (IND)
 https://bracnet.iptv.jadoodigital.com/live/zee_classic/chunks.m3u8
