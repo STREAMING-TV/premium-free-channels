@@ -1071,3 +1071,5 @@ https://delivery.macan.live/stream/id_cna/index.m3u8?token=Yq91Jdf0&v=20200308
 http://livecdnh3.tvanywhere.ae/hls/rishtey/02.m3u8
 #EXTINF:-1 ch-id="FX (ASIA)"  tvg-logo="https://www.realityblurred.com/realitytv/images/2019/02/fx-logo.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",FX (ASIA)
 http://111.13.111.192/125.227.198.89:8027
+#EXTINF:-1 ch-id="ANIMAL PLANET (RU)"  tvg-logo="https://www.georgiaaquarium.org/wp-content/uploads/2019/05/2019_animal_planet_logo-204x150.png"  group-title="INFORMATION / WILDLIFE CHANNELS",ANIMAL PLANET  (RUS)
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/animal-planet.m3u8 
