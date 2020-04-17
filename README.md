@@ -979,7 +979,7 @@ https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
 #EXTINF:-1 ch-id="STAR GOLD HD (IND)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD HD (IND)
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
-#EXTINF:-1 ch-id="STAR BHARAT (ME)" tvg-logo="https://www.iwmbuzz.com/wp-content/uploads/2017/08/star-bharat-logo.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR BHARAT (ME)
+#EXTINF:-1 ch-id="STAR BHARAT (ME)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/zee-tv-white.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR BHARAT (ME)
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
 #EXTINF:-1 ch-id="ZEE TV (APAC)" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/12/ZEE_TV_new_logo1_3.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (APAC)
 https://bracnet.iptv.jadoodigital.com/live/zee_tv/chunks.m3u8
@@ -1027,3 +1027,5 @@ http://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
 #EXTINF:-1 ch-id="ZEE TV (APAC)"  tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Zee-TV-APAC.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (APAC)
 https://delivery.macan.live/stream/zeetv/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1 ch-id="CARTOON NETWORK (ASIA)" tvg-logo="https://d302e0npexowb4.cloudfront.net/wp-content/uploads/2016/11/Cartoon-Network-Logo.jpg"  group-title="KIDS CHANNELS",CARTOON NETWORK (ASIA)
+https://delivery.macan.live/stream/cartoonnetwork/index.m3u8?token=Yq91Jdf0&v=20200308
