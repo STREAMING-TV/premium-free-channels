@@ -1065,3 +1065,5 @@ https://delivery.macan.live/stream/id_axn/index.m3u8?token=Yq91Jdf0&v=20200308
 https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 ch-id="NHK WORLD (JP)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b1/NHK_World_Japan.png"  group-title="NEWS / BUSINESS CHANNELS",NHK WORLD  (JP)
 https://delivery.macan.live/stream/id_nhkworld/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1 ch-id="CNA (ASIA)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1554165536_channel-news-asia.png" group-title="NEWS / BUSINESS CHANNELS",CNA (ASIA)
+https://delivery.macan.live/stream/id_cna/index.m3u8?token=Yq91Jdf0&v=20200308
