@@ -1021,3 +1021,5 @@ http://188.35.9.26:2031/udp/031a
 http://a.jsrdn.com/broadcast/d5b45/+0000/low/c.m3u8
 #EXTINF:-1 ch-id="BYU TV (USA)"  tvg-logo="https://tvdateswatch.com/wp-content/uploads/2020/01/byu.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",BYU TV (USA)
 http://a.jsrdn.com/broadcast/d5b46/+0000/low/c.m3u8
+#EXTINF:-1 ch-id="BOXING TV (USA)" tvg-logo="https://image.roku.com/developer_channels/prod/827cf1687ebe74ae4054e0561d298cb3f979154adad919571978bd7d8c679d52.png" group-title="SPORTS CHANNELS",BOXING TV (USA)
+http://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
