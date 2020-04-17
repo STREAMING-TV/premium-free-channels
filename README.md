@@ -27,9 +27,9 @@ http://livecdnh1.tvanywhere.ae/hls/zing/02.m3u8
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1 ch-id="MBC BOLLYWOOD (ME)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/MBC_BOLLYWOOD.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",MBC BOLLYWOOD (ME)
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
-#EXTINF:-1 ch-id="STAR MOVIES HD (ME)"  tvg-logo="https://content.osn.com/logo/channel/cropped/STW.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR MOVIES HD (ME)
+#EXTINF:-1 ch-id="STAR MOVIES HD (ME)"  tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR MOVIES HD (ME)
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
-#EXTINF:-1 ch-id="STAR WORLD HD (ME)"  tvg-logo="https://content.osn.com/bob/745x419/STW.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR WORLD (ME)
+#EXTINF:-1 ch-id="STAR WORLD HD (ME)"  tvg-logo="https://content.osn.com/logo/channel/cropped/STW.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR WORLD (ME)
 http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 ch-id="FILMY (IN)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sahara-filmi-tv-logo.svg/800px-Sahara-filmi-tv-logo.svg.png"group-title=" ENTERTAINMENT / MOVIES CHANNELS",FILMY (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
@@ -981,7 +981,7 @@ https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
 #EXTINF:-1 ch-id="STAR BHARAT (ME)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/life-ok-aud.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR BHARAT (ME)
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
-#EXTINF:-1 ch-id="ZEE TV (APAC)" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/12/ZEE_TV_new_logo1_3.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (APAC)
+#EXTINF:-1 ch-id="ZEE TV (APAC)" tvg-logo=" "  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (APAC)
 https://bracnet.iptv.jadoodigital.com/live/zee_tv/chunks.m3u8
 #EXTINF:-1 ch-id="NAT GEO PEOPLE (ME)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/nz-nat-geo-people-5797.jpg"  group-title="LIFESTYLE / TRAVELING CHANNELS",NAT GEO PEOPLE (ME)
 https://bracnet.iptv.jadoodigital.com/live/nat_Geo_people/chunks.m3u8
