@@ -1019,3 +1019,5 @@ http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 http://188.35.9.26:2031/udp/031a
 #EXTINF:-1 ch-id="BOLLYWOOD TV (USA)"  tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22667/bollywood-tv/thumbv_20191205_011236.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",BOLLYWOOD TV (USA)
 http://a.jsrdn.com/broadcast/d5b45/+0000/low/c.m3u8
+#EXTINF:-1 ch-id="BYU TV (USA)"  tvg-logo="https://tvdateswatch.com/wp-content/uploads/2020/01/byu.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",BYU TV (USA)
+http://a.jsrdn.com/broadcast/d5b46/+0000/low/c.m3u8
