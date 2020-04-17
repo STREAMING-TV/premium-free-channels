@@ -1063,3 +1063,5 @@ https://delivery.macan.live/stream/fightsport/index.m3u8?token=Yq91Jdf0&v=202003
 https://delivery.macan.live/stream/id_axn/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 ch-id="FOX LIFE (ASIA)" tvg-logo="https://cdn.gelestatic.it/kataweb/tvzap/2019/05/taglioAlta_001221.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX LIFE (ASIA)
 https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1 ch-id="NHK WORLD (JP)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b1/NHK_World_Japan.png"  group-title="NEWS / BUSINESS CHANNELS",NHK WORLD  (JP)
+https://delivery.macan.live/stream/id_nhkworld/index.m3u8?token=Yq91Jdf0&v=20200308
