@@ -979,11 +979,11 @@ https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
 #EXTINF:-1 ch-id="STAR GOLD HD (IND)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD HD (IND)
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
-#EXTINF:-1 ch-id="STAR BHARAT (ME)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/zee-tv-white.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR BHARAT (ME)
+#EXTINF:-1 ch-id="STAR BHARAT (ME)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/life-ok-aud.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR BHARAT (ME)
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
 #EXTINF:-1 ch-id="ZEE TV (APAC)" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/12/ZEE_TV_new_logo1_3.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (APAC)
 https://bracnet.iptv.jadoodigital.com/live/zee_tv/chunks.m3u8
-#EXTINF:-1 ch-id="NAT GEO PEOPLE (ME)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/nz-nat-geo-people-5797.jpg"  group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (ME)
+#EXTINF:-1 ch-id="NAT GEO PEOPLE (ME)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/nz-nat-geo-people-5797.jpg"  group-title="LIFESTYLE / TRAVELING CHANNELS",NAT GEO PEOPLE (ME)
 https://bracnet.iptv.jadoodigital.com/live/nat_Geo_people/chunks.m3u8
 #EXTINF:-1 ch-id="NICK JR (IND)" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/db/98/12/db98128b-7615-6676-1fb4-ef08f46ffe73/contsched.lvkmlfrg.lsr/1024x1024bb.jpg" group-title="KIDS CHANNELS",NICK JR (IND)
 https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
