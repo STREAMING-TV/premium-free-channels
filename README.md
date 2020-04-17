@@ -1029,3 +1029,5 @@ http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
 https://delivery.macan.live/stream/zeetv/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 ch-id="CARTOON NETWORK (ASIA)" tvg-logo="https://d302e0npexowb4.cloudfront.net/wp-content/uploads/2016/11/Cartoon-Network-Logo.jpg"  group-title="KIDS CHANNELS",CARTOON NETWORK (ASIA)
 https://delivery.macan.live/stream/cartoonnetwork/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1 ch-id="TLC (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/400px-Tlc_logo_discovery.svg.png" group-title="LIFESTYLE / TRAVELING CHANNELS",TLC (ASIA)
+https://delivery.macan.live/stream/tlc/index.m3u8?token=Yq91Jdf0&v=20200308
