@@ -1053,3 +1053,5 @@ https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=Yq91Jdf0&v=2
 https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 ch-id="CHANNEL V (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1189px-Channel_V_Logo.svg.png"  group-title="MUSIC / YOUTH CHANNELS",CHANNEL V (ASIA)
 https://delivery.macan.live/stream/id_channelv/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1 ch-id="WB TV (ASIA)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/WarnerTVAsia.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",WB TV (ASIA)
+https://delivery.macan.live/stream/warnertv/index.m3u8?token=Yq91Jdf0&v=20200308
