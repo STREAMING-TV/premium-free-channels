@@ -627,7 +627,7 @@ https://stream.simpaisa.com/pitvlive2/animal_360p/playlist.m3u8?checkedby_iptvca
 http://ddn.amrbd.com:8081/live/starplus/playlist.m3u8
 #EXTINF:-1 ch-id="STAR GOLD HD (IN)" tvg-name="STAR GOLD HD (IN)" tvg-logo="http://i.imgur.com/ev5stgs.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD HD (IND)
 http://ddn.amrbd.com:8081/live/stargold/playlist.m3u8
-#EXTINF:-1 ch-id="STAR MOVIES HD (ME)" tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR MOVIES HD (IND)
+#EXTINF:-1 ch-id="STAR MOVIES HD (ME)" tvg-logo="https://content.osn.com/bob/745x419/STM.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR MOVIES HD (ME)
 http://ddn.amrbd.com:8081/live/starmovies/playlist.m3u8
 #EXTINF:-1 ch-id="SONY SAB (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY SAB (IND)
 http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
