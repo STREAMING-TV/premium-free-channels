@@ -28,7 +28,7 @@ http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1 ch-id="MBC BOLLYWOOD (ME)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/MBC_BOLLYWOOD.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",MBC BOLLYWOOD (ME)
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
 #EXTINF:-1 ch-id="STAR MOVIES HD (ME)"  tvg-logo="https://content.osn.com/bob/745x419/STM.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR MOVIES HD (ME)
-http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?fluxustv.m3u8
+http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
 #EXTINF:-1 ch-id="STAR WORLD HD (ME)"  tvg-logo="https://content.osn.com/bob/745x419/STW.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR WORLD (ME)
 http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 ch-id="FILMY (IN)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sahara-filmi-tv-logo.svg/800px-Sahara-filmi-tv-logo.svg.png"group-title=" ENTERTAINMENT / MOVIES CHANNELS",FILMY (IN)
