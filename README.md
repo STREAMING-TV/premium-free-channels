@@ -1031,3 +1031,5 @@ https://delivery.macan.live/stream/zeetv/index.m3u8?token=Yq91Jdf0&v=20200308
 https://delivery.macan.live/stream/cartoonnetwork/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 ch-id="TLC (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/400px-Tlc_logo_discovery.svg.png" group-title="LIFESTYLE / TRAVELING CHANNELS",TLC (ASIA)
 https://delivery.macan.live/stream/tlc/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1 ch-id="BABY TV (ASIA)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61C2TSxmMwL.png" group-title="KIDS CHANNELS",BABY TV (ASIA)
+https://delivery.macan.live/stream/babytv/index.m3u8?token=Yq91Jdf0&v=20200308
