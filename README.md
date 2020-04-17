@@ -1051,3 +1051,5 @@ https://delivery.macan.live/stream/id_fx/index.m3u8?token=Yq91Jdf0&v=20200308
 https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 ch-id="DISCOVERY CHANNEL (ASIA)" tvg-logo="https://pbs.twimg.com/profile_images/1176853651106816001/Qi-COTMh_400x400.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY CHANNEL (ASIA)
 https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1 ch-id="CHANNEL V (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1189px-Channel_V_Logo.svg.png"  group-title="MUSIC / YOUTH CHANNELS",CHANNEL V (ASIA)
+https://delivery.macan.live/stream/id_channelv/index.m3u8?token=Yq91Jdf0&v=20200308
