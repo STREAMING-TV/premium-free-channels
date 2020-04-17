@@ -39,7 +39,7 @@ https://m-c20-j2apps.s.llnwi.net/hls/0087.TimesNow.in.m3u8
 http://bolly360.xyz:80/zee.php?c=zeetvhd
 #EXTINF:-1 ch-id="ZEE TV HD (USA)"  tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_446/ic_logo_zee_TV_HD_1.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (USA)
 http://bolly360.xyz:80/zee.php?c=ztvhdusa
-EXTINF:-1 ch-id="ZEE TV (APAC)"  tvg-logo="https://i.pinimg.com/originals/4a/d3/62/4ad362abea44922e6b7221856f774d3d.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (APAC)
+#EXTINF:-1 ch-id="ZEE TV (APAC)"  tvg-logo="https://i.pinimg.com/originals/4a/d3/62/4ad362abea44922e6b7221856f774d3d.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (APAC)
 http://bolly360.xyz:80/zee.php?c=apacsea
 #EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://www.exchange4media.com/news-photo/1508122527_OJuLfs_zee.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (UK)
 http://bolly360.xyz:80/zee.php?c=zeetvsduk
@@ -1025,3 +1025,5 @@ http://a.jsrdn.com/broadcast/d5b46/+0000/low/c.m3u8
 http://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
 #EXTINF:-1 ch-id="DUCK TV (ME)" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/02/ducktv.jpg"  group-title="KIDS CHANNELS",DUCK TV (ME)
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:-1 ch-id="ZEE TV (APAC)"  tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Zee-TV-APAC.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (APAC)
+https://delivery.macan.live/stream/zeetv/index.m3u8?token=Yq91Jdf0&v=20200308
