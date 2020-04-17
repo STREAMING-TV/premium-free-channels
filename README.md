@@ -1047,3 +1047,5 @@ https://delivery.macan.live/stream/id_afc/index.m3u8?token=Yq91Jdf0&v=20200308
 https://delivery.macan.live/stream/id_fox/index.m3u8?token=Yq91Jdf0&v=20200308 
 #EXTINF:-1 ch-id="FX (ASIA)"  tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fx-logo-png-1.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",FX (ASIA)
 https://delivery.macan.live/stream/id_fx/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1 ch-id="ANIMAL PLANET (ASIA)"  tvg-logo="https://www.georgiaaquarium.org/wp-content/uploads/2019/05/2019_animal_planet_logo-204x150.png" group-title="INFORMATION / WILDLIFE CHANNELS",ANIMAL PLANET (ASIA)
+https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=Yq91Jdf0&v=20200308
