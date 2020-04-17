@@ -1035,3 +1035,5 @@ https://delivery.macan.live/stream/tlc/index.m3u8?token=Yq91Jdf0&v=20200308
 https://delivery.macan.live/stream/babytv/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 ch-id="HISTORY TV (ASIA)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="INFORMATION / WILDLIFE CHANNELS",HISTORY TV  (ASIA)
 https://delivery.macan.live/stream/history/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1 ch-id="ZOO MOO (ASIA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c5/Zoomookidslogo.png"   group-title="KIDS CHANNELS",ZOO MOO (ASIA)
+https://delivery.macan.live/stream/zoomoo/index.m3u8?token=Yq91Jdf0&v=20200308
