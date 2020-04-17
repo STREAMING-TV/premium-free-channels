@@ -981,7 +981,7 @@ https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
 #EXTINF:-1 ch-id="STAR BHARAT (ME)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/life-ok-aud.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR BHARAT (ME)
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
-#EXTINF:-1 ch-id="ZEE TV (APAC)" tvg-logo=" "  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (APAC)
+#EXTINF:-1 ch-id="ZEE TV (APAC)" tvg-logo="http://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/09/zee_tv.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (APAC)
 https://bracnet.iptv.jadoodigital.com/live/zee_tv/chunks.m3u8
 #EXTINF:-1 ch-id="NAT GEO PEOPLE (ME)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/nz-nat-geo-people-5797.jpg"  group-title="LIFESTYLE / TRAVELING CHANNELS",NAT GEO PEOPLE (ME)
 https://bracnet.iptv.jadoodigital.com/live/nat_Geo_people/chunks.m3u8
