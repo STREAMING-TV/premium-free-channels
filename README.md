@@ -1033,3 +1033,5 @@ https://delivery.macan.live/stream/cartoonnetwork/index.m3u8?token=Yq91Jdf0&v=20
 https://delivery.macan.live/stream/tlc/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 ch-id="BABY TV (ASIA)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61C2TSxmMwL.png" group-title="KIDS CHANNELS",BABY TV (ASIA)
 https://delivery.macan.live/stream/babytv/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1 ch-id="HISTORY TV (ASIA)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="INFORMATION / WILDLIFE CHANNELS",HISTORY TV  (ASIA)
+https://delivery.macan.live/stream/history/index.m3u8?token=Yq91Jdf0&v=20200308
