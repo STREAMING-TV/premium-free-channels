@@ -639,7 +639,7 @@ http://ddn.amrbd.com:8081/live/starsports1/playlist.m3u8
 http://ddn.amrbd.com:8081/live/starsports2/playlist.m3u8
 #EXTINF:-1,ch-id="RT (INT)" tvg-name="RT (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="NEWS / BUSINESS CHANNELS",RT (INT)
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
-#EXTINF:-1 ch-id="BOLLYWOOD CLASSIC (RU)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/Bollywood_Clasic_%282015-present%29.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",BOLLYWOOD CLASSIC (RUS)
+#EXTINF:-1 ch-id="BOLLYWOOD CLASSIC (RU)" tvg-logo="https://stvron.com/canale/512/bollywood-clasic.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",BOLLYWOOD CLASSIC (RUS)
 http://telekomtv-ro.akamaized.net/shls/LIVE%24BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 ch-id="SEX TAP (INT)" tvg-logo="https://bos3-uploads.s3.amazonaws.com/listing_logos/14446.jpg" group-title="ADULT CHANNELS",SEX TAP (INT)
 http://live.redtraffic.net/gangbang.m3u8
