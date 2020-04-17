@@ -1067,3 +1067,5 @@ https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=Yq91Jdf0&v=202003
 https://delivery.macan.live/stream/id_nhkworld/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 ch-id="CNA (ASIA)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1554165536_channel-news-asia.png" group-title="NEWS / BUSINESS CHANNELS",CNA (ASIA)
 https://delivery.macan.live/stream/id_cna/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1 ch-id="COLORS RISHTEY (ME)"  tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Colors-Rishtey_TV.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",COLORS RISHTEY (ME)
+http://livecdnh3.tvanywhere.ae/hls/rishtey/02.m3u8
