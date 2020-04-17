@@ -1055,3 +1055,5 @@ https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=Yq91Jdf0
 https://delivery.macan.live/stream/id_channelv/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 ch-id="WB TV (ASIA)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/WarnerTVAsia.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",WB TV (ASIA)
 https://delivery.macan.live/stream/warnertv/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1 ch-id="LIFETIME (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="LIFESTYLE / TRAVELING CHANNELS",LIFETIME (ASIA)
+https://delivery.macan.live/stream/lifetime/index.m3u8?token=Yq91Jdf0&v=20200308
