@@ -1045,3 +1045,5 @@ https://delivery.macan.live/stream/cinemax/index.m3u8?token=Yq91Jdf0&v=20200308
 https://delivery.macan.live/stream/id_afc/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 ch-id="FOX (ASIA)"  tvg-logo="http://about.edgefactor.com/wp-content/uploads/2016/06/Fox-Logo-v1.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX (ASIA)
 https://delivery.macan.live/stream/id_fox/index.m3u8?token=Yq91Jdf0&v=20200308 
+#EXTINF:-1 ch-id="FX (ASIA)"  tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fx-logo-png-1.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",FX (ASIA)
+https://delivery.macan.live/stream/id_fx/index.m3u8?token=Yq91Jdf0&v=20200308
