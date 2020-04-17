@@ -1057,3 +1057,5 @@ https://delivery.macan.live/stream/id_channelv/index.m3u8?token=Yq91Jdf0&v=20200
 https://delivery.macan.live/stream/warnertv/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 ch-id="LIFETIME (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="LIFESTYLE / TRAVELING CHANNELS",LIFETIME (ASIA)
 https://delivery.macan.live/stream/lifetime/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1 ch-id="FIGHTSPORT (ASIA)" tvg-logo="https://2upyml2xgast2pwf71r0ycaj-wpengine.netdna-ssl.com/wp-content/uploads/LOGO_WHITE.png"  group-title="SPORTS CHANNELS",FIGHTSPORT (ASIA)
+https://delivery.macan.live/stream/fightsport/index.m3u8?token=Yq91Jdf0&v=20200308
