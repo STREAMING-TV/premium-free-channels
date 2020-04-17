@@ -1037,3 +1037,5 @@ https://delivery.macan.live/stream/babytv/index.m3u8?token=Yq91Jdf0&v=20200308
 https://delivery.macan.live/stream/history/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 ch-id="ZOO MOO (ASIA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c5/Zoomookidslogo.png"   group-title="KIDS CHANNELS",ZOO MOO (ASIA)
 https://delivery.macan.live/stream/zoomoo/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1 ch-id="HUGTV (ASIA)" tvg-logo="https://www.kindpng.com/picc/m/195-1958615_hgtv-logo-png-transparent-png.png" group-title="LIFESTYLE / TRAVELING CHANNELS",HUGTV (ASIA)
+https://delivery.macan.live/stream/hgtv/index.m3u8?token=Yq91Jdf0&v=20200308
