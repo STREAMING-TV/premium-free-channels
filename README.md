@@ -291,7 +291,7 @@ https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8
 https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in.m3u8
 #EXTINF:-1 ch-id="MUSIC INDIA (IN)"  tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india.png" group-title="MUSIC / YOUTH CHANNELS",MUSIC INDIA (IN)
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
-#EXTINF:-1 ch-id="9XM (IN)" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2019/06/9xm001.jpg" group-title="MUSIC / YOUTH CHANNELS",9XM (IN)
+#EXTINF:-1 ch-id="9XM (IN)" tvg-logo="https://bollywoodmusicproject.com/new/wp-content/uploads/2017/12/9XM-02.png" group-title="MUSIC / YOUTH CHANNELS",9XM (IND)
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 #EXTINF:-1 ch-id="9X JALWA (IN)" tvg-logo="https://img.favpng.com/5/7/16/9x-jalwa-television-channel-9x-media-streaming-media-png-favpng-UBBEM6M48rjgxxXDuYXgXcG7S.jpg" group-title="MUSIC / YOUTH CHANNELS",9X JALWA (IN)
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
