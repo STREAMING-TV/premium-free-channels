@@ -1075,3 +1075,5 @@ http://111.13.111.192/125.227.198.89:8027
 http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/animal-planet.m3u8 
 #EXTINF:-1 ch-id="ZEE BANGLA (IN)"  tvg-logo="https://i.pinimg.com/originals/e7/8e/87/e78e875a3e973145f39ecfae2095db03.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS ",ZEE BANGLA  (IN)
 http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
+#EXTINF:-1 ch-id="ZEE CINEMA (ME)" tvg-logo="https://image3.mouthshut.com/images/imagesp/925101795s.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA (INT)
+http://103.205.133.42:1935/local/zee_cinema_720/playlist.m3u8
