@@ -1081,3 +1081,5 @@ http://130.185.150.79:1935/db24/starplus/playlist.m3u8
 http://130.185.150.79:1935/db24/zeebangla/playlist.m3u8
 #EXTINF:-1 ch-id="BBC WORLD NEWS (ASIA)" tvg-logo="https://i.ya-webdesign.com/images/bbc-world-news-logo-png-3.png"  group-title="NEWS / BUSINESS CHANNELS",BBC WORLD NEWS (ASIA)
 https://delivery.macan.live/stream/id_bbcworldnews/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1 ch-id="DISNEY CHANNEL (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/350px-2014_Disney_Channel_logo.svg.png" group-title="KIDS CHANNELS",DISNEY CHANNEL (ASIA)
+https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=Yq91Jdf0&v=20200308
