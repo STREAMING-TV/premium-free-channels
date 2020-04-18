@@ -1027,7 +1027,7 @@ https://delivery.macan.live/stream/history/index.m3u8?token=Yq91Jdf0&v=20200308
 https://delivery.macan.live/stream/zoomoo/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 ch-id="HUGTV (ASIA)" tvg-logo="https://www.kindpng.com/picc/m/195-1958615_hgtv-logo-png-transparent-png.png" group-title="LIFESTYLE / TRAVELING CHANNELS",HUGTV (ASIA)
 https://delivery.macan.live/stream/hgtv/index.m3u8?token=Yq91Jdf0&v=20200308
-#EXTINF:-1 ch-id="CINEMAX (ASIA)"  tvg-logo="https://www.kindpng.com/picc/m/287-2873744_cinemax-logo-png-transparent-png.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",CINEMAX (ASIA)
+#EXTINF:-1 ch-id="CINEMAX (ASIA)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",CINEMAX (ASIA)
 https://delivery.macan.live/stream/cinemax/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 ch-id="AFN (ASIA)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png"  group-title="LIFESTYLE / TRAVELING CHANNELS",AFN (ASIA)
 https://delivery.macan.live/stream/id_afc/index.m3u8?token=Yq91Jdf0&v=20200308
