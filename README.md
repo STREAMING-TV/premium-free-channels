@@ -503,8 +503,6 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 http://125.209.99.45:43568/BRN/CartoonNetwork.stream/chunklist_w903275600.m3u8
 #EXTINF:-1 ch-id="SONY TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/883px-SET_India_logo.svg.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY TV (IND)
 http://103.205.133.42:1935/local/sony_entertainment_720/chunklist.m3u8
-#EXTINF:-1 ch-id="ZEE CLASSIC (IN)" tvg-logo="https://www.televisionpost.com/wp-content/uploads/2019/05/Zee-Classic-cover.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CLASSIC (IND)
-http://zee18.site/zee/get.php?channel=out/v1/74df8b02f8ab47909df9a9f3189a1012
 #EXTINF:-1 tvg-id="VH1 (USA)" tvg-logo="https://www.logolynx.com/images/logolynx/55/552d6c6fe344db49d7d9943e2a4b0dab.png" group-title="MUSIC / YOUTH CHANNELS",VH1 (USA)
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
 #EXTINF:-1 ch-id="SBI MUSIC (PK)" tvg-logo="https://i.ibb.co/g6Fggh3/SBI-MUSIC.jpg" group-title="MUSIC / YOUTH CHANNELS",SBI MUSIC (PAK)
@@ -1079,3 +1077,5 @@ http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
 http://103.205.133.42:1935/local/zee_cinema_720/playlist.m3u8
 #EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS HD (IN)
 http://130.185.150.79:1935/db24/starplus/playlist.m3u8
+#EXTINF:-1 ch-id="ZEE BANGLA (IN)"  tvg-logo="https://i.pinimg.com/originals/e7/8e/87/e78e875a3e973145f39ecfae2095db03.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS ",ZEE BANGLA  (IN)
+http://130.185.150.79:1935/db24/zeebangla/playlist.m3u8
