@@ -747,9 +747,9 @@ http://vtv.iptvfree.gq:2086/live/axn.m3u8
 http://vtv.iptvfree.gq:2086/live/boomerang.m3u8
 #EXTINF:-1 ch-id="CARTOON NETWORK (RU)"  tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/cartoon-network-2010-png-logo-0.png"  group-title="KIDS CHANNELS",CARTOON NETWORK (RUS)
 http://vtv.iptvfree.gq:2086/live/cartoon.m3u8
-#EXTINF:-1 ch-id="DISNEY CHANNEL (ASIA)"  tvg-logo="http://images6.fanpop.com/image/photos/41000000/Disney-Channel-2014-Inverted-6-logos-41098529-1244-543.png" group-title="KIDS CHANNELS",DISNEY CHANNEL (THI)
+#EXTINF:-1 ch-id="DISNEY CHANNEL (ASIA)"  tvg-logo="http://images6.fanpop.com/image/photos/41000000/Disney-Channel-2014-Inverted-6-logos-41098529-1244-543.png" group-title="KIDS CHANNELS",DISNEY CHANNEL (ASIA)
 http://vtv.iptvfree.gq:2086/live/disney.m3u8
-#EXTINF:-1 ch-id="FOX MOVIES (ASIA)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545266399_fox-movies-sd.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX MOVIES (THI)
+#EXTINF:-1 ch-id="FOX MOVIES (ASIA)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545266399_fox-movies-sd.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX MOVIES (ASIA)
 http://vtv.iptvfree.gq:2086/live/foxmovies.m3u8
 #EXTINF:-1 ch-id="FOX LIFE (ASIA)"  tvg-logo="https://pbs.twimg.com/profile_images/927918098417639424/mHPaTK5u_400x400.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX LIFE (ASIA)
 http://vtv.iptvfree.gq:2086/live/foxlife.m3u8
