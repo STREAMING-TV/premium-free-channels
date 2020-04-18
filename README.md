@@ -1085,3 +1085,5 @@ https://delivery.macan.live/stream/id_bbcworldnews/index.m3u8?token=Yq91Jdf0&v=2
 https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 ch-id="DISNEY CHANNEL (ASIA)" tvg-logo="https://www.vippng.com/png/detail/359-3591741_great-disney-logo-png-transparent-images-tv-channel.png" group-title="KIDS CHANNELS",DISNEY CHANNEL (ASIA)
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=disney
+#EXTINF:-1 ch-id="CNA (INT)" tvg-logo="https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"  group-title="NEWS / BUSINESS CHANNELS",BLOOMBERG (ASIA)
+https://delivery.macan.live/stream/id_bloomberg/index.m3u8?token=Yq91Jdf0&v=20200308
