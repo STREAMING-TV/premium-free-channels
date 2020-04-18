@@ -511,15 +511,15 @@ http://livecdn.live247stream.com/sbimusic/tv/sbimusic/stream/chunks.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 ch-id="DJING LIVE (USA)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-djing-hot-4838.jpg" group-title="MUSIC / YOUTH CHANNELS",DJING LIVE (USA)
 https://www.djing.com/tv/live.m3u8
-#EXTINF:-1 ch-id="BOX HITS (UK)" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1149.1464128411.png" group-title="MUSIC / YOUTH CHANNELS",BOX HITS (GBR)
+#EXTINF:-1 ch-id="BOX HITS (UK)" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1149.1464128411.png" group-title="MUSIC / YOUTH CHANNELS",BOX HITS (UK)
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1 ch-id="21 (UK)" tvg-logo="https://tv21.tv/mk/wp-content/uploads/2019/09/Logo_TV21_1_Without_Circle_Black_PNG.png" group-title="MUSIC / YOUTH CHANNELS",21 (GBR)
+#EXTINF:-1 ch-id="21 (UK)" tvg-logo="https://tv21.tv/mk/wp-content/uploads/2019/09/Logo_TV21_1_Without_Circle_Black_PNG.png" group-title="MUSIC / YOUTH CHANNELS",21 (UK)
 http://ott-cdn.ucom.am/s10/index.m3u8
 #EXTINF:-1 ch-id="MTV (IN)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mtv_india.jpg" group-title="MUSIC / YOUTH CHANNELS",MTV (IND)
 http://iptv.kitv.live:1935/live/Shari/MTV-P/181.ts
-#EXTINF:-1 ch-id="RETRO TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="MUSIC / YOUTH CHANNELS",RETRO TV GBR)
+#EXTINF:-1 ch-id="RETRO TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="MUSIC / YOUTH CHANNELS",RETRO TV (UK)
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
-#EXTINF:-1 ch-id="M2O (UK)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-m2o-tv-6709.jpg" group-title="MUSIC / YOUTH CHANNELS",M2O (GBR)
+#EXTINF:-1 ch-id="M2O (UK)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-m2o-tv-6709.jpg" group-title="MUSIC / YOUTH CHANNELS",M2O (UK)
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 ch-id="MOVIES NOW (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Movies_Now_logo.png/220px-Movies_Now_logo.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",MOVIES NOW (IND)
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
@@ -529,7 +529,7 @@ http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 ch-id="ROMEDY NOW (IN)" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/09/23/unnamed.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ROMEDY NOW (IND)
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-#EXTINF:-1 ch-id="IFILM (ME)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",IFILM (ARU)
+#EXTINF:-1 ch-id="IFILM (ME)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",IFILM (KSA)
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="ZEE ETC (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/Zee_ETC_Bollywood_2017-0.jpg" group-title="MUSIC / YOUTH CHANNELS",ZEE ETC (IND) 
 http://109.169.56.170/hls/zetc.m3u8
@@ -539,7 +539,7 @@ http://livecdnh3.tvanywhere.ae/hls/e24/02.m3u8
 http://bolly360.xyz:80/zee.php?c=zing 
 #EXTINF:-1 ch-id="RK TV (IN)" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a42ce5e41e35188c4368adc14005a10.jpeg" group-title="ADULT CHANNELS",RK TV (INT)
 http://188.35.9.26:5031/udp/058j
-#EXTINF:-1 ch-id="BLOOMBERG (ASIA)" tvg-logo="https://panxchange.com/wp-content/uploads/2020/01/bloombergahavagroupglobal.png" group-title="NEWS / BUSINESS CHANNELS",BLOOMBERG (BBK)
+#EXTINF:-1 ch-id="BLOOMBERG (ASIA)" tvg-logo="https://panxchange.com/wp-content/uploads/2020/01/bloombergahavagroupglobal.png" group-title="NEWS / BUSINESS CHANNELS",BLOOMBERG (ASIA)
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 #EXTINF:-1 ch-id="HD FASHION & LIFESTYLE (RU)" tvg-logo="https://www.neplpadome.lv/lv/assets/images/Programmu%20logo/hd_fashion_ua_logo.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",HD FASHION & LIFESTYLE (RUS)
 https://ch.iptvmate.net/417057fba179467854c0c947f5322307.m3u8?xtreamiptv.m3u8
@@ -581,7 +581,7 @@ http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/live-orgin/azantv.stream/chunks.m3u8
 #EXTINF:-1 ch-id="THE ISLAMIC NETWORK (TT)"  tvg-logo="https://i.imgur.com/Z2Io8n4.png" group-title="DEVOTIONAL CHANNELS",THE ISLAMIC NETWORK (TT)
 http://162.244.81.145:2215/live/livestream/playlist.m3u8
-#EXTINF:-1 ch-id="BIBLE EXPLORATIONS (ME)" tvg-logo="https://i.imgur.com/j7a8hcd.jpg" group-title="DEVOTIONAL CHANNELS",BIBLE EXPLORATIONS (ARU)
+#EXTINF:-1 ch-id="BIBLE EXPLORATIONS (ME)" tvg-logo="https://i.imgur.com/j7a8hcd.jpg" group-title="DEVOTIONAL CHANNELS",BIBLE EXPLORATIONS (KSA)
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
 #EXTINF:-1 ch-id="BHAKTI SAGAR TV (IN)" tvg-logo="http://www.bhaktisagartv.com/images/HD-Logo.png" group-title="DEVOTIONAL CHANNELS",BHAKTI SAGAR TV (IND)
 http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/index_2128_av-p.m3u8
@@ -589,9 +589,9 @@ http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/index_2128_av-p.m3u8
 http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
 #EXTINF:-1 ch-id="SWAMI JI TV (IN)" tvg-logo="https://i.imgur.com/YLd5f9j.jpg" group-title="DEVOTIONAL CHANNELS",SWAMI JI TV (IND)
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w823726530_b1100000.m3u8
-#EXTINF:-1 ch-id="NAT GEO (ASIA)"  logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/National_Geographic_Logo_2016.png" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO (JKT)
+#EXTINF:-1 ch-id="NAT GEO (ASIA)"  logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/National_Geographic_Logo_2016.png" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO (ASIA)
 http://livestream.biznetvideo.net/biznet_ngc/smil:ngc.smil/chunklist_w99579112_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1TT0Z6NFJEdW5XTVlLUjFLRzNqZHgxZzloMXZnX0E5WHRaV0JoS3JxSjltNGFfNzZsU2oyRjY5anFhSmh1VFhh.m3u8
-#EXTINF:-1 ch-id="NAT GEO WILD (ASIA)" tvg-logo="https://www.thewrap.com/wp-content/uploads/2019/02/Nat-Geo-Wild.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (BBK)
+#EXTINF:-1 ch-id="NAT GEO WILD (ASIA)" tvg-logo="https://www.thewrap.com/wp-content/uploads/2019/02/Nat-Geo-Wild.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (ASIA)
 http://livestream.biznetvideo.net/biznet_ngwild/smil:ngwild.smil/chunklist_w1571555785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1FOE8tZGNKY3MzSHNEU0drOEtDWFp0UW82XzlxWlhwUzI3QkY4OWJSdnZMakIyanVCRW9lZmtsS0VKOTlsZmxE.m3u8
 #EXTINF:-1 tvg-id="GEM BOLLYWOOD (IR)" tvg-logo="https://img.webme.com/pic/t/totv/gem-bollywood.png" group-title="ENTERTAINMENT / MOVIES CHANNELS", GEM BOLLYWOOD (IRN)
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
@@ -611,13 +611,13 @@ http://103.205.133.42:1935/local/sony_yay_720/chunklist.m3u8
 http://bolly360.xyz:80/zee.php?c=out/v1/78239452a9944713bf0dfd0946a55ad5
 #EXTINF:-1 ch-id="DD BANGLA (IN)" tvg-logo="https://pbs.twimg.com/profile_images/521344904044101632/rDRAPIOM.jpeg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",DD BANGLA (IND)
 http://bolly360.xyz:80/zee.php?c=ddbangla
-#EXTINF:-1 ch-id="VENUS TV (UK)" tvg-logo="https://www.prakashastrologer.com/wp-content/uploads/2014/09/VENUS-TV.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",VENUS TV (GBR)
+#EXTINF:-1 ch-id="VENUS TV (UK)" tvg-logo="https://www.prakashastrologer.com/wp-content/uploads/2014/09/VENUS-TV.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",VENUS TV (UK)
 https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
 #EXTINF:-1 ch-id="NEWS 18 LOKMAT (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f2/News18_Lokmat.jpg" group-title="NEWS / BUSINESS CHANNELS",NEWS 18 LOKMAT (IND)
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 #EXTINF:-1 ch-id="X BUNGA BUNGA (INT)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tring_bunga_bunga.jpg" group-title="ADULT CHANNELS",X BUNGA BUNGA (INT)
 http://5.135.92.133:52841/out/u/107_1.m3u8
-#EXTINF:-1 ch-id="ANIMAL PLANET (ASIA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/AnimalPlanetAnimatedLogo2018.gif" group-title="INFORMATION / WILDLIFE CHANNELS",ANIMAL PLANET (BBK)
+#EXTINF:-1 ch-id="ANIMAL PLANET (ASIA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/AnimalPlanetAnimatedLogo2018.gif" group-title="INFORMATION / WILDLIFE CHANNELS",ANIMAL PLANET (ASIA)
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="ANIMAL PLANET (ASIA)" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/08/Animal-Planet-New.png" group-title="INFORMATION / WILDLIFE CHANNELS",ANIMAL PLANET (IND)
 https://stream.simpaisa.com/pitvlive2/animal_360p/playlist.m3u8?checkedby_iptvcat.com
@@ -645,7 +645,7 @@ http://live.redtraffic.net/gangbang.m3u8
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="AMC (USA)" tvg-logo="https://pmcvariety.files.wordpress.com/2019/05/amc_logo_2016.svg_.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",AMC (USA)
 http://84.22.33.254/unicast.amc/index.m3u8
-#EXTINF:-1 ch-id="DISCOVERY ASIA (APAC)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Discovery-asia.png" group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY ASIA (BBK)
+#EXTINF:-1 ch-id="DISCOVERY ASIA (APAC)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Discovery-asia.png" group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY ASIA (APAC)
 http://111.13.111.192/125.227.198.89:8028 
 #EXTINF:-1 ch-id="CNN (USA)"  tvg-logo="https://louisesattler.com/wp-content/uploads/2018/06/Colors-CNN-Logo.jpg" group-title="NEWS / BUSINESS CHANNELS", CNN (IND)
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
@@ -659,11 +659,11 @@ https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4
 http://nl01.spr24.net/5235/mpegts?token=hiVi8EHiq86NZA
 #EXTINF:-1 ch-id="FOX LIFE (ASIA)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545267982_foxlife-sd.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX LIFE (ASIA)
 https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
-#EXTINF:-1 ch-id="KIK (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="SPORTS CHANNELS",KIK JKT)
+#EXTINF:-1 ch-id="KIK (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="SPORTS CHANNELS",KIK (ASIA)
 http://210.210.155.66/h/h07/01.m3u8
 #EXTINF:-1 ch-id="FOX SPORTS (AU)" "tvg-logo="https://1x41wi4ekjc71rf2x7zbpt6azg-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/fox.png"  group-title="SPORTS CHANNELS",FOX SPORTS ( AUS)
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
-#EXTINF:-1 ch-id="FOX CRIME (ASIA)" group-title="INFORMATION / WILDLIFE CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/6/61/Fox_Crime_Philippines_Logo_2017.png",FOX CRIME (BBK)
+#EXTINF:-1 ch-id="FOX CRIME (ASIA)" group-title="INFORMATION / WILDLIFE CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/6/61/Fox_Crime_Philippines_Logo_2017.png",FOX CRIME (ASIA)
 https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
 #EXTINF:-1 ch-id="NAT GEO WILD (ASIA)" tvg-logo="https://pmcvariety.files.wordpress.com/2014/03/nat_geo_wild.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (BBK)
 http://ddn.amrbd.com:8081/live/natgeowild/playlist.m3u8
