@@ -793,7 +793,7 @@ https://www.ast.tv/stream/1/cellular.m3u8
 http://hls-live-media.cdn01.net/default/stream_14889.m3u8
 #EXTINF:-1 ch-id="ID (USA)" tvg-logo="https://www.pngkit.com/png/full/442-4421623_a-kid-to-kill-for-investigation-discovery-logo.png" group-title="INFORMATION / WILDLIFE CHANNELS",ID (GBR)
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ch-id="HUM MASALA (PK)" tvg-logo="https://images.ctfassets.net/evnrpfa1vdk4/hSoxdVwHws57ZO6bv3KAH/8f3b2d1c60a867349e91ff1cf4ceb54c/masalatv_logo.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",HUM MASALA (PAK)
+#EXTINF:-1 ch-id="HUM MASALA (PAK)" tvg-logo="https://images.ctfassets.net/evnrpfa1vdk4/hSoxdVwHws57ZO6bv3KAH/8f3b2d1c60a867349e91ff1cf4ceb54c/masalatv_logo.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",HUM MASALA (PAK)
 http://stream.tapmad.com:1935/pitvlive2/masalanew3/chunklist.m3u8
 #EXTINF:-1 ch-id="NEWSCENTER 7 (USA)" tvg-logo="https://pbs.twimg.com/media/DjYjBWRX0AEPjMH.jpg" group-title="NEWS / BUSINESS CHANNELS",NEWSCENTER 7 (USA)
 https://ch.iptvmate.net/5f24f642017e3fae6fca576aaf4ef0f3.m3u8
@@ -1097,3 +1097,5 @@ https://delivery.macan.live/stream/boomerang/index.m3u8?token=Yq91Jdf0&v=2020030
 https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 ch-id="FOX SPORTS (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png"  group-title="SPORTS CHANNELS",FOX SPORTS (ASIA)
 https://delivery.macan.live/stream/id_foxsport1/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1 ch-id="ZOOM (IN)"  tvg-logo="https://gumlet.assettype.com/thequint/2018-04/eb848cad-ca7d-4fbb-848b-839b45e245b9/04fc69b3d65f090543a75175a20656c6.jpg"  group-title="MUSIC / YOUTH CHANNELS",ZOOM (IND)
+https://bracnet.iptv.jadoodigital.com/live/zoom/chunks.m3u8
