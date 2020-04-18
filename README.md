@@ -1077,3 +1077,5 @@ http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/animal-planet.m3u8
 http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA (ME)" tvg-logo="https://image3.mouthshut.com/images/imagesp/925101795s.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA (INT)
 http://103.205.133.42:1935/local/zee_cinema_720/playlist.m3u8
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS HD (IN)
+http://130.185.150.79:1935/db24/starplus/playlist.m3u8
