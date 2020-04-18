@@ -791,8 +791,6 @@ https://ch.iptvmate.net/5f24f642017e3fae6fca576aaf4ef0f3.m3u8
 http://bolly360.xyz:80/zee.php?c=ztvme
 #EXTINF:-1 ch-id="ZEE TV (USA)"  tvg-logo="https://1.bp.blogspot.com/-JmZB8G7G3bw/XceuY8qcbWI/AAAAAAAAFgM/wW5dhU4-Y8MlIN-DHp8yHbChqAC-L1u0QCEwYBhgL/s320/zee-tv-us.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (USA)
 http://bolly360.xyz:80/zee.php?c=ztvsdusa
-#EXTINF:-1 ch-id="ZEE TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (IND)
-http://bolly360.xyz:80/zee.php?c=zeetvsd
 #EXTINF:-1 ch-id="AND TV HD (IN)" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",AND TV HD (IND)
 http://bolly360.xyz:80/zee.php?c=andtvhd
 #EXTINF:-1 ch-id="AND TV HD (USA)" tvg-logo="https://i.pinimg.com/originals/42/0c/fa/420cfa62cb7893056442c1697cfa2636.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",AND TV HD (USA)
@@ -1095,3 +1093,5 @@ https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=Yq91Jdf0&v=20
 https://delivery.macan.live/stream/macan_sport_41/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 ch-id="BEIN SPORTS (ASIA)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/800px-BeIN_Sports.png" group-title="SPORTS CHANNELS",BEIN SPORTS (ASIA)
 https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1 ch-id="ZEE TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (IND)
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeetv/playlist.m3u8
