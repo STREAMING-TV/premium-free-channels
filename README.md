@@ -843,7 +843,7 @@ http://51.52.156.22:8888/http/004
 https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE BANGLA (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zeebangla/list/zee_bangla_386x3_745970677.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",MULTIPLEX  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE BANGLA (IND)
 http://43.251.86.2:8080/hls/channel_1.m3u8
-#EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo="http://pcmc.in/newpcmc/images/start_logos/star-plus_hd.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS HD (IND) 
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS HD (IND) 
 http://103.115.159.37:8080/starplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="ZEE TV (APAC)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zee-tv.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (APAC)
 http://103.115.159.37:8080/zeetv/tracks-v1a1/mono.m3u8
