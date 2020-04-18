@@ -1091,3 +1091,5 @@ https://delivery.macan.live/stream/id_bloomberg/index.m3u8?token=Yq91Jdf0&v=2020
 https://delivery.macan.live/stream/id_natgeowild/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 ch-id="HBO (ASIA)"  tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",HBO (ASIA)
 https://delivery.macan.live/stream/hbo/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1 ch-id="BOOMERANG  (ASIA)" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2018/04/logo-boomerang.png" group-title="KIDS CHANNELS",BOOMERANG  (ASIA)
+https://delivery.macan.live/stream/boomerang/index.m3u8?token=Yq91Jdf0&v=20200308
