@@ -1087,7 +1087,7 @@ https://delivery.macan.live/stream/id_natgeowild/index.m3u8?token=Yq91Jdf0&v=202
 https://delivery.macan.live/stream/hbo/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 ch-id="BOOMERANG  (ASIA)" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2018/04/logo-boomerang.png" group-title="KIDS CHANNELS",BOOMERANG  (ASIA)
 https://delivery.macan.live/stream/boomerang/index.m3u8?token=Yq91Jdf0&v=20200308
-#EXTINF:-1 ch-id="DISCOVERY ASIA (APAC)" tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/05/discovery-asia.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY ASIA (BBK)
+#EXTINF:-1 ch-id="DISCOVERY ASIA (APAC)" tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/05/discovery-asia.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY ASIA (ASIA)
 https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 ch-id="FOX SPORTS (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png"  group-title="SPORTS CHANNELS",FOX SPORTS (ASIA)
 https://delivery.macan.live/stream/id_foxsport1/index.m3u8?token=Yq91Jdf0&v=20200308
