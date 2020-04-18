@@ -1079,3 +1079,5 @@ http://103.205.133.42:1935/local/zee_cinema_720/playlist.m3u8
 http://130.185.150.79:1935/db24/starplus/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE BANGLA (IN)"  tvg-logo="https://i.pinimg.com/originals/e7/8e/87/e78e875a3e973145f39ecfae2095db03.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS ",ZEE BANGLA  (IN)
 http://130.185.150.79:1935/db24/zeebangla/playlist.m3u8
+#EXTINF:-1 ch-id="BBC WORLD NEWS (ASIA)" tvg-logo="https://i.ya-webdesign.com/images/bbc-world-news-logo-png-3.png"  group-title="NEWS / BUSINESS CHANNELS",BBC WORLD NEWS (ASIA)
+https://delivery.macan.live/stream/id_bbcworldnews/index.m3u8?token=Yq91Jdf0&v=20200308
