@@ -1087,3 +1087,5 @@ https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=Yq91Jdf0&v=
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=disney
 #EXTINF:-1 ch-id="CNA (INT)" tvg-logo="https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"  group-title="NEWS / BUSINESS CHANNELS",BLOOMBERG (ASIA)
 https://delivery.macan.live/stream/id_bloomberg/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1 ch-id="NAT GEO WILD (ASIA)"  tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/03/logo_ngw.png"  group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (ASIA)
+https://delivery.macan.live/stream/id_natgeowild/index.m3u8?token=Yq91Jdf0&v=20200308
