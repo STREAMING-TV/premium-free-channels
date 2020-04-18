@@ -1091,3 +1091,5 @@ https://delivery.macan.live/stream/id_foxsport1/index.m3u8?token=Yq91Jdf0&v=2020
 https://bracnet.iptv.jadoodigital.com/live/zoom/chunks.m3u8
 #EXTINF:-1 ch-id="WWE (ASIA)" tvg-logo="https://www.stickpng.com/assets/images/5cb487d85f1b6d3fbadece7e.png" group-title="SPORTS CHANNELS",WWE (ASIA)
 https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1 ch-id="RUGBY PASS TV (ASIA)"  tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/rugbypass-tv.png" group-title="SPORTS CHANNELS",RUGBY PASS TV (ASIA)
+https://delivery.macan.live/stream/macan_sport_41/index.m3u8?token=Yq91Jdf0&v=20200308
