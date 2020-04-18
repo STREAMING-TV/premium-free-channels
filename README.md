@@ -1083,3 +1083,5 @@ http://130.185.150.79:1935/db24/zeebangla/playlist.m3u8
 https://delivery.macan.live/stream/id_bbcworldnews/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 ch-id="DISNEY CHANNEL (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/350px-2014_Disney_Channel_logo.svg.png" group-title="KIDS CHANNELS",DISNEY CHANNEL (ASIA)
 https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1 ch-id="DISNEY CHANNEL (ASIA)" tvg-logo="https://www.vippng.com/png/detail/359-3591741_great-disney-logo-png-transparent-images-tv-channel.png" group-title="KIDS CHANNELS",DISNEY CHANNEL (ASIA)
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=disney
