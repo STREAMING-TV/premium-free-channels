@@ -1089,3 +1089,5 @@ https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=Yq91Jdf0&v=
 https://delivery.macan.live/stream/id_foxsport1/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1 ch-id="ZOOM (IN)"  tvg-logo="https://gumlet.assettype.com/thequint/2018-04/eb848cad-ca7d-4fbb-848b-839b45e245b9/04fc69b3d65f090543a75175a20656c6.jpg"  group-title="MUSIC / YOUTH CHANNELS",ZOOM (IND)
 https://bracnet.iptv.jadoodigital.com/live/zoom/chunks.m3u8
+#EXTINF:-1 ch-id="WWE (ASIA)" tvg-logo="https://www.stickpng.com/assets/images/5cb487d85f1b6d3fbadece7e.png" group-title="SPORTS CHANNELS",WWE (ASIA)
+https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=Yq91Jdf0&v=20200308
