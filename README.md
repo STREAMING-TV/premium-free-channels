@@ -1097,3 +1097,5 @@ https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=Yq91Jdf0&v=20
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeetv/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE TV (RUS)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/Zee_TV_Russia.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (RUS) 
 http://bolly360.xyz:80/zee.php?c=russia
+#EXTINF:-1 ch-id="STAR SPORTS SELECT 1 (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a6/Star_Sports_Select_1.jpg"   group-title="SPORTS CHANNELS",STAR SPORTS SELECT 1 (IN)
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsselect1/playlist.m3u8
