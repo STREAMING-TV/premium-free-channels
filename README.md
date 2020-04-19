@@ -1101,3 +1101,5 @@ http://bolly360.xyz:80/zee.php?c=russia
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsselect1/playlist.m3u8
 #EXTINF:-1 ch-id="STAR SPORTS SELECT 2 (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg"   group-title="SPORTS CHANNELS",STAR SPORTS SELECT 2 (IN)
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsselect2/playlist.m3u8
+#EXTINF:-1 ch-id="STAR SPORTS 2 HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg"   group-title="SPORTS CHANNELS",STAR SPORTS 2 HD (IN)
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsports2/playlist.m3u8
