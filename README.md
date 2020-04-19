@@ -1105,3 +1105,5 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsports2/playlist.m3u8
 #EXTINF:-1 ch-id="VH1 (UK)" tvg-logo="https://mms.businesswire.com/media/20180308006154/en/645076/22/2017VH1.jpg"  group-title="MUSIC / YOUTH CHANNELS",VH1 (UK)
 http://fr01.spr24.net/22936/index.m3u8?token=BQF9PmuRpcxUqR&checkedby:iptvcat.com
+#EXTINF:-1 ch-id="MTV HITS (UK)" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1101.1508556277.png" group-title="MUSIC / YOUTH CHANNELS",MTV HITS (UK)
+http://fr01.spr24.net/22353/index.m3u8?token=BQF9PmuRpcxUqR&checkedby:iptvcat.com
