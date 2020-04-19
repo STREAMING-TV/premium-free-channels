@@ -1103,3 +1103,5 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsselect2/playlist.m3u8
 #EXTINF:-1 ch-id="STAR SPORTS 2 HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg"   group-title="SPORTS CHANNELS",STAR SPORTS 2 HD (IN)
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsports2/playlist.m3u8
+#EXTINF:-1 ch-id="VH1 (UK)" tvg-logo="https://mms.businesswire.com/media/20180308006154/en/645076/22/2017VH1.jpg"  group-title="MUSIC / YOUTH CHANNELS",VH1 (UK)
+http://fr01.spr24.net/22936/index.m3u8?token=BQF9PmuRpcxUqR&checkedby:iptvcat.com
