@@ -1096,3 +1096,4 @@ https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=Yq91Jdf0&v=20
 #EXTINF:-1 ch-id="ZEE TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (IND)
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeetv/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE TV (RUS)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/Zee_TV_Russia.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (RUS) 
+http://bolly360.xyz:80/zee.php?c=russia
