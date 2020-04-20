@@ -75,15 +75,15 @@ http://84.22.33.254/unicast.bizarre/index.m3u8
 http://84.22.33.254/unicast.eroxhd/index.m3u8
 #EXTINF:-1 ch-id="SUPER ONE HD (INT)"  tvg-logo="https://mar-vik.si/uploads/logotipi/SUPERONE.png"group-title="ADULT CHANNELS",SUPER ONE HD (INT)
 http://188.35.9.5:10007/stolen/246r/parasite.install
-#EXTINF:-1 ch-id="ZEE LIVING (USA)" tvg-logo="https://www.zeeinternational.co.in/wp-content/uploads/2018/02/Zee-Living.png"group-title="LIFESTYLE / TRAVELING CHANNELS",ZEE LIVING (USA)
+#EXTINF:-1 ch-id="ZEE LIVING (USA)" tvg-logo="https://www.zeeinternational.co.in/wp-content/uploads/2018/02/Zee-Living.png" group-title="LIFESTYLE / TRAVELING CHANNELS",ZEE LIVING (USA)
 http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v3a1/mono.m3u8
-#EXTINF:-1 ch-id="HUSTLER TV (INT)"  tvg-logo="http://www.mscnoticiaslatam.com/wp-content/uploads/2014/03/HustlerTV-logo.jpg"group-title="ADULT CHANNELS",HUSTLER TV (INT)
+#EXTINF:-1 ch-id="HUSTLER TV (INT)"  tvg-logo="http://www.mscnoticiaslatam.com/wp-content/uploads/2014/03/HustlerTV-logo.jpg" group-title="ADULT CHANNELS",HUSTLER TV (INT)
 http://163.172.209.107:8000/play/a006/index.m3u8
 #EXTINF:-1 ch-id="WION (IN)"  tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2018/04/25/675807-wion-1.jpg"group-title="NEWS / BUSINESS CHANNELS",WION (INT)
 http://bolly360.xyz:80/zee.php?c=wion
-#EXTINF:-1 ch-id="LIVING FOODZ (IN)"  tvg-logo="http://www.bestmediainfo.com/wp-content/uploads/2015/09/Living-Foodz-logo.jpg"group-title="LIFESTYLE / TRAVELING CHANNELS",LIVING FOODZ (IN)
+#EXTINF:-1 ch-id="LIVING FOODZ (IN)"  tvg-logo="http://www.bestmediainfo.com/wp-content/uploads/2015/09/Living-Foodz-logo.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",LIVING FOODZ (IN)
 http://bolly360.xyz:80/zee.php?c=livingfoodz
-#EXTINF:-1 ch-id="ZEE ETC (IN)"  tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_etc_bollywood.png"group-title="MUSIC / YOUTH CHANNELS",ZEE ETC (IN)
+#EXTINF:-1 ch-id="ZEE ETC (IN)"  tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_etc_bollywood.png" group-title="MUSIC / YOUTH CHANNELS",ZEE ETC (IN)
 http://bolly360.xyz:80/zee.php?c=etc
 #EXTINF:-1 ch-id="9X JALWA (IN)"  tvg-logo="https://www.exchange4media.com/news-photo/1530525962_xUFdBo_9X-Jalwa.jpg"group-title="MUSIC / YOUTH CHANNELS",9X JALWA (IN)
 http://bolly360.xyz:80/zee.php?c=9xjalwa
@@ -91,55 +91,55 @@ http://bolly360.xyz:80/zee.php?c=9xjalwa
 http://bolly360.xyz:80/zee.php?c=zeenews
 #EXTINF:-1 ch-id="9XM (IN)"  tvg-logo="https://cdn.clipart.email/47528cb00781591f081afb045e0f3981_funmania_1600-929.jpeg" group-title="MUSIC / YOUTH CHANNELS",9XM (IND)
 http://bolly360.xyz:80/zee.php?c=9xm
-#EXTINF:-1 ch-id="THE Q INDIA (IN)"  tvg-logo="https://www.rapidtvnews.com/images/2019/Aug_2019/The_Q_India_logo_-_7_August_2019.png"group-title="MUSIC / YOUTH CHANNELS",THE Q INDIA (IN)
+#EXTINF:-1 ch-id="THE Q INDIA (IN)"  tvg-logo="https://www.rapidtvnews.com/images/2019/Aug_2019/The_Q_India_logo_-_7_August_2019.png" group-title="MUSIC / YOUTH CHANNELS",THE Q INDIA (IN)
 http://bolly360.xyz:80/zee.php?c=theqyou
 #EXTINF:-1 ch-id="DD BHARATI (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f9/DD_Bharati_2018.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",DD BHARATI (IN)
 http://zee18.site/zee/get.php?channel=out/v1/03d04d1461114e9083d382ab0054ac2c 
 #EXTINF:-1 ch-id="ZEE WORLD (SA)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/Zee_World_Extraordinary._Everyday..jpg "group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE WORLD (ZA)
 http://bolly360.xyz:80/zee.php?c=world
-#EXTINF:-1 ch-id="VH1 (USA)"  tvg-logo="https://mms.businesswire.com/media/20180301006441/en/643788/22/2017VH1.jpg"group-title="MUSIC / YOUTH CHANNELS",VH1 (USA)
+#EXTINF:-1 ch-id="VH1 (USA)"  tvg-logo="https://mms.businesswire.com/media/20180301006441/en/643788/22/2017VH1.jpg" group-title="MUSIC / YOUTH CHANNELS",VH1 (USA)
 http://185.59.223.82:8080/vh1/mpegts
-#EXTINF:-1 ch-id="MTV (USA)"  tvg-logo="https://media.graytvinc.com/images/810*455/MTV-logo_720.jpg"group-title="MUSIC / YOUTH CHANNELS",MTV (USA)
+#EXTINF:-1 ch-id="MTV (USA)"  tvg-logo="https://media.graytvinc.com/images/810*455/MTV-logo_720.jpg" group-title="MUSIC / YOUTH CHANNELS",MTV (USA)
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 ch-id="9XO (IN)" tvg-logo="https://www.adgully.com/img/800/50287_9xo.jpg"group-title="MUSIC / YOUTH CHANNELS",9XO (IN)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
-#EXTINF:-1 ch-id="BABY FIRST (ASIA)" tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png"group-title="KIDS CHANNELS",BABY FIRST (ASIA)
+#EXTINF:-1 ch-id="BABY FIRST (ASIA)" tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png" group-title="KIDS CHANNELS",BABY FIRST (ASIA)
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 ch-id="BOOMERANG HD (ME)" tvg-logo="https://r.dcs.redcdn.pl/http/o2/redefine/redb/th/thc9s15j2225tvtv1ure9i3tyonjvzxa.jpg"group-title="KIDS CHANNELS",BOOMERANG HD (ME)
+#EXTINF:-1 ch-id="BOOMERANG HD (ME)" tvg-logo="https://r.dcs.redcdn.pl/http/o2/redefine/redb/th/thc9s15j2225tvtv1ure9i3tyonjvzxa.jpg" group-title="KIDS CHANNELS",BOOMERANG HD (ME)
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 ch-id="BBC NEWS (INT)" tvg-logo="https://www.apmdistribution.org/news/bbc/tools/images/logos/2019-bbc-news-linear-world-service-rgb.png" group-title="NEWS / BUSINESS CHANNELS",BBC NEWS (UK)
 https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
-#EXTINF:-1 ch-id="NDTV24X7 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/800px-NDTV_247.svg.png"group-title="NEWS / BUSINESS CHANNELS",NDTV24X7 (IN)
+#EXTINF:-1 ch-id="NDTV24X7 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/800px-NDTV_247.svg.png" group-title="NEWS / BUSINESS CHANNELS",NDTV24X7 (IN)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 ch-id="CGTN (UK)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cgtn.png"group-title="NEWS / BUSINESS CHANNELS",CGTN (UK)
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 ch-id="NDTV INDIA (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png"group-title="NEWS / BUSINESS CHANNELS",NDTV INDIA (IN)
 https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8
-#EXTINF:-1 ch-id="NHK WORLD (JP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/800px-NHK_World.svg.png"group-title="NEWS / BUSINESS CHANNELS",NHK WORLD (JP)
+#EXTINF:-1 ch-id="NHK WORLD (JP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/800px-NHK_World.svg.png" group-title="NEWS / BUSINESS CHANNELS",NHK WORLD (JP)
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 ch-id="DD NEWS (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/DD_News_Logo_2015.jpg"group-title="NEWS / BUSINESS CHANNELS",DD NEWS (IN)
+#EXTINF:-1 ch-id="DD NEWS (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/DD_News_Logo_2015.jpg" group-title="NEWS / BUSINESS CHANNELS",DD NEWS (IN)
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1 ch-id="EUROSPORT (IN)" tvg-logo="https://m.media-amazon.com/images/S/abs-image-upload-na/f/AmazonStores/A1F83G8C2ARO7P/a1e0cde47058b02b1e400663817af00f.w1961.h470.jpg"  group-title="SPORTS CHANNELS",EUROSPORT (IN)
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_400.m3u8
-#EXTINF:-1 ch-id="SPORTS MAX (ME)" tvg-logo="https://www.nationnews.com/IMG/865/77865/sportsmax-logo2402-450x303.gif"group-title="SPORTS CHANNELS",SPORTS MAX (ME)
+#EXTINF:-1 ch-id="SPORTS MAX (ME)" tvg-logo="https://www.nationnews.com/IMG/865/77865/sportsmax-logo2402-450x303.gif" group-title="SPORTS CHANNELS",SPORTS MAX (ME)
 https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
-#EXTINF:-1 ch-id="HISTORY2 (ME)" tvg-logo="http://3.bp.blogspot.com/-RzXst6jpzBw/Toi5hYDW9AI/AAAAAAAACPA/jFKuVx6JcaQ/s500/History+2+logo+2011.png"group-title="INFORMATION / WILDLIFE CHANNELS",HISTORY2 (ME)
+#EXTINF:-1 ch-id="HISTORY2 (ME)" tvg-logo="http://3.bp.blogspot.com/-RzXst6jpzBw/Toi5hYDW9AI/AAAAAAAACPA/jFKuVx6JcaQ/s500/History+2+logo+2011.png" group-title="INFORMATION / WILDLIFE CHANNELS",HISTORY2 (ME)
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:-1 ch-id="FOOD FOOD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/16/Food_Food.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",FOOD FOOD (IN)
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 ch-id="FASHION TV (PARIS)" tvg-logo="https://identity-mag.com/wp-content/uploads/2015/06/ftv-logo.jpg"group-title="LIFESTYLE / TRAVELING CHANNELS",FASHION TV (PARIS)
+#EXTINF:-1 ch-id="FASHION TV (PARIS)" tvg-logo="https://identity-mag.com/wp-content/uploads/2015/06/ftv-logo.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",FASHION TV (PARIS)
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 ch-id="NAT GEO (CHINA)" tvg-logo="https://i.pinimg.com/originals/a6/77/d1/a677d1e8794db3ac9982972744414f0c.jpg"group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO (CHINA)
+#EXTINF:-1 ch-id="NAT GEO (CHINA)" tvg-logo="https://i.pinimg.com/originals/a6/77/d1/a677d1e8794db3ac9982972744414f0c.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO (CHINA)
 https://cdn.jp.jpnettv.live/jptv/National_geographic/chunklist_w1310243407.m3u8
-#EXTINF:-1 ch-id="CGTN DOCUMENTARY (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png"group-title="NEWS / BUSINESS CHANNELS",CGTN DOCUMENTARY (ASIA)
+#EXTINF:-1 ch-id="CGTN DOCUMENTARY (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="NEWS / BUSINESS CHANNELS",CGTN DOCUMENTARY (ASIA)
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 ch-id="MGM (UK)" tvg-logo="https://i.pinimg.com/474x/4c/6b/cb/4c6bcbb336cc88924de812efdc15080c.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MGM (UK)
+#EXTINF:-1 ch-id="MGM (UK)" tvg-logo="https://i.pinimg.com/474x/4c/6b/cb/4c6bcbb336cc88924de812efdc15080c.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",MGM (UK)
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
-#EXTINF:-1 ch-id="HITS (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",HITS (ASIA)
+#EXTINF:-1 ch-id="HITS (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",HITS (ASIA)
 http://210.210.155.66/h/h37/index.m3u8
 #EXTINF:-1 ch-id="ABP NEW HD (IN)"  tvg-logo="http://cdn.abplive.in/abp_english.jpg"group-title="NEWS / BUSINESS CHANNELS",ABP NEWS HD (IN)
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
-#EXTINF:-1 ch-id="Zee TV HD (IN)" tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (IN) VPN
+#EXTINF:-1 ch-id="Zee TV HD (IN)" tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (IN) VPN
 http://216.144.250.174/Zee_TV_HD_o1/playlist.m3u8
 #EXTINF:-1 ch-id="SONY TV HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/SET_HD_2016.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY TV HD (IN) VPN
 http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
@@ -1107,3 +1107,5 @@ http://fr01.spr24.net/22353/index.m3u8?token=BQF9PmuRpcxUqR&checkedby:iptvcat.co
 https://m-c20-j2apps.s.llnwi.net/hls/0182.DDNews.in.m3u8
 #EXTINF:-1 ch-id="DD NATIONAL (IN)"  tvg-logo="https://files.prokerala.com/news/photos/imgs/1024/doordarshan-logo-774942.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",DD NATIONAL (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
+#EXTINF:-1 ch-id="FOX LIFE (IN)" tvg-logo="https://logostvargentina.files.wordpress.com/2008/09/d3493-foxlife-2017.png" group-title="LIFESTYLE / TRAVELING CHANNELS",FOX LIFE (IN)
+https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
