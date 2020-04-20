@@ -1121,3 +1121,5 @@ https://bracnet.iptv.jadoodigital.com/live/manoranjan/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
 #EXTINF:-1 ch-id="MOVIES NOW (IND)"  tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/55fb00a28ead0e79178b5c96/1565806475712/55fb00a28ead0e79178b5c96.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",MOVIES NOW (IND)
 https://bracnet.iptv.jadoodigital.com/live/movies_now/chunks.m3u8
+#EXTINF:-1 ch-id="LOTUS MACAU (APAC)" tvg-logo="http://www.inbroadcast.com/uploads/Lotus-TV-Logo_bg.png" group-title="INFORMATION / WILDLIFE CHANNELS",LOTUS MACAU (APAC)
+https://bracnet.iptv.jadoodigital.com/live/macau_lotus/chunks.m3u8
