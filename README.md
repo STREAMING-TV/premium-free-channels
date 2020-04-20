@@ -1107,3 +1107,5 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 http://fr01.spr24.net/22936/index.m3u8?token=BQF9PmuRpcxUqR&checkedby:iptvcat.com
 #EXTINF:-1 ch-id="MTV HITS (UK)" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1101.1508556277.png" group-title="MUSIC / YOUTH CHANNELS",MTV HITS (UK)
 http://fr01.spr24.net/22353/index.m3u8?token=BQF9PmuRpcxUqR&checkedby:iptvcat.com
+#EXTINF:-1 ch-id="DD NEWS (IN)"  tvg-logo=" https://vignette.wikia.nocookie.net/logopedia/images/4/49/DD_News_2015.jpg" group-title="NEWS / BUSINESS CHANNELS",DD NEWS (IN)
+https://m-c20-j2apps.s.llnwi.net/hls/0182.DDNews.in.m3u8
