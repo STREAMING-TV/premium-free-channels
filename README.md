@@ -1125,3 +1125,5 @@ https://bracnet.iptv.jadoodigital.com/live/movies_now/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/macau_lotus/chunks.m3u8
 #EXTINF:-1 ch-id="SONIC (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/Sonic_Nickelodeon.jpg"  group-title="KIDS CHANNELS",SONIC (IND)
 https://bracnet.iptv.jadoodigital.com/live/sonic/chunks.m3u8
+#EXTINF:-1 ch-id="NICK (IN)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/nickelodeon-logo-png-6.png" group-title="KIDS CHANNELS",NICK (IND)
+https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
