@@ -1117,3 +1117,5 @@ https://bracnet.iptv.jadoodigital.com/live/cnn/chunks.m3u8
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsfirst/playlist.m3u8
 #EXTINF:-1 ch-id="MONORANJAN TV (IN)"  tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/manoranjan-tv-channel-logo-300x300.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",MANORANJAN TV (IN)
 https://bracnet.iptv.jadoodigital.com/live/manoranjan/chunks.m3u8
+#EXTINF:-1 ch-id="VH1 (IN)" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU1MzU4MzIxNTM1MTAwNjEw/vh1-logo.png" group-title="MUSIC / YOUTH CHANNELS",VH1 (IN)
+https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
