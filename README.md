@@ -275,8 +275,6 @@ https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
 https://m-c04-j2apps.s.llnwi.net/hls/7000.HousefullMovie.in.m3u8
 #EXTINF:-1 ch-id="EPIC (IN)" tvg-logo="http://www.epicchannel.com/wp-content/uploads/2018/01/EpicLogo.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",EPIC (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
-#EXTINF:-1 ch-id="DD NEWS (IN)"  tvg-logo=" https://vignette.wikia.nocookie.net/logopedia/images/4/49/DD_News_2015.jpg" group-title="NEWS / BUSINESS CHANNELS",DD NEWS (IN)
-https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
 #EXTINF:-1 ch-id="DISHUM (IN)"  tvg-logo="http://www.dishumtv.com/images/logo.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",DISHUM (IN)
 https://m-c29-j2apps.s.llnwi.net/hls/5332.Dishum.in.m3u8
 #EXTINF:-1 ch-id="ANJAN TV (IN)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-anjan-tv.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ANJAN TV (IN)
@@ -303,8 +301,6 @@ http://bolly360.xyz:80/zee.php?c=ddbihar
 https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in.m3u8
 #EXTINF:-1 ch-id="NEWS NATION (IN)"  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/615z6Q0He%2BL.png"group-title="NEWS / BUSINESS CHANNELS",NEWS NATION (IN)
 https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
-#EXTINF:-1 ch-id="DD NATIONAL (IN)"  tvg-logo="https://files.prokerala.com/news/photos/imgs/1024/doordarshan-logo-774942.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",DD NATIONAL (IN)
-https://m-c20-j2apps.s.llnwi.net/hls/0182.DDNews.in.m3u8
 #EXTINF:-1 ch-id="INDIA NEWS (IN)"  tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71B0kUlXfKL.png"group-title="NEWS / BUSINESS CHANNELS",INDIA NEWS (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
 #EXTINF:-1 ch-id="NEWS X (IN)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/NewsX_Logo.png"group-title="NEWS / BUSINESS CHANNELS",NEWS X (IN) 
@@ -1109,3 +1105,5 @@ http://fr01.spr24.net/22936/index.m3u8?token=BQF9PmuRpcxUqR&checkedby:iptvcat.co
 http://fr01.spr24.net/22353/index.m3u8?token=BQF9PmuRpcxUqR&checkedby:iptvcat.com
 #EXTINF:-1 ch-id="DD NEWS (IN)"  tvg-logo=" https://vignette.wikia.nocookie.net/logopedia/images/4/49/DD_News_2015.jpg" group-title="NEWS / BUSINESS CHANNELS",DD NEWS (IN)
 https://m-c20-j2apps.s.llnwi.net/hls/0182.DDNews.in.m3u8
+#EXTINF:-1 ch-id="DD NATIONAL (IN)"  tvg-logo="https://files.prokerala.com/news/photos/imgs/1024/doordarshan-logo-774942.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",DD NATIONAL (IN)
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
