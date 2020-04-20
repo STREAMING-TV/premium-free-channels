@@ -1119,3 +1119,5 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 https://bracnet.iptv.jadoodigital.com/live/manoranjan/chunks.m3u8
 #EXTINF:-1 ch-id="VH1 (IN)" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU1MzU4MzIxNTM1MTAwNjEw/vh1-logo.png" group-title="MUSIC / YOUTH CHANNELS",VH1 (IN)
 https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
+#EXTINF:-1 ch-id="MOVIES NOW (IND)"  tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/55fb00a28ead0e79178b5c96/1565806475712/55fb00a28ead0e79178b5c96.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",MOVIES NOW (IND)
+https://bracnet.iptv.jadoodigital.com/live/movies_now/chunks.m3u8
