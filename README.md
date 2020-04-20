@@ -1113,3 +1113,5 @@ https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/rishtey/chunks.m3u8
 #EXTINF:-1 ch-id="CNN (IND)" tvg-logo="https://cnncommentary.files.wordpress.com/2015/12/cnn_logo.png" group-title="NEWS / BUSINESS CHANNELS",CNN (IND)
 https://bracnet.iptv.jadoodigital.com/live/cnn/chunks.m3u8
+#EXTINF:-1 ch-id="LORD DUDDHA TV (IND)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Lord_buddha_tv_logo.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",LORD BUDDHA TV (IND)
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsfirst/playlist.m3u8
