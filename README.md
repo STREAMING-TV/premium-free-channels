@@ -1111,3 +1111,5 @@ https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
 https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
 #EXTINF:-1 ch-id="COLORS RISHTEY (ME)"  tvg-logo="https://assets.tvplayer.com/tvos/images/channels/238.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",COLORS RISHTEY (ME)
 https://bracnet.iptv.jadoodigital.com/live/rishtey/chunks.m3u8
+#EXTINF:-1 ch-id="CNN (IND)" tvg-logo="https://cnncommentary.files.wordpress.com/2015/12/cnn_logo.png" group-title="NEWS / BUSINESS CHANNELS",CNN (IND)
+https://bracnet.iptv.jadoodigital.com/live/cnn/chunks.m3u8
