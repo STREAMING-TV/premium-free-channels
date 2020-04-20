@@ -1109,3 +1109,5 @@ https://m-c20-j2apps.s.llnwi.net/hls/0182.DDNews.in.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
 #EXTINF:-1 ch-id="FOX LIFE (IN)" tvg-logo="https://logostvargentina.files.wordpress.com/2008/09/d3493-foxlife-2017.png" group-title="LIFESTYLE / TRAVELING CHANNELS",FOX LIFE (IN)
 https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
+#EXTINF:-1 ch-id="COLORS RISHTEY (ME)"  tvg-logo="https://assets.tvplayer.com/tvos/images/channels/238.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",COLORS RISHTEY (ME)
+https://bracnet.iptv.jadoodigital.com/live/rishtey/chunks.m3u8
