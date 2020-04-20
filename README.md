@@ -1115,3 +1115,5 @@ https://bracnet.iptv.jadoodigital.com/live/rishtey/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/cnn/chunks.m3u8
 #EXTINF:-1 ch-id="LORD DUDDHA TV (IND)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Lord_buddha_tv_logo.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",LORD BUDDHA TV (IND)
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsfirst/playlist.m3u8
+#EXTINF:-1 ch-id="TLC  (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png" group-title="LIFESTYLE / TRAVELING CHANNELS",TLC (IND)
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/tlc/playlist.m3u8
