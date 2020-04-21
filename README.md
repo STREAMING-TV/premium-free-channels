@@ -1137,3 +1137,5 @@ http://58.96.43.121:9981/stream/channelid/739262830
 http://58.96.43.121:9981/stream/channelid/409730225
 #EXTINF:-1 ch-id="BUZZR (USA)" tvg-logo="https://pbs.twimg.com/profile_images/1105158139815485447/-p44l7h2_400x400.png" group-title="SPORTS CHANNELS",BUZZR (USA)
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_8.m3u8
+#EXTINF:-1 ch-id="ON TIME SPORTS (ME)" tvg-logo="https://www.7days.news/wp-content/uploads/2020/02/202002280814401440.jpg" group-title="SPORTS CHANNELS",ON TIME SPORTS (ME)
+http://95.170.215.107/hls/m3u8/ON-Sport.m3u8
