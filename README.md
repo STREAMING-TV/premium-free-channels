@@ -1135,3 +1135,5 @@ http://58.96.43.121:9981/stream/channelid/60031137
 http://58.96.43.121:9981/stream/channelid/739262830
 #EXTINF:-1 ch-id="ABC NEWS (AUS)" tvg-logo="https://www.abc.net.au/cm/lb/8212704/data/news-logo2017-data.png" group-title="NEWS / BUSINESS CHANNELS",ABC NEWS (AUS)
 http://58.96.43.121:9981/stream/channelid/409730225
+#EXTINF:-1 ch-id="BUZZR (USA)" tvg-logo="https://pbs.twimg.com/profile_images/1105158139815485447/-p44l7h2_400x400.png" group-title="SPORTS CHANNELS",BUZZR (USA)
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_8.m3u8
