@@ -1133,3 +1133,5 @@ http://58.96.43.121:9981/stream/channelid/1303336422
 http://58.96.43.121:9981/stream/channelid/60031137
 #EXTINF:-1 ch-id="ABC ME (AUS)" tvg-logo="https://i2.wp.com/tvtonight.com.au/wp-content/uploads/ABC-ME.jpg"  group-title="KIDS CHANNELS",ABC ME (AUS)
 http://58.96.43.121:9981/stream/channelid/739262830
+#EXTINF:-1 ch-id="ABC NEWS (AUS)" tvg-logo="https://www.abc.net.au/cm/lb/8212704/data/news-logo2017-data.png" group-title="NEWS / BUSINESS CHANNELS",ABC NEWS (AUS)
+http://58.96.43.121:9981/stream/channelid/409730225
