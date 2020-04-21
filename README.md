@@ -1127,3 +1127,5 @@ https://bracnet.iptv.jadoodigital.com/live/macau_lotus/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/sonic/chunks.m3u8
 #EXTINF:-1 ch-id="NICK (IN)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/nickelodeon-logo-png-6.png" group-title="KIDS CHANNELS",NICK (IND)
 https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
+#EXTINF:-1 ch-id="ABC (AUS)" tvg-logo="https://www.abc.net.au/rightwrongs/assets/media/credits/abc-logo-white.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ABC (AUS)
+http://58.96.43.121:9981/stream/channelid/1303336422
