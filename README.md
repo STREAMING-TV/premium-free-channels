@@ -1129,3 +1129,5 @@ https://bracnet.iptv.jadoodigital.com/live/sonic/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
 #EXTINF:-1 ch-id="ABC (AUS)" tvg-logo="https://www.abc.net.au/rightwrongs/assets/media/credits/abc-logo-white.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ABC (AUS)
 http://58.96.43.121:9981/stream/channelid/1303336422
+#EXTINF:-1 ch-id="ABC KIDS (AUS)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/21/ABCKids_2020.png"  group-title="KIDS CHANNELS",ABC KIDS (AUS)
+http://58.96.43.121:9981/stream/channelid/60031137
