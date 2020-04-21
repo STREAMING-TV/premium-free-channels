@@ -1143,3 +1143,5 @@ http://95.170.215.107/hls/m3u8/ON-Sport.m3u8
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
 #EXTINF:-1 ch-id="PENTHOUSE GOLD (INT)" tvg-logo="https://pbs.twimg.com/media/Dv2Exi3VsAEfqkz.png" group-title="ADULT CHANNELS",PENTHOUSE GOLD (INT)
 http://fr01.spr24.net/909/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1 ch-id="JUST 89 (INT)" tvg-logo="https://www.just89.com/img/logo/just89.png" group-title="ADULT CHANNELS",JUST 89 (INT) 
+http://fr01.spr24.net/906/index.m3u8?token=BQF9PmuRpcxUqR
