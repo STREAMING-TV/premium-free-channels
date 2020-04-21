@@ -1147,3 +1147,5 @@ http://fr01.spr24.net/909/index.m3u8?token=BQF9PmuRpcxUqR
 http://fr01.spr24.net/906/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:-1 ch-id="RED LEIGH HD (INT)" tvg-logo="https://bay4bay.com/wp-content/uploads/2018/11/edision-baden-w-252rttemberg-onlineshop-redlight-hdtv-elite-84506.png"  group-title="ADULT CHANNELS",RED LEIGH HD (INT) 
 http://fr01.spr24.net/904/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1 ch-id="PENTHOUSE QUICKES (INT)" tvg-logo="https://www.universfreebox.com/UserFiles/image/Quickies.png" group-title="ADULT CHANNELS",PENTHOUSE QUICKES (INT)
+http://fr01.spr24.net/903/index.m3u8?token=BQF9PmuRpcxUqR
