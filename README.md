@@ -1139,3 +1139,5 @@ http://58.96.43.121:9981/stream/channelid/409730225
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_8.m3u8
 #EXTINF:-1 ch-id="ON TIME SPORTS (ME)" tvg-logo="https://www.7days.news/wp-content/uploads/2020/02/202002280814401440.jpg" group-title="SPORTS CHANNELS",ON TIME SPORTS (ME)
 http://95.170.215.107/hls/m3u8/ON-Sport.m3u8
+#EXTINF:-1 ch-id="AAJ TAK (IND)" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/logos/AT-pngx2000.png" group-title="NEWS / BUSINESS CHANNELS",AAJ TAK (IND)
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
