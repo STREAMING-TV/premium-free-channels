@@ -1131,3 +1131,5 @@ https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
 http://58.96.43.121:9981/stream/channelid/1303336422
 #EXTINF:-1 ch-id="ABC KIDS (AUS)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/21/ABCKids_2020.png"  group-title="KIDS CHANNELS",ABC KIDS (AUS)
 http://58.96.43.121:9981/stream/channelid/60031137
+#EXTINF:-1 ch-id="ABC ME (AUS)" tvg-logo="https://i2.wp.com/tvtonight.com.au/wp-content/uploads/ABC-ME.jpg"  group-title="KIDS CHANNELS",ABC ME (AUS)
+http://58.96.43.121:9981/stream/channelid/739262830
