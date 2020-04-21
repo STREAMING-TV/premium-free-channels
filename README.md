@@ -1145,3 +1145,5 @@ http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.sm
 http://fr01.spr24.net/909/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:-1 ch-id="JUST 89 (INT)" tvg-logo="https://www.just89.com/img/logo/just89.png" group-title="ADULT CHANNELS",JUST 89 (INT) 
 http://fr01.spr24.net/906/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1 ch-id="RED LEIGH HD (INT)" tvg-logo="https://bay4bay.com/wp-content/uploads/2018/11/edision-baden-w-252rttemberg-onlineshop-redlight-hdtv-elite-84506.png"  group-title="ADULT CHANNELS",RED LEIGH HD (INT) 
+http://fr01.spr24.net/904/index.m3u8?token=BQF9PmuRpcxUqR
