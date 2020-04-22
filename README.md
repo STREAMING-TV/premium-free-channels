@@ -1157,3 +1157,5 @@ http://fr01.spr24.net/901/index.m3u8?token=BQF9PmuRpcxUqR
 http://playhls.media.nic.in/live/vyas-360p/index.m3u8
 #EXTINF:-1 ch-id="BISEXUAL TV (INT)" tvg-logo="https://i.pinimg.com/originals/f4/e9/8e/f4e98e5d039513af7761e38d5bdfebc3.png" group-title="ADULT CHANNELS",BISEXUAL TV (INT) 
 https://www.ast.tv/stream/1/normal.m3u8
+#EXTINF:-1 ch-id="NASA TV (INT)" tvg-logo="https://logodix.com/logo/569783.png" group-title="INFORMATION / WILDLIFE CHANNELS",NASA (INT)
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
