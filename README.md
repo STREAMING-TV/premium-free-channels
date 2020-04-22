@@ -1155,3 +1155,5 @@ http://fr01.spr24.net/902/index.m3u8?token=BQF9PmuRpcxUqR
 http://fr01.spr24.net/901/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:-1 ch-id="VYAS (IND)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-vyas-channel-5512.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",VYAS (IND)
 http://playhls.media.nic.in/live/vyas-360p/index.m3u8
+#EXTINF:-1 ch-id="BISEXUAL TV (INT)" tvg-logo="https://i.pinimg.com/originals/f4/e9/8e/f4e98e5d039513af7761e38d5bdfebc3.png" group-title="ADULT CHANNELS",BISEXUAL TV (INT) 
+https://www.ast.tv/stream/1/normal.m3u8
