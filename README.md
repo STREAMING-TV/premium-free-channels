@@ -1153,3 +1153,5 @@ http://fr01.spr24.net/903/index.m3u8?token=BQF9PmuRpcxUqR
 http://fr01.spr24.net/902/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:-1 ch-id="SEXT6SENSO (INT)" tvg-logo="http://4.bp.blogspot.com/-m3XxD2Wc934/VQyREpbemMI/AAAAAAAAD6U/coyq2yX0yqc/s1600/senzalimiti.jpg" group-title="ADULT CHANNELS",SEXT6SENSO (INT) 
 http://fr01.spr24.net/901/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1 ch-id="VYAS (IND)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-vyas-channel-5512.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",VYAS (IND)
+http://playhls.media.nic.in/live/vyas-360p/index.m3u8
