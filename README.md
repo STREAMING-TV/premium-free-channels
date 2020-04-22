@@ -1149,3 +1149,5 @@ http://fr01.spr24.net/906/index.m3u8?token=BQF9PmuRpcxUqR
 http://fr01.spr24.net/904/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:-1 ch-id="PENTHOUSE QUICKES (INT)" tvg-logo="https://www.universfreebox.com/UserFiles/image/Quickies.png" group-title="ADULT CHANNELS",PENTHOUSE QUICKES (INT)
 http://fr01.spr24.net/903/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1 ch-id="HUSTLER HD (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png" group-title="ADULT CHANNELS",HUSTLER HD (INT) 
+http://fr01.spr24.net/902/index.m3u8?token=BQF9PmuRpcxUqR
