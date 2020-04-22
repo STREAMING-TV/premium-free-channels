@@ -1151,3 +1151,5 @@ http://fr01.spr24.net/904/index.m3u8?token=BQF9PmuRpcxUqR
 http://fr01.spr24.net/903/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:-1 ch-id="HUSTLER HD (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png" group-title="ADULT CHANNELS",HUSTLER HD (INT) 
 http://fr01.spr24.net/902/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1 ch-id="SEXT6SENSO (INT)" tvg-logo="http://4.bp.blogspot.com/-m3XxD2Wc934/VQyREpbemMI/AAAAAAAAD6U/coyq2yX0yqc/s1600/senzalimiti.jpg" group-title="ADULT CHANNELS",SEXT6SENSO (INT) 
+http://fr01.spr24.net/901/index.m3u8?token=BQF9PmuRpcxUqR
