@@ -1165,5 +1165,5 @@ http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/utvmoviesint/playlist.m3u8
 #EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://television.mxdwn.com/wp-content/uploads/2016/08/hbo.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",HBO (ASIA)
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-#EXTINF:-1 ch-id="FLOK (USA)"  tvg-logo="https://sc.dish.com/shared/images/station-logos/FOLK.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",FLOK (USA)
+#EXTINF:-1 ch-id="FLOK (USA)"  tvg-logo="http://myfolk.tv/wp-content/uploads/2019/04/Folk-Logo800_450.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",FLOK (USA)
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
