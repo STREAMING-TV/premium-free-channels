@@ -1169,3 +1169,5 @@ http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 #EXTINF:-1 ch-id="C-SPAN (USA)" tvg-logo="https://www.underconsideration.com/brandnew/archives/c_span_logo.png" group-title="NEWS / BUSINESS CHANNELS",C-SPAN (USA)
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 ch-id="DORCEL TV (INT)" tvg-logo="https://enigma2-hilfe.de/wp-content/uploads/2017/07/DorcelTV.jpg" group-title="ADULT CHANNELS",DORCEL TV (INT) 
+http://188.35.9.11:21141/udp/214h
