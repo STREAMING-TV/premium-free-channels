@@ -1129,7 +1129,7 @@ https://bracnet.iptv.jadoodigital.com/live/sonic/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
 #EXTINF:-1 ch-id="ABC (AUS)" tvg-logo="https://www.abc.net.au/rightwrongs/assets/media/credits/abc-logo-white.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ABC (AUS)
 http://58.96.43.121:9981/stream/channelid/1303336422
-#EXTINF:-1 ch-id="ABC KIDS (AUS)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/21/ABCKids_2020.png"  group-title="KIDS CHANNELS",ABC KIDS (AUS)
+#EXTINF:-1 ch-id="ABC KIDS (AUS)" tvg-logo="https://cdn.iview.abc.net.au/thumbs/1200/ls/LS1604H001S00_5e6fc01191e7c_1920.jpg"  group-title="KIDS CHANNELS",ABC KIDS (AUS)
 http://58.96.43.121:9981/stream/channelid/60031137
 #EXTINF:-1 ch-id="ABC ME (AUS)" tvg-logo="https://i2.wp.com/tvtonight.com.au/wp-content/uploads/ABC-ME.jpg"  group-title="KIDS CHANNELS",ABC ME (AUS)
 http://58.96.43.121:9981/stream/channelid/739262830
