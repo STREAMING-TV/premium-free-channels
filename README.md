@@ -1167,3 +1167,5 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1 ch-id="FLOK (USA)"  tvg-logo="http://myfolk.tv/wp-content/uploads/2019/04/Folk-Logo800_450.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",FLOK (USA)
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
+#EXTINF:-1 ch-id="C-SPAN (USA)" tvg-logo="https://www.underconsideration.com/brandnew/archives/c_span_logo.png" group-title="NEWS / BUSINESS CHANNELS",C-SPAN (USA)
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8?fluxustv.m3u8
