@@ -1191,3 +1191,5 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starplus/playlist.m3u8
 #EXTINF:-1 ch-id="STAR BHARAT HD (IN)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-bharat-hd-logo-300x300.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR BHARAT HD (IND) 
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starbharat/playlist.m3u8
+#EXTINF:-1 ch-id="STAR PLUS (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/StarPlus.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS (UK) 
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starplusuk/playlist.m3u8
