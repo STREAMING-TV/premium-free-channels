@@ -1181,3 +1181,5 @@ http://app.powerfhd.me/live/sup.php?z=998&u=osmpzewxjq&s=3515815441&id=460&t=liv
 http://tv.vodu.me:2052/bein1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="ALFAJER TV 2 (ME)"  tvg-logo="https://1.bp.blogspot.com/-45PDXFbElGM/XYXI4Yl9vpI/AAAAAAAAGQ4/MZyzW7VIaY0xTPdFFqppRzBw0jSeieUqQCLcBGAsYHQ/w1200-h630-p-k-no-nu/Al%2BFajer%2B2%2BTV.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ALFAJER TV 2 (ME)
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+#EXTINF:-1 ch-id="ZEE AFLAM (ME)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/Zee_Aflam.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE AFLAM (ME)
+http://95.170.215.109/hls/m3u8/ZEE-AFLAM-Backup.m3u8
