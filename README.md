@@ -1187,3 +1187,5 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://stream.simpaisa.com/pitvlive2/masalanew3/chunklist.m3u8
 #EXTINF:-1 ch-id="STAR MOVIES  (IND)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/800px-STAR_Movies_logo.svg.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR MOVIES  (IND)
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starmovies/playlist.m3u8
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1164132839710838784/LHQ31mtM_400x400.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS HD (IND) 
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starplus/playlist.m3u8
