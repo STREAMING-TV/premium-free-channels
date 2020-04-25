@@ -1197,3 +1197,5 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/stargolduk/playlist.m3u8
 #EXTINF:-1 ch-id="STAR BHARAT (UK)" tvg-logo="https://www.iwmbuzz.com/wp-content/uploads/2017/09/star-bharat-920x580-1280x720.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR BHARAT (UK)
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starbharatuk/playlist.m3u8
+#EXTINF:-1 ch-id="TRAVEL CP HD (IN)" tvg-logo="http://www.travelxp.tv/wp-content/uploads/2016/12/travelxp-HD.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",TRAVEL XP HD (IN)
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/travelxphd/playlist.m3u8
