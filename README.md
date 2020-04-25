@@ -1177,3 +1177,5 @@ http://195.88.126.168:8008/play/a07d/index.m3u8?em9uYS1pcHR2LnJ1
 http://178.217.72.66/225.201.2.33/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="DISNEY CHANNEL HD (ME)" tvg-logo="https://i.pinimg.com/originals/f0/9f/d5/f09fd5ce65bb975ce820c9bc658b0431.png" group-title="KIDS CHANNELS",DISNEY CHANNEL HD (ME)
 http://app.powerfhd.me/live/sup.php?z=998&u=osmpzewxjq&s=3515815441&id=460&t=live&f=ts
+#EXTINF:-1 ch-id="BEIN SPORTS 1 (ME)" tvg-logo="https://dishbaba.com/wp-content/uploads/2019/09/bein_sports_1.jpg" group-title="SPORTS CHANNELS",BEIN SPORTS 1 (ME)
+http://tv.vodu.me:2052/bein1/1/tracks-v1a1/mono.m3u8
