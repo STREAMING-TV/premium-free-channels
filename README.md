@@ -1193,3 +1193,5 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starbharat/playlist.m3u8
 #EXTINF:-1 ch-id="STAR PLUS (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/StarPlus.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS (UK) 
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starplusuk/playlist.m3u8
+#EXTINF:-1 ch-id="STAR GOLD (UK)" tvg-logo="https://pbs.twimg.com/profile_images/1223313405219495936/xiXekYtY.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD (UK)
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/stargolduk/playlist.m3u8
