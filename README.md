@@ -1183,3 +1183,5 @@ http://tv.vodu.me:2052/bein1/1/tracks-v1a1/mono.m3u8
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE AFLAM (ME)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/Zee_Aflam.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE AFLAM (ME)
 http://95.170.215.109/hls/m3u8/ZEE-AFLAM-Backup.m3u8
+#EXTINF:-1 ch-id="AAJ TAK HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a1/Aaj_Tak_HD.jpg"  group-title="NEWS / BUSINESS CHANNELS",AAJ TAK HD (IN)
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
