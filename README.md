@@ -1171,3 +1171,5 @@ http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 ch-id="DORCEL TV (INT)" tvg-logo="https://enigma2-hilfe.de/wp-content/uploads/2017/07/DorcelTV.jpg" group-title="ADULT CHANNELS",DORCEL TV (INT) 
 http://188.35.9.11:21141/udp/214h
+#EXTINF:-1 ch-id="ANIMAL PLANET HD (UK)"  tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png"   group-title="INFORMATION / WILDLIFE CHANNELS",ANIMAL PLANET HD (UK)
+http://195.88.126.168:8008/play/a07d/index.m3u8?em9uYS1pcHR2LnJ1
