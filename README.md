@@ -1199,5 +1199,7 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starbharatuk/playlist.m3u8
 #EXTINF:-1 ch-id="TRAVEL CP HD (IN)" tvg-logo="http://www.travelxp.tv/wp-content/uploads/2016/12/travelxp-HD.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",TRAVEL XP HD (IN)
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/travelxphd/playlist.m3u8
-#EXTINF:-1 ch-id="ZEE ACTION (IN)" tvg-logo="https://groww.in/stock-assets/brand_logo/INE256A01028/Zee%20Action/1.%20zeeaction.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE ACTION (IND)
+#EXTINF:-1 ch-id="ZEE ACTION (IN)" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11024-j8yix4g8-v1/imageContent-11024-j8yix4g8-m1.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE ACTION (IND)
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeeaction/playlist.m3u8
+#EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (ME)
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeetvme/playlist.m3u8
