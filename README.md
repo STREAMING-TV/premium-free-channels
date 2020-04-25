@@ -1185,3 +1185,5 @@ http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 http://95.170.215.109/hls/m3u8/ZEE-AFLAM-Backup.m3u8
 #EXTINF:-1 ch-id="AAJ TAK HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a1/Aaj_Tak_HD.jpg"  group-title="NEWS / BUSINESS CHANNELS",AAJ TAK HD (IN)
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 ch-id="HUM MASALA (PK)" tvg-logo="https://pbs.twimg.com/profile_images/897389040063967232/Jr53VbCS.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",HUM MASALA (PAK)
+https://stream.simpaisa.com/pitvlive2/masalanew3/chunklist.m3u8
