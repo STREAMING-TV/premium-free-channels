@@ -1173,3 +1173,5 @@ https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8?fluxustv.m3u8
 http://188.35.9.11:21141/udp/214h
 #EXTINF:-1 ch-id="ANIMAL PLANET HD (UK)"  tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png"   group-title="INFORMATION / WILDLIFE CHANNELS",ANIMAL PLANET HD (UK)
 http://195.88.126.168:8008/play/a07d/index.m3u8?em9uYS1pcHR2LnJ1
+#EXTINF:-1 ch-id="ANIMAL PLANET HD (ASIA)"  tvg-logo="https://www.pngitem.com/pimgs/m/444-4448705_mihsign-vision-animal-planet-hd-logo-hd-png.png"   group-title="INFORMATION / WILDLIFE CHANNELS",ANIMAL PLANET HD (ASIA)
+http://178.217.72.66/225.201.2.33/tracks-v1a1/mono.m3u8
