@@ -587,8 +587,6 @@ http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w823726530_b1100000.m3u8
 #EXTINF:-1 tvg-id="GEM BOLLYWOOD (IR)" tvg-logo="https://img.webme.com/pic/t/totv/gem-bollywood.png" group-title="ENTERTAINMENT / MOVIES CHANNELS", GEM BOLLYWOOD (IRN)
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
-EXTINF:-1 ch-id="HUM MASALA (PK)" tvg-logo="https://pbs.twimg.com/profile_images/897389040063967232/Jr53VbCS.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",HUM MASALA (PAK)
-https://stream.simpaisa.com/pitvlive2/masalanew3/chunklist.m3u8
 #EXTINF:-1 ch-id="DABL (USA)" tvg-logo="https://kgeb.net/wp-content/uploads/2020/01/DABL-Subchannel-icon.png" group-title="LIFESTYLE / TRAVELING CHANNELS",DABL (USA)
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_22.m3u8
 #EXTINF:-1 ch-id="RSTV (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Rajya_Sabha_TV.jpg"  group-title="NEWS / BUSINESS CHANNELS",RSTV (IND)
@@ -1187,3 +1185,5 @@ http://95.170.215.109/hls/m3u8/ZEE-AFLAM-Backup.m3u8
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 ch-id="HUM MASALA (PK)" tvg-logo="https://pbs.twimg.com/profile_images/897389040063967232/Jr53VbCS.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",HUM MASALA (PAK)
 https://stream.simpaisa.com/pitvlive2/masalanew3/chunklist.m3u8
+#EXTINF:-1 ch-id="STAR MOVIES  (IND)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/800px-STAR_Movies_logo.svg.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR MOVIES  (IND)
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starmovies/playlist.m3u8
