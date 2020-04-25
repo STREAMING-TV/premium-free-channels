@@ -1199,3 +1199,5 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starbharatuk/playlist.m3u8
 #EXTINF:-1 ch-id="TRAVEL CP HD (IN)" tvg-logo="http://www.travelxp.tv/wp-content/uploads/2016/12/travelxp-HD.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",TRAVEL XP HD (IN)
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/travelxphd/playlist.m3u8
+#EXTINF:-1 ch-id="ZEE ACTION (IN)" tvg-logo="https://groww.in/stock-assets/brand_logo/INE256A01028/Zee%20Action/1.%20zeeaction.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE ACTION (IND)
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeeaction/playlist.m3u8
