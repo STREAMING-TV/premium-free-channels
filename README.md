@@ -1179,3 +1179,5 @@ http://178.217.72.66/225.201.2.33/tracks-v1a1/mono.m3u8
 http://app.powerfhd.me/live/sup.php?z=998&u=osmpzewxjq&s=3515815441&id=460&t=live&f=ts
 #EXTINF:-1 ch-id="BEIN SPORTS 1 (ME)" tvg-logo="https://dishbaba.com/wp-content/uploads/2019/09/bein_sports_1.jpg" group-title="SPORTS CHANNELS",BEIN SPORTS 1 (ME)
 http://tv.vodu.me:2052/bein1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ch-id="ALFAJER TV 2 (ME)"  tvg-logo="https://1.bp.blogspot.com/-45PDXFbElGM/XYXI4Yl9vpI/AAAAAAAAGQ4/MZyzW7VIaY0xTPdFFqppRzBw0jSeieUqQCLcBGAsYHQ/w1200-h630-p-k-no-nu/Al%2BFajer%2B2%2BTV.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ALFAJER TV 2 (ME)
+http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
