@@ -1215,3 +1215,5 @@ http://137.59.155.253:8088/hls/Colors.m3u8
 http://channels.ooguy.com:80/auth?channel=Covid19&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_386,h_386,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/channel_square/1170x658_241003222.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (IND)
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeetvhd/playlist.m3u8
+#EXTINF:-1 ch-id="KOK FIGHTS TV (USA)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/lt-kok-fights-tv-9251.jpg" group-title="SPORTS CHANNELS",KOK FIGHTS TV (USA)
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
