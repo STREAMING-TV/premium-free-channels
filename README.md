@@ -53,7 +53,7 @@ http://210.210.155.66/h/h141/01.m3u8
 http://84.22.33.254/unicast.id/index.m3u8
 #EXTINF:-1 ch-id="TLC (USA)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png"group-title="LIFESTYLE / TRAVELING CHANNELS",TLC (USA)
 http://84.22.33.254/unicast.tlc/index.m3u8
-#EXTINF:-1 ch-id="COLORS (ASIA)"  tvg-id="COLORS TV (ASIA PACIFIC)" tvg-logo="https://www.tellyupdates.com/wp-content/uploads/2020/01/colors.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",COLORS TV (APAC)
+#EXTINF:-1 ch-id="COLORS TV (ASIA PACIFIC)" tvg-logo="https://www.tellyupdates.com/wp-content/uploads/2020/01/colors.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",COLORS TV (APAC)
 http://103.111.120.46/hls/Colors.m3u8
 #EXTINF:-1 ch-id="MULTIPLEX (IN)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/multiplex-tv-channel-logo-300x300.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",MULTIPLEX (IN)
 http://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in.m3u8 
@@ -1209,3 +1209,5 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 http://137.59.155.253:8088/hls/Star_Plus.m3u8
 #EXTINF:-1 ch-id="STAR GOLD  (ME)" tvg-logo="https://thelivenagpur.com/wp-content/uploads/2020/03/SG-Black-Text-SD-Logo-1.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD (ME) 
 http://137.59.155.253:8088/hls/Star_Gold.m3u8
+#EXTINF:-1 ch-id="COLORS TV (ASIA PACIFIC)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/colors-apac-white.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",COLORS TV (APAC)
+http://137.59.155.253:8088/hls/Colors.m3u8
