@@ -1207,3 +1207,5 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeetvuk/playlist.m3u8
 #EXTINF:-1 ch-id="STAR PLUS (APAC)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2018/05/Star-Plus-New-Logo-edit-2-2.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS (APAC)
 http://137.59.155.253:8088/hls/Star_Plus.m3u8
+#EXTINF:-1 ch-id="STAR GOLD  (ME)" tvg-logo="https://thelivenagpur.com/wp-content/uploads/2020/03/SG-Black-Text-SD-Logo-1.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD (ME) 
+http://137.59.155.253:8088/hls/Star_Gold.m3u8
