@@ -1211,3 +1211,5 @@ http://137.59.155.253:8088/hls/Star_Plus.m3u8
 http://137.59.155.253:8088/hls/Star_Gold.m3u8
 #EXTINF:-1 ch-id="COLORS TV (ASIA PACIFIC)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/colors-apac-white.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",COLORS TV (APAC)
 http://137.59.155.253:8088/hls/Colors.m3u8
+#EXTINF:-1 ch-id="CODVID19 (INT)" tvg-logo="https://ayhkudxdku-flywheel.netdna-ssl.com/wp-content/uploads/2020/03/covid19-WEB.png" group-title="NEWS / BUSINESS CHANNELS",COVID19 (INT)
+http://channels.ooguy.com:80/auth?channel=Covid19&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
