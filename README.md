@@ -1217,3 +1217,5 @@ http://channels.ooguy.com:80/auth?channel=Covid19&type=index.m3u8&authorization=
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeetvhd/playlist.m3u8
 #EXTINF:-1 ch-id="KOK FIGHTS TV (USA)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/lt-kok-fights-tv-9251.jpg" group-title="SPORTS CHANNELS",KOK FIGHTS TV (USA)
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 ch-id="SONY TV HD (UK)" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY TV HD (UK)
+http://channels.ooguy.com:80/auth?channel=SonyTvHdUk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
