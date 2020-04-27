@@ -72,7 +72,7 @@ http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
 #EXTINF:-1 ch-id="X BIZARRE TV (INT)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tring_bizarre.jpg" group-title="ADULT CHANNELS",X BIZARRE TV (INT)
 http://84.22.33.254/unicast.bizarre/index.m3u8
 #EXTINF:-1 ch-id="ERO XXX HD (INT)" tvg-logo="http://4.bp.blogspot.com/-4vAe6e0L9LA/VOhoM4kQuCI/AAAAAAAAAQc/rzqKOKn2W7M/s1600/eroxxx_hd_tv_channel_live.png"group-title="ADULT CHANNELS",ERO XXX HD (INT)
-http://84.22.33.254/unicast.eroxhd/index.m3u8
+http://iptv.xtreamiptv.net:8000/live/0ZTmKn2TSx/dSpI0Qf4jW/1628.m3u8  
 #EXTINF:-1 ch-id="SUPER ONE HD (INT)"  tvg-logo="https://mar-vik.si/uploads/logotipi/SUPERONE.png"group-title="ADULT CHANNELS",SUPER ONE HD (INT)
 http://188.35.9.5:10007/stolen/246r/parasite.install
 #EXTINF:-1 ch-id="ZEE LIVING (USA)" tvg-logo="https://www.zeeinternational.co.in/wp-content/uploads/2018/02/Zee-Living.png" group-title="LIFESTYLE / TRAVELING CHANNELS",ZEE LIVING (USA)
