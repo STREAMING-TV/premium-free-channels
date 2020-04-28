@@ -1223,3 +1223,5 @@ http://channels.ooguy.com:80/auth?channel=SonyTvHdUk&type=index.m3u8&authorizati
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starbharatme/playlist.m3u8
 #EXTINF:-1 ch-id="SEX TREME (INT)" tvg-logo="https://www.nicepng.com/png/full/972-9721467_1-tvg-logo-http-sextreme-tv.png" group-title="ADULT CHANNELS",SEX TREME (INT)
 http://iptv.xtreamiptv.net:8000/live/0ZTmKn2TSx/dSpI0Qf4jW/1621.m3u8
+#EXTINF:-1 ch-id="STAR PLUS (ME)" tvg-logo=" "  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS (ME) 
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starplusme/playlist.m3u8
