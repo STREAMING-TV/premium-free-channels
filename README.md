@@ -1225,3 +1225,5 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 http://iptv.xtreamiptv.net:8000/live/0ZTmKn2TSx/dSpI0Qf4jW/1621.m3u8
 #EXTINF:-1 ch-id="STAR PLUS (ME)" tvg-logo="https://storage.googleapis.com/stateless-www-bizasialive-com/2019/05/starpluslogo002.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS (ME) 
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starplusme/playlist.m3u8
+#EXTINF:-1 ch-id="DD SPORTS (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/DDSportsLogo.png/240px-DDSportsLogo.png"  group-title="SPORTS CHANNELS",DD SPORTS (IND)
+https://bracnet.iptv.jadoodigital.com/live/dd_sports/chunks.m3u8
