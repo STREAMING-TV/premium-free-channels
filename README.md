@@ -1109,3 +1109,5 @@ http://iptv.xtreamiptv.net:8000/live/0ZTmKn2TSx/dSpI0Qf4jW/1621.m3u8
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starplusme/playlist.m3u8
 #EXTINF:-1 ch-id="DD SPORTS (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/DDSportsLogo.png/240px-DDSportsLogo.png"  group-title="SPORTS CHANNELS",DD SPORTS (IND)
 https://bracnet.iptv.jadoodigital.com/live/dd_sports/chunks.m3u8
+#EXTINF:-1 ch-id="CHANNEL V (ASIA)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/225px-Channel_V_Logo.svg.png" group-title="MUSIC / YOUTH CHANNELS",CHANNEL V (ASIA)
+https://delivery.macan.live/stream/id_channelv/index.m3u8?token=gratisan
