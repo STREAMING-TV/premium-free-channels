@@ -621,8 +621,6 @@ http://ddn.amrbd.com:8081/live/starsports2/playlist.m3u8
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
 #EXTINF:-1 ch-id="BOLLYWOOD CLASSIC (RU)" tvg-logo="https://stvron.com/canale/512/bollywood-clasic.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",BOLLYWOOD CLASSIC (RUS)
 http://telekomtv-ro.akamaized.net/shls/LIVE%24BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 ch-id="SEX TAP (INT)" tvg-logo="https://bos3-uploads.s3.amazonaws.com/listing_logos/14446.jpg" group-title="ADULT CHANNELS",SEX TAP (INT)
-http://live.redtraffic.net/gangbang.m3u8
 #EXTINF:-1 ch-id="PTV SPORTS (PK)" tvg-logo="https://i.pinimg.com/originals/ab/e0/9a/abe09a2abc92ba1edad1eda1362f5556.png"  group-title="SPORTS CHANNELS",PTV SPORTS (PAK)
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="AMC (USA)" tvg-logo="https://pmcvariety.files.wordpress.com/2019/05/amc_logo_2016.svg_.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",AMC (USA)
@@ -757,7 +755,7 @@ http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/nat-geo-wild.m3u8
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="DUBAI ONE (ME)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Dubai_One_logo_2016.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",DUBAI ONE (ME)
 https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
-#EXTINF:-1 ch-id="ASS LINK TV (INT)" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/9b064649177903.56084ea344766.jpg"  group-title="ADULT CHANNELS",AAS LINK TV (INT)
+#EXTINF:-1 ch-id="ASS TV (INT)" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/9b064649177903.56084ea344766.jpg"  group-title="ADULT CHANNELS",ASS TV (INT)
 https://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:-1 ch-id="FAITH (UK)" tvg-logo="https://usa.myfaith.tv/wp-content/uploads/2019/10/faith-light-1.png" group-title="DEVOTIONAL CHANNELS",FAITH (USA)
 http://hls-live-media.cdn01.net/default/stream_14889.m3u8
@@ -861,8 +859,6 @@ https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/stargold/playlist.m3u8
 #EXTINF:-1 ch-id="TEN CRICKET (PAK)" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title="SPORTS CHANNELS",TEN CRICKET (PAK)
 http://103.81.104.222/live/ten-cricket/index.m3u8
-#EXTINF:-1 ch-id="ANIMAL PLANET HD (RUS)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AnimalPlanet_HD_PrimaryLockup2_RGB_Wiki_2.svg/1200px-AnimalPlanet_HD_PrimaryLockup2_RGB_Wiki_2.svg.png" group-title="INFORMATION / WILDLIFE CHANNELS",ANIMAL PLANET HD (RUS)
-http://78.129.228.178/iptv/AGCFZVZNQQ3Z64/218/index.m3u8
 #EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2018/05/sony-ten-featured-2-2.jpg" group-title="SPORTS CHANNELS",SONY TEN 2 HD (IND)
 http://103.115.159.37:8080/sonyten2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="SONY TEN 3 HD (IN)" tvg-logo="https://3.bp.blogspot.com/-0hg7e4CPb6E/W1w7XkB8EJI/AAAAAAAAAdk/P3_5_IQmM-gJ5MQjMJ9UsncisB7PDUWqgCLcBGAs/s1600/Sony-Ten-3-HD-1-300x240.png" group-title="SPORTS CHANNELS",SONY TEN 3 HD (IND) 
