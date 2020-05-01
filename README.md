@@ -1105,3 +1105,5 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 https://bracnet.iptv.jadoodigital.com/live/dd_sports/chunks.m3u8
 #EXTINF:-1 ch-id="CHANNEL V (ASIA)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/225px-Channel_V_Logo.svg.png" group-title="MUSIC / YOUTH CHANNELS",CHANNEL V (ASIA)
 https://delivery.macan.live/stream/id_channelv/index.m3u8?token=gratisan
+#EXTINF:-1 ch-id="PEOPLE TV (USA)"  tvg-logo="https://www.vondecarlo.com/wp-content/uploads/2018/10/peopletv.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",PEOPLE TV (USA)
+https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
