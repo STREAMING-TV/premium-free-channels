@@ -854,11 +854,7 @@ http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 ch-id="TV BRICS (RU)" tvg-logo="https://tvkinoradio.ru/upload/images/Article/57/1c/77/571c77b48bc399af8a6a87b6ea2118fa.png" group-title="NEWS / BUSINESS CHANNELS",TV BRICS (RUS)
 https://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="STAR GOLD 2 (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD 2 (IND)
-https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
-#EXTINF:-1 ch-id="STAR GOLD (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Star_Gold_Logo.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD (IN)
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/stargold/playlist.m3u8
-#EXTINF:-1 ch-id="TEN CRICKET (PAK)" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title="SPORTS CHANNELS",TEN CRICKET (PAK)
-http://103.81.104.222/live/ten-cricket/index.m3u8
+https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u
 #EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2018/05/sony-ten-featured-2-2.jpg" group-title="SPORTS CHANNELS",SONY TEN 2 HD (IND)
 http://103.115.159.37:8080/sonyten2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="SONY TEN 3 HD (IN)" tvg-logo="https://3.bp.blogspot.com/-0hg7e4CPb6E/W1w7XkB8EJI/AAAAAAAAAdk/P3_5_IQmM-gJ5MQjMJ9UsncisB7PDUWqgCLcBGAs/s1600/Sony-Ten-3-HD-1-300x240.png" group-title="SPORTS CHANNELS",SONY TEN 3 HD (IND) 
@@ -981,14 +977,8 @@ http://130.185.150.79:1935/db24/starplus/playlist.m3u8
 http://130.185.150.79:1935/db24/zeebangla/playlist.m3u8
 #EXTINF:-1 ch-id="DISNEY CHANNEL (ASIA)" tvg-logo="https://www.vippng.com/png/detail/359-3591741_great-disney-logo-png-transparent-images-tv-channel.png" group-title="KIDS CHANNELS",DISNEY CHANNEL (ASIA)
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=disney
-#EXTINF:-1 ch-id="ZEE TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (IND)
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeetv/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE TV (RUS)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/Zee_TV_Russia.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (RUS) 
 http://bolly360.xyz:80/zee.php?c=russia
-#EXTINF:-1 ch-id="STAR SPORTS SELECT 1 (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a6/Star_Sports_Select_1.jpg"   group-title="SPORTS CHANNELS",STAR SPORTS SELECT 1 (IN)
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsselect1/playlist.m3u8
-#EXTINF:-1 ch-id="STAR SPORTS SELECT 2 (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg"   group-title="SPORTS CHANNELS",STAR SPORTS SELECT 2 (IN)
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsselect2/playlist.m3u8
 #EXTINF:-1 ch-id="STAR SPORTS 2 HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg"   group-title="SPORTS CHANNELS",STAR SPORTS 2 HD (IN)
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsports2/playlist.m3u8
 #EXTINF:-1 ch-id="DD NEWS (IN)"  tvg-logo=" https://vignette.wikia.nocookie.net/logopedia/images/4/49/DD_News_2015.jpg" group-title="NEWS / BUSINESS CHANNELS",DD NEWS (IN)
@@ -1037,8 +1027,6 @@ https://www.ast.tv/stream/1/normal.m3u8
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 ch-id="BEACH TV (USA)"  tvg-logo="https://image.roku.com/developer_channels/prod/e3d242996c23060fc364d9cac1fa8607a49650cc0f1bb35593ab9fda18737757.png" group-title="INFORMATION / WILDLIFE CHANNELS",BEACH TV (USA)
 http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
-#EXTINF:-1 ch-id="UTV MOVIES (INT)"  tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/utv-large-new.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",UTV MOVIES (INT)
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/utvmoviesint/playlist.m3u8
 #EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://television.mxdwn.com/wp-content/uploads/2016/08/hbo.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",HBO (ASIA)
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1 ch-id="FLOK (USA)"  tvg-logo="http://myfolk.tv/wp-content/uploads/2019/04/Folk-Logo800_450.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",FLOK (USA)
@@ -1061,26 +1049,6 @@ http://95.170.215.109/hls/m3u8/ZEE-AFLAM-Backup.m3u8
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 ch-id="HUM MASALA (PK)" tvg-logo="https://pbs.twimg.com/profile_images/897389040063967232/Jr53VbCS.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",HUM MASALA (PAK)
 https://stream.simpaisa.com/pitvlive2/masalanew3/chunklist.m3u8
-#EXTINF:-1 ch-id="STAR MOVIES  (IND)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/800px-STAR_Movies_logo.svg.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR MOVIES  (IND)
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starmovies/playlist.m3u8
-#EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1164132839710838784/LHQ31mtM_400x400.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS HD (IND) 
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starplus/playlist.m3u8
-#EXTINF:-1 ch-id="STAR BHARAT HD (IN)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-bharat-hd-logo-300x300.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR BHARAT HD (IND) 
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starbharat/playlist.m3u8
-#EXTINF:-1 ch-id="STAR PLUS (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/StarPlus.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS (UK) 
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starplusuk/playlist.m3u8
-#EXTINF:-1 ch-id="STAR GOLD (UK)" tvg-logo="https://pbs.twimg.com/profile_images/1223313405219495936/xiXekYtY.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD (UK)
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/stargolduk/playlist.m3u8
-#EXTINF:-1 ch-id="STAR BHARAT (UK)" tvg-logo="https://www.iwmbuzz.com/wp-content/uploads/2017/09/star-bharat-920x580-1280x720.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR BHARAT (UK)
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starbharatuk/playlist.m3u8
-#EXTINF:-1 ch-id="TRAVEL CP HD (IN)" tvg-logo="http://www.travelxp.tv/wp-content/uploads/2016/12/travelxp-HD.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",TRAVEL XP HD (IN)
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/travelxphd/playlist.m3u8
-#EXTINF:-1 ch-id="ZEE ACTION (IN)" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11024-j8yix4g8-v1/imageContent-11024-j8yix4g8-m1.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE ACTION (IND)
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeeaction/playlist.m3u8
-#EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (ME)
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeetvme/playlist.m3u8
-#EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (UK)
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeetvuk/playlist.m3u8
 #EXTINF:-1 ch-id="STAR PLUS (APAC)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2018/05/Star-Plus-New-Logo-edit-2-2.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS (APAC)
 http://137.59.155.253:8088/hls/Star_Plus.m3u8
 #EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo="https://thelivenagpur.com/wp-content/uploads/2020/03/SG-Black-Text-SD-Logo-1.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR GOLD (ME) 
@@ -1089,18 +1057,12 @@ http://137.59.155.253:8088/hls/Star_Gold.m3u8
 http://137.59.155.253:8088/hls/Colors.m3u8
 #EXTINF:-1 ch-id="CODVID19 (INT)" tvg-logo="https://ayhkudxdku-flywheel.netdna-ssl.com/wp-content/uploads/2020/03/covid19-WEB.png" group-title="NEWS / BUSINESS CHANNELS",COVID19 (INT)
 http://channels.ooguy.com:80/auth?channel=Covid19&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-#EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_386,h_386,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/channel_square/1170x658_241003222.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (IND)
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeetvhd/playlist.m3u8
 #EXTINF:-1 ch-id="KOK FIGHTS TV (USA)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/lt-kok-fights-tv-9251.jpg" group-title="SPORTS CHANNELS",KOK FIGHTS TV (USA)
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 ch-id="SONY TV HD (UK)" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY TV HD (UK)
 http://channels.ooguy.com:80/auth?channel=SonyTvHdUk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-#EXTINF:-1 ch-id="STAR BHARAT (ME)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/life-ok-aud-white.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR BHARAT (ME)
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starbharatme/playlist.m3u8
 #EXTINF:-1 ch-id="SEX TREME (INT)" tvg-logo="https://www.nicepng.com/png/full/972-9721467_1-tvg-logo-http-sextreme-tv.png" group-title="ADULT CHANNELS",SEX TREME (INT)
 http://iptv.xtreamiptv.net:8000/live/0ZTmKn2TSx/dSpI0Qf4jW/1621.m3u8
-#EXTINF:-1 ch-id="STAR PLUS (ME)" tvg-logo="https://storage.googleapis.com/stateless-www-bizasialive-com/2019/05/starpluslogo002.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS (ME) 
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starplusme/playlist.m3u8
 #EXTINF:-1 ch-id="DD SPORTS (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/DDSportsLogo.png/240px-DDSportsLogo.png"  group-title="SPORTS CHANNELS",DD SPORTS (IND)
 https://bracnet.iptv.jadoodigital.com/live/dd_sports/chunks.m3u8
 #EXTINF:-1 ch-id="CHANNEL V (ASIA)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/225px-Channel_V_Logo.svg.png" group-title="MUSIC / YOUTH CHANNELS",CHANNEL V (ASIA)
