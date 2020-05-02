@@ -819,8 +819,6 @@ http://43.251.86.2:8080/hls/channel_1.m3u8
 http://103.115.159.37:8080/starplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="ZEE TV (APAC)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zee-tv.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV (APAC)
 http://103.115.159.37:8080/zeetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ch-id="PHL17.COM (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/WPHL_2018_logo.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",PHL17.COM (USA) 
-https://v-pi.mybtv.net/event/17.2/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
 #EXTINF:-1 ch-id="ET (USA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/38/Entertainment_Tonight_Logo.png" group-title="ENTERTAINMENT / MOVIES CHANNELS", ET (USA)
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 ch-id="DOCU BOX (INT)" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/docubox-logo.png"  group-title="INFORMATION / WILDLIFE CHANNELS",DOCU BOX (INT)
@@ -929,8 +927,6 @@ https://bracnet.iptv.jadoodigital.com/live/fyi_hd/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/zee_classic/chunks.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA (INT)" tvg-logo="https://i.pinimg.com/originals/df/d1/2e/dfd12e752197ffdd87e904f4734f3b1b.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE CINEMA (INT)
 https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
-#EXTINF:-1 ch-id="ROMEDY NOW (IND)" tvg-logo="https://indiantelevision.com/sites/default/files/styles/230x230/public/images/tv-images/2019/09/16/romedy.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",ROMEDY NOW (IND)
-http://t100v.com/play.php?token=yRv5IgbHOrEy9JUmOu-6_g%3D%3D%2C1586293904.1679989495&id=47875
 #EXTINF:-1 ch-id="ID (ASIA)" tvg-logo="http://2.bp.blogspot.com/-g7kclnMAZPA/T3ClVDJR-vI/AAAAAAAAEsA/goncQjp63AI/s500/Investigation+Discovery+logo+2012.jpg"  group-title="INFORMATION / WILDLIFE CHANNELS",ID (ASIA)
 http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
 #EXTINF:-1 ch-id="100AUTOMOTO TV (USA)"  tvg-logo="http://www.dealood.com/content/uploads/images/September2019/bg-100-auto-moto-tv[1]-large.jpg" group-title="SPORTS CHANNELS",100AUTOMOTO TV (USA)
