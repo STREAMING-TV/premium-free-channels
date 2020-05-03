@@ -1065,3 +1065,4 @@ https://bracnet.iptv.jadoodigital.com/live/dd_sports/chunks.m3u8
 https://delivery.macan.live/stream/id_channelv/index.m3u8?token=gratisan
 #EXTINF:-1 ch-id="PEOPLE TV (USA)"  tvg-logo="https://www.vondecarlo.com/wp-content/uploads/2018/10/peopletv.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",PEOPLE TV (USA)
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
+#EXTINF:-1 ch-id="NAT GEO WILD (ME)"  tvg-logo="https://i.pinimg.com/originals/8f/8d/03/8f8d03b5ec0fe64cd8541bcbc6dd1f63.jpg"  group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (ME)
