@@ -1067,3 +1067,5 @@ https://delivery.macan.live/stream/id_channelv/index.m3u8?token=gratisan
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
 #EXTINF:-1 ch-id="NAT GEO WILD (ME)"  tvg-logo="https://i.pinimg.com/originals/8f/8d/03/8f8d03b5ec0fe64cd8541bcbc6dd1f63.jpg"  group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (ME)
 http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1666.m3u8
+#EXTINF:-1 ch-id="DISCOVERY SCIENCE HD (ME)"  tvg-logo=" " group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY SCIENCE HD (ME)
+http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1665.m3u8
