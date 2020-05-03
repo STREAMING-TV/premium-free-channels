@@ -1069,3 +1069,5 @@ https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
 http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1666.m3u8
 #EXTINF:-1 ch-id="DISCOVERY SCIENCE HD (ME)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png" group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY SCIENCE HD (ME)
 http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1665.m3u8
+#EXTINF:-1 ch-id="FOX HD (ME)"  tvg-logo="https://i.dlpng.com/static/png/504956_preview.png" group-title=" ENTERTAINMENT / MOVIES CHANNELS",FOX HD (ME)
+http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1661.m3u8
