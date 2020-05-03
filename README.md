@@ -1073,3 +1073,5 @@ http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1665.m3u8
 http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1661.m3u8
 #EXTINF:-1 ch-id="FOX CRIME HD (ME)"  tvg-logo="https://www.infotelevisi.com/asset/logotv/567bab677ce40-fox_crime_asia_hd.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",FOX CRIME HD (ME)
 http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1659.m3u8
+#EXTINF:-1 ch-id="STAR MOVIES HD (ME)"  tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR MOVIES HD (ME)
+http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1650.m3u8
