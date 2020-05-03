@@ -771,7 +771,7 @@ http://bolly360.xyz:80/zee.php?c=ztvme
 http://bolly360.xyz:80/zee.php?c=ztvsdusa
 #EXTINF:-1 ch-id="AND TV HD (IN)" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",AND TV HD (IND)
 http://bolly360.xyz:80/zee.php?c=andtvhd
-#EXTINF:-1 ch-id="AND TV HD (USA)" tvg-logo="https://i.pinimg.com/originals/42/0c/fa/420cfa62cb7893056442c1697cfa2636.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",AND TV HD (USA)
+#EXTINF:-1 ch-id="AND TV HD (USA)" tvg-logo="https://www.dishtv.in/App_Documents/Channel/andtv-hd.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",AND TV HD (USA)
 http://bolly360.xyz:80/zee.php?c=andtvhdusa
 #EXTINF:-1 ch-id="AND TV (IN)" tvg-logo="http://www.plexflix.to/plexflix.to/picons/Indian/AND%20TV%20%28Indian%29.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",AND TV (IND)
 http://bolly360.xyz:80/zee.php?c=andtvsd
@@ -1067,5 +1067,5 @@ https://delivery.macan.live/stream/id_channelv/index.m3u8?token=gratisan
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
 #EXTINF:-1 ch-id="NAT GEO WILD (ME)"  tvg-logo="https://i.pinimg.com/originals/8f/8d/03/8f8d03b5ec0fe64cd8541bcbc6dd1f63.jpg"  group-title="INFORMATION / WILDLIFE CHANNELS",NAT GEO WILD (ME)
 http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1666.m3u8
-#EXTINF:-1 ch-id="DISCOVERY SCIENCE HD (ME)"  tvg-logo=" " group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY SCIENCE HD (ME)
+#EXTINF:-1 ch-id="DISCOVERY SCIENCE HD (ME)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png" group-title="INFORMATION / WILDLIFE CHANNELS",DISCOVERY SCIENCE HD (ME)
 http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1665.m3u8
